@@ -1,0 +1,414 @@
+Icon Group, s. r. o.      Účtovná závierka
+                      k 31. decembru 2025
+
+             Účtovná závierka
+
+zostavená podľa slovenských právnych predpisov
+                  k 31. decembru 2025
+
+                     (v slovenskom jazyku)
+
+                      Strana 1 z 7
+                                                         Icon Group, s. r. o.            Účtovná závierka
+                                                                                     k 31. decembru 2025
+Poznámky k účtovnej závierke k 31. decembru 2025
+
+A. INFORMÁCIE O ÚČTOVNEJ JEDNOTKE
+
+1. Obchodné meno a sídlo spoločnosti:
+      Icon Group, s. r. o.
+      Halašova 17, Žilina 010 01
+
+      Spoločnosť Icon Group, s. r. o. (ďalej len Spoločnosť), bola do obchodného registra zapísaná 18. marca 2009
+      (Obchodný register Okresného súdu Žilina v Žiline, oddiel s.r.o., vložka 51016/L).
+
+2. Hlavnými činnosťami Spoločnosti sú:
+      – služby súvisiace s počítačovým spracovaním údajov,
+      – sprostredkovateľská činnosť v oblasti obchodu
+      – s tým súvisiace služby, nákup a predaj tovaru.
+
+3. Priemerný počet zamestnancov
+      Spoločnosť v roku 2025 neevidovala žiadnych zamestnancov, v mene spoločnosti konal štatutárny orgán.
+
+4. Právny dôvod na zostavenie účtovnej závierky
+      Účtovná závierka Spoločnosti k 31. decembru 2025 je zostavená ako riadna účtovná závierka podľa § 17 ods.
+      6 zákona NR SR č. 431/2002 Z. z. o účtovníctve, za účtovné obdobie od 01. januára 2025 do 31. decembra
+      2025.
+
+B. INFORMÁCIE O ORGÁNOCH ÚČTOVNEJ JEDNOTKY
+
+Konatelia            RNDr. Tibor Jakubík
+                     Ing. Cyril Jakubík
+
+C. INFORMÁCIE O SPOLOČNÍKOCH ÚČTOVNEJ JEDNOTKY
+      Štruktúra spoločníkov Spoločnosti k 31. decembru 2025 bola nasledovná:
+
+                                          Podiel na základnom imaní                  Hlasovacie
+                                                                                        práva
+                                          EUR                                  %               100%
+                                                                                               100%
+RNDr. Tibor Jakubík                       25 000                               100%
+Spolu
+                                          25 000                               100%
+
+D. INFORMÁCIE O KONSOLIDOVANOM CELKU
+
+Spoločnosť nie je zahrnutá do konsolidovanej účtovnej závierky inej spoločnosti.
+
+E. INFORMÁCIE O ÚČTOVNÝCH ZÁSADÁCH A ÚČTOVNÝCH METÓDACH
+
+(a) Východiská pre zostavenie účtovnej závierky
+      Účtovná závierka bola zostavená za predpokladu nepretržitého trvania Spoločnosti (going concern).
+
+(b) Dlhodobý nehmotný a dlhodobý hmotný majetok
+      Dlhodobý majetok nakupovaný sa oceňuje obstarávacou cenou, ktorá zahŕňa cenu obstarania a náklady
+      súvisiace s obstaraním (clo, prepravu, montáž, poistné a pod.). Súčasťou obstarávacej ceny od 1. januára
+      2003 nie sú úroky z cudzích zdrojov ani realizované kurzové rozdiely, ktoré vznikli do momentu uvedenia
+      dlhodobého majetku do používania.
+
+      Dlhodobý majetok vytvorený vlastnou činnosťou sa oceňuje vlastnými nákladmi. Vlastnými nákladmi sú
+      všetky priame náklady vynaložené na výrobu alebo inú činnosť a nepriame náklady, ktoré sa vzťahujú na
+      výrobu alebo inú činnosť.
+
+      Náklady na výskum sa neaktivujú, účtujú sa do nákladov účtovného obdobia, v ktorom vznikli. Náklady na
+      vývoj sa účtujú do obdobia, v ktorom vznikli, ale tie náklady na vývoj, ktoré sa vzťahujú na jasne definovaný
+      výrobok alebo proces, pri ktorých je možné preukázať technickú realizovateľnosť a možnosť predaja a
+      spoločnosť má dostatočné zdroje na dokončenie projektu, jeho predaj alebo na vnútorné využitie jeho
+      výsledkov, sa aktivujú, a to vo výške, ktorá je pravdepodobná, že sa získa späť z budúcich ekonomických
+      úžitkov.
+
+                                                                                                                           Strana 2 z 7
+                                Icon Group, s. r. o.      Účtovná závierka
+                                                      k 31. decembru 2025
+
+Aktivované náklady na vývoj sa odpisujú počas maximálne 5 rokov, a to v tých účtovných obdobiach, v
+ktorých sa očakáva predaj produktu alebo využívanie procesu. Ak sa zníži ich hodnota, odpisujú sa na sumu,
+ktorá je pravdepodobná, že sa získa späť z budúcich ekonomických úžitkov.
+
+Odpisy dlhodobého nehmotného majetku sú stanovené vychádzajúc z predpokladanej doby jeho používania
+a predpokladaného priebehu jeho opotrebenia. Odpisovať sa začína prvým dňom mesiaca nasledujúceho po
+uvedení dlhodobého majetku do používania. Drobný dlhodobý nehmotný majetok, ktorého obstarávacia cena
+(resp. vlastné náklady) je 2 400 EUR a nižšia, sa odpisuje jednorazovo pri uvedení do používania.
+Predpokladaná doba používania, metóda odpisovania a odpisová sadzba sú uvedené v nasledujúcej tabuľke:
+
+Zriaďovacie náklady               Predpokladaná             Metóda       Ročná odpisová
+Aktivované náklady na vývoj       doba používania        odpisovania       sadzba v %
+Softvér
+Oceniteľné práva (licencia)           v rokoch              lineárna             20
+Drobný dlhodobý nehmotný majetok           5                lineárna             20
+                                           5                lineárna             25
+                                           4                lineárna            12,5
+                                           8          jednorazový odpis         100
+
+                                        rôzna
+
+Odpisy dlhodobého hmotného majetku sú stanovené vychádzajúc z predpokladanej doby jeho používania
+a predpokladaného priebehu jeho opotrebenia. Odpisovať sa začína prvým dňom mesiaca nasledujúceho po
+uvedení dlhodobého majetku do používania. Drobný dlhodobý hmotný majetok, ktorého obstarávacia cena
+(resp. vlastné náklady) je 1 700 EUR a nižšia, sa odpisuje jednorazovo pri uvedení do používania. Pozemky
+sa neodpisujú. Predpokladaná doba používania, metóda odpisovania a odpisová sadzba sú uvedené v
+nasledujúcej tabuľke:
+
+Stavby                            Predpokladaná             Metóda       Ročná odpisová
+Stroje, prístroje a zariadenia    doba používania        odpisovania       sadzba v %
+Dopravné prostriedky                                                            2,5
+Drobný dlhodobý hmotný majetok           40 r               lineárna        8,3 až 12,5
+                                      8 až 12 r             lineárna         16 až 30
+                                       4 až 6 r           degresívna            100
+                                                      jednorazový odpis
+                                        rôzna
+
+(c) Cenné papiere a podiely
+      Cenné papiere a podiely sa oceňujú obstarávacími cenami, vrátane nákladov súvisiacich s obstaraním. Od
+      obstarávacej ceny je odpočítané zníženie hodnoty cenných papierov a podielov.
+
+(d) Zásoby
+      Zásoby sa oceňujú nižšou z nasledujúcich hodnôt: obstarávacou cenou (nakupované zásoby) alebo vlastnými
+      nákladmi (zásoby vytvorené vlastnou činnosťou) alebo čistou realizačnou hodnotou. Obstarávacia cena
+      zahŕňa cenu zásob a náklady súvisiace s obstaraním (clo, prepravu, poistné, provízie, skonto a pod.). Úroky
+      z cudzích zdrojov nie sú súčasťou obstarávacej ceny. Nakupované zásoby sa oceňujú váženým aritmetickým
+      priemerom z obstarávacích cien. Vlastné náklady zahŕňajú priame náklady (priamy materiál, priame mzdy a
+      ostatné priame náklady) a časť nepriamych nákladov bezprostredne súvisiacich s vytvorením zásob vlastnou
+      činnosťou (výrobná réžia). Výrobná réžia sa do vlastných nákladov zahŕňa v závislosti od stupňa
+      rozpracovanosti týchto zásob. Správna réžia a odbytové náklady nie sú súčasťou vlastných nákladov.
+      Súčasťou vlastných nákladov nie sú úroky z cudzích zdrojov. Čistá realizačná hodnota je predpokladaná
+      predajná cena znížená o predpokladané náklady na ich dokončenie a o predpokladané náklady súvisiace s ich
+      predajom. Zníženie hodnoty zásob sa upravuje vytvorením opravnej položky.
+
+(e) Zákazková výroba
+      Zákazková výroba sa vykazuje použitím metódy stupňa dokončenia zákazky (angl. percentage-of-
+      completion-method).
+
+(f) Pohľadávky
+      Pohľadávky pri ich vzniku sa oceňujú ich menovitou hodnotou; postúpené pohľadávky a pohľadávky
+      nadobudnuté vkladom do základného imania sa oceňujú obstarávacou cenou vrátane nákladov súvisiacich
+      s obstaraním. Toto ocenenie sa znižuje o pochybné a nevymožiteľné pohľadávky.
+
+(g) Peňažné prostriedky a ceniny
+      Peňažné prostriedky a ceniny sa oceňujú ich menovitou hodnotou. Zníženie ich hodnoty sa vyjadruje
+      opravnou položkou.
+
+(h) Náklady budúcich období a príjmy budúcich období
+      Náklady budúcich období a príjmy budúcich období sa vykazujú vo výške, ktorá je potrebná na dodržanie
+      zásady vecnej a časovej súvislosti s účtovným obdobím.
+
+                                                                                                                           Strana 3 z 7
+Icon Group, s. r. o.      Účtovná závierka
+                      k 31. decembru 2025
+
+(i) Rezervy
+      Rezervy sú záväzky s neurčitým časovým vymedzením alebo výškou; tvoria sa na krytie známych rizík alebo
+      strát z podnikania. Oceňujú sa v očakávanej výške záväzku.
+
+(j) Záväzky
+      Záväzky pri ich vzniku sa oceňujú menovitou hodnotou. Záväzky pri ich prevzatí sa oceňujú obstarávacou
+      cenou. Ak sa pri inventarizácii zistí, že suma záväzkov je iná ako ich výška v účtovníctve, uvedú sa záväzky
+      v účtovníctve a v účtovnej závierke v tomto zistenom ocenení.
+
+(k) Odložené dane
+      Odložené dane (odložená daňová pohľadávka a odložený daňový záväzok) sa vzťahujú na:
+            a) dočasné rozdiely medzi účtovnou hodnotou majetku a účtovnou hodnotou záväzkov vykázanou
+                  v súvahe a ich daňovou základňou,
+            b) možnosť umorovať daňovú stratu v budúcnosti, ktorou sa rozumie možnosť odpočítať daňovú
+                  stratu od základu dane v budúcnosti,
+            c) možnosť previesť nevyužité daňové odpočty a iné daňové nároky do budúcich období.
+
+(l) Výdavky budúcich období a výnosy budúcich období
+      Výdavky budúcich období a výnosy budúcich období sa vykazujú vo výške, ktorá je potrebná na dodržanie
+      zásady vecnej a časovej súvislosti s účtovným obdobím.
+
+      Bezodplatne pripísaný proporčný podiel emisných kvót v ocenení reprodukčnou obstarávacou cenou sa
+      účtuje v prospech výnosov budúcich období.
+
+      Zúčtovanie výnosov budúcich období sa uskutočňuje v časovej a vecnej súvislosti s použitím bezodplatne
+      pripísaných emisných kvót z dôvodu ich predaja alebo tvorby rezervy alebo splnenia povinnosti odovzdania
+      emisných kvót.
+
+(m) Prenájom (lízing)
+      Operatívny prenájom. Majetok prenajatý na základe operatívneho prenájmu vykazuje ako svoj majetok jeho
+      vlastník, nie nájomca.
+      Finančný prenájom (s kúpnou opciou; bez kúpnej opcie je považovaný za operatívny prenájom). Majetok
+      prenajatý na základe zmluvy uzatvorenej do 31. decembra 2003 vykazuje ako svoj majetok jeho vlastník, nie
+      nájomca. Majetok prenajatý na základe zmluvy uzatvorenej 1. januára 2004 a neskôr vykazuje ako svoj
+      majetok jeho nájomca, nie vlastník.
+
+(n) Deriváty
+      Deriváty sa oceňujú reálnou hodnotou.
+
+      Zmeny reálnych hodnôt zabezpečovacích derivátov sa účtujú bez vplyvu na výsledok hospodárenia, priamo
+      do vlastného imania.
+
+      Zmeny reálnych hodnôt derivátov určených na obchodovanie na tuzemskej burze, zahraničnej burze alebo
+      inom verejnom trhu sa účtujú s vplyvom na výsledok hospodárenia.
+
+      Zmeny reálnych hodnôt derivátov určených na obchodovanie na neverejnom trhu sa účtujú bez vplyvu na
+      výsledok hospodárenia, priamo do vlastného imania.
+
+(o) Majetok a záväzky zabezpečené derivátmi
+      Majetok a záväzky zabezpečené derivátmi sa oceňujú reálnou hodnotou. Zmeny reálnych hodnôt majetku
+      a záväzkov zabezpečených derivátmi sa účtujú bez vplyvu na výsledok hospodárenia, priamo do vlastného
+      imania.
+
+(p) Cudzia mena
+ Majetok a záväzky vyjadrené v cudzej mene sa ku dňu uskutočnenia účtovného prípadu prepočítavajú na menu
+ euro kurzom určeným v kurzovom lístku Národnej banky Slovenska platným v deň predchádzajúci uskutočnenia
+ účtovného prípadu.
+ Majetok a záväzky vyjadrené v cudzej mene (okrem prijatých a poskytnutých preddavkov) sa ku dňu, ku ktorému
+ zostavuje účtovná závierka prepočítavajú na menu euro kurzom určeným v kurzovom lístku Národnej banky
+ Slovenska platným ku dňu, ku ktorému sa zostavuje účtovná závierka, a účtujú sa s vplyvom na výsledok
+ hospodárenia.
+
+(q) Výnosy
+      Tržby za vlastné výkony a tovar zahŕňajú daň z pridanej hodnoty.
+
+                      Strana 4 z 7
+                                 Icon Group, s. r. o.                              Účtovná závierka
+                                                                               k 31. decembru 2025
+
+F. INFORMÁCIE O ÚDAJOCH NA STRANE AKTÍV SÚVAHY
+
+1. Dlhodobý nehmotný majetok a dlhodobý hmotný majetok
+     Spoločnosť ku dňu 31.12.2025 neeviduje žiaden dlhodobý hmotný / nehmotný majetok.
+
+2. Dlhodobý finančný majetok
+     Spoločnosť ku dňu 31.12.2025 neeviduje žiaden dlhodobý finančný majetok.
+
+3. Zásoby
+     Spoločnosť ku dňu 31.12.2025 neeviduje žiadne zásoby.
+
+4. Pohľadávky
+     Spoločnosť ku dňu 31.12.2025 neeviduje žiadne pohľadávky.
+
+5. Finančné účty
+
+Účty v bankách                                                                 31. 12. 2024        31. 12. 2025
+Spolu                                                                              EUR                 EUR
+                                                                                      17 431              42 913
+                                                                                      17 430              42 913
+
+Ako finančné účty sú vykázané účty v bankách a brokersky účet spolu s podúčtami pre jednotlivé cudzie
+meny. Účtami v bankách môže Spoločnosť voľne disponovať.
+
+6. Krátkodobý finančný majetok
+      Spoločnosť ku dňu 31.12.2025 eviduje investíciu vo výške 50 000eur v rámci 05.2025 emisie akcií
+      Spoločnosti Global Opportunities Fund a.s. investičný fond s premenlivým základným.
+
+7. Časové rozlíšenie                                                           31. 12. 2024      31. 12. 2025
+                                                                                    EUR               EUR
+        Náklady budúcich období                                                               0           2 000
+        Príjmy budúcich období                                                        16 113                    0
+        Spolu                                                                         16 113              2 000
+
+G. INFORMÁCIE O ÚDAJOCH NA STRANE PASÍV SÚVAHY
+
+1. Vlastné imanie
+     Informácie o vlastnom imaní sú uvedené v časti C a O.
+
+2. Rezervy
+     Spoločnosť ku dňu 31.12.2025 vytvorila rezervný fond z nerozdeleného zisku vo výške 5000eur.
+
+3. Záväzky
+
+Štruktúra záväzkov (okrem bankových/brokerských úverov) podľa zostatkovej doby splatnosti je uvedená
+
+v nasledujúcom prehľade:
+
+                                                                31. 12. 2024                     31. 12. 2025
+
+                                                                               EUR                 EUR
+
+Záväzky po lehote splatnosti                                                        0                          0
+
+Záväzky so zostatkovou dobou splatnosti do 1 roka                                   0                          0
+
+Spolu krátkodobé záväzky                                                            0                          0
+
+Záväzky so zostatkovou dobou splatnosti 1 až 5 rokov                                 0                       0
+Záväzky voči spoločníkom s dobou splatnosti 1 až 5 rokov                             0                       0
+Záväzky so zostatkovou dobou splatnosti dlhšou ako 5 rokov                     91 922                109 609
+Spolu dlhodobé záväzky                                                         91 922                109 609
+
+      Krátkodobé záväzky prestavujú záväzky voći spoločníkovi spoločnosti. Dlhodobé záväzky predstavujú
+      záväzok voči konateľovi za vynaložené náklady pri zakladaní spoločnosti a záväzok voči konateľovi za
+      poskytnutie pôžičky spoločnosti.
+
+4. Sociálny fond
+     Spoločnosť ku dňu 31.12.2025 netvorila sociálny fond.
+
+                                                                                                   Strana 5 z 7
+                                                         Icon Group, s. r. o.      Účtovná závierka
+                                                                               k 31. decembru 2025
+5. Bankové úvery
+     Spoločnosť ku dňu 31.12.2025 nemá žiadne bankové úvery.
+
+H. INFORMÁCIE O VÝNOSOCH
+
+      Spoločnosť nedosiahla v roku 2025 výnosy/stratu z kurzových operácií pri obchodovaní s menovými pármi.
+      Spoločnosť dosiahla v roku 2025 netto výnosy z bežnej hospodárskej činnosti vo forme poplatkov a provizií
+      za správu majetku Spoločnosti Global Opportunities Fund a.s. investičný fond s premenlivým základným
+      imaním.
+
+I. INFORMÁCIE O NÁKLADOCH
+
+1. Náklady na poskytnuté služby, dane, poplatky a na hospodársku / finančnú činnosť
+
+Prehľad o nákladoch na poskytnuté služby a dane a poplatky:
+
+                                                                               2024                2025
+                                                                                                   EUR
+                                                                               EUR
+                                                                                                       1 918
+Nákup a poplatky za software                                                   1 449                     661
+
+Nákup a poplatky za hardware                                                         72                3 847
+                                                                                                       3 547
+Ostatné poplatky (za vedenie účtov, obchodovanie, trhové dáta a pod.)                7               15 150
+                                                                                                     25 123
+Náklady na účtovníctvo, registráciu (ORSR, CDCP, LEI) a pod                    3 654
+                                                                                               31.12.2025
+Ostatné náklady na bežný chod Spoločnosti                                      10 016             EUR
+                                                                                                            0
+Spolu                                                                          15 198
+
+2. Mimoriadne náklady                                                          31.12.2024
+       obstaranie dlhodobého hmotného majetku                                     EUR
+                                                                                            0
+
+J. INFORMÁCIE O DANIACH Z PRÍJMOV                                              31.12.2024      31.12.2025
+      Spoločnosť v roku 2025 zaplatila nasledovné dane.                           EUR             EUR
+                                                                                         756           1 806
+       Daň z príjmov z finančnej a hospodárskej činnosti                                 756           1 806
+       Spolu
+
+      Daň z príjmov z finančnej činnosti predstavuje daň zaplatenú v zahraničí za dividendový výnos na akciách
+      a daň zaplatenú zrážkou z úrokov na bežnom účte v banke. Daň z príjmov z hospodárskej činnosti
+      predstavuje daň zaplatenú v SR.
+
+K. INFORMÁCIE O ÚDAJOCH NA PODSÚVAHOVÝCH ÚČTOCH
+      Spoločnosť neevidovala k 31.12.2025 podsúvahové aktíva a pasíva.
+
+L. INFORMÁCIE O PRÍJMOCH A VÝHODÁCH ČLENOV ŠTATUTÁRNYCH ORGÁNOV,
+     DOZORNÝCH ORGÁNOV A INÝCH ORGÁNOV ÚČTOVNEJ JEDNOTKY
+
+      Spoločnosť nevykázala v priebehu roka 2025 žiadne náklady súvisiace s činnosťou štatutárnych orgánov.
+
+M. INFORMÁCIE O EKONOMICKÝCH VZŤAHOCH ÚČTOVNEJ JEDNOTKY A
+     SPRIAZNENÝCH OSÔB
+
+      Spoločnosť uskutočnila v priebehu účtovného obdobia roku 2010 až 2025 transakcie so spriaznenou osobou
+      / kotaneľom spoločnosti / bod G ods. 3.
+
+N. INFORMÁCIE O SKUTOČNOSTIACH, KTORÉ NASTALI PO DNI, KU KTORÉMU SA
+     ZOSTAVUJE ÚČTOVNÁ ZÁVIERKA, DO DŇA ZOSTAVENIA ÚČTOVNEJ ZÁVIERKY
+
+      Po 31. decembri 2025 nenastali žiadne udalosti, ktoré majú významný vplyv na verné zobrazenie skutočností,
+      ktoré sú predmetom účtovníctva.
+
+                                                                                               Strana 6 z 7
+                                       Icon Group, s. r. o.                      Účtovná závierka
+                                                                             k 31. decembru 2025
+
+O. INFORMÁCIE O VLASTNOM IMANÍ
+
+Prehľad o pohybe vlastného imania v priebehu účtovného obdobia je uvedený v nasledujúcej tabuľke:
+
+                                                31.12.2024 Prírastky Úbytky Presuny 31.12.2025
+
+                                                EUR                  EUR     EUR     EUR           EUR
+
+Základné imanie
+
+Základné imanie                                              25 000       -       0       0        25 000
+
+Vlastné akcie a vlastné obchodné podiely                     0            0       0       0             0
+
+Kapitálové fondy
+
+Zákonný rezervný fond z kapitálových vkladov                 -            0       0       0             -
+
+Oceň. rozdiely z precenenia majetku a záväzkov               16113   3133         0       0        19246
+
+Oceň. rozdiely z kapitálových účastín                        0            -       0       0             -
+
+Fondy zo zisku
+
+Zakonný rezervný fond                                        5 000        0       0       0        5 000
+
+Nedeliteľný fond                                             0            0       0       0             0
+
+Štatutárne fondy a ostatné fondy                             -            0       0       -             -
+
+Výsledok hospodárenia minulých rokov
+
+Nerozdelený zisk minulých rokov                              87 814       0  756          -        94 096
+
+Neuhradená strata minulých rokov                             -            0       0       -             -
+
+Výsledok hospodárenia za bežné účtovné obdobie               7 038        0       0       0        18 056
+
+Spolu                                           140 965 3 133                756          0        161 398
+
+V Žiline, dňa 29.06.2025
+
+                                                                                             Strana 7 z 7
+

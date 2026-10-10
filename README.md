@@ -8,7 +8,7 @@ Hlavný dokument je [plan.md](plan.md). Zadanie pilotu je v [prompts/pilot-promp
 |---|---|
 | `plan.md` | plán štúdie (body 1–5) |
 | `prompts/pilot-prompt.md` | zadanie pilotu: VC fondy registrované v SR |
-| `data/` | výstupy pilotu: `investors.json` (zaradení), `decisions.csv`, `claims.csv`, `vyradene.csv` (zoznam vyradených s dôvodom) |
+| `data/` | výstupy pilotu: `investors.json` (zaradení), `decisions.csv`, `claims.csv`, `vyradene.csv` (zoznam vyradených s dôvodom), `orsr_podiely.csv` a `footprint.csv` (podiely z ORSR a finančný majetok z RÚZ) |
 | `raw/` | kópie otvorených zdrojov (dôkazy) ponechaných subjektov |
 | `logs/` | súhrn behu, spotreba, log chýb, metriky |
 | `scripts/` | pomocné skripty pilotu |

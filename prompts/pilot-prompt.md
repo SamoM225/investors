@@ -63,7 +63,7 @@ Pravidlá na určenie úrovne:
 | `stav` (aktívny, likvidácia, zánik) | ORSR (A) | RPO (A) | likvidácia alebo zánik: **STOP** |
 | `licencia` správcu fondov | zoznam NBS, register ESMA (A) | — | nie je stop, len chýbajúci bonus |
 | `sektor_investora` | RPO, kód SK NACE (A) | web (C) | `null` |
-| `investicia` (investor → firma) | ORSR: investor ako spoločník firmy, s dátumom zápisu (A) | tlačová správa, médiá, zoznam SIH/EIF (B) | žiadna za 36 mesiacov: `vyradeny_neaktivny` |
+| `investicia` (investor → firma) | ORSR: investor ako spoločník firmy, s dátumom zápisu (A) | tlačová správa, médiá, zoznam SIH/EIF (B) | iba pred oknom: `vyradeny_neaktivny`; žiadna: `vyradeny_bez_investicii` |
 | `faza` investície (názov kola, opis transakcie) | tlačová správa portfóliovej firmy, médiá (B) | — | `null` |
 | `velkost_firmy` (kategória MSP portfóliovej firmy) | register účtovných závierok: posledná závierka pred dátumom investície (A) | — | `null` |
 | `typ_podielu` (menšinový / kontrolný) | ORSR: vklad voči základnému imaniu pri s.r.o. (A, `proxy`), rozhodnutie o koncentrácii (A) | médiá s výslovným „väčšinový/menšinový“ (B) | `null` |
@@ -115,7 +115,7 @@ Brány sa vyhodnocujú v poradí. Pri prvej nesplnenej sa spracovanie zastaví a
 | G1 Register | Existuje v ORSR/RPO a nie je v likvidácii ani zaniknutý? | pokračuj | **STOP** `vyradeny_register` |
 | G2 Rozsah | Je registrovaný v SR, nie je fyzická osoba ani family office? | pokračuj | `mimo_rozsahu` |
 | G3 Typ činnosti | Investuje vlastný alebo spravovaný kapitál do investícií podľa definície vyššie? | pokračuj | `vyradeny_typ` + kategória (pozri nižšie) |
-| G4 Aktivita | Má aspoň 1 investíciu za 36 mesiacov s dôkazom úrovne A alebo B? | pokračuj | len dôkaz C: `neiste`. Žiadny dôkaz: `vyradeny_neaktivny`. |
+| G4 Aktivita | Má aspoň 1 investíciu za 36 mesiacov s dôkazom úrovne A alebo B? | pokračuj | len dôkaz C: `neiste`. Investície iba pred oknom: `vyradeny_neaktivny`. Žiadna investícia do cudzej firmy podľa ORSR, RÚZ a webu: `vyradeny_bez_investicii`. Registre ukazujú investíciu, ktorú výskum nenašiel: `na_vyskum`. Pravidlo je v plan.md 2.2 (Negatívny dôkaz pri G4) a v scripts/g4_rules.js. |
 | G5 Zaradenie do typu | Je typ VC jednoznačne doložený podľa pravidiel nižšie? | `zaradeny` | jednoznačne PE: `mimo_rozsahu` (dôvod: PE). Nejednoznačné: `typ_nerozhodnuty`, kandidátske typy `VC\|PE`, ručná kontrola. |
 
 Ak register nefunguje alebo blokuje prístup, nepokračuj odhadom. Zapíš `register_nedostupny`, zapíš to do logu a zastav sa s otázkou.
@@ -173,6 +173,16 @@ Každý agent robí iba svoju úlohu. Overovateľ nikdy nevidí úvahy výskumn�
 - Pre každého kandidáta nájde IČO v RPO/ORSR, overí stav a krajinu registrácie.
 - Ak kandidáta nenájde alebo je subjekt zaniknutý: zapíše rozhodnutie a **nepokračuje**.
 - Výstup: tvrdenia o existencii v `data/claims.csv`, rozhodnutia v `data/decisions.csv`.
+
+### 2a. Kontrola registrov: spätné vyhľadávanie podielov (skript, doplnené 2026-10-10)
+- `node scripts/footprint.js` pre všetkých, ktorí prešli G1 a G2.
+- Zisťuje dve veci:
+  - z ORSR, kde je subjekt spoločníkom, komanditistom alebo jediným akcionárom (aj historicky) a ktoré z týchto firiem sú vlastné účelové dcéry,
+  - z RÚZ podielové cenné papiere a dlhodobý finančný majetok.
+- Výstup: `data/orsr_podiely.csv`, `data/footprint.csv`.
+- Ako sa výstup použije:
+  - podiel v cudzej firme v okne posunie subjekt do plného výskumu (T1),
+  - pri G4 výstup slúži ako negatívny dôkaz.
 
 ### 3. Výskumník: zber tvrdení
 - Iba pre kandidátov, ktorí prešli G1 a G2.

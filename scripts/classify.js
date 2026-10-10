@@ -1,12 +1,22 @@
 // Klasifikátor: rozhodovacia matica G1–G5 nad POTVRDENÝMI tvrdeniami (pilot, VC v SR).
 // Vstupy: data/registrar_decisions.csv (G1, G2), data/claims.csv, logs/usage.csv (časy).
 // Výstupy: data/decisions.csv, data/investors.json
+// Režim --merge <subor>: spracuje iba subjekty zo zadaného súboru registrátora (napr. data/registrar_navrat.csv)
+// a výsledky zlúči do existujúcich výstupov (nahradí riadky s rovnakým IČO). Používa sa po očistení dát.
 const fs = require('fs');
 const path = require('path');
 const { ROOT, readCsv, writeCsv, inWindow } = require('./lib');
 
+const mergeArg = process.argv.indexOf('--merge');
+const mergeFile = mergeArg > 0 ? process.argv[mergeArg + 1] : '';
 const claims = readCsv('data/claims.csv');
-const registrar = readCsv('data/registrar_decisions.csv');
+const registrar = readCsv(mergeFile || 'data/registrar_decisions.csv');
+// G4 s negatívnym dôkazom: ORSR (spätné vyhľadávanie) a RÚZ zo scripts/footprint.js
+const { decideG4 } = require('./g4_rules');
+const footprint = Object.fromEntries(readCsv('data/footprint.csv').map(f => [f.ico, f]));
+const holdings = {};
+readCsv('data/orsr_podiely.csv').forEach(h => (holdings[h.investor_ico] ||= []).push(h));
+const g4 = (ico, investedEver, lastInvestment) => decideG4({ fp: footprint[ico], holdings: holdings[ico] || [], investedEver, lastInvestment });
 const usage = readCsv('logs/usage.csv');
 const ok = claims.filter(c => c.verifier_verdict === 'potvrdene');
 const screen = {};
@@ -69,7 +79,10 @@ for (const r of registrar) {
       continue;
     }
     if (scr.result === 'bez_dokazu') {
-      decisions.push({ ...base, status: 'vyradeny_neaktivny', failed_gate: 'G4', reason: 'skríning T2: bez dôkazu investície' });
+      // web nič nenašiel; o vyradení rozhodnú registre (na_vyskum = registre ukazujú investíciu v okne)
+      const d = g4(ico, false, '');
+      decisions.push({ ...base, status: d.status, failed_gate: 'G4', category: d.category, flags: `sila_negativneho_dokazu:${d.sila}`,
+        reason: `skríning T2: bez dôkazu investície na webe; ${d.reason}` });
       continue;
     }
   }
@@ -86,7 +99,9 @@ for (const r of registrar) {
   }
 
   // investície (potvrdené), zrelosť a typ podielu podľa cieľovej firmy
-  const inv = mine.filter(c => c.field === 'investicia').map(c => ({ c, v: parseJson(c.value) || {} }));
+  // vlastné účelové dcéry podľa ORSR (scripts/footprint.js) nie sú investície podľa R1 (doplnené 2026-10-10)
+  const ownVehicles = new Set((holdings[ico] || []).filter(h => +h.vlastna_dcera === 1).map(h => h.ciel_ico));
+  const inv = mine.filter(c => c.field === 'investicia' && !ownVehicles.has(c.target_ico)).map(c => ({ c, v: parseJson(c.value) || {} }));
   const hasInvest = inv.length > 0;
 
   // G3: vyradí pozitívny dôkaz inej činnosti. Ak je dôkaz inej činnosti (A/B) a žiadny dôkaz
@@ -109,10 +124,20 @@ for (const r of registrar) {
   const lastDate = inWin.map(x => x.v.datum).sort().pop() || '';
   base.last_investment_date = lastDate;
   if (!winAB.length) {
-    const status = inWin.length ? 'neiste' : 'vyradeny_neaktivny';
-    decisions.push({ ...base, status, failed_gate: 'G4',
-      confidence_activity: inWin.length ? 'neiste' : '',
-      reason: inWin.length ? 'investícia v okne doložená iba úrovňou C' : 'žiadna doložená investícia za 36 mesiacov' });
+    if (inWin.length) {
+      decisions.push({ ...base, status: 'neiste', failed_gate: 'G4', confidence_activity: 'neiste', reason: 'investícia v okne doložená iba úrovňou C' });
+      continue;
+    }
+    // bez investície v okne: rozlíšiť „investoval pred oknom“ a „verejne neinvestoval“; registre môžu vrátiť na výskum
+    const d = g4(ico, hasInvest, inv.map(x => x.v.datum).filter(Boolean).sort().pop() || '');
+    // po plnom výskume už „na_vyskum“ neexistuje: signál z registrov, ktorý výskum nepriradil ku konkrétnej
+    // investícii, je nevysvetlený => neiste a ručná kontrola
+    if (d.status === 'na_vyskum') {
+      decisions.push({ ...base, status: 'neiste', failed_gate: 'G4', confidence_activity: 'neiste', category: d.category,
+        flags: 'registre_nevysvetlene', reason: `výskum nenašiel investíciu v okne, ale registre ukazujú aktivitu: ${d.reason}` });
+      continue;
+    }
+    decisions.push({ ...base, status: d.status, failed_gate: 'G4', category: d.category, flags: `sila_negativneho_dokazu:${d.sila}`, reason: d.reason });
     continue;
   }
 
@@ -141,6 +166,13 @@ for (const r of registrar) {
       z = ph[0];
       if (sz.length && sz[0] !== z && !(z !== 'zrela' && sz[0] !== 'zrela')) flags.push(`zrelost_sporna:${tg}`), z = 'sporna';
     } else if (sz.length) z = sz[0];
+    // typ podielu (plan.md 1.1 a 2.3): VC investuje do menšinových podielov; kúpa kontrolného podielu je znak
+    // zrelej transakcie (PE), nie VC, aj keď je cieľová firma malá (doplnené 2026-10-10, Fund Rating)
+    // Pri firme bez doloženej zrelosti (zvyčajne založenej v deň vstupu) kontrolný podiel zrelosť neurčí: ostáva
+    // nedoložená a subjekt ide na ručnú kontrolu (napr. vlastné SPV, ktoré ORSR neodhalilo).
+    const ctrl = mine.some(c => c.field === 'typ_podielu' && c.target_ico === tg && /kontroln/.test(c.value));
+    if (ctrl && z !== 'zrela' && z !== 'nedolozena') { flags.push(`kontrolny_podiel:${tg}`); z = 'zrela'; }
+    else if (ctrl && z === 'nedolozena') flags.push(`kontrolny_podiel_bez_zrelosti:${tg}`);
     signals.push({ tg, z });
   }
   const vc = signals.filter(s => s.z === 'rana' || s.z === 'rastova').length;
@@ -162,7 +194,7 @@ for (const r of registrar) {
   const common = { ...base, confidence_activity: confAct, confidence_type: confType, confidence: conf, flags: flags.join('|') };
 
   if (type === 'PE') {
-    decisions.push({ ...common, status: 'mimo_rozsahu', failed_gate: 'G5', type: 'PE', reason: 'PE: investície do zrelých firiem' });
+    decisions.push({ ...common, status: 'mimo_rozsahu', failed_gate: 'G5', type: 'PE', reason: `PE: investície do zrelých firiem alebo kontrolné podiely (zrelosť: VC ${vc}, PE ${pe}, neurčená ${undetermined})` });
   } else if (type === 'typ_nerozhodnuty') {
     decisions.push({ ...common, status: 'typ_nerozhodnuty', failed_gate: 'G5', type: '', candidate_types: candidateTypes,
       reason: `zrelosť: VC ${vc}, PE ${pe}, neurčená ${undetermined}` });
@@ -192,6 +224,11 @@ for (const r of registrar) {
 
 const header = ['ico', 'name', 'status', 'failed_gate', 'type', 'subtype', 'candidate_types', 'confidence_activity',
   'confidence_type', 'confidence', 'flags', 'reason', 'last_investment_date', 'processing_started_at', 'processing_finished_at', 'category'];
+if (mergeFile) {
+  const done = new Set(decisions.map(d => d.ico));
+  decisions.unshift(...readCsv('data/decisions.csv').filter(d => !done.has(d.ico)));
+  investors.unshift(...JSON.parse(fs.readFileSync(path.join(ROOT, 'data/investors.json'), 'utf8')).filter(i => !done.has(i.ico)));
+}
 writeCsv('data/decisions.csv', header, decisions);
 fs.writeFileSync(path.join(ROOT, 'data/investors.json'), JSON.stringify(investors, null, 2) + '\n', 'utf8');
 const counts = decisions.reduce((a, d) => (a[d.status] = (a[d.status] || 0) + 1, a), {});

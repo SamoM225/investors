@@ -88,3 +88,129 @@ Podrobné počty: `logs/run_summary_stats.md` (generuje `scripts/report.js`). Ch
 - Ponechané bez zmeny: `logs/` (vrátane spotreby a logu chýb), `raw/scout/`, `raw/holdout_*`, `raw/rpo/`, `raw/sih_*`, `data/holdout.csv`, `data/scout_notes.md`.
 - Ručná kontrola: v `data/review_sample.csv` odkazujú vyradené záznamy na `data/vyradene.csv`; `data/review_claims.csv` znova vybraná iba z tvrdení ponechaných subjektov (109 z 540, seed 20261009). `scripts/metrics.js` upravený na nový stav.
 - Skripty `classify.js`, `triage.js`, `registrar.js`, `report.js` po očistení nemajú všetky vstupy; na opakovanie behu treba zálohu (`scratchpad/backup_pred_cistenim_2026-10-10.tar.gz`, dočasný priečinok relácie).
+
+## Negatívny dôkaz pri G4 a návrat vyradených na výskum (2026-10-10, pripomienka používateľa k PC19 Capital)
+
+### Podnet a zmena algoritmu
+
+Používateľ ručne preveril PC19 Capital (IČO 54235146). Firma existuje, ale na webe ani vo finstate nenašiel žiadne investície. Algoritmus ju vyradil rovnako (`vyradeny_neaktivny`), ale iba na základe 2 až 4 webových dopytov skríningu. Rovnako bolo vyradených 573 z 580 subjektov na G4. Status „neaktívny“ navyše miešal dve rôzne zistenia: „investoval, ale pred oknom“ a „neinvestoval vôbec“.
+
+**PC19 Capital.** ORSR (spätné vyhľadávanie spoločníka) ukazuje, že PC19 je od 2024-01-04 jediným spoločníkom FRRE s. r. o.:
+- FRRE je kúpená ready-made firma (pôvodne KASTON A546),
+- má rovnaké sídlo ako PC19,
+- PC19 do nej vložil 538 000 € (navýšenie vkladu 2024-03-26).
+
+Je to vlastná účelová dcéra, nie investícia do cudzej firmy. Výsledok je `vyradeny_bez_investicii` s kategóriou `iba_vlastne_dcery` a strednou silou dôkazu, lebo závierka fondu je iba v PDF. Finstat podiel nezachytil.
+
+**Zmena algoritmu:**
+- **Nové skripty:**
+  - `scripts/footprint.js`: ORSR (spoločník, komanditista, akcionár, aj pod bývalými názvami subjektu) a RÚZ (podielové cenné papiere),
+  - `scripts/g4_rules.js`: rozhodnutie G4 a sila negatívneho dôkazu,
+  - `scripts/apply_g4.js`: uplatnenie pravidla na staré vyradenia,
+  - `scripts/pretriage.js`: lacné predtriedenie pred plným výskumom,
+  - `scripts/finalize_navrat.js`: premietnutie rozhodnutí do dát.
+- **Nové stavy:** `vyradeny_bez_investicii` a medzistav `na_vyskum`.
+- **Zapojenie do behu:**
+  - `triage.js` posunie do T1 subjekt, ktorý má podiel v cudzej firme v okne,
+  - `classify.js` rozhoduje G4 podľa nového pravidla a má režim `--merge <súbor>` na prepočet podmnožiny.
+- **Dokumentácia:** plan.md 2.2 a 2.3, prompts/pilot-prompt.md (G4, krok 2a), prompts/pilot-researcher.md (Výskumník začína od `data/orsr_podiely.csv`).
+- **Ochrana osobných údajov:** odpovede registrov sú v `.cache/`, mimo gitu, lebo obsahujú mená fyzických osôb.
+
+### Kontrola registrov (602 subjektov, 0 tokenov)
+
+- 9 518 HTTP požiadaviek, 0 chýb ORSR.
+- RÚZ: tabuľkový výkaz má 441 subjektov, iba PDF 29, bez riadnej závierky 132.
+- ORSR: 639 podielov pri 153 subjektoch, z toho 156 vlastných dcér.
+
+**Chyby skriptov nájdené počas behu (opravené):**
+1. **Rast celého finančného majetku v RÚZ.** Ak boli podiely nulové, pravidlo použilo celý dlhodobý finančný majetok, ktorý zahŕňa aj pôžičky. Rast pôžičiek však nie je investícia podľa R1 (zistené pri iea capital a PROXENTA). Teraz sa ráta iba rast podielových cenných papierov.
+2. **Neúplný rok 2023.** Okno začína 9. 10. 2023, takže rast za celý rok 2023 investíciu v okne nedokazuje. Rátajú sa iba roky 2024 a 2025.
+3. **Firma presunutá k inému súdu.** Výpis pôvodného súdu je zmrazený („Spis odstúpený“) a skript z neho bral podiel ako trvajúci (zistené pri PROXENTA a StorageX). Teraz rozhoduje aktuálny výpis. Opakovaný beh z cache zmenil 28 záznamov podielov.
+
+### Výsledok pre 580 vyradení na G4 a predtriedenie
+
+Registre vrátili do výskumu 88 subjektov: 53 cez ORSR a 35 cez RÚZ.
+
+**Predtriedenie** (`scripts/pretriage.js`) použilo NBS, RPO (vlastníci subjektu, vek, činnosť a podiel v cieľovej firme) a ORSR:
+
+| Výsledok | Počet | Dôvod |
+|---|---|---|
+| `vyradeny_typ` (G3) | 37 | všetky podiely v okne sú väčšinové alebo vo firmách mimo VC (nehnuteľnosti, ambulancie, doprava, reštaurácie) |
+| `mimo_rozsahu` (G2) | 20 | viditeľný je iba rast podielov v RÚZ a subjekt vlastnia iba fyzické osoby, ide o osobný holding |
+| plný výskum | 31 | 10 registrovaných v NBS, 11 s menšinovým podielom v mladej firme, 10 s rastom v RÚZ a vlastníkom typu firma |
+
+Ostatné vyradenia ostávajú vyradené, teraz s dôkazom z registrov (`data/vyradene.csv`, stĺpec `sila_negativneho_dokazu`):
+- `vyradeny_bez_investicii`: 423,
+- `vyradeny_neaktivny`: 69.
+
+### Plný výskum a overenie 31 subjektov
+
+Postup bol rovnaký ako v pilote: Výskumník a nezávislý Overovateľ, ktorý nevidí úvahy výskumníka.
+
+| Rola | Agentov | Tokeny spolu | Tokeny na agenta | Medián času | Otvorené stránky |
+|---|---|---|---|---|---|
+| Výskumník | 31 | 4,52 mil. | ≈ 146 tis. | 7 min | 1 881 |
+| Overovateľ | 31 | 2,70 mil. | ≈ 87 tis. | – | 420 |
+
+Spolu 7,2 mil. tokenov, teda menej, než odhadoval návrh (23 mil. pre všetkých 88 subjektov).
+
+Overovatelia zamietli 23 tvrdení (podrobnosti v `data/verify/`). Opakovaný pokus Výskumníka sa nespúšťal. Zamietnuté tvrdenia sa týkajú opisu činnosti, veľkosti firmy alebo úrovne zdroja a výsledok subjektu nemenia.
+
+**Výsledky:**
+- **Skutočné VC, ktoré skríning chybne vyradil:**
+  - **SIIC Fund** (fond skupiny SIH): 6 investícií v okne doložených v RPO. Výsledok je `typ_nerozhodnuty`, lebo zrelosť väčšiny cieľových firiem nie je doložená.
+  - **Impact Ventures** (impact fond spoluvlastnený CB ESPRI Impact One): `zaradeny` VC s vysokou dôverou.
+- **Pravdepodobne falošný `zaradeny`:** **Avialytica Fund** (VC, stredná dôvera). Je to SPV na jednu investíciu (NGA Invest, 29 %) a vlastnia ho fyzické osoby. Podľa plánu 1.0 ide skôr o vehikel angela. Klasifikátor to rozpoznať nevie, preto to treba posúdiť pri ručnej kontrole.
+- **`typ_nerozhodnuty`, ide na ručnú kontrolu:**
+  - SEOF: odpad a energetika, skôr infraštruktúra,
+  - ZEPHYR AIF: 9 českých firiem, prevažne 100 % podiely, mimo dosahu slovenského ORSR,
+  - Limerock: podiel v GAMI5 prevzal z likvidovaného vlastného fondu, nejde o nový kapitál.
+- **`neiste` s príznakom `registre_nevysvetlene` (7):** registre ukazujú aktivitu, ktorú výskum nevedel priradiť ku konkrétnej firme:
+  - Atlas Capital III, V a VI: séria vehiklov jednej osoby, podiely zrejme v a. s. alebo v zahraničí,
+  - Monopoly Ventures,
+  - APZ Ventures: vlastná dcéra pod bývalým názvom,
+  - Hilberman: vlastný fond s podielom 85 %,
+  - Icon Group: akcie vlastného fondu.
+- **Vyradení po výskume (19):**
+  - `vyradeny_typ` (17): osobné holdingy, poradenstvo, pôžičky, nehnuteľnosti, hedge fondy, ready-made skupiny, holding vlastných prevádzok,
+  - `mimo_rozsahu` PE (2): Fund Rating (85 % podiely v maloobchode s ovocím) a IPM Avanea Eco Management (pozri nižšie).
+
+### Zmeny klasifikátora po výskume (platia pre všetkých 53 plne skúmaných)
+
+1. **Vlastné účelové dcéry podľa ORSR nie sú investíciou** (R1). Vynechávajú sa v G4 aj v G5.
+2. **Typ podielu v G5** (plan.md 1.1 a 2.3). VC investuje do menšinových podielov. Kontrolný podiel pri doloženej zrelosti preto znamená zrelú transakciu (PE). Pri firme založenej v deň vstupu ostáva zrelosť nedoložená a záznam dostane príznak `kontrolny_podiel_bez_zrelosti`.
+3. **Po plnom výskume už `na_vyskum` neexistuje.** Nevysvetlený signál z registrov dostane `neiste` s príznakom `registre_nevysvetlene` a ide na ručnú kontrolu.
+
+**Dopad na 22 subjektov ponechaných z pilotu:** **IPM Avanea Eco Management** prechádza z `zaradeny` VC na `mimo_rozsahu` PE. Jej jediná investícia v okne je 100 % podiel v ECOTAP. Ostatní ponechaní nemenia stav, pri CEE Capital, Ethernum, CB Investment a CB Growth ONE pribudli iba príznaky.
+
+### Stav po tomto kroku
+
+- **Ponechaných 34:** `zaradeny` 16, `typ_nerozhodnuty` 10, `neiste` 8.
+- **Vyradených 1 296** v `data/vyradene.csv`, s dôvodom a kľúčovým dôkazom. Podrobné dáta 19 nových vyradení sú zmazané podľa pokynu k očisteniu. Záloha je v `scratchpad/backup_pred_finalize_navrat.tar.gz`.
+- **KU0 (dohľadateľnosť):** 100 % (327/327 hodnôt, 741/741 tvrdení).
+- **KU5 (podiel neistých medzi plne skúmanými):** 18/41 = 43,9 %, **nesplnené** (predtým 24 %). Nárast spôsobilo 7 prípadov `registre_nevysvetlene`. Kontrola registrov odhaľuje aktivitu, ktorú verejné zdroje nevedia priradiť ku konkrétnej firme.
+
+### Otvorené otázky: nejednotné rozhodnutia Overovateľov, treba zjednotiť pravidlá
+
+1. **„Posledná závierka pred investíciou“** sa čítala dvojako: ako závierka zostavená pred investíciou (Shellvest, Fund Rating) aj ako závierka za obdobie, ktoré skončilo pred investíciou (Avialytica, SIIC). Kategóriu firmy to zatiaľ nikde nezmenilo.
+2. **Investícia mimo okna** dostala `potvrdene` s poznámkou. Zadanie však uvádza „dátum mimo“ aj ako príklad pre verdikt `rozporne`.
+3. **Úroveň zdroja SIH:** všeobecné pravidlo hovorí „SIH = B“. Overovatelia SEOF a SIIC však použili pevné priradenie „akcionár investora = C“, lebo SIH (NDF II) vlastní 95 až 99 % fondu.
+4. **Citát zložený z výkazu a šablóny RÚZ** (APZ): úryvky s názvami riadkov sú iba v šablóne, nie vo výkaze.
+5. **Prevody a vnútroskupinové kroky** klasifikátor nerozlišuje od investície:
+   - prevod podielu zakladateľa do jeho holdingu,
+   - vklady ready-made skupín, ktoré trvali 4 až 8 dní,
+   - prevzatie podielu z vlastného fondu.
+
+   Tentoraz ich zachytili brány G3 alebo G5, samostatné pravidlo na ne neexistuje.
+6. **Cudzie registre:** Výskumník aj Overovateľ zaradili český obchodný register (ZEPHYR) na úroveň A, rovnako ako ORSR. V pravidlách to zatiaľ nie je.
+
+### Incident pri obnove zo zálohy
+
+Pri obnove registrových tvrdení 31 subjektov zo zálohy zlyhal výber súborov (chyba `grep`), a `tar` preto rozbalil do projektu celú zálohu spred očistenia.
+
+**Náprava:**
+- 104 sledovaných súborov som vrátil na posledný commit (`git checkout HEAD`).
+- 3 920 súborov spred očistenia som zmazal. Ponechal som iba podklady 31 subjektov.
+- Znova som urobil úpravy, ktoré záloha prepísala: skripty, kľúč a vzorku ručnej kontroly a formulár.
+
+Výsledky z registrov, nové skripty, plan.md a `vyradene.csv` neboli dotknuté.

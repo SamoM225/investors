@@ -7,9 +7,9 @@
 | Bod | Obsah | Stav |
 |---|---|---|
 | 1 | Profily typov investorov | pripomienky zapracované (R1–R5) |
-| 2 | Spôsob overenia | pripomienky zapracované (R6–R10) |
+| 2 | Spôsob overenia | pripomienky zapracované (R6–R10). 2026-10-10: G4 doplnená o negatívny dôkaz z registrov (2.2) a G5 o typ podielu a vlastné dcéry (2.3), čaká na pripomienky. |
 | 3 | Odhad počtov a spoľahlivosti pre každý typ | pripomienky zapracované (R12–R15). Úroveň 2 doplnená (3.11), čaká na pripomienky. |
-| 4 | Pilot: VC v SR | beh dokončený (2026-10-10), čaká na ručnú kontrolu. Výsledky: [logs/run_summary.md](logs/run_summary.md) |
+| 4 | Pilot: VC v SR | beh dokončený (2026-10-10), čaká na ručnú kontrolu. Výsledky: [logs/run_summary.md](logs/run_summary.md). Po zmene G4 registre vrátili 88 vyradených. Po predtriedení prešlo plným výskumom 31 z nich (7,2 mil. tokenov). Ponechaných je teraz 34: zaradených 16, s nerozhodnutým typom 10, neistých 8. KU5 je nesplnené (43,9 %). |
 | 5 | Model nákladov na celý svet | návrh na pripomienky (ľudská zložka čaká na ručnú kontrolu pilotu) |
 
 ---
@@ -364,10 +364,53 @@ Brány sa vyhodnocujú v poradí. Pri prvej nesplnenej sa spracovanie zastaví a
 | G1 Register / identita | **Právnická osoba:** je v registri svojej jurisdikcie a nie je v likvidácii ani zaniknutá? **Fyzická osoba:** figuruje v registri (A) ako spoločník, akcionár alebo konečný užívateľ výhod a dá sa jednoznačne odlíšiť od menovcov? | pokračuj | právnická osoba: **STOP** `vyradeny_register`. Fyzická osoba: `vyradeny_identita` **[zmena]**. Ak register krajiny nie je verejne dostupný alebo nefunguje: `register_nedostupny` **[zmena]**. **TODO (R6):** postup pre krajiny bez verejného registra sa zatiaľ nerieši. |
 | G2 Rozsah | Spadá subjekt do krajín a typov, ktoré daný beh spracúva? Nie je to FO, ktorý investuje iba ako LP (R3), ani drobný crowdfundingový investor (R4)? | pokračuj | `mimo_rozsahu` |
 | G3 Typ činnosti | Investuje vlastný alebo spravovaný kapitál do investícií podľa R1? | pokračuj | `vyradeny_typ` + kategória |
-| G4 Aktivita | Má aspoň 1 investíciu podľa R1 za 36 mesiacov s dôkazom A alebo B? | pokračuj | len dôkaz C: `neiste`. Žiadny dôkaz: `vyradeny_neaktivny`. |
+| G4 Aktivita | Má aspoň 1 investíciu podľa R1 za 36 mesiacov s dôkazom A alebo B? | pokračuj | len dôkaz C: `neiste`. Investície iba pred oknom: `vyradeny_neaktivny`. Subjekt existuje, ale verejné zdroje neukazujú žiadnu investíciu do cudzej firmy: `vyradeny_bez_investicii` **[zmena 2026-10-10]**. Registre ukazujú investíciu, ktorú výskum nenašiel: `na_vyskum` (späť do plného výskumu). Postup je v časti „Negatívny dôkaz pri G4“. |
 | G5 Zaradenie do typu **[zmena]** | Dajú sa typ a podtyp odvodiť z potvrdených tvrdení podľa pravidiel v 2.3? | `zaradeny` + typ | fyzická osoba bez doloženej zrelosti firmy aj typu podielu: `zaradeny` s typom `sukromny_investor_neurceny` (R2). Typ sa nedá jednoznačne určiť: `typ_nerozhodnuty` s dvojicou kandidátskych typov (napr. `VC\|PE`) a **ručná kontrola** (R7, R8). |
 
 Kategórie pre `vyradeny_typ` (z pilotu, doplnené o rozhodnutia R3 a R4): poradenstvo/M&A, **sprostredkovateľ (crowdfundingová platforma)**, banka/úver, grant/dotácia, inkubátor bez kapitálu, holding vlastných prevádzok, **správca majetku bez priamych investícií**, iné (s popisom).
+
+**Negatívny dôkaz pri G4 [zmena 2026-10-10, pripomienka k PC19 Capital].** Záver „subjekt neinvestoval“ nesmie stáť iba na tom, že webové vyhľadávanie nič nenašlo. V pilote to tak bolo pri 573 z 580 vyradení na G4. Pred vyradením preto skript ([scripts/footprint.js](scripts/footprint.js)) skontroluje registre úrovne A:
+
+1. **ORSR, spätné vyhľadávanie.** Hľadá, kde je subjekt spoločníkom, komanditistom alebo jediným akcionárom ktorejkoľvek firmy, vrátane histórie a bývalých názvov subjektu. Pri každom podiele zistí:
+   - dátum vstupu,
+   - navýšenia vkladu,
+   - výšku vkladu,
+   - či ide o **vlastnú účelovú dcéru**: subjekt je jediný spoločník a zároveň platí aspoň jedno z troch (rovnaké sídlo, firmu založil subjekt, firma bola kúpená ako ready-made).
+2. **RÚZ.** Podielové cenné papiere z posledných troch riadnych závierok, iba celé roky v okne (2024 a 2025). Funguje iba pri tabuľkových výkazoch. Fondy, ktoré podávajú závierku iba v PDF, sa takto neoveria. Rast ostatného dlhodobého finančného majetku sa nepoužíva, lebo sú to pôžičky alebo dlhové papiere, nie podiel podľa R1. Toto spresnenie prišlo po výskume iea capital a PROXENTA.
+3. **Firma presunutá k inému súdu** má v ORSR dva výpisy. Výpis pôvodného súdu je zmrazený a stav podielu sa preto berie z aktuálneho výpisu.
+
+Rozhodnutie ([scripts/g4_rules.js](scripts/g4_rules.js)):
+
+| Zistenie | Výsledok |
+|---|---|
+| podiel v cudzej firme, do ktorej subjekt vstúpil alebo navýšil vklad v okne 36 mesiacov | `na_vyskum` |
+| podiely v RÚZ vzrástli v okne o viac ako 10 000 € a viac, než vysvetľujú vklady do vlastných dcér | `na_vyskum` |
+| podiely v cudzích firmách alebo doložené investície iba pred oknom | `vyradeny_neaktivny` |
+| RÚZ ukazuje podiely bez rastu, ORSR žiadne (podiely v a. s. alebo v zahraničí) | `vyradeny_neaktivny` |
+| žiadny podiel v cudzej firme, nanajvýš vlastné dcéry | `vyradeny_bez_investicii`, kategória `bez_podielov` alebo `iba_vlastne_dcery` |
+
+**Sila negatívneho dôkazu** (stĺpec `sila_negativneho_dokazu`):
+- `silna`: ORSR aj tabuľková závierka v RÚZ,
+- `stredna`: iba ORSR,
+- `slaba`: iba web.
+
+**Limit.** ORSR neukazuje menšinových akcionárov akciových spoločností, podiely v zahraničí ani konvertibilné úvery. Status `vyradeny_bez_investicii` preto znamená „verejné zdroje neukazujú investíciu“, nie dôkaz, že subjekt nikdy neinvestoval.
+
+**Príklad.** Pri PC19 Capital web ani finstat nenašli žiadnu investíciu. ORSR však ukazuje, že PC19 je od 2024-01-04 jediným spoločníkom FRRE s. r. o.:
+- FRRE je kúpená ready-made firma,
+- má rovnaké sídlo ako PC19,
+- PC19 do nej vložil vklad 538 000 €.
+
+Výsledok je `vyradeny_bez_investicii` s kategóriou `iba_vlastne_dcery`.
+
+Po plnom výskume už stav `na_vyskum` neexistuje. Signál z registrov, ktorý výskum nepriradil ku konkrétnej investícii, dostane stav `neiste` s príznakom `registre_nevysvetlene` a ide na ručnú kontrolu.
+
+Výsledky pilotu sú v logs/run_summary.md v sekcii „Negatívny dôkaz pri G4…“:
+- z 580 vyradení na G4 registre vrátili na výskum 88,
+- predtriedenie z nich poslalo na plný výskum 31,
+- výskum našiel 2 skutočné VC, ktoré skríning chybne vyradil (Impact Ventures, SIIC Fund).
+
+Kontrola registrov beží hneď po Registrátorovi, pred triedením. Podiel v cudzej firme v okne posunie subjekt rovno do plného výskumu (T1), aj keby ho triedenie podľa NACE vyradilo.
 
 G5 je oddelená od G3 zámerne. G3 rozhoduje, či subjekt vôbec je investor. G5 rozhoduje, aký typ investora to je. Chyby v týchto dvoch rozhodnutiach majú iné príčiny aj iné následky, preto ich chceme merať oddelene (2.6, metriky M2 a M3).
 
@@ -427,6 +470,14 @@ Pri každej overenej investícii sa zisťujú dva vstupy pre G5: **zrelosť cie�
 Ako automaticky rozhodovať nerozhodnuté dvojice, sa zatiaľ nerieši. Pilot ukáže, ktoré dvojice a ako často vznikajú.
 
 Deklarácia na vlastnom webe (C) sa do typu nezapočítava nikdy. Eviduje sa iba ako deklarované zameranie (0.1).
+
+**Doplnené po pilote (2026-10-10):**
+
+- **Vlastné účelové dcéry nie sú investíciou** (R1). Vlastná účelová dcéra je firma, v ktorej je subjekt jediným spoločníkom a zároveň má s ňou rovnaké sídlo, založil ju alebo ju kúpil ako ready-made firmu. Údaje sú z ORSR (`data/orsr_podiely.csv`). Takéto firmy sa nerátajú v G4 ani v G5.
+- **Typ podielu sa v G5 uplatňuje.** VC investuje do menšinových podielov (1.1).
+  - Kontrolný podiel vo firme s doloženou zrelosťou sa ráta ako zrelá transakcia, teda ako signál PE (príznak `kontrolny_podiel`).
+  - Pri firme bez doloženej zrelosti, zvyčajne založenej v deň vstupu, ostáva zrelosť nedoložená (príznak `kontrolny_podiel_bez_zrelosti`).
+  - Príklady: Fund Rating (85 % podiely v maloobchode) a IPM Avanea Eco Management (100 % ECOTAP) vychádzajú ako PE, mimo rozsahu pilotu VC.
 
 ### 2.4 Dôvera záznamu
 

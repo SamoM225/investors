@@ -1,0 +1,420 @@
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+Zostavené podľa opatrenia č.MF/389/2014 Z. z. a 25/2016 Z. z., ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek individuálnej účtovnej závierky a rozsahu údajov určených z individuálnej účtovnej závierky na zverejnenie pre malé účtovné jednotky.
+ČL. I VŠEOBECNÉ INFORMÁCIE
+1. ZÁKLADNÉ ÚDAJE O ÚČTOVNEJ JEDNOTKE
+Názov spoločnosti: Vestberry Holding, j.s.a. Sídlo: Staromestská 3, 811 03 Bratislava IČO Spoločnosti: 54 903 742
+Spoločnosť Vestberry Holding, j.s.a. (ďalej len „Spoločnosť“) bola založená na základe zakladateľskej listiny dňa 8.9.2022 a do obchodného registra bola zapísaná dňa 8.11.2022 (Obchodný register Okresného súdu Bratislava I v Bratislave, oddiel Sja, vložka 238/B)
+Hlavným predmetom činnosti spoločnosti je:  Počítačové služby a služby súvisiace s počítačovým spracovaním údajov  Výskum a vývoj v oblasti prírodných, technických, spoločenských a humanitných vied  Sprostredkovateľská činnosť v oblasti obchodu, služieb, výroby  Kúpa tovaru na účely jeho predaja konečnému spotrebiteľovi (maloobchod) alebo iným
+prevádzkovateľom živnosti (veľkoobchod)  Vydavateľská činnosť, polygrafická výroba a knihárske práce  Vedenie účtovníctva  Reklamné a marketingové služby, prieskum trhu a verejnej mienky  Dizajnérske činnosti  Prenájom hnuteľných vecí  Administratívne služby  Vykonávanie mimoškolskej vzdelávacej činnosti
+2. DÁTUM SCHVÁLENIA ÚČTOVNEJ ZÁVIERKY ZA PREDCHÁDZAJÚCE OBDOBIE
+Spoločnosti sa netýka
+3. PRÁVNY DÔVOD NA ZOSTAVENIE ZÁVIERKY
+Účtovná závierka Spoločnosti k 31. decembru 2022 je zostavená ako riadna účtovná závierka podľa § 17 Zákona NR SR č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov za účtovné obdobie od 8. novembra 2022 do 31. decembra 2022. Účtovná závierka bola zostavená za predpokladu nepretržitého trvania účtovnej jednotky a pozostáva zo Súvahy, Výkazu ziskov a strát a Poznámok k účtovnej závierke.
+
+1
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+4. ÚDAJE O SKUPINE
+
+Spoločnosť je materskou spoločnosťou. Obchodné meno a sídlo dcérskych účtovných jednotiek je uvedené nižšie:
+
+ Vestberry, s.r.o. Staré Grunty 18, 841 04 Bratislava
+
+Spoločnosť je oslobodená od povinnosti zostaviť konsolidovanú účtovnú závierku a konsolidovanú výročnú správu podľa § 22 ods. 8 Zákona o účtovníctve.
+
+Štruktúra spoločníkov Spoločnosti je uvedená v nasledovnom prehľade:
+
+Spoločník
+Marek Zámečník Matej Pavlanský Ján Káčer 0100 Ventures s.r.o. Bold Fund 1 s.r.o. JK Investment, s.r.o. DECENT International, a.s. Joanne Chia Jhet-Li Osaühing Bonner Systems Haflo AB KB-SOFT HOLDING LIMITED JKVH, s.r.o.
+
+Podiel na
+
+Výška základného
+
+imania
+
+základnom imaní
+
+spoločnosti
+
+2 619,01
+
+26%
+
+1 833,00
+
+18%
+
+1 636,00
+
+16%
+
+262,00
+
+3%
+
+196,00
+
+2%
+
+118,00
+
+1%
+
+198,00
+
+2%
+
+120,00
+
+1%
+
+120,00
+
+1%
+
+233,00
+
+2%
+
+2 467,00
+
+25%
+
+198,00
+
+2%
+
+5. POČET ZAMESTNANCOV Spoločnosť v bežnom účtovnom období nezamestnávala zamestnancov.
+
+6. POSÚDENIE VPLYVU AKTUÁLNEJ EKONOMICKEJ A HOSPODÁRSKEJ SITUÁCIE NA SPOLOČNOSŤ
+Po konci roka 2021 došlo k eskalácii politického napätia v regióne, ktoré vyústilo do vojnového konfliktu medzi Ruskou federáciou a Ukrajinou a výrazne zasiahlo celosvetové dianie, negatívne ovplyvnilo ceny komodít a finančné trhy a prispelo k zvýšeniu volatility podnikateľského prostredia. Situácia zostáva naďalej veľmi nestabilná a možno očakávať vplyv uvalených sankcií, obmedzenie aktivít spoločností pôsobiacich v danom regióne, ako aj dôsledky na celkové ekonomické prostredie, predovšetkým obmedzenie dodávateľských a odberateľských reťazcov. Rozsah dôsledkov týchto udalostí na Spoločnosť však v danom momente nie je možné úplne predvídať.
+
+2
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+ČL. II INFORMÁCIE O ORGÁNOCH SPOLOČNOSTI
+Členom štatutárneho orgánu, ani členom dozorných orgánov neboli v roku 2022 poskytnuté žiadne pôžičky, záruky alebo iné formy zabezpečenia, ani finančné prostriedky alebo iné plnenia na súkromné účely členov, ktoré sa vyúčtovávajú.
+
+ČL. III INFORMÁCIE O PRIJATÝCH POSTUPOCH
+1. VÝCHODISKÁ PRE ZOSTAVENIE ÚČTOVNEJ ZÁVIERKY
+Účtovná závierka Spoločnosti pozostávajúca zo súvahy, výkazu ziskov a strát a poznámok k účtovnej závierke k 31. decembru 2022 bola zostavená za predpokladu nepretržitého trvania činnosti spoločnosti a v súlade s účtovnými predpismi platnými v Slovenskej republike. Údaje v účtovnej závierke správne a verne zobrazujú stav majetku a záväzkov, vlastného imania, predstavujúce súhrn vlastných zdrojov krytia majetku, finančnú situáciu a výsledok hospodárenia.
+2. INFORMÁCIA O APLIKÁCII A ZMENÁCH ÚČTOVNÝCH ZÁSAD A ÚČTOVNÝCH METÓD
+2.1. VŠEOBECNÉ ÚČTOVNÉ ZÁSADY
+1. Pri účtovaní o výsledku hospodárenia účtovnej jednotky Spoločnosť berie za základ všetky náklady a výnosy, ktoré sa vzťahujú na účtovné obdobie bez ohľadu na dátum ich platenia.
+2. Ocenenie majetku a záväzkov v účtovníctve a účtovnej závierke je upravené o položky vyjadrujúce riziká, straty a znehodnotenia, ktoré boli známe ku dňu zostavenia účtovnej závierky (opravné položky, rezervy).
+3. Pokiaľ sa pri inventarizácii zásob zistí, že ich predajná cena znížená o náklady spojené s predajom je nižšia, než cena použitá na ich ocenenie v účtovníctve, zásoby sa ocenia v účtovníctve a v účtovnej závierke touto nižšou cenou.
+4. Spoločnosť účtuje o skutočnostiach, ktoré sú predmetom účtovníctva, do obdobia, s ktorým tieto skutočnosti časovo a vecne súvisia, ak túto zásadu nemožno dodržať, môže účtovať aj v účtovnom období, v ktorom uvedené skutočnosti zistila.
+5. Majetok a záväzky sú vykazované v historických cenách, ak nie je v článku III. bode 2.2 (Spôsob ocenenia jednotlivých položiek) uvedené inak.
+6. Spoločnosť vykonala ku dňu účtovnej závierky inventarizáciu majetku a záväzkov v súlade so zákonom o účtovníctve.
+7. Zostatky účtov, ktoré obsahuje súvaha, a ktorými sa účtovné obdobie začína, nadväzujú na zostatky účtov, ktorými sa predchádzajúce účtovné obdobie uzavrelo.
+8. Pri rozlišovaní majetku a pasív na dlhodobé a krátkodobé sa za základné kritérium berie celková doba splatnosti. Pohľadávky a záväzky sú však v súvahe vykazované podľa zostatkovej doby splatnosti ku dňu zostavenia účtovnej závierky, to znamená, že pohľadávky a záväzky so zostatkovou dobou splatnosti do 12 mesiacov sú vykazované ako krátkodobé, so zostatkovou dobou splatnosti nad 12 mesiacov ako dlhodobé.
+3
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+2.2. POUŽITÉ ÚČTOVNÉ METÓDY A ZÁSADY 2.2.1. SPÔSOB OCENENIA JEDNOTLIVÝCH POLOŽIEK a) Dlhodobý nehmotný majetok obstaraný kúpou Dlhodobý nehmotný majetok obstaraný kúpou bol v účtovníctve ocenený v obstarávacej cene. Drobný dlhodobý nehmotný majetok do výšky 2 400 EUR je jednorazovo odpísaný do nákladov spoločnosti v roku jeho obstarania.
+b) Dlhodobý nehmotný majetok obstaraný vlastnou činnosťou Spoločnosť nevytvára dlhodobý nehmotný majetok vlastnou činnosťou.
+c) Dlhodobý nehmotný majetok obstaraný iným spôsobom Spoločnosť neeviduje dlhodobý nehmotný majetok obstaraný iným spôsobom.
+d) Dlhodobý hmotný majetok obstaraný kúpou Dlhodobý hmotný majetok bol v účtovníctve ocenený v obstarávacej cene. Obstarávacia cena obsahuje cenu obstarania majetku a náklady súvisiace s obstaraním, ako napríklad náklady na dopravu, poštovné, clo, províziu. Náklady na rozšírenie, modernizáciu a rekonštrukciu, vedúce k zvýšeniu výkonnosti, kapacity alebo účinnosti v úhrnnej hodnote viac ako 1 700 EUR pri jednotlivom majetku za bežné účtovné obdobie, zvyšujú obstarávaciu cenu dlhodobého hmotného majetku. Náklady na technické zhodnotenie v úhrnnej hodnote 1 700 EUR a menej pri jednotlivom majetku za bežné účtovné obdobie a náklady na prevádzku, údržbu a opravy sa účtujú do nákladov bežného účtovného obdobia. Dlhodobý hmotný majetok do výšky 1 700 EUR je jednorazovo odpísaný do nákladov spoločnosti v roku jeho obstarania.
+e) Dlhodobý hmotný majetok obstaraný vlastnou činnosťou Spoločnosť nevytvára dlhodobý hmotný majetok vlastnou činnosťou.
+f) Dlhodobý hmotný majetok obstaraný iným spôsobom Spoločnosť neeviduje dlhodobý hmotný majetok obstaraný iným spôsobom.
+
+4
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+g) Dlhodobý finančný majetok
+Finančný majetok je klasifikovaný ako dlhodobý finančný majetok, ak je jeho doba splatnosti alebo vyrovnania iným spôsobom dlhšia ako 1 rok. Dlhodobý finančný majetok, ktorý predstavuje podiel na základnom imaní vo výške viac než 50 %, je klasifikovaný ako podiely voči prepojeným jednotkám, pokiaľ ide o podiel väčší ako 20 % ako podielové cenné papiere a podiely v spoločnosti v rámci podielovej účasti iné ako voči prepojeným jednotkám. Ostatné podielové cenné papiere a podiely a dlhové cenné papiere, ktoré nie sú cennými papiermi držanými do splatnosti, sú klasifikované ako realizovateľné cenné papiere a podiely.
+Dlhodobý finančný majetok je evidovaný v obstarávacej cene. Obstarávacia cena obsahuje cenu obstarania majetku a náklady súvisiace s obstaraním.
+Pôžičky poskytnuté podnikom v skupine alebo ostatné pôžičky s pôvodnou dobou splatnosti dlhšou ako jeden rok, sú evidované v menovitej hodnote, ktorá je upravená opravnou položkou o mieru ich nedobytnosti. Ak je zostatková doba splatnosti pohľadávky dlhšia ako 1 rok, upravuje sa opravnou položkou na jej hodnotu v čase účtovania a vykazovania (súčasná hodnota).
+Spoločnosť má 100% podiel v dcérskej spoločnosti Vestberry, s.r.o.
+
+h) Zásoby obstarané kúpou
+Zásoby Spoločnosti sú ocenené obstarávacími cenami, ktorých súčasťou je cena obstarania a náklady súvisiace s obstaraním. Náklady súvisiace s obstaraním predstavovali prepravné, clo, balné, a pod.
+Spoločnosť účtuje o obstaraní a úbytku zásob podľa spôsobu B.
+
+Účtovná jednotka nemá určené predpisom pre účtovné obdobie normy prirodzených úbytkov zásob.
+Úbytok zásob sa účtuje v cene zistenej metódou štandardných cien pri tovare a metódou váženého aritmetického priemeru u materiálu.
+Ak sú obstarávacia cena alebo vlastné náklady zásob vyššie než ich čistá realizačná hodnota ku dňu, ku ktorému sa zostavuje účtovná závierka, vytvára sa opravná položka k zásobám vo výške rozdielu medzi ich ocenením v účtovníctve a ich čistou realizačnou hodnotou. Čistá realizačná hodnota je predpokladaná predajná cena zásob znížená o predpokladané náklady na ich dokončenie a náklady súvisiace s ich predajom.
+
+i) Zásoby vytvorené vlastnou činnosťou
+Zásoby vlastnej výroby Spoločnosť ku koncu roka ocenila vlastnými nákladmi podľa operatívnych (plánovaných) kalkulácií. Nákladmi podľa operatívnych (plánovaných) kalkulácií sú náklady stanovené v konkrétnych technických, technologických, ekonomických a organizačných podmienkach, určených technickou prípravou výroby na uskutočňovanie výkonu. Spoločnosť v rámci vlastných nákladov začlenila priame náklady ako aj časť nepriamych nákladov, ktoré sa vynaložili v súvislosti s výrobnou činnosťou podniku.
+
+5
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+Súčasťou priamych nákladov je priamy materiál, polotovary vlastnej výroby, priame mzdy, náklady na sociálne zabezpečenie, výrobné obaly.
+
+j) Zásoby obstarané iným spôsobom Spoločnosť neeviduje zásoby obstarané iným spôsobom.
+
+k) Zákazková výroba a zákazková výstavba nehnuteľnosti určenej na predaj. Spoločnosť neúčtuje o zákazkovej výrobe.
+
+l) Pohľadávky
+Pohľadávky sú v účtovníctve ocenené ich menovitou hodnotou. V prípade pochybných a sporných pohľadávok Spoločnosť vytvára adekvátnu opravnú položku k pohľadávkam.
+Pri dlhodobých pohľadávkach je opravnou položkou upravená hodnota pohľadávky na jej hodnotu v čase účtovania a vykazovania (súčasná hodnota).
+
+m) Krátkodobý finančný majetok Peňažné prostriedky a ceniny sú ocenené v ich menovitej hodnote.
+
+n) Časové rozlíšenie na strane aktív súvahy
+Spoločnosť účtuje na účtoch časového rozlíšenia v súlade so zásadou o účtovaní nákladov a výnosov do obdobia, s ktorým časovo a vecne súvisia, ide o anticipatívne a tranzitívne položky časového rozlíšenia.
+o) Rezervy
+Rezerva je záväzok predstavujúci existujúcu povinnosť Spoločnosti, ktorá vznikla z minulých udalostí a je pravdepodobné, že v budúcnosti zníži jej ekonomické úžitky. Rezervy sú záväzky s neurčitým časovým vymedzením alebo výškou a oceňujú sa odhadom v sume potrebnej na splnenie existujúcej povinnosti ku dňu, ku ktorému sa zostavuje účtovná závierka.
+Tvorba rezervy sa účtuje na vecne príslušný nákladový alebo majetkový účet, ku ktorému záväzok prislúcha. Použitie rezervy sa účtuje na ťarchu vecne príslušného účtu rezerv so súvzťažným zápisom v prospech vecne príslušného účtu záväzkov. Rozpustenie nepotrebnej rezervy alebo jej časti sa účtuje opačným účtovným zápisom ako sa účtovala tvorba rezervy.
+Rezerva na bonusy, rabaty, skontá a vrátenie kúpnej ceny pri reklamácií sa tvorí ako zníženie pôvodne dosiahnutých výnosov so súvzťažným zápisom v prospech účtu rezerv.
+Spoločnosť tvorí rezervy v súlade so zákonom o účtovníctve na predpokladané riziká, straty a zníženia hodnoty súvisiace so záväzkami s neurčitým časovým vymedzením alebo výškou.
+6
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+p) Opravné položky
+Opravné položky sa tvoria na základe zásady opatrnosti, ak je opodstatnené predpokladať, že došlo k zníženiu hodnoty majetku oproti jeho oceneniu v účtovníctve. Opravná položka sa účtuje v sume opodstatneného predpokladu zníženia hodnoty majetku oproti jeho oceneniu v účtovníctve.
+q) Dlhopisy
+Ako krátkodobý finančný majetok sa dlhopis účtuje, ak je určený na obchodovanie a ak je držaný do doby splatnosti, pričom splatnosť je do jedného roka. Ako dlhodobý finančný majetok sa dlhopis účtuje, ak je držaný do doby splatnosti a jeho splatnosť je dlhšia ako jeden rok.
+Dlhopisy sa pri ich obstaraní oceňujú obstarávacou cenou.
+Ku dňu ocenenia sa dlhopisy určené na obchodovanie oceňujú reálnou hodnotou. Ocenenie dlhopisov držaných do splatnosti sa odo dňa vyrovnania ich nákupu do dňa ich splatnosti postupne zvyšuje o úrokové výnosy.
+r) Záväzky
+Záväzky (vrátane úverov a výpomocí) sú ocenené v ich menovitej hodnote. Ak sa pri inventarizácií záväzkov zistí, že suma záväzkov je iná ako ich výška v účtovníctve, uvedú sa záväzky v účtovníctve aj v účtovnej závierke v tomto zistenom ocenení.
+s) Zamestnanecké požitky
+Platy, mzdy, príspevky do štátnych dôchodkových a poistných fondov, platená ročná dovolenka a platená zdravotná dovolenka, bonusy a ostatné nepeňažné požitky (napr. zdravotná starostlivosť) sa účtujú v účtovnom období, s ktorým vecne a časovo súvisia.
+
+t) Časové rozlíšenie na strane pasív súvahy
+Spoločnosť účtuje na účtoch časového rozlíšenia v súlade so zásadou o účtovaní nákladov a výnosov do obdobia, s ktorým časovo a vecne súvisia, ide o anticipatívne a tranzitívne položky časového rozlíšenia.
+
+u) Deriváty, majetok a záväzky zabezpečené derivátmi
+Spoločnosť neúčtovala v priebehu účtovného obdobia o derivátoch a tiež nemá derivátmi zabezpečený majetok alebo záväzky.
+
+v) Prenajatý majetok a majetok obstaraný na základe zmluvy o kúpe prenajatej veci
+Spoločnosť účtuje pri prenajatom majetku (operatívny prenájom) nájomné súvisiace s bežným obdobím priamo do nákladov v zmysle časovej a vecnej súvislosti počas doby trvania leasingovej zmluvy.
+
+7
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+w) Daň z príjmov
+Splatná daň z príjmov sa účtuje do nákladov Spoločnosti v období vzniku daňovej povinnosti a v priloženom výkaze ziskov a strát Spoločnosti je vypočítaná zo sadzby ustanovenej Zákonom č. 595/2003 Z.z. o dani z príjmov a základu vyplývajúceho z hospodárskeho výsledku pred zdanením, ktorý bol upravený o pripočítateľné a odpočítateľné položky z titulu trvalých a dočasných úprav daňového základu a umorenia straty. Výsledný daňový záväzok je uvedený po znížení o preddavky na daň z príjmov, ktoré Spoločnosť uhradila v priebehu roka. V prípade, že uhradené preddavky na daň z príjmu v priebehu roka sú vyššie ako daňová povinnosť za tento rok, Spoločnosť vykazuje výslednú daňovú pohľadávku.
+Odložená daň je počítaná metódou záväzkov. Odložená daň z príjmov sa účtuje pri: a) dočasných rozdieloch medzi účtovnou hodnotou majetku a účtovnou hodnotou záväzkov vykázanou v súvahe a ich daňovou základňou, b) pri možnosti umorovať daňovú stratu v budúcnosti, c) možnosti previesť nevyužité daňové odpočty a iné daňové nároky do budúcich období.
+Odložená daň sa vypočíta s použitím sadzby dane platnej v nasledujúcich účtovných obdobiach.
+x) Majetok nadobudnutý privatizáciou
+Spoločnosť nenadobudla majetok privatizáciou.
+
+y) Vykazovanie výnosov
+Výnosy z predaja výrobkov sa vykazujú v momente prenosu rizika a vlastníctva výrobku, obvykle po dodávke.
+Výnosy z predaja služieb sa vykazujú v účtovnom období, v ktorom boli služby poskytnuté s ohľadom na stav rozpracovanosti danej služby. Tento je zistený na základe skutočne poskytnutých služieb ako pomernej časti k celkovému rozsahu dohodnutých služieb.
+Výnosy sa vykazujú po odpočítaní dane z pridanej hodnoty, zliav a zrážok (rabaty, bonusy, skontá, dobropisy a pod.). Výnosové úroky sa účtujú rovnomerne v účtovných obdobiach, ktorých sa vecne a časovo týkajú. Výnosy z dividend sa zaúčtujú v čase vzniku práva Spoločnosti na prijatie platby.
+
+2.2.2. PLÁN ODPISOVANIA DLHODOBÉHO MAJETKU
+Spoločnosť má zostavený odpisový plán ako podklad pre vyčíslenie oprávok odpisovaného majetku v priebehu jeho používania. Účtovné odpisy sú vypočítané z ceny, v ktorej je majetok ocenený v účtovníctve a to do jej výšky.
+Spoločnosť odpisuje dlhodobý nehmotný majetok metódou rovnomerného odpisovania na základe odpisových sadzieb odvodených od predpokladanej doby používania zodpovedajúcej spotrebe budúcich ekonomických úžitkov z majetku. Daňové odpisy dlhodobého nehmotného majetku sú v zmysle zákona č. 595/2003 Z.z. o dani z príjmov rovnaké ako účtovné odpisy.
+
+8
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+Dlhodobý hmotný majetok Spoločnosť odpisuje metódou rovnomerného odpisovania po dobu stanovenej životnosti odpisovaného majetku. Odpisovať sa začína mesiacom zaradenia dlhodobého majetku do používania.
+
+Pre daňové účely Spoločnosť odpisuje svoj dlhodobý hmotný majetok v zmysle § 22 – 29 zákona č. 595/2003 Z.z. o dani z príjmov. Tieto odpisové sadzby sú rovnaké ako sadzby používané pre účtovné účely.
+Spoločnosť v roku 2022 neúčtovala o dlhodobom majetku
+
+2.2.3. ZÁSADY PRE TVORBU OPRAVNÝCH POLOŽIEK
+
+a) Zásady pre tvorbu opravných položiek k zásobám
+
+Spoločnosti sa netýka
+
+b) Zásady pre tvorbu opravných položiek k pohľadávkam
+
+Spoločnosť tvorí opravnú položku k pohľadávkam podľa vnútropodnikovej smernice nasledovne:
+
+Kritériá
+Po s pl a tnos ti 91 - 180 dní Po s pl a tnos ti 181 - 360 dní Po s pl a tnos ti vi a c a ko 360 dní Pochybné a s porné pohľa dá vky V konkurze
+
+Opravná položka v %
+20 50 100 100 100
+
+V prípade pohľadávky so zostatkovou dobou splatnosti dlhšou ako 1 rok, upravuje sa hodnota pohľadávky na jej hodnotu v čase účtovania a vykazovania (súčasná hodnota).
+
+2.2.4. PREPOČET ÚDAJOV V CUDZÍCH MENÁCH NA MENU EURO
+V účtovníctve sa majetok a záväzky vyjadrené v cudzej mene prepočítavajú na menu euro kurzom určeným v kurzovom lístku Európskej centrálnej banky v deň predchádzajúci dňu uskutočnenia účtovného prípadu alebo v iný deň, ak to ustanovuje osobitný predpis.
+Účtovná jednotka ku dňu, ku ktorému sa zostavuje účtovná závierka, prepočíta na menu euro majetok a záväzky vyjadrené v cudzej mene s výnimkou prijatých a poskytnutých preddavkov kurzom vyhláseným Európskou centrálnou bankou.
+Kurzové rozdiely vzniknuté počas roka ako aj kurzové rozdiely vzniknuté pri prepočte majetku a záväzkov ku dňu zostavenia účtovnej závierky ovplyvňujú hospodársky výsledok bežného účtovného obdobia.
+
+9
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+2.2.5. DOTÁCIE POSKYTNUTÉ NA OBSTARANIE MAJETKU
+
+Spoločnosti sa netýka.
+
+2.2.6. ZMENY ÚČTOVNÝCH ZÁSAD A ÚČTOVNÝCH METÓD, ZMENY SPÔSOBOV OCEŇOVANIA, ODPISOVANIA, VYKAZOVANIA A POSTUPOV
+V účtovnej jednotke sa počas roka neuskutočnili zmeny spôsobov oceňovania, spôsobov odpisovania, postupov účtovania, usporiadania položiek účtovnej závierky ani obsahového vymedzenia týchto položiek oproti predchádzajúcemu účtovnému obdobiu, ak nie je uvedené inak, okrem tých, ktoré vyplývali priamo zo zmien v slovenskej účtovnej legislatíve.
+
+ČL. IV INFORMÁCIE, KTORÉ VYSVETĽUJÚ A DOPLŇAJÚ POLOŽKY SÚVAHY A VÝKAZU ZISKOV A STRÁT
+1. GOODWILL Spoločnosti sa netýka.
+2. DERIVÁTY
+Spoločnosti sa netýka. a) Majetok a záväzky zabezpečené derivátmi Spoločnosti sa netýka.
+3. INFORMÁCIE O ZÁVÄZKOCH a) Záväzky so zostatkovou dobou splatnosti dlhšou ako 5 rokov Spoločnosti sa netýka. b) Zabezpečené záväzky Spoločnosti sa netýka.
+4. VLASTNÉ AKCIE Spoločnosti sa netýka.
+
+10
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+5. VLASTNÉ IMANIE
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+Účtovná jednotka pri založení Spoločnosti vytvorila kapitálový fond z príspevkov spoločníkov v celkovej výške 1 829 820 EUR.
+
+6. NÁKLADY A VÝNOSY, KTORÉ MAJÚ VÝNIMOČNÝ ROZSAH ALEBO VÝSKYT
+
+Spoločnosti sa netýka
+
+ČL. V INFORMÁCIE O INÝCH AKTÍVACH A INÝCH PASÍVACH
+
+1. PODMIENENÝ MAJETOK A PODMIENENÉ ZÁVÄZKY
+a) Podmienený majetok
+Podmieneným majetkom sa rozumie možný majetok, ktorý vznikol v dôsledku minulých udalostí a ktorého existencia alebo vlastníctvo závisí od toho, či nastane alebo nenastane jedna alebo viac neistých udalostí v budúcnosti, ktorých vznik nezávisí od účtovnej jednotky.
+Spoločnosti sa netýka.
+b) Podmienené záväzky
+Podmieneným záväzkom sa rozumie: - možná povinnosť, ktorá vznikla ako dôsledok minulej udalosti a ktorej existencia závisí od toho, či nastane alebo nenastane jedna alebo viac neistých udalostí v budúcnosti, ktorých vznik nezávisí od účtovnej jednotky, alebo - povinnosť, ktorá vznikla ako dôsledok minulej udalosti, ale ktorá sa nevykazuje v súvahe, pretože nie je pravdepodobné, že na splnenie tejto povinnosti bude potrebný úbytok ekonomických úžitkov, alebo výška tejto povinnosti sa nedá spoľahlivo oceniť.
+Spoločnosti sa netýka.
+
+2. OSTATNÉ FINANČNÉ POVINNOSTI V spoločnosti sa v priebehu účtovného obdobia nevyskytli významné položky ostatných finančných povinností, ktoré sa nevykazujú v účtovných výkazoch.
+3. PODSÚVAHOVÉ ÚČTY Spoločnosť neeviduje majetok ani záväzky na podsúvahových účtoch.
+11
+
+Poznámky Úč PODV 3 - 01
+
+Vestberry Holding, j.s.a.
+
+IČO
+
+54903742
+
+Poznámky k 31.12.2022
+
+DIČ 2 1 2 1 8 4 0 4 0 2
+
+ČL. VI UDALOSTI, KTORÉ NASTALI PO DNI, KU KTORÉMU SA ZOSTAVUJE ÚČTOVNÁ ZÁVIERKA
+Spoločnosti nie sú známe žiadne iné skutočnosti, ktoré vznikli po dni, ku ktorému je zostavená účtovná závierka, ktoré by významnejším spôsobom menili výsledky účtovnej závierky za rok 2022, resp. by významnejším spôsobom ovplyvnili činnosť Spoločnosti v nasledujúcich účtovných obdobiach.
+ČL. VII OSTATNÉ INFORMÁCIE
+Spoločnosti nebolo udelené výlučné právo alebo osobitné právo poskytovať služby vo verejnom záujme.
+Na Spoločnosť sa rovnako nevzťahuje §23d ods. 6 zákona o účtovníctve.
+
+12
+
+

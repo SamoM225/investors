@@ -718,82 +718,6 @@
     ]
   },
   {
-    "ico": "52204634",
-    "name": "IPM Avanea Eco Management a.s.",
-    "subtype": "VC",
-    "confidence": "stredna",
-    "confidence_activity": "vysoka",
-    "confidence_type": "stredna",
-    "existencia": [
-      {
-        "value": "{\"nazov\":\"IPM Avanea Eco Management a.s.\",\"ico\":\"52204634\",\"sidlo\":\"Mostová 2 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Akciová spoločnosť\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
-        "claim_id": "REG-52204634-existencia"
-      }
-    ],
-    "stav": [
-      {
-        "value": "aktivny",
-        "claim_id": "REG-52204634-stav"
-      }
-    ],
-    "licencia": [
-      {
-        "value": "registrovaný správca alternatívnych investičných fondov (NBS), od 2019-03-05",
-        "claim_id": "RES-52204634-003"
-      }
-    ],
-    "sektor_investora": [
-      {
-        "value": "7020 Poradenské služby v oblasti podnikania a riadenia",
-        "claim_id": "REG-52204634-sektor_investora"
-      }
-    ],
-    "regulacna_klasifikacia": [],
-    "deklarovany_sektor": [
-      {
-        "value": "odpadové hospodárstvo (waste management)",
-        "claim_id": "RES-52204634-010"
-      }
-    ],
-    "deklarovana_faza": [
-      {
-        "value": "bez obmedzenia veku alebo veľkosti podniku",
-        "claim_id": "RES-52204634-011"
-      }
-    ],
-    "ticket_size": [],
-    "velkost_fondu": [],
-    "celkove_aktiva": [
-      {
-        "value": "EUR 1253103 (k 2025-12-31, IPM Avanea Eco Management a.s.)",
-        "claim_id": "RES-52204634-009"
-      }
-    ],
-    "investicie": [
-      {
-        "target_ico": "53582187",
-        "target": "ECOTAP, s.r.o.",
-        "datum": "2024-01-11",
-        "forma": "podiel",
-        "claim_id": "RES-52204634-006",
-        "faza": [],
-        "velkost_firmy": [
-          {
-            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":0,\"bilancna_suma\":9028}",
-            "claim_id": "RES-52204634-008"
-          }
-        ],
-        "typ_podielu": [
-          {
-            "value": "kontrolny",
-            "claim_id": "RES-52204634-007"
-          }
-        ],
-        "vyska_investicie": []
-      }
-    ]
-  },
-  {
     "ico": "47759097",
     "name": "Slovak Investment Holding, a. s.",
     "subtype": "statny_fond",
@@ -2030,38 +1954,6 @@
         "vyska_investicie": []
       },
       {
-        "target_ico": "53101103",
-        "target": "ASC Retail Holding, s. r. o.",
-        "datum": "2021-02-04",
-        "forma": "podiel",
-        "claim_id": "RES-44193025-024",
-        "faza": [],
-        "velkost_firmy": [
-          {
-            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2020,\"zamestnanci\":null,\"trzby\":null,\"bilancna_suma\":5000}",
-            "claim_id": "RES-44193025-026"
-          }
-        ],
-        "typ_podielu": [
-          {
-            "value": "kontrolny",
-            "claim_id": "RES-44193025-025"
-          }
-        ],
-        "vyska_investicie": []
-      },
-      {
-        "target_ico": "53068394",
-        "target": "GS One, s.r.o.",
-        "datum": "2020-06-26",
-        "forma": "podiel",
-        "claim_id": "RES-44193025-027",
-        "faza": [],
-        "velkost_firmy": [],
-        "typ_podielu": [],
-        "vyska_investicie": []
-      },
-      {
         "target_ico": "47970006",
         "target": "eyerim s.r.o.",
         "datum": "2020-06-11",
@@ -2270,6 +2162,169 @@
         ],
         "velkost_firmy": [],
         "typ_podielu": [],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "55927033",
+    "name": "Impact Ventures, s. r. o.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Impact Ventures, s. r. o.\",\"ico\":\"55927033\",\"sidlo\":\"Framborská ulica 283/58 Žilina\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-55927033-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-55927033-stav"
+      }
+    ],
+    "licencia": [],
+    "sektor_investora": [
+      {
+        "value": "6619 Ostatné pomocné činnosti finančných služieb okrem poistenia a dôchodkového zabezpečenia",
+        "claim_id": "REG-55927033-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "impact: startupy, firmy, sociálne podniky a občianske organizácie s pozitívnym spoločenským či environmentálnym vplyvom, s pôsobnosťou mimo Bratislavského kraja",
+        "claim_id": "RES-55927033-014"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "pre-seed, seed",
+        "claim_id": "RES-55927033-015"
+      }
+    ],
+    "ticket_size": [
+      {
+        "value": "EUR 100000-500000",
+        "claim_id": "RES-55927033-016"
+      }
+    ],
+    "velkost_fondu": [
+      {
+        "value": "viac ako EUR 3000000",
+        "claim_id": "RES-55927033-017"
+      }
+    ],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 3380218 (k 2025-12-31)",
+        "claim_id": "RES-55927033-018"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "55102239",
+        "target": "Seerlinq s.r.o.",
+        "datum": "2026-09-08",
+        "forma": "podiel",
+        "claim_id": "RES-55927033-004",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2025,\"zamestnanci\":null,\"trzby\":501167,\"bilancna_suma\":1865242}",
+            "claim_id": "RES-55927033-006"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-55927033-005"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53613988",
+        "target": "AgeVolt j. s. a.",
+        "datum": "2025-02-21",
+        "forma": "podiel",
+        "claim_id": "RES-55927033-007",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":614964,\"bilancna_suma\":1723562}",
+            "claim_id": "RES-55927033-008"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": [
+          {
+            "value": "EUR 300000",
+            "claim_id": "RES-55927033-010"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ico": "56494904",
+    "name": "Avialytica Fund s. r. o.",
+    "subtype": "VC",
+    "confidence": "stredna",
+    "confidence_activity": "vysoka",
+    "confidence_type": "stredna",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Avialytica Fund s. r. o.\",\"ico\":\"56494904\",\"sidlo\":\"Brnianska 3725/43 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-56494904-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-56494904-stav"
+      }
+    ],
+    "licencia": [],
+    "sektor_investora": [
+      {
+        "value": "8299 Ostatné pomocné obchodné činnosti i. n.",
+        "claim_id": "REG-56494904-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [],
+    "deklarovana_faza": [],
+    "ticket_size": [],
+    "velkost_fondu": [],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 2729198 (k 2025-12-31)",
+        "claim_id": "RES-56494904-005"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "55812724",
+        "target": "NGA Invest, s. r. o.",
+        "datum": "2025-02-15",
+        "forma": "podiel",
+        "claim_id": "RES-56494904-002",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":null,\"bilancna_suma\":455154}",
+            "claim_id": "RES-56494904-004"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-56494904-003"
+          }
+        ],
         "vyska_investicie": []
       }
     ]

@@ -1,0 +1,36 @@
+{
+  "updated": "2026-10-09",
+  "institutions": [
+    ...
+    {
+      "id": "47777028",
+      "name": "Limerock Investment Holding, s.r.o.",
+      "address": "Planét 5, 82102 Bratislava - mestská časť Ružinov",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný správca alternatívnych investičných fondov",
+          "licenses": [],
+          "valid_from": "2025-07-25"
+        }
+      ]
+    },
+    ...
+    {
+      "id": "47254734",
+      "name": "JEREMIE Co-Investment Fund, s.r.o. v likvidácii",
+      "address": "Paulínyho 8, 81102 Bratislava",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2014-07-08",
+          "parent_entity_id": "47777028",
+          "parent_entity_name": "Limerock Investment Holding, s.r.o."
+        }
+      ]
+    },
+    ...
+  ]
+}

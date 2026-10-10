@@ -1,0 +1,30 @@
+  "updated": "2026-10-09",
+[...]
+    {
+      "id": "44663706",
+      "name": "Icon group, s.r.o.",
+      "address": "Halašova 2649/17, Žilina 010 01",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný správca alternatívnych investičných fondov",
+          "licenses": [],
+          "valid_from": "2019-11-11"
+        }
+      ]
+    },
+[...]
+    {
+      "id": "52647668",
+      "name": "Global Opportunities Fund a.s. investičný fond s premenlivým základným imaním",
+      "address": "Halašova 2649/17, 01001 Žilina",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2019-11-11",
+          "parent_entity_id": "44663706",
+          "parent_entity_name": "Icon group, s.r.o."
+        }
+      ]

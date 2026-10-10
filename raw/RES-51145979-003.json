@@ -1,0 +1,31 @@
+{
+  "updated": "2026-10-09",
+  "institutions": [
+[...]
+      "id": "50532481",
+      "name": "EQT Ventures s.r.o.",
+      "address": "Hviezdoslavovo námestie 15, 811 01 Bratislava - mestská časť Staré Mesto",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný správca alternatívnych investičných fondov",
+          "licenses": [],
+          "valid_from": "2017-11-21"
+        }
+      ]
+    },
+    {
+[...]
+      "id": "51145979",
+      "name": "ZEPHYR AIF a.s.",
+      "address": "Hviezdoslavovo námestie 15, 81101 Bratislava - mestská časť Staré Mesto",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2017-11-21",
+          "parent_entity_id": "50532481",
+          "parent_entity_name": "EQT Ventures s.r.o."
+        }
+      ]

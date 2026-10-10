@@ -38,7 +38,7 @@ const srcByStatus = {};
 const statusByCand = Object.fromEntries(reg.map(r => [r.candidate_id, (decisions.find(d => d.ico && d.ico === r.ico) || {}).status || r.status]));
 for (const c of cand) { const s = statusByCand[c.candidate_id] || '?'; (srcByStatus[c.discovery_source] ||= {})[s] = ((srcByStatus[c.discovery_source] || {})[s] || 0) + 1; }
 const verdicts = count(claims.filter(c => !c.claim_id.startsWith('REG-')), c => c.verifier_verdict || 'neoverené');
-const passedG3 = decisions.filter(d => ['zaradeny', 'neiste', 'typ_nerozhodnuty', 'vyradeny_neaktivny'].includes(d.status) || (d.status === 'mimo_rozsahu' && d.failed_gate === 'G5'));
+const passedG3 = decisions.filter(d => ['zaradeny', 'neiste', 'typ_nerozhodnuty', 'vyradeny_neaktivny', 'vyradeny_bez_investicii', 'na_vyskum'].includes(d.status) || (d.status === 'mimo_rozsahu' && d.failed_gate === 'G5'));
 const unsure = decisions.filter(d => d.status === 'neiste' || d.status === 'typ_nerozhodnuty');
 const types = count(decisions.filter(d => d.status === 'zaradeny'), d => d.subtype || d.type);
 

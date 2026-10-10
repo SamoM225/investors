@@ -1,0 +1,261 @@
+IČO
+Poznámky Úč MÚJ 3 – 01 DIČ
+Čl. I
+Všeobecné údaje
+1. Názov právnickej osoby:
+Slovenský Energetický a Odpadový Fond s.r.o., skrátený názov SEOF s.r.o.
+Sídlo: Janotova 14, 841 05 Bratislava
+Obdobie od: 01.01.2025 do 31.12.2025
+2. Informácie o konsolidovanom celku, ak je účtovná jednotka jeho súčasťou:
+2.a) Obchodné meno a sídlo konsolidujúcej účtovnej jednotky, ktorá zostavuje
+konsolidovanú účtovnú závierku za tú skupinu účtovných jednotiek konsolidovaného
+celku, ktorého súčasťou je aj účtovná jednotka; uvádza sa aj obchodné meno a sídlo
+účtovnej jednotky, ktorá je bezprostredne konsolidujúcou účtovnou jednotkou:
+Spoločnosť SEOF s.r.o. je dcérskou spoločnosťou spoločnosti National Development
+Fund II., a.s. a spoločnosti Wasteland Investment Management s.r.o., ktoré majú spolu
+100%-percentný podiel na jej základnom imaní.
+Spoločnosť SEOF s.r.o., je alternatívny investičný fond podľa zákona o kolektívnom
+investovaní. Wasteland Investment Management s.r.o. ako právny spoločník pôsobí v
+postavení správcu finančného aktíva. Z tohto dôvodu spoločnosť SEOF s.r.o.,
+nevstupuje do konsolidovanej účtovnej závierky ani spoločnosti National Development
+Fund II., a.s. ani spoločnosti Wasteland Investment Management s.r.o..
+Spoločnosti National Development Fund II., a.s. a Wasteland Investment Management
+s.r.o. nezostavujú konsolidovanú účtovnú závierku, keďže nemajú kontrolu nad svojimi
+dcérskymi spoločnosťami.
+2.b) Oslobodenie materskej účtovnej jednotky od povinnosti zostavenia konsolidovanej
+účtovnej závierky a konsolidovanej výročnej správy
+☐ V zmysle § 22 ods. 8 ZoÚ (oslobodenie od konsolidácie na medzistupni):
+Obchodné meno a sídlo materskej účtovnej jednotky zostavujúcej konsolidovanú
+účtovnú závierku podľa IFRS EÚ, do ktorej je zahrňovaná účtovná jednotka a všetky jej
+dcérske účtovné jednotky:
+☒ V zmysle § 22 ods. 12 ZoÚ (oslobodenie pri nevýznamnosti dcérskych spoločností):
+Obchodné meno dcérskej spoločnosti Sídlo dcérskej spoločnosti
+5 2 1 6 3 9 2 0 2 1 2 0 9 1 5 2 9 1
+IČO
+Poznámky Úč MÚJ 3 – 01 DIČ
+3. Informácie o počte zamestnancov:
+Názov položky
+Bežné účtovné
+obdobie
+Bezprostredne
+predchádzajúce
+účtovné obdobie
+Priemerný prepočítaný počet zamestnancov
+- -
+Čl. II
+Informácie o prijatých postupoch
+1. Účtovná jednotka bude nepretržite pokračovať vo svojej činnosti:
+☒ áno ☐ nie
+2. Spôsob oceňovania jednotlivých zložiek majetku a záväzkov:
+Druh majetku / záväzkov Spôsob ocenenia
+Náklady spojené
+s obstaraním
+Dlhodobý nehmotný majetok Obstarávacia cena
+Dlhodobý hmotný majetok Obstarávacia cena
+Dlhodobý finančný majetok Obstarávacia cena
+Zásoby obstarané kúpou Obstarávacia cena
+Zásoby obstarané vlastnou činnosťou Vlastné náklady
+Pohľadávky Menovitá hodnota
+Krátkodobý finančný majetok Obstarávacia cena, Menovitá
+hodnota
+Záväzky vrátane rezerv, dlhopisov, pôžičiek Menovitá hodnota
+Derivátové operácie Menovitá hodnota
+3. Spôsob zostavenia odpisového plánu dlhodobého majetku:
+Spôsob zostavenia účtovného odpisového plánu pre dlhodobý hmotný majetok a
+dlhodobý nehmotný majetok, doba odpisovania a použité sadzby a odpisové metódy
+pri stanovení účtovných odpisov:
+5 2 1 6 3 9 2 0 2 1 2 0 9 1 5 2 9 1
+IČO
+Poznámky Úč MÚJ 3 – 01 DIČ
+Druh majetku Doba odpisovania Sadzba odpisov Odpisová metóda
+Softvér 4 lineárna
+Stavby (priemyselné) 20 lineárna
+Stavby (administratívne) 40 Lineárna
+Stroje, prístroje a zariadenia 4 až 12 Lineárna
+Dopravné prostriedky 4 Lineárna
+☒ Odpisový plán účtovných odpisov dlhodobého nehmotného majetku vychádzal z
+odpisového plánu zostaveného účtovnou jednotkou, ktorý vychádzal z
+predpokladanej doby použiteľnosti dlhodobého nehmotného majetku alebo iných
+objektívnych predpokladov.
+☒ Odpisový plán bol ovplyvnený týmito rozhodnutiami:
+Dlhodobý hmotný a nehmotný majetok sa odpisuje podľa plánu odpisov, ktorý bol
+stanovený vzhľadom na odhad reálnej ekonomickej životnosti. Účtovné odpisy sú
+rovnomerné. Majetok sa začína odpisovať v mesiaci jeho zaradenia do používania.
+☐ Odpisový plán účtovných odpisov dlhodobého hmotného majetku podnikateľ zostavil
+interným predpisom, v ktorom vychádzal z predpokladaného opotrebenia zaraďovaného
+majetku zodpovedajúceho bežným podmienkam jeho používania. Odpisové sadzby
+pre účtovné a daňové odpisy podnikateľa sa nerovnajú.
+☒ Odpisový plán účtovných odpisov dlhodobého hmotného majetku podnikateľzostavil
+interným predpisom tak, že za základ vzal metódy používané pri vyčísľovanídaňových
+odpisov. Odpisové sadzby pre účtovné a daňové odpisy podnikateľa sa rovnajú.
+4. Zmeny účtovných zásad a účtovných metód:
+Účtovné metódy a zásady boli aplikované v rámci platného zákona o účtovníctve počas
+celého účtovného obdobia, s osobitosťami:
+Druh zmeny účtovnej zásady
+alebo účtovnej metódy
+Dôvod zmeny
+Hodnota vplyvu na
+príslušnú zložku majetku,
+záväzkov, vlastného imania
+a výsledku hospodárenia
+účtovnej jednotky
+N/A
+5 2 1 6 3 9 2 0 2 1 2 0 9 1 5 2 9 1
+IČO
+Poznámky Úč MÚJ 3 – 01 DIČ
+5. Dotácie poskytnuté na obstaranie majetku:
+Spoločnosť nemá obstaraný žiadny majetok z dotácii k 31.12.2025.
+Majetok Ocenenie Výška dotácie
+6. Oprava významných a nevýznamných chýb minulých účtovných období
+vykonaných v bežnom účtovnom období:
+Druh opravy Suma
+Popis chyby a vplyvu
+opravy
+Oprava významných chýb
+minulých účtovných období
+N/A
+Oprava nevýznamných chýb
+minulých účtovných období
+N/A
+Čl. III
+Informácie, ktoré vysvetľujú a dopĺňajú súvahu a výkaz ziskov a strát
+1. Informácie o sume a dôvodoch vzniku jednotlivých položiek nákladov alebo
+výnosov, ktoré majú výnimočný rozsah alebo výskyt:
+Udalosť Dôvod Hodnota
+N/A
+N/A
+N/A
+2.a) Informácie o záväzkoch:
+Názov položky Bežné účtovné obdobie
+Bezprostredne
+predchádzajúce účtovné
+obdobie
+Dlhodobé záväzky spolu
+Záväzky so zostatkovou dobou
+splatnosti nad päť rokov
+Záväzky so zostatkovou dobou
+splatnosti jeden rok až päť rokov
+Krátkodobé záväzky spolu 64 098 64 733
+Záväzky so zostatkovou dobou
+splatnosti do jedného roka vrátane
+64 098 64 733
+Záväzky po lehote splatnosti
+2.b) Hodnota záväzkov zabezpečená záložným právom:
+5 2 1 6 3 9 2 0 2 1 2 0 9 1 5 2 9 1
+IČO
+Poznámky Úč MÚJ 3 – 01 DIČ
+Spoločnosť nemá žiadne záväzky zabezpečené záložným právom k 31.12.2025.
+Druh formy zabezpečenia
+záväzku
+Hodnota záväzku zabezpečená
+Záložným právom
+Inou formou
+zabezpečenia
+3. Informácie o vlastných akciách:
+Spoločnosť nemá žiadne vlastné akcie k 31.12.2025.
+Dôvod Bežné účtovné obdobie
+nadobudnutia
+vlastných akcií
+počas
+účtovného
+obdobia
+Stav na
+začiatku
+účtovného
+obdobia
+Prírastky Úbytky
+Stav na
+konci
+účtovného
+obdobia
+Počet akcií Počet akcií
+Podiel na ZI v % Podiel na ZI v %
+Menovitá hodnota Menovitá hodnota
+Hodnota nadobudnutia Hodnota za prevod
+4. Informácia o vytvorených kapitálových fondov z príspevkov
+Spoločnosť má vytvorené ostatné kapitálové fondy peňažnými vkladmi od svojich dvoch
+spoločníkov.
+V priebehu rokov 2025 a 2024 boli príspevky od spoločníkov v nasledovných výškach:
+a. spoločník Wasteland Investment Management s. r. o., so sídlom Tallerova 10,, 811
+02 Bratislava – mestská časť StaréMesto, IČO: 51 453 240, vložil kapitálové vklady do
+ostatných kapitálových fondov v celkovej výške 1.554.038,49 EUR. Na základe
+valného zhromaždenia boli v priebehu roka 2024 vyplatené ostatné kapitálové fondy
+vo výške 240.161,14 EUR. K 31.12.2025 sú ostatné kapitálové fondy spoločníka
+Wasteland Investments Management s.r.o. vo výške 1.313.877,35 EUR.
+b. spoločník National Development Fund II., a.s. so sídlom Grösslingová 44, 811 09
+Bratislava – mestská časť Staré Mesto, IČO: 47 759 224, vložil kapitálové vklady
+do ostatných kapitálových fondov v celkovej výške 31.080.770,37 EUR. Na základe
+valného zhromaždenia boli v priebehu roka 2024 vyplatené ostatné kapitálové fondy
+vo výške 4.803.222,89 EUR. K 31.12.2025 sú ostatné kapitálové fondy spoločníka
+National Development Fund II., a.s. vo výške 26.277.547,48 EUR.
+Všetky zdroje sú alokované na aktivity v oblasti podpory obnoviteľných zdrojov energie.
+5 2 1 6 3 9 2 0 2 1 2 0 9 1 5 2 9 1
+IČO
+Poznámky Úč MÚJ 3 – 01 DIČ
+5. Informácie o orgánoch účtovnej jednotky:
+Druh príjmu,
+výhody
+Hodnota príjmu, výhody
+súčasných členov orgánov
+Hodnota príjmu, výhody bývalých
+členov orgánov
+štatutárnych dozorných iných štatutárnych Dozorných iných
+Poskytnuté záruky
+alebo zabezpečenia
+N/A N/A N/A N/A N/A N/A
+Poskytnuté
+pôžičky (ku dňu
+ÚZ)
+N/A N/A N/A. N/A N/A N/A
+Splatené pôžičky
+(ku dňu ÚZ)
+N/A N/A N/A. N/A N/A N/A
+Odpustené alebo
+odpísané pôžičky
+N/A N/A N/A N/A N/A N/A
+Finančné
+prostriedky a iné
+plnenie použité na
+súkr. účely na
+vyúčtovanie
+N/A N/A N/A N/A N/A N/A
+Hlavné podmienky, na základe ktorých boli záruky alebo iné zabezpečenia poskytnuté
+(pri pôžičkách sa uvádzajú úrokové sadzby):
+5.a) Informácie o celkovej sume finančných povinností, ktoré sa nevykazujú v súvahe:
+Názov položky Hodnota celkom
+Hodnota voči dcérskej
+ÚJ a ÚJ s podstatným
+vplyvom
+Povinnosti nájomcu z operatívneho prenájmu N/A N/A
+Povinnosti z uzatvorených úverov. zmlúv N/A N/A
+Povinnosti z licenčných zmlúv N/A N/A
+Povinnosti z koncesionárskych zmlúv N/A N/A
+Ostatné N/A N/A
+Opis významných finančných povinností:
+5.b) Informácie o významných podmienených záväzkoch
+Druh podmieneného
+záväzku
+Bežné účtovné obdobie
+Hodnota celkom
+Hodnota voči dcérskej ÚJ
+a ÚJ s podstatným
+vplyvom
+Zo súdnych rozhodnutí N/A N/A
+Z poskytnutých záruk N/A N/A
+Zo všeob. záväzn. právn. predpis. N/A N/A
+Zo zmluvy o podriadenom
+záväzku
+N/A N/A
+5 2 1 6 3 9 2 0 2 1 2 0 9 1 5 2 9 1
+IČO
+Poznámky Úč MÚJ 3 – 01 DIČ
+Z ručenia N/A N/A
+Iné podmienené záväzky N/A N/A
+Opis významných podmienených záväzkov:
+5.e) Opis významných povinností účtovnej jednotky vyplývajúcich z dôchodkových
+programov pre zamestnancov: N/A
+6. Informácie o udelení výlučného práva alebo osobitného práva, ktorým sa udelilo
+právo poskytovať služby vo verejnom záujme (uvádza sa aj náhrada za túto
+činnosť v akejkoľvek forme): N/A
+5 2 1 6 3 9 2 0 2 1 2 0 9 1 5 2 9 1
+

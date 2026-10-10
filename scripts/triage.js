@@ -16,6 +16,9 @@ const claims = readCsv('data/claims.csv');
 const sources = {};
 cand.forEach(c => { (sources[c.candidate_id] ||= new Set()).add(c.discovery_source); });
 const nbsManager = new Set(cand.filter(c => c.discovery_source === 'nbs' && /správca|spravcovsk|správcovsk/i.test(c.discovery_url + ' ' + c.name)).map(c => c.candidate_id));
+// ORSR, spätné vyhľadávanie (scripts/footprint.js, beží pred triedením): podiel v cudzej firme vstúpený
+// alebo navýšený v okne je silný signál (A) => T1, aj keď by NACE subjekt vyradilo.
+const orsrWin = new Set(readCsv('data/orsr_podiely.csv').filter(h => +h.vlastna_dcera !== 1 && (+h.vstup_v_okne === 1 || h.navysenie_vkladu_v_okne)).map(h => h.investor_ico));
 const nace = Object.fromEntries(claims.filter(c => c.field === 'sektor_investora' && c.verifier_verdict === 'potvrdene')
   .map(c => [c.ico, { code: c.value.split(' ')[0], text: c.value, claim_id: c.claim_id }]));
 
@@ -26,9 +29,9 @@ for (const d of reg) {
   const n = nace[d.ico];
   // T1 iba pri silnom signále aktivity (SIH, články, SAPIE, označenie EuVECA); registre NBS/ESMA AIF bez stratégie => T2
   const euveca = new Set(['53527798', '55387845']); // G-Force, Occam (register ESMA EuVECA, zdroj Scouta)
-  const strong = ['sih', 'clanok', 'saia'].some(s => src.has(s)) || euveca.has(d.ico);
+  const strong = ['sih', 'clanok', 'saia'].some(s => src.has(s)) || euveca.has(d.ico) || orsrWin.has(d.ico);
   let tier, note = '';
-  if (strong) tier = 'T1';
+  if (strong) { tier = 'T1'; if (orsrWin.has(d.ico)) note = 'ORSR: podiel v cudzej firme v okne'; }
   else if (src.size === 1 && src.has('rpo_nazov') && n && !FIN.test(n.code)) {
     tier = 'G3_vyradeny';
     d.status = 'vyradeny_typ'; d.failed_gate = 'G3';

@@ -1,0 +1,2181 @@
+Poznámky Úč POD 3 - 01                  IČO 3 6 0 1 7 2 0 5                           DIČ 2 0 2 0 0 8 5 6 0 6 str.1
+
+A. Informácie o účtovnej jednotke
+
+'a) Gevorkyan s.r.o., Zvolenská cesta 14, 974 03 Banská Bystrica, založená dňa 20.1.1997
+b) Činnosť v oblasti práškovej metalurgie, kúpa tovaru za účelom jeho predaja koneč. spotrebiteľovi v rozšír. VŽ, kúpa
+tovaru za účelom jeho predaja konečnému spotrebiteľovi v rozšírenej živnosti sprostredkovaného obchodu a služieb '
+
+1. Informácie k prílohe č. 3 časti A. písm. c) o počte zamestnancov
+
+                 Názov položky                            Bežné účtovné obdobie          Bezprostredne predchádzajúce
+                                                                                                        účtovné obdobie
+
+Priemerný prepočítaný počet zamestnancov                                         142                               100
+
+Stav zamestnancov ku dňu, ku ktorému                                             179                               112
+sa zostavuje účtovná závierka, z toho:
+
+počet vedúcich zamestnancov                                                           3                                        3
+
+B. Informácie o členoch štatutárnych orgánov, dozorných orgánov a iných orgánov účtovnej jednotky
+
+'Kontatelia
+Dipl. Ing. Artur Gevorkyan
+MUDr. Iryna Yeumianenka
+Anatolyi Ulezsko'
+
+2. Informácie k časti B. písm. b) prílohy č. 3 o štruktúre spoločníkov, akcionárov ku dňu, ku ktorému sa zostavuje účtovná
+
+závierka a o štruktúre spoločníkov, akcionárov do dňa jej zmeny vzniknutej v priebehu účtovného obdobia
+
+Tabuľka č. 1
+
+                                          Výška podielu na základnom imaní                 Podiel na          Iný podiel na
+                                                                                         hlasovacích             ostatných
+       Spoločník, akcionár                absolútne                  v%                  právach v %
+                                                                                                          položkách VI ako ZI
+                                                                                                                     v%
+
+                   a                                   b             c                          d               e
+
+Artur Gevorkyan                                        13923496                  99                   65                 65
+
+Michail Andelmann                                         976                    1                    35                 35
+
+                                                          0                      0                    0                        0
+
+                                                          0                      0                    0                        0
+
+                                                          0                      0                    0                        0
+
+                                                          0                      0                    0                        0
+
+                                                          0                      0                    0                        0
+
+                                                          0                      0                    0                        0
+
+                                                          0                      0                    0                        0
+
+                                                          0                      0                    0                        0
+
+Spolu                                                  13924472                  100               100             100
+
+Tabuľka č. 2                                                         Výška podielu                Podiel na     Iný podiel na
+         Spoločník, akcionár do dňa zmeny v štruktúre            na základnom imaní             hlasovacích       ostatných
+                         spoločníkov, akcionárov                                                právach v %
+                                                                                                                položkách VI
+       Spoločník, akcionár                Dátum                  absolútne       v%                              ako ZI v %
+                                          zmeny
+
+                   a                      b                      c                    d            e               f
+                                                                           0                 0               0               0
+Spolu                                     x                                0                 0               0               0
+                                                                           0                 0               0               0
+                                                                           0                 0               0               0
+                                                                           0                 0               0               0
+                                                                           0                 0               0               0
+
+C. Informácie o konsolidovanom celku
+
+D. Ďalšie informácie
+'účtovná jednotka vedie podvojné účtovníctvo
+zásoby, pohľadávky a záväzky oceňované v obstarávacích cenách'
+Poznámky Úč POD 3 - 01           IČO 3 6 0 1 7 2 0 5                       DIČ 2 0 2 0 0 8 5 6 0 6 str.2
+
+E. Informácie o použitých účtovných zásadách a účtovných metódach
+Účtovná jednotka predpokladá nepretržité pokračovanie vo svojej činnosti.
+
+F. Informácie o údajoch vykázaných na strane aktív súvahy
+
+3. Informácie k časti F. písm. a) prílohy č. 3 o dlhodobom nehmotnom majetku
+Tabuľka č. 1
+
+                                                                                          Bežné účtovné obdobie
+
+Dlhodobý nehmotný   Aktivo-      Softvér     Oceni-     Goodwill     Ostatný                                     Obsta-     Poskytnuté  Spolu
+        majetok       vané           c        teľné          e         DNM                                       rávaný     preddavky      i
+                                             práva                                                                DNM
+             a      náklady                                               f                                                   na DNM
+                    na vývoj                    d                                                                   g
+                                                                                                                                   h
+                         b
+
+Prvotné ocenenie
+
+Stav na začiatku              0  5000 11084376                    0        534422                                      0    0 11623798
+účtovného obdobia
+                                                                                                                 17000
+Prírastky                     0  17000 2786620                    0           0                                  17000      0 2820620
+
+Úbytky                        0           0          0            0           0                                        0    0           17000
+
+Presuny                       0           0          0            0           0                                        0    0                  0
+
+Stav na konci                 0  22000 13870996                   0        534422                                           0 14427418
+účtovného obdobia
+
+Oprávky
+
+Stav na začiatku              0  2292                0            0           0                                          0  0           2292
+účtovného obdobia
+
+Prírastky                     0  2595                0            0           0                                          0  0           2595
+
+Úbytky                        0           0          0            0           0                                          0  0                  0
+
+Presuny                       0           0          0            0           0                                          0  0                  0
+
+Stav na konci                 0  4887                0            0           0                                          0  0           4887
+účtovného obdobia
+
+Oprávné položky
+
+Stav na začiatku              0           0          0            0           0                                          0  0                  0
+účtovného obdobia
+
+Prírastky                     0           0          0            0           0                                          0  0                  0
+
+Úbytky                        0           0          0            0           0                                          0  0                  0
+
+Presuny                       0           0          0            0           0                                          0  0                  0
+
+Stav na konci                 0           0          0            0           0                                          0  0                  0
+účtovného obdobia
+
+Zostatková hodnota
+
+Stav na začiatku              0  2708 11084376                    0        534422                                        0  0 11621506
+účtovného obdobia
+                              0  17113 13870996                   0        534422                                        0  0 14422531
+Stav na konci
+účtovného obdobia
+Poznámky Úč POD 3 - 01            IČO 3 6 0 1 7 2 0 5                         DIČ 2 0 2 0 0 8 5 6 0 6 str.3
+
+Tabuľka č. 2                                  Bezprostredne predchádzajúce účtovné obdobie
+
+  Dlhodobý nehmotný  Aktivo-      Softvér     Oceni-     Goodwill     Ostatný     Obsta-     Poskytnuté  Spolu
+           majetok     vané           c        teľné          e         DNM       rávaný     preddavky      i
+                                              práva                                DNM
+                a    náklady                                               f                   na DNM
+Prvotné ocenenie     na vývoj                    d                                   g
+Stav na začiatku                                                                                    h
+účtovného obdobia         b
+Prírastky
+Úbytky                         0  8799 2164376                     0  534422              0  0 2707597
+Presuny
+Stav na konci                  0           0 8920000               0           0          0  0 8920000
+účtovného obdobia
+Oprávky                        0  3799                0            0           0          0  0           3799
+Stav na začiatku
+účtovného obdobia              0           0          0            0           0          0  0                  0
+Prírastky
+Úbytky                         0  5000 11084376                    0  534422              0  0 11623798
+Presuny
+Stav na konci                  0  2943                0            0           0          0  0           2943
+účtovného obdobia
+Oprávné položky                0  3148                0            0           0          0  0           3148
+Stav na začiatku
+účtovného obdobia              0  3799                0            0           0          0  0           3799
+Prírastky
+Úbytky                         0           0          0            0           0          0  0                  0
+Presuny
+Stav na konci                  0  2292                0            0           0          0  0           2292
+účtovného obdobia
+Zostatková hodnota             0           0          0            0           0          0  0                  0
+Stav na začiatku
+účtovného obdobia              0           0          0            0           0          0  0                  0
+Stav na konci
+účtovného obdobia              0           0          0            0           0          0  0                  0
+
+                               0           0          0            0           0          0  0                  0
+
+                               0           0          0            0           0          0  0                  0
+
+                               0  5856 2164376                     0  534422              0  0 2704654
+
+                               0  2708 11084376                    0  534422              0  0 11621506
+
+4. Informácie k časti F. písm. c) prílohy č. 3 o dlhodobom nehmotnom majetku      Hodnota za bežné účtovné
+                                          Dlhodobý nehmotný majetok                            obdobie
+
+Dlhodobý nehmotný majetok, na ktorý je zriadené záložné právo                                                           0
+Poznámky Úč POD 3 - 01                  IČO 3 6 0 1 7 2 0 5                 DIČ 2 0 2 0 0 8 5 6 0 6 str.4
+
+5. Informácie k časti F. písm. a) prílohy č. 3 o dlhodobom hmotnom majetku
+Tabuľka č. 1
+
+                                                    Bežné účtovné obdobie
+
+Dlhodobý            Pozemky  Stavby     Samostatné   Pesto-   Základné      Ostatný     Obsta-       Poskytnuté  Spolu
+ hmotný                  b       c        hnuteľné  vateľské   stádo a        DHM       rávaný       preddavky
+ majetok                                    veci a              ťažné                    DHM
+                                           súbory     celky   zvieratá          g                      na DHM
+      a                                             trvalých
+                                        hnuteľných  porastov        f                   h            i           i
+                                             vecí
+                                               d         e
+
+Prvotné ocenenie
+
+Stav na začiatku
+
+účtovného           100000 2236153 12408884         0         0                      0       1452       0 14746489
+
+obdobia                                                                                 4002627
+                                                                                        3967826
+Prírastky               0 200971 3827008            0         0                      0                  0 8030606
+                                                                                                  0
+Úbytky                  0            0  233675      0         0                      0                  0 4201501
+                                                                                           36253
+Presuny                 0            0  0           0         0                      0                  0               0
+
+Stav na konci
+
+účtovného           100000 2437124 16002217         0         0                      0                  0 18575594
+
+obdobia
+
+Oprávky
+
+Stav na začiatku
+
+účtovného               0 324058 1597133            0         0                      0          0       0 1921191
+
+obdobia
+
+Prírastky               0    98367 1570780          0         0                      0          0       0 1669147
+
+Úbytky                  0            0  146267      0         0                      0          0       0 146267
+
+Presuny                 0            0  0           0         0                      0          0       0               0
+
+Stav na konci           0 422425 3021646            0         0                      0          0       0 3444071
+účtovného
+obdobia
+
+Oprávné položky
+
+Stav na začiatku
+
+účtovného               0            0  0           0         0                      0          0       0               0
+
+obdobia
+
+Prírastky               0            0  0           0         0                      0          0       0               0
+
+Úbytky                  0            0  0           0         0                      0          0       0               0
+
+Presuny                 0            0  0           0         0                      0          0       0               0
+
+Stav na konci           0            0  0           0         0                      0          0       0               0
+účtovného
+obdobia
+
+Zostatková hodnota
+
+Stav na začiatku
+
+účtovného           100000 1912095 10811751         0         0                      0   1452           0 12825298
+                                                                                        36253           0 15131523
+obdobia
+
+Stav na konci
+
+účtovného           100000 2014699 12980571         0         0                      0
+
+obdobia
+Poznámky Úč POD 3 - 01                    IČO 3 6 0 1 7 2 0 5               DIČ 2 0 2 0 0 8 5 6 0 6 str.5
+
+Tabuľka č. 2
+
+                                          Bezprostredne predchadzajúce účtovné obdobie
+
+Dlhodobý            Pozemky    Stavby     Samostatné   Pesto-   Základné    Ostatný     Obsta-     Poskytnuté  Spolu
+ hmotný                            c        hnuteľné  vateľské   stádo a      DHM       rávaný     preddavky      i
+ majetok                                      veci a              ťažné                  DHM
+                                             súbory     celky   zvieratá        g                    na DHM
+           a         b                                trvalých                             h
+                                          hnuteľných  porastov        f                                   i
+Prvotné ocenenie    100000                     vecí
+                            0                    d         e
+Stav na začiatku            0
+účtovného                   0  2153104 8154119        0         0                    0  76352      0 10483575
+obdobia
+                    100000     83049 7391065          0         0                    0 5322690     0 12796804
+Prírastky
+                            0          0 3136300      0         0                    0 5397590     0 8533890
+Úbytky                      0
+                            0          0  0           0         0                    0          0  0                  0
+Presuny                     0
+                            0  2236153 12408884       0         0                    0  1452       0 14746489
+Stav na konci
+účtovného                   0  215312 1302813         0         0                    0          0  0 1518125
+obdobia                     0
+                            0  108746     729087      0         0                    0          0  0 837833
+Oprávky                     0
+                            0          0  434767      0         0                    0          0  0 434767
+Stav na začiatku
+účtovného           100000             0  0           0         0                    0          0  0                  0
+obdobia
+                    100000     324058 1597133         0         0                    0          0  0 1921191
+Prírastky
+                                       0  0           0         0                    0          0  0                  0
+Úbytky
+                                       0  0           0         0                    0          0  0                  0
+Presuny
+                                       0  0           0         0                    0          0  0                  0
+Stav na konci
+účtovného                              0  0           0         0                    0          0  0                  0
+obdobia
+                                       0  0           0         0                    0          0  0                  0
+Oprávné položky
+                               1937792 6851305        0         0                    0  76352      0 8965449
+Stav na začiatku
+účtovného                      1912095 10811751       0         0                    0  1452       0 12825298
+obdobia
+
+Prírastky
+
+Úbytky
+
+Presuny
+
+Stav na konci
+účtovného
+obdobia
+
+Zostatková hodnota
+
+Stav na začiatku
+účtovného
+obdobia
+Stav na konci
+účtovného
+obdobia
+
+6. Informácie k časti F. písm. c) prílohy č. 3 o dlhodobom hmotnom majetku              Hodnota za bežné účtovné
+                                           Dlhodobý hmotný majetok                                   obdobie
+
+Dlhodobý hmotný majetok, na ktorý je zriadené záložné právo                                                                   0
+Poznámky Úč POD 3 - 01          IČO 3 6 0 1 7 2 0 5                           DIČ 2 0 2 0 0 8 5 6 0 6 str.6
+
+7. Informácie k časti F. písm. j) prílohy č. 3 o dlhodobom finančnom majetku
+Tabuľka č. 1
+
+                                                     Bežné účtovné obdobie
+
+                             Podielové CP                                     Pôžičky s
+                                                                                dobou
+Dlhodobý          Podielové   a podiely v   Ostatné   Pôžičky    Ostatný                  Obsta- Poskytnuté
+finančný             CP a    spoločnsti s  dlhodobé  ÚJ v kons.    DFM        splatnosti
+ majetok                     podstatným                                         najviac   rávaný preddavky   Spolu
+                  podiely v                   CP a      celku         f                                         i
+      a               DÚJ      vplyvom      podiely                           jeden rok   DFM     na DFM
+                                                                                    g                        2247654
+                  b          c             d         e                                    h       i                    0
+                                                                                                                       0
+Prvotné ocenenie                                                                                                       0
+
+Stav na začiatku                                                                                             2247654
+
+účtovného            0          0 2247654               0        0            0                0          0            0
+                                                                                                                       0
+obdobia                                                                                                                0
+                                                                                                                       0
+Prírastky            0          0             0         0        0            0                0          0            0
+
+Úbytky               0          0             0         0        0            0                0          0  2247654
+
+Presuny              0          0             0         0        0            0                0          0  2247654
+
+Stav na konci
+
+účtovného            0          0 2247654               0        0            0                0          0
+
+obdobia
+
+Oprávné položky
+
+Stav na začiatku
+
+účtovného            0          0             0         0        0            0                0          0
+
+obdobia
+
+Prírastky            0          0             0         0        0            0                0          0
+
+Úbytky               0          0             0         0        0            0                0          0
+
+Presuny              0          0             0         0        0            0                0          0
+
+Stav na konci
+
+účtovného            0          0             0         0        0            0                0          0
+
+obdobia
+
+Účtovná jednotka
+
+Stav na začiatku
+
+účtovného            0          0 2247654               0        0            0                0          0
+
+obdobia
+
+Stav na konci
+
+účtovného            0          0 2247654               0        0            0                0          0
+
+obdobia
+Poznámky Úč POD 3 - 01          IČO 3 6 0 1 7 2 0 5                           DIČ 2 0 2 0 0 8 5 6 0 6 str.7
+
+Tabuľka č. 2
+
+                                           Bezprostredne predchádzajúce účtovné obdobie
+
+                             Podielové CP                                 Pôžičky s
+                                                                            dobou
+Dlhodobý          Podielové   a podiely v   Ostatné   Pôžičky    Ostatný              Obsta- Poskytnuté
+finančný             CP a    spoločnsti s  dlhodobé  ÚJ v kons.    DFM    splatnosti
+ majetok                     podstatným                                     najviac   rávaný preddavky   Spolu
+                  podiely v                   CP a      celku         f                                     i
+      a               DÚJ      vplyvom      podiely                       jeden rok   DFM     na DFM
+                                                                                g                        2247654
+                  b          c             d         e                                h       i                    0
+                                                                                                                   0
+Prvotné ocenenie                                                                                                   0
+
+Stav na začiatku                                                                                         2247654
+
+účtovného            0          0 2247654               0        0            0            0          0            0
+                                                                                                                   0
+obdobia                                                                                                            0
+                                                                                                                   0
+Prírastky            0          0             0         0        0            0            0          0            0
+
+Úbytky               0          0             0         0        0            0            0          0  2247654
+
+Presuny              0          0             0         0        0            0            0          0  2247654
+
+Stav na konci
+
+účtovného            0          0 2247654               0        0            0            0          0
+
+obdobia
+
+Oprávné položky
+
+Stav na začiatku
+
+účtovného            0          0             0         0        0            0            0          0
+
+obdobia
+
+Prírastky            0          0             0         0        0            0            0          0
+
+Úbytky               0          0             0         0        0            0            0          0
+
+Presuny              0          0             0         0        0            0            0          0
+
+Stav na konci
+
+účtovného            0          0             0         0        0            0            0          0
+
+obdobia
+
+Účtovná jednotka
+
+Stav na začiatku
+
+účtovného            0          0 2247654               0        0            0            0          0
+
+obdobia
+
+Stav na konci
+
+účtovného            0          0 2247654               0        0            0            0          0
+
+obdobia
+
+8. Informácie k časti F. písm. m) prílohy č. 3 o dlhodobom finančnom majetku          Hodnota za bežné účtovné
+                                           Dlhodobý finančný majetok                               obdobie
+
+Dlhodobý finančný majetok, na ktorý je zriadené záložné právo                                                               0
+Poznámky Úč POD 3 - 01                    IČO 3 6 0 1 7 2 0 5                     DIČ 2 0 2 0 0 8 5 6 0 6 str.8
+
+9. Informácie k časti F. písm. i) prílohy č. 3 o štruktúre dlhodobého finančného majetku
+                                                                                                    Bežné účtovné obdobie
+
+Obchodné meno a sídlo spoločnosti,        Podiel ÚJ       Podiel ÚJ           Hodnota             Výsledok                                  Účtovná
+   v ktorej má ÚJ umiestnený DFM          na ZI v %            na            vlastného        hospodárenia                               hodnota DFM
+                                                                             imania ÚJ,       ÚJ, v ktorej má
+                                                         hlasovacích      v ktorej má ÚJ      ÚJ umiestnený
+                                                         právach v %     umiestnený DFM
+                                                                                                     DFM
+
+   a                                          b                c               d                                           e             f
+
+Dcérske účtovné jednotky
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+Účtovné jednotky s podstatným vplyvom
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+Ostatné realizovateľné CP a podiely
+
+                     GPM Tools s.r.o.                18           18              4284239                                        14791   2247654
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+Obstarávaný DFM na účely vykonania vplyvu v inej ÚJ
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+                                                     0                0                    0                                          0             0
+
+Dlhodobý finančný majetok spolu               x                x               x                                           x                        0
+
+10. Informácie k časti F. písm. j) a l) prílohy č. 3 o dlhových CP držaných do splatnosti
+
+                                                   Stav na                                                                 Vyradenie
+                                                  začiatku
+Dlhové CP držané do                              účtovného        Zvýšenie     Zníženie                                    dlhového CP z Stav na konci
+        splatnosti                                obdobia         hodnoty      hodnoty
+                                  Druh CP                                                                                  účtovníctva v účtovného
+
+                                                                                                                           účtovnom      obdobia
+
+                                                                                                                           období
+
+a                                      b             c            d               e                                           f          g
+
+Do splatnosti viac ako päť rokov           0                0               0                 0                                       0             0
+
+Do splatnosti od troch rokov do            0                0               0                 0                                       0             0
+piatich rokov vrátane
+
+Do splatnosti od jedného roka do           0                0               0                 0                                       0             0
+troch rokov vrátane
+
+Do splatnosti do jedného roka              0                0               0                 0                                       0             0
+vrátane
+
+Dlhové CP držané do                    x                    0               0                 0                                       0             0
+splatnosti spolu
+Poznámky Úč POD 3 - 01               IČO 3 6 0 1 7 2 0 5                         DIČ 2 0 2 0 0 8 5 6 0 6 str.9
+
+11. Informácie k časti F. písm. j) a l) prílohy č. 3 o poskytnutých dlhových pôžičkách
+
+          Dlhové pôžičky          Stav na začiatku                                           Vyradenie           Stav na konci
+                                      účtovného Zvýšenie hodnoty Zníženie hodnoty            pôžičky z             účtovného
+                                       obdobia                                             účtovníctva v            obdobia
+                                                                                             účtovnom
+                     a            b                       c              d                                                f
+                                             0                       0              0          období                                0
+Do splatnosti viac ako päť rokov             0                       0              0              e                                 0
+                                                                                                              0
+Do splatnosti od troch rokov do              0                       0              0                                                0
+piatich rokov vrátane                                                                                         0
+                                             0                       0              0                                                0
+Do splatnosti od jedného roka do             0                       0              0                         0                      0
+troch rokov vrátane
+                                                                                                              0
+Do splatnosti do jedného roka
+vrátane                                                                                                       0
+
+Dlhové pôžičky spolu
+
+12. Informácie k časti F. písm. o) prílohy č. 3 o opravných položkách k zásobám
+Tabuľka č. 1
+
+                                  Stav OP na                                               Zúčtovanie OP z
+                                   začiatku
+                                                                        Zúčtovanie OP z    dôvodu                Stav OP na konci
+                                  účtovného                              dôvodu zániku
+          Zásoby                    obdobia      Tvorba OP              opodstatnenosti    vyradenia             účtovného
+
+                                                                                           majetku z             obdobia
+
+                                                                                           účtovníctva
+
+              a                   b                       c              d                 e                     f
+
+Materiál                                      0              0                          0               0                   0
+
+Nedokončená výroba a                          0              0                          0               0                   0
+polotovary vlastnej výroby
+
+Výrobky                                       0              0                          0               0                   0
+
+Zvieratá                                      0              0                          0               0                   0
+
+Tovar                                         0              0                          0               0                   0
+
+Nehnuteľnosť na predaj                        0              0                          0               0                   0
+
+Poskytnuté preddavky na zásoby                0              0                          0               0                   0
+
+Zásoby spolu                                  0              0                          0               0                   0
+
+Tabuľka č. 2
+
+                                  Nehnuteľnosť na predaj                                           Hodnota
+                                                                                                                              0
+Náklady na obstarávanie nehnuteľnosti na predaj za účtovné obdobie                                                            0
+
+Náklady na obstaranie nehnuteľnosti na predaj od začiatku obstarávania
+
+13. Informácie k časti F. písm. p) prílohy č. 3 o zásobách, na ktoré je zriadené záložné právo a o zásobách, pri ktorých
+má účtovná jednotka obmedzené právo s nimi nakladať
+
+                                  Zásoby                                                   Hodnota za bežné účtovné obdobie
+
+Zásoby, na ktoré je zriadené záložné právo                                                                                  0
+
+Zásoby, pri ktorých má účtovná jednotka obmedzené právo s nimi nakladať                                                     0
+Poznámky Úč POD 3 - 01                IČO 3 6 0 1 7 2 0 5             DIČ 2 0 2 0 0 8 5 6 0 6 str.10
+
+14. Informácie k časti F. písm. q) prílohy č. 3 o zákazkovej výrobe a o zákazkovej výstavbe nehnuteľnosti určenej na
+predaj
+Tabuľka č. 1
+
+Názov položky                         Za bežné účtovné                  Za bezprostredne            Sumár od začiatku
+                                            obdobie                predchádzajúce účtovné       zákazkovej výroby až do
+
+                                                                              obdobie                 konca bežného
+                                                                                                   účtovného obdobia
+
+                           a                                 b        c                            d
+
+Výnosy zo zákazkovej výroby                                     0                            0                        0
+
+Náklady na zákazkovú výrobu                                     0                            0                        0
+
+Hrubý zisk / hrubá strata                                       0                            0                        0
+
+Tabuľka č. 2                                                    Za bežné účtovné obdobie     Sumár od začiatku zákazkovej
+                                                                                              výroby až do konca bežného
+                       Hodnota zákazkovej výroby
+                                                                                                    účtovného obdobia
+                                          a
+Vyfaktúrované nároky za vykonanú prácu na zákazkovej výrobe        b                            c
+Úprava nárokov podľa stupňa dokončenia alebo metódou
+nulového zisku                                                                            0                           0
+Suma prijatých preddavkov
+Suma zadržanej platby                                                                     0                           0
+
+                                                                                          0                           0
+
+                                                                                          0                           0
+
+Tabuľka č. 3                                                                                    Sumár od začiatku
+
+                       Názov položky  Za bežné účtovné                  Za bezprostredne           zákazkovej výstavby
+                                            obdobie                predchádzajúce účtovné       nehnuteľnosti určenej na
+                                a
+Výnosy zo zákazkovej výstavby                    b                            obdobie               predaj až do konca
+nehnuteľnosti určenej na predaj                                                                    bežného účtovného
+Náklady na zákazkovú výstavbu
+nehnuteľnosti určenej na predaj                                                                 obdobia
+Hrubý zisk / hrubá strata
+                                                                      c                            d
+
+                                                                0                            0                        0
+
+                                                                0                            0                        0
+
+                                                                0                            0                        0
+
+Tabuľka č. 4                                                    Za bežné účtovné obdobie     Sumár od začiatku zákazkovej
+                                                                                  b          výstavby nehnuteľnosti určenej
+          Hodnota zákazkovej výstavby nehnuteľnosti                                          na predaj až do konca bežného
+                              určenej na predaj
+                                                                                                     účtovného obdobia
+                                          a
+Vyfaktúrované nároky za vykonanú prácu na zákazkovej                                                              c
+výstavbe nehnuteľnosti určenej na predaj
+Úprava nárokov podľa stupňa dokončenia alebo metódou                                      0                           0
+nulového zisku
+Suma prijatých preddavkov                                                                 0                           0
+Suma zadržanej platby
+                                                                                          0                           0
+
+                                                                                          0                           0
+Poznámky Úč POD 3 - 01               IČO 3 6 0 1 7 2 0 5                           DIČ 2 0 2 0 0 8 5 6 0 6 str.11
+
+15. Informácie k časti F. písm. r) prílohy č. 3 o vývoji opravnej položky k pohľadávkam
+
+                                                                Bežné účtovné obdobie
+
+                                  Stav OP na                                               Zúčtovanie OP z
+                                   začiatku
+Pohľadávky                                                                Zúčtovanie OP z     dôvodu         Stav OP na konci
+                                  účtovného                                dôvodu zániku
+                                    obdobia          Tvorba OP            opodstatnenosti     vyradenia         účtovného
+
+                                                                                              majetku z         obdobia
+
+                                                                                           účtovníctva
+
+                a                 b                          c                  d                  e            f
+
+Pohľadávky z obchodného styku                 32295             0                  0                  32295                0
+
+Pohľadávky voči dcérskej                         0              0                  0                     0                 0
+účtovnej jednotke a materskej
+účtovnej jednotke                                0              0                  0                     0                 0
+
+Ostatné pohľadávky v rámci                       0              0                  0                     0                 0
+kons. celku
+
+Pohľadávky voči spoločníkom,
+členom a združeniu
+
+Iné pohľadávky                                   0              0                  0                     0                 0
+
+Pohľadávky spolu                              32295             0                  0                  32295                0
+
+16. Informácie k časti F. písm. s) prílohy č. 3 o vekovej štruktúre pohľadávok
+Tabuľka č. 1
+
+                   Názov položky                     V lehote splatnosti     Po lehote splatnosti        Pohľadávky spolu
+                                                                                                                     d
+                     a                                       b                     c
+                                                                                                                                     0
+Dlhodobé pohľadávky                                                                                                                  0
+
+Pohľadávky z obchodného styku                                             0                        0                                 0
+                                                                                                                                     0
+Pohľadávka voči dcérskej účtovnej jednotke a                              0                        0                                 0
+materskej účtovnej jednotke                                                                                                          0
+
+Ostatné pohľadávky v rámci konsolidovaného                                0                        0                       7278333
+celku                                                                                                                                0
+
+Pohľadávky voči spoločníkom, členom a združeniu                           0                        0                                 0
+                                                                                                                                     0
+Iné pohľadávky                                                            0                        0                                 0
+                                                                                                                               40867
+Dlhodobé pohľadávky spolu                                                 0                        0                           78956
+                                                                                                                           7398156
+Krátkodobé pohľadávky
+
+Pohľadávky z obchodného styku                                   6812995                    465338
+
+Pohľadávka voči dcérskej účtovnej jednotke a                              0                        0
+materskej účtovnej jednotke
+
+Ostatné pohľadávky v rámci konsolidovaného                                0                        0
+celku
+
+Pohľadávky voči spoločníkom, členom a združeniu                           0                        0
+
+Sociálne poistenie                                                        0                        0
+
+Daňové pohľadávky a dotácie                                     40867                              0
+
+Iné pohľadávky                                                  78956                              0
+
+Krátkodobé pohľadávky spolu                                     6932818                    465338
+
+Tabuľka č. 2                                                    Bežné účtovné obdobie         Bezprostredne predchádzajúce
+                     Pohľadávky podľa zostatkovej                                                       účtovné obdobie
+                               doby splatnosti
+                                          a                                  b                               c
+
+Pohľadávky po lehote splatnosti                                                    465338                          449108
+Pohľadávky so zostatkovou dobou splatnosti do jedného roka
+Krátkodobé pohľadávky spolu                                                        7278333                         5792690
+
+Pohľadávky so zostatkovou dobou splatnosti jeden rok až päť                        7278333                         5792690
+rokov
+                                                                                           0                               0
+Pohľadávky so zostatkovou dobou splatnosti dlhšou ako päť
+rokov                                                                                      0                               0
+
+Dlhodobé pohľadávky spolu                                                                  0                               0
+Poznámky Úč POD 3 - 01                       IČO 3 6 0 1 7 2 0 5                          DIČ 2 0 2 0 0 8 5 6 0 6 str.12
+
+17. Informácie k časti F. písm. t) a u) prílohy č. 3 o pohľadávkach zabezpečených záložným právom alebo inou formou
+zabezpečenia
+
+              Opis predmetu záložného práva                                            Bežné účtovné obdobie
+
+                                                                   Hodnota predmetu                  Hodnota pohľadávky
+
+Pohľadávky kryté záložným právom alebo inou formou                                             0                                0
+zabezpečenia
+
+Hodnota pohľadávok, na ktoré sa zriadilo záložné právo                           x                                              0
+
+Hodnota pohľadávok, pri ktorých je obmedzené právo s nimi                        x                                              0
+nakladať
+
+18. Informácie k časti F. písm. w) prílohy č. 3 o krátkodobom finančnom majetku
+Tabuľka č. 1
+
+                       Názov položky                               Bežné účtovné obdobie          Bezprostredne predchádzajúce
+                                                                                                            účtovné obdobie
+
+Pokladnica, ceniny                                                                          5781                            5732
+Bežné bankové účty                                                                     1320457                             58389
+
+Bankové účty termínované                                                                       0                                0
+Peniaze na ceste
+                                                                                               0                                0
+
+Spolu                                                                                  1326238                             64121
+
+Tabuľka č. 2
+
+                                                                      Bežné účtovné obdobie
+
+Krátkodobý finančný majetok                  Stav na začiatku      Prírastky           Úbytky     Presuny            Stav na konci
+                                                 účtovného                                                             účtovného
+                                                  obdobia                                                               obdobia
+
+                    a                        b                     c                   d             e                  f
+
+Majetkové CP na obchodovanie                               0                  0                0                  0             0
+
+Dlhové CP na obchodovanie                                  0                  0                0                  0             0
+
+Emisné kvóty                                               0                  0                0                  0             0
+
+Dlhové CP so splatnosťou do jedného roka                   0                  0                0                  0             0
+držané do splatnosti
+
+Ostatné realizovateľné CP                                  0                  0                0                  0             0
+
+Obstarávanie krátkodobého finančného                       0                  0                0                  0             0
+majetku
+
+Krátkodobý finančný majetok spolu                          0                  0                0                  0             0
+
+19. Informácie k časti F. písm. x) prílohy č. 3 o vývoji opravnej položky ku krátkodobému finančnému majetku
+
+                              Stav OP na                                                       Zúčtovanie OP z
+                               začiatku
+                                                                      Zúčtovanie OP z             dôvodu          Stav OP na konci
+                              účtovného                                dôvodu zániku
+Krátkodobý finančný majetok     obdobia                 Tvorba OP     opodstatnenosti             vyradenia          účtovného
+
+                                                                                                  majetku z          obdobia
+
+                                                                                                  účtovníctva
+
+              a                           b                    c                    d             e                  f
+
+Ostatné realizovateľné CP                    0                     0                      0                    0                0
+
+Obstarávanie krátkodobého                    0                     0                      0                    0                0
+finančného majetku
+
+Krátkodobý finančný majetok                  0                     0                      0                    0                0
+spolu
+
+20. Informácie k časti F. písm. y) prílohy č. 3 o krátkodobom finančnom majetku, na ktorý bolo zriadené záložné právo a o
+
+krátkodobom finačnom majetku, pri ktorokm má účtovná jednotka obmedzené právo s ním nakladať
+
+                                   Názov položky                                                  Hodnota za bežné účtovné
+                                                                                                               obdobie
+
+Krátkodobý finančný majetok, na ktorý bolo zriadené záložné právo                                                               0
+
+Krátkodobý finančný majetok, pri ktorom je obmedzené právo s ním nakladať                                                       0
+Poznámky Úč POD 3 - 01                   IČO 3 6 0 1 7 2 0 5                    DIČ 2 0 2 0 0 8 5 6 0 6 str.13
+
+21. Informácie k časti F. písm. za) prílohy č. 3 o ocenení krátkodobého finančného majetku, ku dňu ku ktorému sa
+zostavuje účtovná závierka reálnou hodnotou
+
+        Krátkodobý finančný majetok                  Zvýšenie / zníženie          Vplyv ocenenia    Vplyv ocenenia
+                                                            hodnoty                 na výsledok    na vlastné imanie
+                                                               (+/-)
+                                                                             hospodárenia bežného
+                                                                               účtovného obdobia
+
+                                   a                       b                    c                              d
+Majetkové CP na obchodovanie                                              0                    0                              0
+Dlhové CP na obchodovanie                                                 0                    0                              0
+Emisné kvóty (komodity)                                                   0                    0                              0
+Ostatné realizovateľné CP                                                 0                    0                              0
+Krátkodobý finančný majetok spolu                                         0                    0                              0
+
+22. Informácie k časti F. písm. zc) prílohy č. 3 o významných položkách časového rozlíšenia na strane aktív
+
+           Opis položky časového rozlíšenia                Bežné účtovné obdobie                Bezprostredne predchádzajúce
+                                                                                                          účtovné obdobie
+
+Náklady budúcich období dlhodobé, z toho:                                       16503                             23681
+                                                                                      0                                 0
+
+                                                                                             0                               0
+
+Náklady budúcich období krátkodobé, z toho:                                                  0                               0
+
+                                                                                             0                               0
+
+                                                                                             0                               0
+
+Príjmy budúcich období dlhodobé, z toho:                                                     0                               0
+
+                                                                                             0                               0
+
+                                                                                             0                               0
+
+Príjmy budúcich období krátkodobé, z toho:                                                   0                               0
+
+                                                                                             0                               0
+
+                                                                                             0                               0
+
+23. Informácie k časti F. písm. zd) prílohy č. 3 o majetku prenajatom formou finančného prenájmu
+
+                           Bežné účtovné obdobie                            Bezprostredne predchádzajúce účtovné obdobie
+
+         Názov                            Splatnosť                                             Splatnosť
+        položky
+                 do jedného roka         od jedného roka   viac ako päť     do jedného roka  od jedného roka   viac ako päť
+                       vrátane           do piatich rokov      rokov              vrátane    do piatich rokov      rokov
+
+                                               vrátane                                             vrátane
+
+        a               b                    c             d                 e                  f              g
+
+Istina                                0              0                   0        0                        0                 0
+
+Finančný výnos                        0              0                   0        0                        0                 0
+
+Spolu                                 0              0                   0        0                        0                 0
+
+G. Informácie o údajoch vykázaných na strane pasív súvahy
+Poznámky Úč POD 3 - 01                     IČO 3 6 0 1 7 2 0 5                             DIČ 2 0 2 0 0 8 5 6 0 6 str.14
+
+24. Informácie k časti G. písm. a) tretiemu bodu prílohy č. 3 o rozdelení účtovného zisku alebo o vysporiadaní účtovnej
+
+straty
+
+Tabuľka č. 1
+
+                                                                                                  Bezprostredne
+
+                                      Názov položky                                               predchádzajúce účtovné
+
+                                                                                                  obdobie
+
+Účtovný zisk                                                                                                          744744
+
+Rozdelenie účtovného zisku                                                                     Bežné účtovné obdobie
+
+Prídel do zákonného rezervného fondu                                                                                  37237
+
+Prídel do štatutárnych a ostatných fondov                                                                                 0
+
+Prídel do socialného fondu                                                                                                0
+
+Prídel na zvýšenie základného imania                                                                                      0
+
+Úhrada straty minulých období                                                                                             0
+
+Prevod do nerozdeleného zisku minulých rokov                                                                          707507
+
+Rozdelenie podielu na zisku spoločníkom, členom                                                                           0
+
+Iné                                                                                                                       0
+
+Spolu                                                                                                                 744744
+
+Tabuľka č. 2                                                                                                  Bezprostredne
+                                                                                                      predchádzajúce účtovné
+                                                    Názov položky
+                                                                                                                  obdobie
+Účtovná strata                                                                                                                                  0
+Vysporiadanie účtovnej straty
+Zo zákonného rezervného fondu                                                                  Bežné účtovné obdobie
+Zo štatutárnych a ostatných fondov                                                                                                              0
+Z nerozdeleného zisku minulých období                                                                                                           0
+Úhrada straty spoločníkmi                                                                                                                       0
+Prevod do neuhradenej straty minulých rokov                                                                                                     0
+Iné                                                                                                                                             0
+Spolu                                                                                                                                           0
+                                                                                                                                                0
+
+25. Informácie k časti G. písm. b) prílohy č. 3 o rezervách
+Tabuľka č. 1
+
+                                                                           Bežné účtovné obdobie
+
+        Názov položky          Stav na začiatku                    Tvorba        Použitie         Zrušenie           Stav na konci
+                                   účtovného                                                                           účtovného
+                                    obdobia                                                            e                obdobia
+                                                                                                                  0           f
+                     a                     b                       c             d                                0                      0
+Dlhodobé rezervy, z toho:                             0                       0             0                     0                      0
+                                                                                                                  0                      0
+                                                 0                         0               0                      0                      0
+                                                                                                                  0                      0
+                                                 0                         0               0                                             0
+                                                                                                           53256                  66857
+                                                 0                         0               0               53256                  66857
+                                                                                                                                         0
+                                                 0                         0               0                      0                      0
+                                                                                                                  0                      0
+                                                 0                         0               0                      0                      0
+                                                                                                                  0                      0
+Krátkodobé rezervy, z toho:                53700                   66413                   0                      0                      0
+                                                                                                                  0                      0
+Krátkodobé zákonné rezervy                 53700                   66413                   0                      0
+
+                                                 0                         0               0
+
+                                                 0                         0               0
+
+                                                 0                         0               0
+
+                                                 0                         0               0
+
+                                                 0                         0               0
+
+                                                 0                         0               0
+
+                                                 0                         0               0
+Poznámky Úč POD 3 - 01       IČO 3 6 0 1 7 2 0 5                            DIČ 2 0 2 0 0 8 5 6 0 6 str.15
+
+Tabuľka č. 2                                           Bezprostredne predchadzajúce účtovné obdobie
+           Názov položky
+                     a       Stav na začiatku            Tvorba             Použitie              Zrušenie           Stav na konci
+                                 účtovného                                                                             účtovného
+Dlhodobé rezervy, z toho:         obdobia                    c                  d                      e                obdobia
+                                       b                                 0                  0                     0           f
+Krátkodobé rezervy, z toho:                        0                     0                  0                     0                      0
+323                                                0                     0                  0                     0                      0
+                                                   0                     0                  0                     0                      0
+                                                   0                     0                  0                     0                      0
+                                                   0                     0                  0                     0                      0
+                                                   0                                                              0                      0
+                                             40669                52356               39324                       0               53700
+                                             40669                52356               39324                       0               53700
+                                                   0                                                              0                      0
+                                                   0                     0                  0                     0                      0
+                                                   0                     0                  0                     0                      0
+                                                   0                     0                  0                     0                      0
+                                                   0                     0                  0                     0                      0
+                                                   0                     0                  0                     0                      0
+                                                   0                     0                  0                                            0
+                                                                         0                  0
+
+26. Informácie k časti G. písm. c) a d) prílohy č. 3 o záväzkoch
+
+Názov položky                                                     Bežné účtovné obdobie           Bezprostredne predchádzajúce
+                                                                                                            účtovné obdobie
+
+Záväzky po lehote splatnosti                                                   62262                                  276295
+Záväzky so zostatkovou dobou splatnosti do jedného roka                     1326951                                  2796757
+vrátane                                                                     1326951                                  2796757
+Krátkodobé záväzky spolu
+
+Záväzky so zostatkovou dobou splatnosti jeden rok až päť rokov                                 0                     0
+
+Záväzky so zostatkovou dobou splatnosti nad päť rokov                                          0                     0
+
+Dlhodobé záväzky spolu                                                      11361395                                 2992177
+Poznámky Úč POD 3 - 01                      IČO 3 6 0 1 7 2 0 5                  DIČ 2 0 2 0 0 8 5 6 0 6 str.16
+
+27. Informácie k časti F. písm. v) a časti G. písm. f) prílohy č. 3 o odloženej daňovej pohľadávke alebo o odloženom
+daňovom záväzku
+
+               Názov položky                               Bežné účtovné obdobie             Bezprostredne predchádzajúce
+                                                                                                       účtovné obdobie
+
+Dočasné rozdiely medzi účtovnou hodnotu majetku a                                      0                              0
+daňovou základňou, z toho:
+
+odpočítateľné                                                                          0                              0
+zdaniteľné
+                                                                                       0                              0
+
+Dočasné rozdiely medzi účtovnou hodnotu záväzkov a                                     0                              0
+daňovou základňou, z toho:
+
+odpočítateľné                                                                          0                              0
+zdaniteľné
+                                                                                       0                              0
+
+Možnosť umorovať daňovú stratu v budúcnosti                                            0                              0
+Možnosť previesť nevyužité daňové odpočty
+                                                                                       0                              0
+
+Sadzba dane z príjmu (v %)                                                             0                              0
+Odložená daňová pohľadávka
+                                                                                       0                              0
+
+Uplatnená daňová pohľadávka                                                            0                              0
+Zaúčtovaná ako zníženie nákladov
+                                                                                       0                              0
+
+Zaúčtovaná do vlastného imania                                                            0                        0
+Odložený daňový záväzok                                                             18974                    14321
+
+Zmena odloženého daňového záväzoku                                                     0                              0
+Zaúčtovaná ako náklad
+                                                                                       0                              0
+
+Zaúčtovaná do vlastného imania                                                         0                              0
+
+28. Informácie k časti G. písm. g) prílohy č. 3 o záväzkoch zo socialného fondu
+
+               Názov položky                               Bežné účtovné obdobie             Bezprostredne predchádzajúce
+                                                                                                       účtovné obdobie
+
+Začiatočný stav socialného fondu                                                    2304                              5630
+Tvorba socialného fondu na ťarchu nákladov                                          8322                              5460
+Tvorba socialného fondu zo zisku
+Ostatná forma sociálného fondu                                                           0                                 0
+                                                                                         0                                 0
+
+Tvorba sociálného fondu spolu                                                       8322                              5460
+Čerpanie sociálného fondu                                                           8668                              8786
+
+Konečný zostatok sociálného fondu                                                   1958                              2304
+
+29. Informácie k časti G. písm. h) prílohy č. 3 o vydaných dlhopisoch
+
+Názov vydaného dlhopisu Menovitá hodnota            Počet              Emisný kurz           Úrok            Splatnosť
+                                                                                                        10               2018
+GEV                                         100000         1000                  3642                   10               2018
+                                                                                                        10               2018
+GEV2                                        10000          10000                 364                      0                   0
+
+GEV3                                        10000          2000                  363
+
+                                             0                   0                  0
+
+Menovitá hodnota vydaných dlhopisov je v CZK
+Poznámky Úč POD 3 - 01        IČO 3 6 0 1 7 2 0 5         DIČ 2 0 2 0 0 8 5 6 0 6 str.17
+
+30. Informácie k časti G. písm. i) prílohy č. 3 o bankových úveroch, pôžičkách a krátkodobých finančných výpomociach
+
+Tabuľka č. 1
+
+          Názov položky       Mena  Úrok        Dátum        Suma istiny            Suma istiny
+                                    p. a.     splatnosti  v príslušnej mene     v príslušnej mene
+                                     v%                   za bežné účtovné      za bezprostredne
+                                                                                 predchádzajúce
+                                                                obdobie         účtovné obdobie
+
+              a               b     c              d      e                     f
+
+Dlhodobé bankové úvery
+
+                              EUR          0 30.9.2015                       0                                        0
+
+SBERBANK                      EUR          0 31.3.2015                       0                                        0
+
+SBERBANK                      EUR          0 20.7.2019       300000                300000
+
+SBERBANK                      EUR          0 20.7.2016                       0                                        0
+
+CITIBANK                      EUR          0 30.7.2016       200400                66800
+
+Krátkodobé bankové úvery
+
+CITIBANK                      EUR          0 2.8.2014                        0                                        0
+
+                                           0                                 0                                        0
+
+                                           0                                 0                                        0
+
+                                           0                                 0                                        0
+
+                                           0                                 0                                        0
+
+                                           0                                 0                                        0
+
+                                           0                                 0                                        0
+
+Tabuľka č. 2                  Mena  Úrok        Dátum        Suma istiny            Suma istiny
+              Názov položky      b  p. a.     splatnosti  v príslušnej mene     v príslušnej mene
+                        a            v%                   za bežné účtovné      za bezprostredne
+                                                    d                            predchádzajúce
+Dlhodobé pôžičky                       c                        obdobie         účtovné obdobie
+
+Krátkodobé pôžičky                                                   e                      f
+
+Krátkodobé finančné výpomoci               0                                 0                                        0
+                                           0
+                                           0                                 0                                        0
+
+                                                                             0                                        0
+
+                                           0                                 0                                        0
+                                           0
+                                           0                                 0                                        0
+
+                                                                             0                                        0
+
+                                           0                                 0                                        0
+                                           0
+                                                                             0                                        0
+Poznámky Úč POD 3 - 01            IČO 3 6 0 1 7 2 0 5               DIČ 2 0 2 0 0 8 5 6 0 6 str.18
+
+31. Informácie k časti G. písm. j) prílohy č. 3 o významných položkách časového rozlíšenia na strane pasív
+
+Názov položky                                   Bežné účtovné obdobie                Bezprostredne predchádzajúce
+                                                                                               účtovné obdobie
+
+Výdavky budúcich období dlhodobé, z toho:                                         0                               0
+
+                                                                                  0                               0
+
+                                                                                  0                               0
+
+Výdavky budúcich období krátkodobé, z toho:                                       0                               0
+
+                                                                                  0                               0
+
+                                                                                  0                               0
+
+Výnosy budúcich období dlhodobé, z toho:                                          0                               0
+
+                                                                                  0                               0
+
+                                                                                  0                               0
+
+                                                                                  0                               0
+
+                                                                                  0                               0
+
+Výnosy budúcich období krátkodobé, z toho:                                        0                               0
+
+                                                                                  0                               0
+
+                                                                                  0                               0
+
+                                                                                  0                               0
+
+                                                                                  0                               0
+
+                                                                                  0                               0
+
+32. Informácie k časti G. písm. k) prílohy č. 3 o významných položkách derivátov za bežné účtovné obdobie
+Tabuľka č. 1
+
+Názov položky                                                    Účtovná hodnota               Dohodnutá cena
+                                                                                           podkladového nástroja
+                                                pohľadávky                záväzku
+
+                        a                                     b                   c                         d
+
+Deriváty určené na obchodovanie, z toho:                         0                      0                         0
+
+                                                                 0                      0                         0
+
+                                                                 0                      0                         0
+
+                                                                 0                      0                         0
+
+                                                                 0                      0                         0
+
+Zabezpečovacie deriváty, z toho:                                 0                      0                         0
+
+                                                                 0                      0                         0
+
+                                                                 0                      0                         0
+
+                                                                 0                      0                         0
+
+                                                                 0                      0                         0
+
+Tabuľka č. 2                                 Bežné účtovné obdobie                Bezprostredne predchádzajúce
+                           Názov položky                                                    účtovné obdobie
+                                     a
+                                             Zmena reálnej hodnoty (+/-)             Zmena reálnej hodnoty (+/-)
+Deriváty určené na obchodovanie, z toho:               s vplyvom na                            s vplyvom na
+
+Zabezpečené deriváty, z toho:                   výsledok         vlastné imanie      výsledok      vlastné imanie
+                                             hospodárenia                         hospodárenia
+
+                                             b                   c                   d                         e
+
+                                                           0              0                     0                 0
+
+                                                           0              0                     0                 0
+
+                                                           0              0                     0                 0
+
+                                                           0              0                     0                 0
+
+                                                           0              0                     0                 0
+
+                                                           0              0                     0                 0
+
+                                                           0              0                     0                 0
+
+                                                           0              0                     0                 0
+Poznámky Úč POD 3 - 01                     IČO 3 6 0 1 7 2 0 5                       DIČ 2 0 2 0 0 8 5 6 0 6 str.19
+
+33. Informácie k časti G. písm. l) prílohy č. 3 o položkách zabezpečených derivátmi
+
+                                                                                     Reálna hodnota
+
+                 Zabezpečovaná položka                         Bežné účtovné obdobie             Bezprostredne predchádzajúce
+                                                                                                           účtovné obdobie
+
+                            a                                               b                                     c
+
+Majetok vykázaný v súvahe                                                                     0                                    0
+
+Záväzok vykázaný v súvahe                                                                     0                                    0
+
+Zmluvy, ktoré sa neúčtujú na súvahových účtoch                                                0                                    0
+
+Očakávané budúce obchody dosiaľ zmluvne nezabezpečené                                         0                                    0
+
+Spolu                                                                                         0                                    0
+
+34. Informácie k časti G. písm. m) prílohy č. 3 o majetku prenajatom formou finančného prenájmu
+
+                                     Bežné účtovné obdobie                  Bezprostredne predchádzajúce účtovné obdobie
+
+         Názov                             Splatnosť                                             Splatnosť
+        položky
+                       do jedného roka  od jedného roka    viac ako päť     do jedného roka   od jedného roka        viac ako päť
+                             vrátane    do piatich rokov       rokov              vrátane     do piatich rokov           rokov
+
+                                              vrátane                                               vrátane
+
+          a                 b                   c              d                  e              f                   g
+
+Istina                         891561           2516686                  0           662191      2313361                           0
+
+Finančný náklad                170946              208603                0           166907         247694                         0
+
+Spolu                                0                0                  0           829098      2561055                           0
+
+H. Informácie o výnosoch
+
+35. Informácie k časti H. písm. a) prílohy č. 3 o tržbách
+
+                         Typ výrobkov, tovarov, služieb Typ výrobkov, tovarov, služieb           Typ výrobkov, tovarov, služieb
+
+         Názov                 Výrobky PM                         Služby PM                                  tovary
+        položky
+                             Bežné      Bezprostredne        Bežné          Bezprostredne         Bežné           Bezprostredne
+                            účtovné     predchádzajúce      účtovné         predchádzajúce       účtovné          predchádzajúce
+                            obdobie                         obdobie                              obdobie
+                                             obdobie                             obdobie                               obdobie
+
+          a                 b                   c              d                  e              f                   g
+
+Tuzemsko                       568221              381181      1116575            1687616            29426              19745
+
+EÚ                          8998065             4337473        3349400            3252633                      0                   0
+
+Tretie krajiny              3025906             3303721           42535              46279                     0                   0
+
+                                     0                0                  0                 0                   0                   0
+
+Spolu                       12592192            8022375        4508510            4986528            29426              19745
+
+36. Informácie k časti H. písm. b) prílohy č. 3 o zmene stavu vnútroorganizačných zásob
+
+                               Bežné účtovné          Bezprostredne predchádzajúce         Zmena stavu vnútroorganizačných
+                                   obdobie                      účtovné obdobie                                zásob
+
+          Názov položky                                                                       Bežné účtovné        Bezprostredne
+                                                                                                  obdobie         predchádzajúce
+                               Konečný zostatok Konečný zostatok Začiatočný stav                                  účtovné obdobie
+
+                     a                  b                   c                  d                 e                   f
+Nedokončená výroba a                     2491343             1402335                76300        1089008             1326035
+polotovary vlastnej výroby
+
+Výrobky                                    1946278             1176666            222124         769612                 954542
+
+Zvieratá                                           0              0                  0                      0                      0
+
+Spolu                                      4437621             2579001            298424         1858620             2280577
+
+Manká a škody                           x                   x                  x                            0                      0
+
+Reprezentačné                           x                   x                  x                            0                      0
+
+Dary                                    x                   x                  x                            0                      0
+
+Iné                                     x                   x                  x                            0                      0
+
+Zmena stavu
+
+vnútroorganizačných zásob vo            x                   x                  x                 1858620             2280577
+
+výkaze ziskov a strát
+Poznámky Úč POD 3 - 01                   IČO 3 6 0 1 7 2 0 5     DIČ 2 0 2 0 0 8 5 6 0 6 str.20
+
+37. Informácie k časti H. písm. c) až f) prílohy č. 3 o výnosoch pri aktivácií nákladov a o výnosoch z hospodárskej
+činností, finančnej činnosti a mimoriadnej činnosti
+
+                         Názov položky                           Bežné účtovné obdobie      Bezprostredne predchádzajúce
+                                                                                                      účtovné obdobie
+
+Významné položky pri aktivácií nákladov, z toho:                                        0                            0
+
+                                                                                        0                            0
+
+Ostatné významné položky výnosov z hospodárskej                        0                                                     0
+činnosti, z toho:                                                75111                                               503494
+                                                                 55797                                               500213
+faktoring
+
+poistne plnenie                                                  7704                                                0
+
+                                                                                        0                            0
+
+                                                                                        0                            0
+
+                                                                                        0                            0
+
+Finančné výnosy, z toho:                                         117565                                              1331
+
+Kurzové zisky, z toho:                                           117416                                              115
+
+kurzové zisky ku dňu, ku ktorému sa zostavuje účtovná závierka                          0                            0
+
+Ostatné významné položky finančných výnosov, z toho:                                    15                           1216
+
+                                                                                        0                            0
+
+                                                                                        0                            0
+
+                                                                                        0                            0
+
+Výnosy, ktoré majú výnimočný rozsah slebo výskyt:                                       0                            0
+
+                                                                                        0                            0
+
+                                                                                        0                            0
+
+38. Informácie k časti H. písm. g) prílohy č. 3 o čistom obrate
+
+                         Názov položky                           Bežné účtovné obdobie      Bezprostredne predchádzajúce
+                                                                                                      účtovné obdobie
+
+Tržby za vlastné výrobky                                         12592192                   8022375
+
+Tržby z predaja služieb                                          4508510                    4986528
+
+Tržby za tovar                                                   29426                                               19744
+
+Výnosy zo zákazky                                                                       0                            0
+
+Výnosy z nehnuteľností na predaj                                                        0                            0
+
+Iné výnosy súvisiace s bežnou činnosťou                                                 0                            0
+
+Čistý obrat celkom                                               17130128                   13028647
+Poznámky Úč POD 3 - 01             IČO 3 6 0 1 7 2 0 5                     DIČ 2 0 2 0 0 8 5 6 0 6 str.21
+
+I. Informácie o nákladoch                                                                                              Bezprostredne
+39. Informácie k časti I. prílohy č. 3 o nákladoch                         Bežné účtovné obdobie predchádzajúce účtovné
+
+                                         Názov položky                                                                      obdobie
+
+Náklady za poskytnuté služby, z toho:                                      4078021  4721780
+Náklady voči audítorovi, audítorskej spoločnosti, z toho:
+náklady za overenie individuálnej účtovnej závierky                        3300     0
+iné uisťovacie audítorské služby
+súvisiace audítorské služby                                                1100     0
+daňové poradenstvo
+ostatné neaudítorské služby                                                600      0
+Ostatné významné položky nákladov za poskytnuté služby, z toho:
+Služby materiálnej povahy                                                  1600     0
+Služby nemateriálnej povahy
+Nájomné                                                                    0        0
+Dopravné služby
+Oprava a údržba                                                            0        0
+Ostatné významné položky nákladov z hospodárskej činnosti, z toho:
+Spotreba materiálu                                                         0        0
+Energie
+Plyny                                                                      2947924  3373343
+
+Finančné náklady, z toho:                                                  112690   92271
+Kurzové straty, z toho:
+kurzové straty ku dňu, ku ktorému sa zostavuje účtovná závierka            111667   2316
+Ostatné významné položky finančných nákladov, z toho:
+Nákladové úroky                                                            173929   120603
+Ostatné náklady na finančnú či
+Náklady, ktoré majú výnimočný rozsah alebo výskyt:                         100228   0
+
+                                                                           8372950  6834426
+
+                                                                           7506975  5778353
+
+                                                                           411838   318233
+
+                                                                           392939   214895
+
+                                                                           0        0
+
+                                                                           0        0
+
+                                                                           1626475  502828
+
+                                                                           54664    2074
+
+                                                                           0        0
+
+                                                                           0        0
+
+                                                                           960645   423886
+
+                                                                           611166   76868
+
+                                                                           0        0
+
+                                                                           0        0
+
+                                                                           0        0
+
+J. Informácie o daniach z príjmov
+
+40. Informácie k časti J. písm. a) až e) prílohy č. 3 o daniach z príjmov
+
+                        Názov položky                                                                                  Bezprostredne
+                                                                           Bežné účtovné obdobie predchádzajúce účtovné
+
+                                                                                                                            obdobie
+
+Suma odloženej daňovej pohľadávky účtovanej ako náklad alebo výnos         0        0
+vyplývajúca zo zmeny sadzby dane príjmov
+
+Suma odloženého daňového záväzku účtovaného ako náklad alebo výnos         0        0
+vyplývajúci zo zmeny sadzby dane z príjmov
+
+Suma odloženej daňovej pohľadávky týkajúca sa umorenia daňovej straty,
+
+nevyužitých daňových odpočtov a iných nárokov, ako aj dočasných rezdielov  0        0
+predchádzajúcich účtovných období, ku ktorým sa v predchádzajúcich
+
+účtovných obdobiach odložená daňová pohľadávka neúčtovala
+
+Suma odloženého daňového záväzku, ktorý vznikol z dôvodu neúčtovania       0        0
+tej časti odloženej daňovej pohľadávky v bežnom účtovnom období, o ktorej
+sa účtovalo v predchádzajúcich účtovných obdobiach                         0        0
+
+Suma neuplatneného umorenia daňovej straty, nevyužitých daňových
+odpočtov a iných nárokov a odpočítateľných dočasných rozdielov, ku ktorým
+nebola účtovaná odložená daňová pohľadávka
+
+Suma odloženej dani z príjmov, ktorá sa vzťahuje na položky účtované       0        0
+priamo na účty vlastného imania bez účtovania na účty nákladov a výnosov
+Poznámky Úč POD 3 - 01           IČO 3 6 0 1 7 2 0 5                        DIČ 2 0 2 0 0 8 5 6 0 6 str.22
+
+41. Informácie k časti J. písm. f) a g) prílohy č. 3 o daniach z príjmov
+
+              Názov              Bežné účtovné obdobie                      Bezprostredne predchádzajúce účtovné
+             položky                                                                               obdobie
+
+                  a         Základ dane           Daň             Daň       Základ dane        Daň         Daň
+Výsledok hospodárenia pred                                        v%                                       v%
+zdanením, z toho:                  b                c
+teoretická daň                                                      d       e                  f           g
+Daňovo neuznané náklady              1004317        x
+Výnosy nepodliehajúce dani                                          x          1002191         x           x
+Umorenie daňovej straty             x                  220950
+Spolu                                  165254            36356          22  x                     230503          23
+Splatná daň z prijímov                      106               23        22       96105
+Odložená daň z príjmov                         0               0        22            95            22104         23
+Celková daň z príjmov                                                                  0
+                                     1169677           257329            0                            22          23
+                                    x                  257284           22   1098201
+                                    x                                       x                         0            0
+                                    x                     4653           0  x
+                                                       261937            0  x                     252586          23
+                                                                         0
+                                                                                                      0            0
+
+                                                                                                      0            0
+
+                                                                                                  252586          23
+
+K. Informácie o údajoch na podsúvahových účtoch                                                                       Bezprostredne
+42. Informácie k časti K. prílohy č. 3 o podsúvahových účtoch             Bežné účtovné obdobie predchádzajúce účtovné
+
+                                         Názov položky                                                                     obdobie
+
+Prenajatý majetok                                                                           0                      0
+Majetok v nájme (operatívny prenájom)
+Majetok prijatý do úschovy                                                                  0                      0
+Pohľadávky z derivátov
+Záväzky z opcií derivátov                                                                   0                      0
+Odpísané pohľadávky
+Pohľadávky z leasingu                                                                       0                      0
+Záväzky z leasingu
+Iné položky                                                                                 0                      0
+
+                                                                                            0                      0
+
+                                                                                            0                      0
+
+                                                                                            0                      0
+
+                                                                                            0                      0
+
+L. Informácie o iných aktívach a iných pasívach
+
+43. Informácie k časti L. písm. a) prílohy č. 3 o podmienených záväzkoch
+Tabuľka č. 1
+
+                                                                               Bežné účtovné obdobie
+
+                      Druh podmieneného záväzku                             Hodnota celkom          Hodnota voči
+                                                                                               spriazneným osobám
+
+Zo súdnych rozhodnutí                                                                       0                      0
+
+Z poskytnutých záruk                                                                        0                      0
+
+Zo všeobecne záväzných právnych predpisov                                                   0                      0
+
+Zo zmluvy o podriadenom záväzku                                                             0                      0
+
+Z ručenia                                                                                   0                      0
+
+Iné podmienené záväzky                                                                      0                      0
+Poznámky Úč POD 3 - 01          IČO 3 6 0 1 7 2 0 5                           DIČ 2 0 2 0 0 8 5 6 0 6 str.23
+
+Tabuľka č. 2                                                               Bezprostredne predchádzajúce účtovné obdobie
+
+                              Druh podmieneného záväzku                       Hodnota celkom          Hodnota voči
+                                                                                                 spriazneným osobám
+Zo súdnych rozhodnutí
+Z poskytnutých záruk                                                                          0                          0
+Zo všeobecne záväzných právnych predpisov
+Zo zmluvy o podriadenom záväzku                                                               0                          0
+Z ručenia
+Iné podmienené záväzky                                                                        0                          0
+
+                                                                                              0                          0
+
+                                                                                              0                          0
+
+                                                                                              0                          0
+
+44. Informácie k časti L. písm. c) prílohy č. 3 o podmienenom majetku
+
+                       Druh podmieneného majetku                                                                       Bezprostredne
+                                                                           Bežné účtovné obdobie predchádzajúce účtovné
+
+                                                                                                                            obdobie
+
+Práva zo servisných zmlúv                                                                     0                          0
+
+Práva z poistným zmlúv                                                                        0                          0
+
+Práva z koncesionárskych zmlúv                                                                0                          0
+
+Práva z licenčných zmlúv                                                                      0                          0
+
+Práva z investovania prostriedkov získaných oslobodením od dane z príjmov                     0                          0
+
+Práva z privatizácie                                                                          0                          0
+
+Práva zo súdnych sporov                                                                       0                          0
+
+Iné práva                                                                                     0                          0
+
+M. Informácie o príjmoch a výhodách členov štatutárnych orgánov, dozorných orgánov a iných orgánov účtovnej
+jednotky
+
+45. Informácie k časti M. prílohy č. 3 o príjmoch a výhodách štatutárnych orgánov, dozorných orgánov a iných orgánov
+
+                                Hodnoto príjmu, výhody súčasných              Hodnota príjmu, výhody bývalých
+                                              členov orgánov                              členov orgánov
+
+Druh príjmu, výhody                                      b                                       c
+
+                                štatutárnych dozorných         iných          štatutárnych dozorných     iných
+
+                                Časť 1 - Bežné účtovné obdobie                Časť 1 - Bežné účtovné obdobie
+
+                    a           Časť 2 - Bezprostredne predchádzajúce         Časť 2 - Bezprostredne predchádzajúce
+Peňažné príjmy                                  účtovné obdobie                               účtovné obdobie
+Nepeňažné príjmy
+Peňažné preddavky               0                           0              0  0                       0                  0
+Nepeňažné preddavky
+Poskytnuté úvery                0                           0              0  0                       0                  0
+Poskytnuté záruky
+Iné                             0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+
+                                0                           0              0  0                       0                  0
+Poznámky Úč POD 3 - 01  IČO 3 6 0 1 7 2 0 5                                 DIČ 2 0 2 0 0 8 5 6 0 6 str.24
+
+N. Informácie o ekonomických vzťahoch účtovnej jednotky a spriaznených osôb
+
+46. Informácie k časti N. prílohy č. 3 o ekonomických vzťahoch medzi účtovnou jednotkou a spriaznenými osobami
+Tabuľka č. 1
+
+                                                                            Hodnotové vyjadrenie obchodu
+
+Názov položky                                          Kód druhu            Bežné účtovné               Bezprostredne
+         a                                              obchodu                 obdobie                predchádzajúce
+                                                                                                       účtovné obdobie
+                                                             b
+                                                                             c                         d
+
+                                                                  0                        0                            0
+
+                                                                  0                        0                            0
+
+                                                                  0                        0                            0
+
+                                                                  0                        0                            0
+
+                                                                  0                        0                            0
+
+                                                                  0                        0                            0
+
+                                                                  0                        0                            0
+
+                                                                  0                        0                            0
+
+                                                                  0                        0                            0
+
+                                                                  0                        0                            0
+
+Tabuľka č. 2                                                                Hodnotové vyjadrenie obchodu
+
+          Dcérska účtovná jednotka / Materská účtovná  Kód druhu            Bežné účtovné               Bezprostredne
+                                     jednotka           obchodu                 obdobie                predchádzajúce
+                                                                                                       účtovné obdobie
+                                          a                  b                       c
+                                                                         0                          0             d
+                                                                         0
+                                                                         0                                                      0
+                                                                         0
+                                                                         0                 0                            0
+                                                                         0
+                                                                         0                 0                            0
+                                                                         0
+                                                                         0                 0                            0
+                                                                         0
+                                                                                           0                            0
+
+                                                                                           0                            0
+
+                                                                                           0                            0
+
+                                                                                           0                            0
+
+                                                                                           0                            0
+
+                                                                                           0                            0
+
+O. Informácie o skutočnostiach, ktoré nastali po dni, ku ktorému sa zostavuje účtovná závierka do dňa
+zostavenia účtovnej závierky
+
+V prvom polroku 2014 prebehla emisia dlhopisov spoločnosti Gevorkyan s.r.o..
+Poznámky Úč POD 3 - 01              IČO 3 6 0 1 7 2 0 5                       DIČ 2 0 2 0 0 8 5 6 0 6 str.25
+
+P. Prehľad zmien vlastného imania
+
+47. Informácie k časti P. prílohy č. 3 o zmenách vlastného imania
+Tabuľka č. 1
+
+                                                                 Bežné účtovné obdobie
+
+Položka vlastného imania            Stav na začiatku  Prírastky       Úbytky            Presuny            Stav na konci
+                                        účtovného                                                            účtovného
+                                         obdobia                                             e                obdobia
+                                                                                                        0           f
+                     a              b                 c               d                                 0          13924472
+Základné imanie                      2217863          11706609                   0                      0                      0
+                                                                                                        0                      0
+Vlastné akcie a vlastné             0                              0          0                         0                      0
+obchodné podiely                                                                                        0                      0
+                                                                                                                     6472046
+Zmena základného imania             8920000           2786609         11706609                          0
+                                                                                                                               0
+Pohľadávky za upísané vlastné       0                              0          0                         0
+imanie                                                                                                  0                      0
+
+Emisné ážio                         0                              0          0                         0                      0
+
+Ostatné kapitálové fondy            6472046                        0          0                         0                      0
+                                                                                                        0
+Zákonný rezervný fond                                                                                   0             106269
+                                                                                                        0                      0
+(nedeliteľný fond) z kapitálových   0                              0          0                         0                      0
+
+vkladov                                                                                                 0            1282675
+                                                                                                        0                      0
+Oceňovacie rozdiely z               0                              0          0                         0
+precenenia majetku a záväzkov                                                                                         742379
+                                                                                                        0             210025
+Oceňovacie rozdiely z               0                              0          0
+kapitálových účastín                                                                                                           0
+
+Oceňovacie rozdiely z                                                                                                          0
+
+precenenia pri zlúčení, splynutí a  0                              0          0
+
+rozdelení
+
+Zákonný rezervný fond               69032             37237                   0
+
+Nedeliteľný fond                    0                              0          0
+
+Štatutárne fondy a ostatné fondy    0                              0          0
+
+Nerozdelený zisk minulých rokov     785197            707503          210025
+
+Nerozdelená strata minulých         0                              0          0
+rokov
+
+Výsledok hospodárenia bežného       0                 742379                  0
+účtovného obdobia
+
+Vyplatené dividendy                 0                 210025                  0
+
+Ostatné položky vlastného           0                              0          0
+imania
+
+Účet 491 - Vlastné imanie           0                              0          0
+fyzickej osoby - podnikateľa
+Poznámky Úč POD 3 - 01              IČO 3 6 0 1 7 2 0 5                               DIČ 2 0 2 0 0 8 5 6 0 6 str.26
+
+Tabuľka č. 2
+
+                                                             Bezprostredne predchádzajúce účtovné obdobie
+
+   Položka vlastného imania         Stav na začiatku         Prírastky           Úbytky             Presuny            Stav na konci
+                                        účtovného                                                                        účtovného
+                     a                   obdobia                  c                  d                   e                obdobia
+Základné imanie                               b                               0                  0                  0           f
+Vlastné akcie a vlastné                         2217863                       0                  0                  0            2217863
+obchodné podiely                                                                                 0                  0
+Zmena základného imania                                   0         8920000                      0                  0                      0
+Pohľadávky za upísané vlastné                                                 0                  0                  0
+imanie                                                    0                   0                                     0            8920000
+Emisné ážio                                                                             184733
+                                                          0         2076524                                                                0
+
+                                                          0                                                                                0
+                                                                                                                                 6472046
+Ostatné kapitálové fondy            4580255
+                                              0              0                        0                          0     0
+Zákonný rezervný fond                         0
+(nedeliteľný fond) z kapitálových             0              0                        0                          0     0
+vkladov                                       0
+                                                             0                        0                          0     0
+Oceňovacie rozdiely z                  48248
+precenenia majetku a záväzkov                                          0                      0                  0     0
+Oceňovacie rozdiely z
+kapitálových účastín                                            20784                         0                  0     69032
+                                                                       0                      0
+Oceňovacie rozdiely z                                                  0                      0
+precenenia pri zlúčení, splynutí a                                                    250000
+rozdelení                                                     394900                          0
+                                                                       0
+Zákonný rezervný fond                                                                         0
+                                                             1002191                          0
+Nedeliteľný fond                    0                         250000                          0                  0     0
+                                                                       0
+Štatutárne fondy a ostatné fondy    0                                                         0                  0     0
+                                                                       0
+Nerozdelený zisk minulých rokov     640296                                                                       0     785196
+                                            0
+Nerozdelená strata minulých                 0                                                                    0     0
+rokov
+                                                                                                                 0     1002191
+Výsledok hospodárenia bežného
+účtovného obdobia
+
+Vyplatené dividendy                 0                                                                            0     250000
+
+Ostatné položky vlastného           0                                                                            0     0
+imania
+
+Účet 491 - Vlastné imanie           0                                                                            0     0
+fyzickej osoby - podnikateľa
+
+T. Prehľad peňažných tokov pri použití nepriamej metódy
+49. Informácie k časti T. prílohy č. 3 o prehľade peňažných tokov pri použitý nepriamej metódy
+
+Označenie                           Obsah položky                                     Bežné účtovné               Bezprostredne
+  položky                                                                                  obdobie               predchádzajúce
+                                                                                                                 účtovné obdobie
+Z/S           Peňažné toky z prevádzkovej činnosti                                                  1004314
+              Výsledok hospodárenia z bežnej činnosti pred zdanením daňou z                                                     1002192
+A. 1.         príjmov (+/-)                                                                         1752242
+              Nepeňažné operácie ovplyvňujúce výsledok hospodárenia z bežnej                                                      762670
+A. 1. 1.      činnosti pred zdanením daňou z príjmov (+/-), (súčet A. 1. 1. až A. 1.                1580162
+              13.)                                                                                                                760481
+A. 1. 2.      Odpisy dlhodobého nehmotného majetku a dlhodobého hmotného                                      0
+              majetku (+)                                                                                                                  0
+A. 1. 3.      Zostatková hodnota dlhodobého nehmotného majetku a dlhodobého                                   0
+A. 1. 4.      hmotného majetku účtovaná pri vyradení tohto majetku do nákladov                                0                            0
+A. 1. 5.      na bežnú činnosť, s výnimkou jeho predaja (+)                                                   0                            0
+A. 1. 6.                                                                                                      0                            0
+A. 1. 7.      Odpis opravnej položky k nadobudnutému majetku (+/-)                                            0                            0
+A. 1. 8.                                                                                                      0                            0
+              Zmena stavu dlhodobých rezerv (+/-)                                                                                          0
+
+              Zmena stavu opravných položiek (+/-)
+
+              Zmena stavu položiek časového rozlíšenia nákladov a výnosov (+/-)
+
+              Dividendy a iné podiely na zisku účtované do výnosov (-)
+
+              Úroky účtované do nákladov (+)
+Poznámky Úč POD 3 - 01  IČO 3 6 0 1 7 2 0 5                                        DIČ 2 0 2 0 0 8 5 6 0 6 str.27
+
+A. 1. 9.   Úroky účtované do výnosov (-)                                           0            0
+A. 1. 10.
+A. 1. 11.  Kurzový zisk vyčíslený k peňažným prostriedkom a peňažným               117416       115
+A. 1. 12.  ekvivalentom ku dňu, ku ktorému sa zostavuje účtovná závierka (-)
+A. 1. 13.                                                                          54664        1074
+           Kurzová strata vyčíslená k peňažným prostriedkom a peňažným
+A. 2.      ekvivalentom ku dňu, ku ktorému sa zostavuje účtovná závierka (+)       0            0
+
+A. 2. 1.   Výsledok z predaja dlhodobého majetku, s výnimkou majetku, ktorý        0            0
+A. 2. 2.   sa považuje za peňažný ekvivalent (+/-)
+A. 2. 3.                                                                                     0            0
+A. 2. 4.   Ostatné položky nepeňažného charakteru, ktoré ovplyvňujú výsledok
+           hospodárenia z bežnej činnosti, s výnimkou tých, ktoré sa uvádzajú                0            0
+A. 3.      osobitne v iných častiach prehľadu peňažných tokov (+/-)                          0            0
+A. 4.                                                                                        0            0
+A. 5.      Vplyv zmien stavu pracovného kapitálu, ktorým sa na účely tohto                   0            0
+A. 6.      opatrenia rozumie rozdiel medzi obežným majetkom a krátkodobými
+           záväzkami s výnimkou položiek obežného majetku, ktoré sú súčasťou       2756556      1764862
+A. 7.      peňažných prostriedkov a peňažných ekvivalentov, na výsledok             960645                9
+A. 8.      hospodárenia z bežnej činnosti (súčet A. 2. 1. až A. 2. 4.)                   134
+A. 9.                                                                                        0   423886
+A.         Zmena stavu pohľadávok z prevádzkovej činnosti (-/+)                              0            0
+                                                                                                          0
+B. 1.      Zmena stavu záväzkov z prevádzkovej činnosti (+/-)                      3717355
+B. 2.                                                                                        0  2188757
+B. 3.      Zmena stavu zásob (-/+)                                                           0            0
+B. 4.      Zmena stavu krátkodobého finančného majetku, s výnimkou majetku,                  0            0
+B. 5.      ktorý je súčasťou peňažných prostriedkov a peňažných ekvivalentov                              0
+B. 6.      (-/+)                                                                   3717355
+           Peňažné toky z prevádzkovej činnosti s výnimkou príjmov a                            2188757
+B. 7.      výdavkov, ktoré sa uvádzajú osobitne v iných častiach prehľadu             17000
+B. 8.      peňažných tokov (+/-), (súčet Z/S + A. 1. + A. 2.)                      4002627                0
+           Prijaté úroky, s výnimkou tých, ktoré sa začleňujú do investičných                   5322690
+B. 9.      činností (+)                                                                      0
+B. 10.                                                                                       0            0
+           Výdavky na zaplatené úroky, s výnimkou tých, ktoré sa začleňujú do      1167912      1683021
+           finančných činností (-)                                                           0
+                                                                                                          0
+           Príjmy z dividend a iných podielov na zisku, s výnimkou tých, ktoré sa            0            0
+           začleňujú do investičných činností (+)                                            0
+           Výdavky na vyplatené dividendy a iné podiely na zisku, s výnimkou                              0
+           tých, ktoré sa začleňujú do finančných činností (-)                               0            0
+           Peňažné toky z prevádzkovej činnosti (+/-),
+           (súčet Z/S + A. 1. až A. 6.)                                                      0            0
+           Výdavky na daň z príjmov účtovnej jednotky, s výnimkou tých, ktoré
+           sa začleňujú do investičných činností alebo finančných činností (-/+)                          0
+           Príjmy výnimočného rozsahu alebo výskytu vzťahujúce sa na
+           prevádzkovú činnosť (+)
+           Výdavky výnimočného rozsahu alebo výskytu vzťahujúce sa na
+           prevádzkovú činnosť (-)
+
+           Čisté peňažné toky z prevádzkovej činnosti (+/-),
+           (súčet Z/S + A. 1. až A. 9.)
+
+           Peňažné toky z investičnej činnosti
+
+           Výdavky na obstaranie dlhodobého nehmotného majetku (-)
+
+           Výdavky na obstaranie dlhodobého hmotného majetku (-)
+
+           Výdavky na obstaranie dlhodobých cenných papierov a podielov v
+           iných účtovných jednotkách, s výnimkou cenných papierov, ktoré sa
+           považujú za peňažné ekvivalenty a cenných papierov určených na
+           predaj alebo na obchodovanie (-)
+
+           Príjmy z predaja dlhodobého nehmotného majetku (+)
+
+           Príjmy z predaja dlhodobého hmotného majetku (+)
+
+           Príjmy z predaja dlhodobých cenných papierov a podielov v iných
+           účtovných jednotkách, s výnimkou cenných papierov, ktoré sa
+           považujú za peňažné ekvivalenty a cenných papierov určených na
+           predaj alebo na obchodovanie (+)
+           Výdavky na dlhodobé pôžičky poskytnuté účtovnou jednotkou inej
+           účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (-)
+           Príjmy zo splácania dlhodobých pôžičiek poskytnutých účtovnou
+           jednotkou inej účtovnej jednotke, ktorá je súčasťou konsolidovaného
+           celku (+)
+           Výdavky na dlhodobé pôžičky poskytnuté účtovnou jednotkou tretím
+           osobám s výnimkou dlhodobých pôžičiek poskytnutých účtovnej
+           jednotke, ktorá je súčasťou konsolidovaného celku (-)
+
+           Príjmy zo splácania pôžičiek poskytnutých účtovnou jednotkou tretím
+           osobám, s výnimkou pôžičiek poskytnutých účtovnej jednotke, ktorá je
+Poznámky Úč POD 3 - 01  IČO 3 6 0 1 7 2 0 5                                       DIČ 2 0 2 0 0 8 5 6 0 6 str.28
+
+B. 11.    súčasťou konsolidovaného celku (+)                                                 0             0
+B. 12.    Prijaté úroky, s výnimkou tých, ktoré sa začleňujú do prevádzkových                0             0
+          činností (+)
+B. 13.    Príjmy z dividend a iných podielov na zisku, s výnimkou tých, ktoré sa             0             0
+          začleňujú do prevádzkových činností (+)
+B. 14.    Výdavky súvisiace s derivátmi s výnimkou, ak sú určené na predaj                   0             0
+          alebo na obchodovanie, alebo ak sa tieto výdavky považujú za
+B. 15.    peňažné toky z finančnej činnosti (-)                                              0             0
+B. 16.    Príjmy súvisiace s derivátmi s výnimkou, ak sú určené na predaj                    0             0
+B. 17.    alebo na obchodovanie, alebo ak sa tieto výdavky považujú za                       0             0
+B. 18.    peňažné toky z finančnej činnosti (+)                                              0             0
+B. 19.    Výdavky na daň z príjmov účtovnej jednotky, ak je ju možné začleniť                0             0
+B.        do investičných činností (-)                                             5187539       7005711
+          Príjmy výnimočného rozsahu alebo výskytu vzťahujúce sa na
+C. 1.     investičnú činnosť (+)                                                             0             0
+C. 1. 1.  Výdavky výnimočného rozsahu alebo výskytu vzťahujúce sa na                         0             0
+C. 1. 2.  investičnú činnosť (-)                                                             0             0
+C. 1. 3.                                                                                     0             0
+C. 1. 4.  Ostatné príjmy vzťahujúce sa na investičnú činnosť (+)                             0             0
+C. 1. 5.                                                                                     0             0
+C. 1. 6.  Ostatné výdavky vzťahujúce sa na investičnú činnosť (-)                            0             0
+C. 1. 7.                                                                                     0             0
+C. 1. 8.  Čisté peňažné toky z investičnej činnosti (súčet B. 1. až B. 19.)                  0             0
+C. 2.                                                                              2437834       -502750
+C. 2. 1.  Peňažné toky z finančnej činnosti                                                  0             0
+C. 2. 2.                                                                                     0             0
+C. 2. 3.  Peňažné toky vo vlastnom imaní (súčet C. 1. 1. až C. 1. 8.)             11769430       6216272
+
+C. 2. 4.  Príjmy z upísaných akcií a obchodných podielov (+)                      -7471746      -4906444
+C. 2. 5.                                                                                     0             0
+C. 2. 6.  Príjmy z ďalších vkladov do vlastného imania spoločníkmi alebo                     0             0
+C. 2. 7.  fyzickou osobou, ktorá je účtovnou jednotkou (+)
+                                                                                  -1859850      -1812398
+C. 2. 8.  Prijaté peňažné dary (+)
+                                                                                             0             0
+C. 2. 9.  Príjmy z úhrady straty spoločníkmi (+)
+                                                                                  0             0
+C. 3.     Výdavky na obstaranie alebo spätné odkúpenie vlastných akcií a
+C. 4.     vlastných obchodných podielov (-)                                       0             0
+          Výdavky spojené so znížením fondov vytvorených účtovnou jednotkou
+C. 5.     (-)                                                                     0             0
+C. 6.     Výdavky na vyplatenie podielu na vlastnom imaní spoločníkmi
+          účtovnej jednotky a fyzickou osobou, ktorá je účtovnou jednotkou (-)    0             0
+          Výdavky z iných dôvodov, ktoré súvisia so znížením vlastného imania
+          (-)                                                                     0             0
+          Peňažné toky vznikajúce z dlhodobých záväzkov a krátkodobých
+          záväzkov z finančnej činnost, (súčet C. 2. 1. až C. 2. 9.)
+
+          Príjmy z emisie dlhových cenných papierov (+)
+
+          Výdavky na úhradu záväzkov z dlhových CP (-)
+
+          Príjmy z úverov, ktoré účtovnej jednotke poskytla banka alebo
+          pobočka zahraničnej banky, s výnimkou úverov, ktoré boli poskytnuté
+          na zabezpečenie hlavného predmetu činnosti (+)
+
+          Výdavky na splácanie úverov, ktoré účtovnej jednotke poskytla banka
+          alebo pobočka zahraničnej banky, s výnimkou úverov, ktoré boli
+          poskytnuté na zabezpečenie hlavného predmetu činnosti (-)
+
+          Príjmy z prijatých pôžičiek (+)
+
+          Výdavky na splácanie pôžičiek (-)
+
+          Výdavky na úhradu záväzkov z používania majetku, ktorý je
+          predmetom zmluvy o kúpe prenajatej veci (-)
+          Príjmy z ostatných dlhodobých záväzkov a krátkodobých záväzkov
+          vyplývajúcich z finančnej činnosti účtovnej jednotky, s výnimkou tých,
+          ktoré sa uvádzajú osobitne v inej časti prehľadu peňažných tokov (+)
+          Výdavky na splácanie ostatných dlhodobých záväzkov a
+          krátkodobých záväzkov vyplývajúcich z finančnej činnosti účtovnej
+          jednotky, s výnimkou tých, ktoré sa uvádzajú osobitne v inej časti
+          prehľadu peňažných tokov (-)
+          Výdavky na zaplatené úroky, s výnimkou tých, ktoré sa začleňujú do
+          prevádzkových činností (-)
+          Výdavky na vyplatené dividendy a iné podiely na zisku, s výnimkou
+          tých, ktoré sa začleňujú do prevádzkových činností (-)
+          Výdavky súvisiace s derivátmi, s výnimkou, ak sú určené na predaj
+          alebo na obchodovanie, alebo ak sa považujú za peňažné toky z
+          investičnej činnosti (-)
+
+          Príjmy súvisiace s derivátmi, s výnimkou, ak sú určené na predaj
+Poznámky Úč POD 3 - 01  IČO 3 6 0 1 7 2 0 5                                  DIČ 2 0 2 0 0 8 5 6 0 6 str.29
+
+C. 7.  alebo na obchodovanie, alebo ak sa považujú za peňažné toky z                    0            0
+C. 8.  investičnej činnosti (+)                                                        15       1216
+C. 9.                                                                           611166        76868
+C.     Výdavky na daň z príjmov účtovnej jednotky, ak ich možno začleniť do   3049015      -424486
+D.     finančných činností (-)                                               11953889      8769982
+E.                                                                                42200     109871
+       Príjmy výnimočného rozsahu alebo výskytu vzťahujúce sa na
+F.     finančnú činnosť (+)                                                   1309132         42195
+
+G.     Výdavky výnimočného rozsahu alebo výskytu vzťahujúce sa na                 62752        -1959
+       finančnú činnosť (-)
+H.                                                                            1246380         44154
+       Čisté peňažné toky z finančnej činnosti (súčet C. 1. až C. 9.)
+
+       Čisté zvýšenie alebo čisté zníženie peňažných prostriedkov (+/-),
+       (súčet A + B + C)
+
+       Stav peňažných prostriedkov a peňažných ekvivalentov na
+       začiatku účtovného obdobia (+/-)
+       Stav peňažných prostriedkov a peňažných ekvivalentov na konci
+       účtovného obdobia pred zohľadnením kurzových rozdielov
+       vyčíslených ku dňu, ku ktorému sa zostavuje účtovná závierka
+       (+/-)
+
+       Kurzové rozdiely vyčíslené k peňažným prostriedkom a
+       peňažným ekvivalentom ku dňu, ku ktorému sa zostavuje
+       účtovná závierka (+/-)
+
+       Zostatok peňažných prostriedkov a peňažných ekvivalentov na
+       konci účtovného obdobia upravený o kurzové rozdiely vyčíslené
+       ku dňu, ku ktorému sa zostavuje účtovná závierka (+/-)
+

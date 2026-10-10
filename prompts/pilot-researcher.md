@@ -24,7 +24,7 @@ Ak RPO API (`api.statistics.sk`) neodpovedá (timeout, 504), použi **ORSR** (`h
 ## Postup
 
 1. **Činnosť (G3):** z webu kandidáta, z registra NBS alebo z médií zisti, čo subjekt robí. Zapíš tvrdenie `g3_cinnost`.
-2. **Investície:** nájdi portfóliové firmy (web kandidáta, tlačové správy, médiá, SIH). Pri každej slovenskej cieľovej firme:
+2. **Investície:** začni súborom `data/orsr_podiely.csv` (riadky s `investor_ico` = IČO kandidáta). Je to spätné vyhľadávanie v ORSR (scripts/footprint.js): všetky firmy, kde je kandidát spoločníkom, komanditistom alebo jediným akcionárom, s dátumom vstupu, navýšením vkladu a príznakom `vlastna_dcera`. Vlastné účelové dcéry nie sú investície podľa R1. Potom hľadaj ďalšie portfóliové firmy (web kandidáta, tlačové správy, médiá, SIH), lebo ORSR neukazuje menšinových akcionárov a. s. ani zahraničné podiely. Pri každej slovenskej cieľovej firme:
    - nájdi jej IČO v RPO (`https://api.statistics.sk/rpo/v1/search?fullName=...` alebo `?identifier=...`) a otvor `https://api.statistics.sk/rpo/v1/entity/<id>?showHistoricalData=true`,
    - ak je kandidát (alebo ním spravovaný fond, ktorého IČO uvedieš vo `flags` ako `cez_fond:<ICO>`) medzi `stakeholders` ako spoločník/akcionár, zapíš `investicia` s úrovňou **A** a dátumom = `validFrom` tohto záznamu,
    - inak zapíš `investicia` z tlačovej správy alebo médií (B) alebo z webu kandidáta (C) s dátumom z článku.

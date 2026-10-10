@@ -1,9 +1,9 @@
 # Kontrola dohľadateľnosti (KU0)
 
-Čas: 2026-10-10T08:03:29.516Z
-Rozsah: hodnoty v data/investors.json
+Čas: 2026-10-10T10:47:02.233Z
+Rozsah: všetky potvrdené tvrdenia v claims.csv
 
-- hodnôt (claim_id): 320
-- úspešných: 320
+- hodnôt (claim_id): 741
+- úspešných: 741
 - dohľadateľnosť: 100.00 %
 

@@ -45,7 +45,7 @@ const KEY='pilot-review-v1';let S={r:{},c:{}};try{S=JSON.parse(localStorage.getI
 const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}prog()};
 const esc=s=>String(s??'').replace(/[&<>"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch]));
 const rev=document.getElementById('rev');rev.value=S.reviewer||'';rev.oninput=()=>{S.reviewer=rev.value;save()};
-const STAT=['','zaradeny','neiste','typ_nerozhodnuty','vyradeny_register','vyradeny_typ','vyradeny_neaktivny','mimo_rozsahu'];
+const STAT=['','zaradeny','neiste','typ_nerozhodnuty','vyradeny_register','vyradeny_typ','vyradeny_neaktivny','vyradeny_bez_investicii','mimo_rozsahu'];
 const TYP=['','VC','PE','typ_nerozhodnuty','iny'];const SUB=['','VC','korporatne_VC','statny_fond','akcelerator_investujuci'];
 const VER=['','potvrdene','nepotvrdene','rozporne'];
 const sel=(o,v,a)=>'<select '+a+'>'+o.map(x=>'<option'+(x===v?' selected':'')+'>'+x+'</option>').join('')+'</select>';

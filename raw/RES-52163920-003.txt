@@ -1,0 +1,31 @@
+{
+  "updated": "2026-10-09",
+[...]
+    },
+    {
+      "id": "52163920",
+      "name": "Slovenský Energetický a Odpadový Fond s.r.o. (skrátený názov SEOF s.r.o.)",
+      "address": "Janotova 14, 841 Bratislava - mestská časť Karlova Ves",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2019-02-15",
+          "parent_entity_id": "51453240",
+          "parent_entity_name": "Wasteland Investment Management s. r. o."
+        }
+      ]
+[...]
+    {
+      "id": "51453240",
+      "name": "Wasteland Investment Management s. r. o.",
+      "address": "Tallerova 10, 811 02 Bratislava",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný správca alternatívnych investičných fondov",
+          "licenses": [],
+          "valid_from": "2019-02-15"
+        }
+      ]

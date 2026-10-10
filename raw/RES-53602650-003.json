@@ -1,0 +1,18 @@
+{
+  "updated": "2026-10-09",
+  "institutions": [
+    ...
+    {
+      "id": "53602650",
+      "name": "Hilberman Capital, s.r.o.",
+      "address": "Pribinova 30, 82109 Bratislava - mestská časť Ružinov",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný správca alternatívnych investičných fondov",
+          "licenses": [],
+          "valid_from": "2025-01-28"
+        }
+      ]
+    },
+    ...

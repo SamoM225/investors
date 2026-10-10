@@ -1,0 +1,20 @@
+{
+  "updated": "2026-10-09",
+  "institutions": [
+    ...
+    {
+      "id": "56342900",
+      "name": "Hilberman Capital SPV1, s. r. o.",
+      "address": "Pribinova 17130/30, 82109 Bratislava - mestská časť Ružinov",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2025-01-28",
+          "parent_entity_id": "53602650",
+          "parent_entity_name": "Hilberman Capital, s.r.o."
+        }
+      ]
+    },
+    ...

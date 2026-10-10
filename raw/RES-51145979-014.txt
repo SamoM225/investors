@@ -1,0 +1,54 @@
+Příloha v účetní závěrce § 39 vyhl. č. 500/2002 Sb.
+Název a sídlo účetní jednotky
+Kovoprojekta Investment a.s. Šumavská 416/15, 602 00 Brno
+Údaje o účetní jednotce
+IČ: 11736348 Zapsána u: Krajského soudu v Brně Zapsána do OR dne: 24.8.2021 Právní forma: AKCIOVÁ SPOLEČNOST V likvidaci: Ne Předmět podnikání: projektová činnost ve výstavbě Rozvahový den: 31.12.2023 Okamžik sestavení účetní závěrky: 27.2.2024 Spisová značka: B / 8592
+Použité obecné účetní zásady a metody
+Účetní zásady Účetní jednotka vede účetnictví dle vyhlášky č. 500/2002 Sb. Účetní metody Účetní jednotka používá české účetní standardy pro podnikatele.
+Použité oceňovací modely
+Účetní jednotka používá k ocenění majetku pořizovací cenu. K ocenění pohledávek a závazků nominální hodnotu. Účetní odpisy majetku jsou shodné s daňovými. Drobný majetek je odepisován rovnoměrně po dobu použitelnosti.
+Informace doplňující a rozvádějící položky v účetních výkazech
+Přepočtený stav zaměstnanců: 0.
+.............…………………………………….. Podpisový záznam statutárního orgánu
+
+
+
+=== Rozvaha (príloha 2 toho istého dokumentu) ===
+
+    IČ:            11736348
+
+           Rozvaha pro podnikatele, ve zkráceném rozsahu pro
+         mikro účetní jednotku, která nemá povinnost mít účetní
+
+                          závěrku ověřenou auditorem
+                                 ke dni 31.12.2023
+
+                   (v celých
+tisících
+Kč)
+
+                                           běžné účetní období      minulé
+                                                                    účetní
+                   AKTIVA
+                                                                    období
+                                           brutto korekce netto      netto
+
+                                           1     2               3  4
+
+    AKTIVA CELKEM                          1943     0 1943 1946
+
+C.  Oběžná aktiva                          1943                  1943 1946
+                                     PASIVA  běžné účetní minulé účetní
+
+       PASIVA CELKEM                         období     období
+       Vlastní kapitál
+       Cizí zdroje                           1          2
+       Závazky
+                                                1943       1946
+
+A.                                              1943       1946
+B.+C.
+C.                                                   0          0
+
+                                                     0          0
+

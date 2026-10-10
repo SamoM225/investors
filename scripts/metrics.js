@@ -48,17 +48,20 @@ const tr = fs.existsSync(path.join(ROOT, 'logs/traceability.md')) ? fs.readFileS
 const m0 = (tr.match(/dohľadateľnosť: ([\d.]+) %/) || [])[1];
 // M8
 const dec = readCsv('data/decisions.csv');
-const vyr = Object.fromEntries(readCsv('data/vyradene.csv').filter(v => v.ico).map(v => [v.ico, v]));
-const researched = new Set(fs.readdirSync(path.join(ROOT, 'data/research')).filter(f => /^\d{8}\.csv$/.test(f)).map(f => f.slice(0, 8)));
+// na_vyskum.csv: vyradení, ktorých nové pravidlo G4 vrátilo do plného výskumu (prešli G3)
+const vyr = Object.fromEntries(readCsv('data/vyradene.csv').concat(readCsv('data/na_vyskum.csv')).filter(v => v.ico).map(v => [v.ico, v]));
+// plne skúmaní: ponechaní so súborom výskumu + vyradení po plnom výskume (ich výskum sa pri očistení zmazal)
+const researched = new Set(fs.readdirSync(path.join(ROOT, 'data/research')).filter(f => /^\d{8}\.csv$/.test(f)).map(f => f.slice(0, 8))
+  .concat(Object.values(vyr).filter(v => v.sposob_spracovania === 'plny_vyskum').map(v => v.ico)));
 // po očistení sú vo decisions iba ponechané; vyradení z G4 sú vo vyradene.csv
-const passedG3 = dec.concat(Object.values(vyr).filter(v => v.brana === 'G4').map(v => ({ ico: v.ico, status: v.status }))).filter(d => !['vyradeny_register', 'mimo_rozsahu', 'vyradeny_typ'].includes(d.status) || (d.status === 'mimo_rozsahu' && d.failed_gate === 'G5'));
+const passedG3 = dec.concat(Object.values(vyr).filter(v => v.brana === 'G4' || v.brana === 'G5').map(v => ({ ico: v.ico, status: v.status, failed_gate: v.brana }))).filter(d => !['vyradeny_register', 'mimo_rozsahu', 'vyradeny_typ'].includes(d.status) || (d.status === 'mimo_rozsahu' && d.failed_gate === 'G5'));
 const unsure = dec.filter(d => d.status === 'neiste' || d.status === 'typ_nerozhodnuty');
 const passedG3R = passedG3.filter(d => researched.has(d.ico));
 // M5: holdout
 const hold = readCsv('data/holdout.csv');
 const holdIco = [...new Set(hold.map(h => h.ico))];
 // po očistení (2026-10-10): Scout našiel IČO, ak je v decisions.csv alebo vo vyradene.csv
-const scoutIco = new Set(readCsv('data/decisions.csv').map(d => d.ico).concat(readCsv('data/vyradene.csv').map(v => v.ico)).filter(Boolean));
+const scoutIco = new Set(readCsv('data/decisions.csv').map(d => d.ico).concat(Object.keys(vyr)).filter(Boolean));
 
 const humanByIco = Object.fromEntries(R.map(r => [r.ico, r.human_status]));
 const decByIco = Object.fromEntries(dec.map(d => [d.ico, d]));

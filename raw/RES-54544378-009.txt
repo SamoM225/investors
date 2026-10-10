@@ -1,0 +1,1068 @@
+{"prilohy":[{"id":10395255,"meno":"Príloha k účtovnej závierke MÚJ.RTF","jazyk":"SK","pocetStran":0,"velkostPrilohy":4278453,"mimeType":"application/rtf","digest":"6909f8dabbc9c8e19ad0e53754c26809cf0e60ea7ad42c8bc7aaf1fc051ec40e"},{"id":10395256,"meno":"MUJ_2121912848_IR_2023_3743208_5019888.pdf","jazyk":"SLK","pocetStran":5,"velkostPrilohy":172800,"mimeType":"application/pdf","digest":"e1ec45a7ff4021173f6ee8fad7ae14b1aef4d258d40734bae4387b9d2297b7c8"}],"id":8823964,"idUctovnejZavierky":5737324,"obsah":{"tabulky":[{"nazov":{"sk":"Strana aktív"},"data":["5110786","","","","","","","","","","","","","","","","","","","","","","","","","","5110786","","","","","","2501964","","","","1964","","2500000","","2608822","","2608822","","",""]},{"nazov":{"sk":"Strana pasív"},"data":["5110786","","57061","","14285","","14285","","","","57000","","","","","","","","-14224","","5053725","","5053715","","","","","","10","","","","","","","","10","","","","","","",""]},{"nazov":{"sk":"Výkaz ziskov a strát"},"data":["","","","","","","","","","","","","","","10206","","","","","","10206","","","","","","","","","","","","","","-10206","","-10206","","2283","","","","","","","","2283","","","","","","5867","","","","","","","","5867","","","","","","-3584","","-13790","","434","","","","-14224",""]}],"titulnaStrana":{"nazovUctovnejJednotky":"Silver Home s.r.o.","ico":"55216471","dic":"2121912848","adresa":{"ulica":"Ardova","cislo":"19","psc":"08212","mesto":"Kapušany"},"skNace":"87300","typZavierky":"Riadna","obdobieOd":"2023-01","obdobieDo":"2023-12","predchadzajuceObdobieOd":"2022-01","predchadzajuceObdobieDo":"2022-12","datumZostavenia":"2024-01-20"}},"pristupnostDat":"Verejné","idSablony":687,"kodDanovehoUradu":"700","zdrojDat":"FRSR","datumPoslednejUpravy":"2024-02-08"}
+
+--- príloha 10395255 (Príloha k účtovnej závierke MÚJ.RTF), text, https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/10395255 ---
+1. Informácie k časti A. písm. c) prílohy č. 3 o počte zamestnancov
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Priemerný prepočítaný počet zamestnancov | 0 | 0 |
+Stav zamestnancov ku dňu, ku ktorému sa zostavuje účtovná závierka, z toho: | 0 | 0 |
+počet vedúcich zamestnancov | 0 | 0 |
+2. Informácie k časti B. písm. b) prílohy č. 3 o štruktúre spoločníkov, akcionárov ku dňu, ku ktorému sa zostavuje účtovná závierka a o štruktúre spoločníkov, akcionárov do dňa jej zmeny vzniknutej v priebehu účtovného obdobia
+Tabuľka č. 1
+Spoločník, akcionár | Výška podielu na základnom imaní | Podiel na hlasovacích právach v % | Iný podiel na ostatných položkách VI ako na ZI
+v % |
+| absolútne | v % | | |
+a | b | C | d | e |
+PhDr.Marián Bača |  10 000 | 100 | 100 | |
+| | | | |
+| | | | |
+|   | | | |
+| | | | |
+|   | | | |
+Spolu |  10 000 | 100 | 100 | |
+Tabuľka č. 2
+Spoločník, akcionár do dňa zmeny v štruktúre spoločníkov, akcionárov | Výška podielu na základnom imaní | Podiel na hlasovacích právach v % | Iný podiel na ostatných položkách VI ako na ZI
+v % |
+Spoločník, akcionár | Dátum zmeny | absolútne | V % | | |
+a | b | c | d | e | f |
+| |   | | | |
+| |   | | | |
+| |   | | | |
+Spolu | x |   | | | |
+3. Informácie k časti F. písm. a) prílohy č. 3 o dlhodobom nehmotnom majetku
+Tabuľka č. 1
+Dlhodobý nehmotný majetok | Bežné účtovné obdobie |
+| Aktivova-né náklady na vývoj | Softvér | Oceniteľ-né práva | Goodwill | Ostatný DNM | Obsta-rávaný DNM | Poskytnuté preddavky na DNM | Spolu |
+a | b | c | d | e | F | g | h | i |
+Prvotné ocenenie |
+Stav na začiatku účtovného obdobia | | | | | | | | |
+Prírastky | | | | | | | | |
+Úbytky | | | | | | | | |
+Presuny | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | |
+Oprávky |
+Stav na začiatku účtovného obdobia | | | | | | | | |
+Prírastky | | | | | | | | |
+Úbytky | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | |
+Opravné položky |
+Stav na začiatku účtovného obdobia | | | | | | | | |
+Prírastky | | | | | | | | |
+Úbytky | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | |
+Zostatková hodnota  |
+Stav na začiatku účtovného obdobia | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | |
+Tabuľka č. 2
+Dlhodobý nehmotný majetok | Bezprostredne predchádzajúce účtovné obdobie |
+| Aktivova-né náklady na vývoj | Softvér | Oceniteľ-né práva | Goodwill | Ostatný DNM | Obsta-rávaný DNM | Poskytnuté preddavky na DNM | Spolu |
+a | b | c | d | e | F | g | h | i |
+Prvotné ocenenie |
+Stav na začiatku účtovného obdobia | | | | | | | | |
+Prírastky | | | | | | | | |
+Úbytky | | | | | | | | |
+Presuny | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | |
+Oprávky |
+Stav na začiatku účtovného obdobia | | | | | | | | |
+Prírastky | | | | | | | | |
+Úbytky | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | |
+Opravné položky |
+Stav na začiatku účtovného obdobia | | | | | | | | |
+Prírastky | | | | | | | | |
+Úbytky | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | |
+Zostatková hodnota  |
+Stav na začiatku účtovného obdobia | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | |
+4. Informácie k časti F. písm. c) prílohy č. 3 o dlhodobom nehmotnom majetku
+Dlhodobý nehmotný majetok | Hodnota za bežné účtovné obdobie |
+Dlhodobý nehmotný majetok, na ktorý je zriadené záložné právo | |
+Dlhodobý nehmotný majetok, pri ktorom má účtovná jednotka obmedzené právo s ním nakladať | |
+5. Informácie k časti F. písm. a) prílohy č. 3 o dlhodobom hmotnom majetku |
+Tabuľka č. 1
+Dlhodobý hmotný majetok | Bežné účtovné obdobie |
+| Pozemky | Stavby | Samostatné hnuteľné veci a súbory hnuteľných vecí | Pesto-vateľské celky
+trvalých porastov | Základné stádo a ťažné zvieratá | Ostatný DHM | Obsta-rávaný DHM | Poskytnuté preddavky na DHM | Spolu |
+a | b | c | d | e | F | g | h | i | j |
+Prvotné ocenenie |
+Stav na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Presuny | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Oprávky |
+Stav na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Opravné položky |
+Stav na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Zostatková hodnota  |
+Stav na začiatku účtovného obdobia | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Tabuľka č. 2
+Dlhodobý hmotný majetok | Bezprostredne predchádzajúce účtovné obdobie |
+| Pozemky | Stavby | Samostatné hnuteľné veci a súbory hnuteľných vecí | Pesto-vateľské celky
+trvalých porastov | Základné stádo a ťažné zvieratá | Ostatný DHM | Obsta-rávaný DHM | Poskytnuté preddavky na DHM | Spolu |
+a | b | c | d | e | F | g | h | i | j |
+Prvotné ocenenie |
+Stav na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Presuny | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Oprávky |
+Stav na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Opravné položky |
+Stav na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Zostatková hodnota  |
+Stav na začiatku účtovného obdobia | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+6. Informácie k časti F. písm. c) prílohy č. 3 o dlhodobom hmotnom majetku
+Dlhodobý hmotný majetok | Hodnota za bežné účtovné obdobie |
+Dlhodobý hmotný majetok, na ktorý je zriadené záložné právo | |
+Dlhodobý hmotný majetok, pri ktorom má účtovná jednotka obmedzené právo s ním nakladať | |
+7. Informácie k časti F. písm. j) prílohy č. 3 o  dlhodobom finančnom majetku
+Tabuľka č. 1
+Dlhodobý finančný majetok | Bežné účtovné obdobie |
+| Podielové CP a podiely v DÚJ | Podielové
+CP a podiely
+v spoločnosti s podstatným vplyvom | Ostatné dlhodobé CP a podiely | Pôžičky ÚJ v
+kons.
+celku | Ostatný DFM | Pôžičky s dobou splatnosti najviac jeden rok | Obsta-rávaný
+DFM | Poskyt-nuté preddav-ky na DFM | Spolu |
+a | b | c | d | e | f | g | h | i | J |
+Prvotné ocenenie |
+Stav  na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Presuny | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Opravné položky |
+Stav
+na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Účtovná hodnota  |
+Stav
+na začiatku účtovného obdobia | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Tabuľka č. 2
+Dlhodobý finančný majetok | Bezprostredne predchádzajúce účtovné obdobie |
+| Podielové CP a podiely v DÚJ | Podielové
+CP a podiely
+v spoločnosti s podstatným vplyvom | Ostatné dlhodo-bé CP a podiely | Pôžičky ÚJ v
+kons.
+celku | Ostatný DFM | Pôžičky s dobou splatnosti najviac jeden rok | Obsta-rávaný
+DFM | Poskyt-nuté preddav-ky na DFM | Spolu |
+a | b | c | d | e | f | g | h | i | J |
+Prvotné ocenenie |
+Stav  na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Presuny | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Opravné položky |
+Stav
+na začiatku účtovného obdobia | | | | | | | | | |
+Prírastky | | | | | | | | | |
+Úbytky | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+Účtovná hodnota  |
+Stav
+na začiatku účtovného obdobia | | | | | | | | | |
+Stav na konci účtovného obdobia | | | | | | | | | |
+8. Informácie k časti F. písm. m) prílohy č. 3 o dlhodobom finančnom majetku
+Dlhodobý finančný majetok | Hodnota za bežné účtovné obdobie |
+Dlhodobý finančný majetok, na ktorý je zriadené záložné právo | |
+Dlhodobý finančný majetok, pri ktorom má účtovná jednotka obmedzené právo s ním nakladať | |
+9. Informácie k časti F. písm. i) prílohy č. 3 o štruktúre dlhodobého finančného majetku
+Obchodné meno a sídlo spoločnosti, v ktorej má ÚJ umiestnený DFM | Bežné účtovné obdobie |
+| Podiel ÚJ na ZI v  % | Podiel ÚJ na hlasovacích právach v % | Hodnota
+vlastného imania ÚJ, v ktorej má ÚJ umiestnený DFM | Výsledok hospodárenia ÚJ, v ktorej má ÚJ umiestnený DFM | Účtovná hodnota DFM |
+a | b | c | d | e | F |
+Dcérske účtovné jednotky |
+| | | | | |
+| | | | | |
+| | | | | |
+Účtovné jednotky s podstatným vplyvom |
+| | | | | |
+| | | | | |
+| | | | | |
+Ostatné realizovateľné CP a podiely |
+| | | | | |
+| | | | | |
+| | | | | |
+Obstarávaný DFM na účely vykonania vplyvu v inej ÚJ |
+| | | | | |
+| | | | | |
+Dlhodobý finančný majetok spolu | x | x | x | x | |
+10. Informácie k časti F. písm. j) a l) prílohy č. 3 o dlhových CP držaných do splatnosti
+Dlhové CP držané do splatnosti | Druh CP | Stav na
+začiatku účtovného obdobia | Zvýšenie hodnoty | Zníženie hodnoty | Vyradenie dlhového CP
+z účtovníctva
+v účtovnom období | Stav
+na konci účtovného obdobia |
+a | b | c | d | e | f | G |
+Do splatnosti viac ako päť rokov | | | | | | |
+Do splatnosti od troch rokov do piatich rokov vrátane | | | | | | |
+Do splatnosti od jedného roka do troch rokov vrátane | | | | | | |
+Do splatnosti do jedného roka vrátane | | | | | | |
+Dlhové CP držané do splatnosti spolu | x | | | | | |
+11. Informácie k časti F. písm. j) a l) prílohy č. 3 o poskytnutých dlhodobých pôžičkách
+Dlhodobé pôžičky | Stav
+na začiatku účtovného obdobia | Zvýšenie hodnoty | Zníženie hodnoty | Vyradenie pôžičky z účtovníctva v účtovnom období | Stav
+na konci účtovného obdobia |
+a | b | c | d | e | F |
+Do splatnosti viac ako päť rokov | | | | | |
+Do splatnosti od troch rokov do piatich rokov vrátane | | | | | |
+Do splatnosti od jedného roka do troch rokov vrátane | | | | | |
+Do splatnosti do jedného roka vrátane | | | | | |
+Dlhodobé pôžičky spolu | | | | | |
+12. Informácie k časti F. písm. o) prílohy č. 3 o opravných položkách k zásobám
+Tabuľka č. 1
+Zásoby | Bežné účtovné obdobie |
+| Stav  OP na začiatku účtovného obdobia |
+Tvorba
+OP
+| Zúčtovanie OP z dôvodu zániku opodstatnenosti | Zúčtovanie OP z dôvodu vyradenia majetku
+z účtovníctva | Stav OP na konci účtovného obdobia |
+a | b | c | d | e | F |
+Materiál | | | | | |
+Nedokončená výroba a
+polotovary vlastnej výroby | | | | | |
+Výrobky | | | | | |
+Zvieratá | | | | | |
+Tovar | | | | | |
+Nehnuteľnosť na predaj | | | | | |
+Poskytnuté preddavky na zásoby | | | | | |
+Zásoby spolu | | | | | |
+Tabuľka č. 2
+Nehnuteľnosť na predaj | Hodnota |
+Náklady na obstarávanie nehnuteľnosti na predaj za účtovné obdobie | |
+Náklady na obstaranie nehnuteľnosti na predaj od začiatku obstarávania | |
+13. Informácie k časti F. písm. p) prílohy č. 3 o zásobách, na ktoré je zriadené záložné právo a o zásobách, pri ktorých má účtovná jednotka obmedzené právo s nimi nakladať
+Zásoby | Hodnota za bežné účtovné obdobie |
+Zásoby, na ktoré je zriadené záložné právo | |
+Zásoby, pri ktorých má účtovná jednotka obmedzené právo s nimi nakladať | |
+14. Informácie k časti F. písm. q) prílohy č. 3 o zákazkovej výrobe a o zákazkovej výstavbe nehnuteľnosti určenej na predaj
+Tabuľka č. 1
+Názov položky | Za bežné účtovné obdobie | Za bezprostredne predchádzajúce účtovné obdobie | Sumár od začiatku zákazkovej výroby až do konca bežného účtovného obdobia |
+a | b | c | D |
+Výnosy zo zákazkovej výroby | | | |
+Náklady na zákazkovú výrobu | | | |
+Hrubý zisk / hrubá strata | | | |
+Tabuľka č. 2
+Hodnota zákazkovej výroby | Za bežné účtovné obdobie | Sumár od začiatku zákazkovej výroby až do konca bežného účtovného obdobia |
+a | b | C |
+Vyfakturované nároky za vykonanú prácu na zákazkovej výrobe | | |
+Úprava nárokov podľa stupňa dokončenia alebo metódou nulového zisku | | |
+Suma prijatých preddavkov | | |
+Suma zadržanej platby | | |
+Tabuľka č. 3
+Názov položky | Za bežné účtovné obdobie | Za bezprostredne predchádzajúce účtovné obdobie | Sumár od začiatku zákazkovej výstavby nehnuteľnosti určenej na predaj až do konca bežného účtovného obdobia |
+a | b | c | D |
+Výnosy zo zákazkovej výstavby nehnuteľnosti určenej na predaj | | | |
+Náklady na zákazkovú výstavbu nehnuteľnosti určenej na predaj | | | |
+Hrubý zisk / hrubá strata | | | |
+Tabuľka č. 4
+Hodnota zákazkovej výstavby nehnuteľnosti určenej na predaj | Za bežné účtovné obdobie | Sumár od začiatku zákazkovej výstavby nehnuteľnosti určenej na predaj až do konca bežného účtovného obdobia |
+a | b | C |
+Vyfakturované nároky za vykonanú prácu na zákazkovej výstavbe nehnuteľnosti určenej na predaj | | |
+Úprava nárokov podľa stupňa dokončenia alebo metódou nulového zisku | | |
+Suma prijatých preddavkov | | |
+Suma zadržanej platby | | |
+15. Informácie k časti F. písm. r) prílohy č. 3 o vývoji opravnej položky k pohľadávkam
+Pohľadávky | Bežné účtovné obdobie |
+| Stav OP na začiatku účtovného obdobia | Tvorba
+OP | Zúčtovanie OP z dôvodu zániku opodstatnenosti | Zúčtovanie OP z dôvodu vyradenia majetku
+z účtovníctva | Stav OP na konci účtovného obdobia |
+a | b | c | d | e | F |
+Pohľadávky z obchodného styku | | | | | |
+Pohľadávky voči dcérskej účtovnej jednotke a materskej účtovnej jednotke | | | | | |
+Ostatné pohľadávky v rámci kons. celku | | | | | |
+Pohľadávky voči spoločníkom, členom a združeniu | | | | | |
+Iné pohľadávky | | | | | |
+Pohľadávky spolu | | | | | |
+16. Informácie k časti F. písm. s) prílohy č. 3 o  vekovej štruktúre pohľadávok
+Tabuľka č. 1
+Názov položky | V lehote splatnosti | Po lehote splatnosti | Pohľadávky spolu |
+a | b | c | D |
+Dlhodobé pohľadávky |
+Pohľadávky z obchodného styku | | | |
+Pohľadávky voči dcérskej účtovnej jednotke a materskej účtovnej jednotke | | | |
+Ostatné pohľadávky v rámci konsolidovaného celku | | | |
+Pohľadávky voči spoločníkom, členom a združeniu | | | |
+Iné pohľadávky | | | |
+Dlhodobé pohľadávky spolu | | | |
+Krátkodobé pohľadávky |
+Pohľadávky z obchodného styku | 0 | | 0 |
+Pohľadávky voči dcérskej účtovnej jednotke a materskej účtovnej jednotke | | | |
+Ostatné pohľadávky v rámci konsolidovaného celku | | | |
+Pohľadávky voči spoločníkom, členom a združeniu | | | |
+Sociálne poistenie | | | |
+Daňové pohľadávky a dotácie | | | |
+Iné pohľadávky | | | |
+Krátkodobé pohľadávky spolu | | | |
+Tabuľka č. 2
+Pohľadávky podľa zostatkovej
+doby splatnosti | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+a | b | C |
+Pohľadávky po lehote splatnosti | | |
+Pohľadávky so zostatkovou dobou splatnosti do jedného roka | | |
+Krátkodobé pohľadávky spolu | | |
+Pohľadávky so zostatkovou dobou splatnosti jeden rok až päť rokov | | |
+Pohľadávky so zostatkovou dobou splatnosti dlhšou ako päť rokov | | |
+Dlhodobé pohľadávky spolu | | |
+17. Informácie k časti F. písm. t) a u) prílohy č. 3 o pohľadávkach zabezpečených záložným právom alebo inou formou zabezpečenia
+Opis predmetu záložného práva | Bežné účtovné obdobie |
+| Hodnota predmetu | Hodnota pohľadávky |
+Pohľadávky kryté záložným právom alebo inou formou zabezpečenia | | |
+Hodnota pohľadávok, na ktoré sa zriadilo záložné právo | x | |
+Hodnota pohľadávok, pri ktorých je obmedzené právo s nimi nakladať | x | |
+18. Informácie k časti F. písm. w) prílohy č. 3 o krátkodobom finančnom majetku
+Tabuľka č. 1
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Pokladnica, ceniny | 9 612,00 | |
+Bežné bankové účty | 2 599 210,40 | |
+Bankové účty termínované | | |
+Peniaze na ceste | | |
+Spolu | 2 608 822,40 | |
+Tabuľka č. 2
+Krátkodobý finančný majetok | Bežné účtovné obdobie |
+| Stav na začiatku účtovného obdobia | Prírastky
+| Úbytky
+| Stav na konci účtovného obdobia |
+a | b | c | d | E |
+Majetkové CP na obchodovanie | | | | |
+Dlhové CP na obchodovanie | | | | |
+Emisné kvóty | | | | |
+Dlhové CP so splatnosťou do jedného roka držané do splatnosti | | | | |
+Ostatné realizovateľné CP | | | | |
+Obstarávanie krátkodobého finančného majetku | | | | |
+Krátkodobý finančný majetok spolu | | | | |
+19. Informácie k časti F. písm. x) prílohy č. 3 o vývoji opravnej položky ku krátkodobému finančnému majetku
+Krátkodobý finančný majetok | Stav OP na začiatku účtovného obdobia | Tvorba OP
+| Zúčtovanie OP z dôvodu zániku opodstatnenosti
+| Zúčtovanie OP z dôvodu vyradenia majetku z účtovníctva
+| Stav  OP na konci účtovného obdobia |
+a | b | c | d | e | F |
+Ostatné realizovateľné CP | | | | | |
+Obstarávanie krátkodobého finančného majetku | | | | | |
+Krátkodobý finančný majetok spolu | | | | | |
+20. Informácie k časti F. písm. y) prílohy č. 3 o krátkodobom finančnom majetku, na ktorý bolo zriadené záložné právo a o krátkodobom finančnom majetku, pri ktorom má účtovná jednotka obmedzené právo s ním nakladať
+Názov položky | Hodnota za bežné účtovné obdobie |
+Krátkodobý finančný majetok, na ktorý bolo zriadené záložné právo | |
+Krátkodobý finančný majetok, pri ktorom je obmedzené právo s ním nakladať | |
+21. Informácie k časti F. písm. za) prílohy č. 3 o ocenení krátkodobého finančného majetku, ku dňu ku ktorému sa zostavuje účtovná závierka reálnou hodnotou
+Krátkodobý finančný majetok | Zvýšenie/ zníženie hodnoty
+(+/-) | Vplyv ocenenia
+na výsledok hospodárenia bežného účtovného obdobia | Vplyv ocenenia
+na vlastné imanie |
+A | b | c | D |
+Majetkové CP na obchodovanie | | | |
+Dlhové CP na obchodovanie | | | |
+Emisné kvóty (komodity) | | | |
+Ostatné realizovateľné CP | | | |
+Krátkodobý finančný majetok spolu | | | |
+22. Informácie k časti F. písm. zb) prílohy č. 3 o významných položkách časového rozlíšenia na strane aktív
+Opis položky časového rozlíšenia | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Náklady budúcich období dlhodobé, z toho: | | |
+| | |
+| | |
+Náklady budúcich období krátkodobé, z toho: | | |
+| | |
+| | |
+Príjmy budúcich období dlhodobé, z toho: | | |
+| | |
+| | |
+Príjmy budúcich období krátkodobé, z toho: | | |
+| | |
+| | |
+23. Informácie k časti F. písm. zc) prílohy č. 3 o majetku prenajatom formou finančného prenájmu
+Názov
+položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+| Splatnosť | Splatnosť |
+| do jedného roka vrátane | od jedného roka do piatich rokov vrátane | viac ako päť rokov | do jedného roka vrátane | od jedného roka do piatich rokov vrátane | viac ako päť rokov |
+a | B | c | d | e | f | G |
+Istina |   |   |   |   |   |   |
+Finančný výnos |   |   |   |   |   |   |
+Spolu |   |   |   |   |   |   |
+24. Informácie k časti G. písm. a) tretiemu bodu prílohy č. 3 o rozdelení účtovného zisku alebo o vysporiadaní účtovnej straty
+Tabuľka č. 1
+Názov položky | Bezprostredne predchádzajúce účtovné obdobie |
+Účtovný zisk | |
+Rozdelenie účtovného zisku | Bežné účtovné obdobie |
+Prídel do zákonného rezervného fondu | |
+Prídel do štatutárnych a ostatných fondov | |
+Prídel do sociálneho fondu | |
+Prídel na zvýšenie základného imania | |
+Úhrada straty minulých období | |
+Prevod do nerozdeleného zisku minulých rokov | |
+Rozdelenie podielu na zisku spoločníkom, členom | |
+Iné | |
+Spolu | |
+Tabuľka č. 2
+Názov položky | Bezprostredne predchádzajúce účtovné obdobie |
+Účtovná strata | |
+Vysporiadanie účtovnej straty | Bežné účtovné obdobie |
+Zo zákonného rezervného fondu | |
+Zo štatutárnych a ostatných fondov | |
+Z nerozdeleného zisku minulých rokov | |
+Úhrada straty spoločníkmi | |
+Prevod do neuhradenej straty minulých rokov | |
+Iné | |
+Spolu | |
+25. Informácie k časti G. písm. b) prílohy č. 3 o rezervách
+Tabuľka č. 1
+Názov položky | Bežné účtovné obdobie |
+| Stav na začiatku účtovného obdobia | Tvorba | Použitie | Zrušenie | Stav na konci účtovného obdobia |
+a | b | c | d | e | F |
+Dlhodobé rezervy, z toho: |   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+| | | | | |
+Krátkodobé rezervy, z toho: |   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+| | | | | |
+| | | | | |
+| | | | | |
+Tabuľka č. 2
+Názov položky | Bezprostredne predchádzajúce účtovné obdobie |
+| Stav na začiatku účtovného obdobia | Tvorba | Použitie | Zrušenie | Stav na konci účtovného obdobia |
+a | b | c | d | e | F |
+Dlhodobé rezervy, z toho: |   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+| | | | | |
+Krátkodobé rezervy, z toho: |   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+| | | | | |
+|   |   |   |   |   |
+| | | | | |
+26. Informácie k časti G. písm. c) a d) prílohy č. 3 o záväzkoch
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Záväzky po lehote splatnosti |   |   |
+Záväzky so zostatkovou dobou splatnosti do jedného roka vrátane |   |   |
+Krátkodobé záväzky spolu |   |   |
+Záväzky so zostatkovou dobou splatnosti jeden rok až päť rokov |   |   |
+Záväzky so zostatkovou dobou splatnosti nad päť rokov |   |   |
+Dlhodobé záväzky spolu |   |   |
+27. Informácie k časti F. písm. v) a časti G. písm. f) prílohy č. 3 o odloženej daňovej pohľadávke alebo o odloženom daňovom záväzku
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Dočasné rozdiely medzi účtovnou hodnotou majetku a daňovou základňou, z toho: |   |   |
+odpočítateľné |   |   |
+zdaniteľné |   |   |
+Dočasné rozdiely medzi účtovnou hodnotou záväzkov a daňovou základňou, z toho: |   |   |
+odpočítateľné |   |   |
+zdaniteľné |   |   |
+Možnosť umorovať daňovú stratu v budúcnosti |   |   |
+Možnosť previesť nevyužité daňové odpočty |   |   |
+Sadzba dane z príjmov ( v %) |   |   |
+Odložená daňová pohľadávka | | |
+Uplatnená daňová pohľadávka | | |
+Zaúčtovaná ako zníženie nákladov | | |
+Zaúčtovaná do vlastného imania | | |
+Odložený daňový záväzok |   |   |
+Zmena odloženého daňového záväzku |   | |
+Zaúčtovaná ako náklad |   | |
+Zaúčtovaná do vlastného imania |   | |
+28. Informácie k časti G. písm. g) prílohy č. 3 o záväzkoch zo sociálneho fondu
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Začiatočný stav sociálneho fondu |   | |
+Tvorba sociálneho fondu na ťarchu nákladov |   |   |
+Tvorba sociálneho fondu zo zisku |   |   |
+Ostatná tvorba sociálneho fondu |   |   |
+Tvorba sociálneho fondu spolu |   |   |
+Čerpanie sociálneho fondu |   |   |
+Konečný zostatok sociálneho fondu |   | |
+29. Informácie k časti G. písm. h) prílohy č. 3 o vydaných dlhopisoch
+Názov vydaného dlhopisu | Menovitá hodnota | Počet | Emisný kurz | Úrok | Splatnosť |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+30. Informácie k časti G. písm. i) prílohy č. 3 o bankových úveroch, pôžičkách a krátkodobých finančných výpomociach
+Tabuľka č. 1
+Názov položky | Mena | Úrok
+p. a.
+v % | Dátum splatnosti | Suma istiny v príslušnej mene za bežné účtovné obdobie | Suma istiny v príslušnej mene za bezprostredne predchádzajúce účtovné obdobie |
+a | b | c | d | e | f |
+Dlhodobé bankové úvery |
+| |   | | | 0  |
+|   |   |   |   |   |
+|   |   |   |   |   |
+Krátkodobé bankové úvery |
+|  eur |   |   |   |   |
+|   |   |   |   |   |
+| | | | | |
+Tabuľka č. 2
+Názov položky | Mena | Úrok
+p. a.
+v % | Dátum splatnosti | Suma istiny v príslušnej mene za bežné účtovné obdobie | Suma istiny v príslušnej mene za bezprostredne predchádzajúce účtovné obdobie |
+a | b | c | d | e | f |
+Dlhodobé pôžičky  |
+Účet 479 |  EUR |   |   |  5 053 715 |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+Krátkodobé pôžičky  |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+Krátkodobé finančné výpomoci  |
+| | | | | |
+|   |   |   |   |   |
+31. Informácie k časti G. písm. j) prílohy č. 3 o významných položkách časového rozlíšenia na strane pasív
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Výdavky budúcich období dlhodobé, z toho: |   |   |
+| | |
+| | |
+Výdavky budúcich období krátkodobé, z toho: |   |   |
+| | |
+| | |
+Výnosy budúcich období dlhodobé, z toho: |   |   |
+| | |
+| | |
+| | |
+Výnosy budúcich období krátkodobé, z toho: |   |   |
+| | |
+| | |
+| | |
+| | |
+32. Informácie k časti G. písm. k) prílohy č. 3 o významných položkách derivátov za bežné účtovné obdobie
+Tabuľka č. 1
+Názov položky | Účtovná hodnota | Dohodnutá cena podkladového nástroja |
+| pohľadávky | záväzku | |
+a | b | c | d |
+Deriváty určené na obchodovanie, z toho:  | | | |
+| | | |
+| | | |
+| | | |
+| | | |
+Zabezpečovacie deriváty, z toho: | | | |
+| | | |
+| | | |
+| | | |
+| | | |
+Tabuľka č. 2
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+| Zmena reálnej hodnoty
+(+/-) s vplyvom na | Zmena reálnej hodnoty (+/-) s vplyvom na |
+| výsledok hospodárenia | vlastné imanie | výsledok hospodárenia | vlastné imanie |
+a | b | c | d | e |
+Deriváty určené na obchodovanie, z toho: | | | | |
+| | | | |
+| | | | |
+| | | | |
+Zabezpečovacie deriváty, z toho:  | | | | |
+| | | | |
+| | | | |
+| | | | |
+33. Informácie k časti G. písm. l) prílohy č. 3 o položkách zabezpečených derivátmi
+Zabezpečovaná položka | Reálna hodnota |
+| Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+a | b | c |
+Majetok vykázaný v súvahe |   |   |
+Záväzok vykázaný v súvahe |   |   |
+Zmluvy, ktoré sa neúčtujú na súvahových účtoch |   |   |
+Očakávané budúce obchody dosiaľ zmluvne nezabezpečené |   |   |
+Spolu |   |   |
+34. Informácie k časti G. písm. m) prílohy č. 3 o majetku prenajatom formou finančného prenájmu
+Názov
+položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+| Splatnosť | Splatnosť |
+| do jedného roka vrátane | od jedného roka do piatich rokov vrátane | viac ako päť rokov | do jedného roka vrátane | od jedného roka do piatich rokov vrátane | viac ako päť rokov |
+a | b | c | d | e | f | g |
+Istina |   |   |   |   |   |   |
+Finančný náklad |   |   |   |   |   |   |
+Spolu |   |   |   |   |   |   |
+35. Informácie k časti H. písm. a) prílohy č. 3 o tržbách
+Oblasť odbytu | Typ výrobkov, tovarov, služieb (napríklad A) | Typ výrobkov, tovarov, služieb (napríklad B) | Typ výrobkov, tovarov, služieb (napríklad C) |
+| Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+a | b | c | d | e | f | g |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+Spolu |   |   |   |   |   |   |
+36. Informácie k časti H. písm. b) prílohy č. 3 o zmene stavu vnútroorganizačných zásob
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie | Zmena stavu vnútroorganizačných zásob |
+| Konečný zostatok | Konečný zostatok | Začiatočný stav | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+a | b | c | d | e | f |
+Nedokončená výroba
+a polotovary vlastnej výroby |   |   |   |   |   |
+Výrobky |   |   |   |   |   |
+Zvieratá |   |   |   |   |   |
+Spolu |   |   |   |   |   |
+Manká a škody | x | x | x |   |   |
+Reprezentačné | x | x | x |   |   |
+Dary | x | x | x |   |   |
+Iné | x | x | x |   |   |
+Zmena stavu vnútroorga-nizačných zásob vo výkaze ziskov a strát | x | x | x |   |   |
+37. Informácie k časti H. písm. c) až f) prílohy č. 3 o výnosoch pri aktivácii nákladov a o výnosoch z hospodárskej činnosti, finančnej činnosti a mimoriadnej činnosti
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Významné položky pri aktivácii nákladov, z toho:  | | |
+| | |
+| | |
+Ostatné významné položky výnosov z hospodárskej činnosti, z toho: | | |
+| | |
+| | |
+| | |
+Finančné výnosy, z toho: | | |
+Kurzové zisky, z toho: | | |
+kurzové zisky ku dňu, ku ktorému sa zostavuje účtovná závierka | | |
+Ostatné významné položky finančných výnosov, z toho: | | |
+| | |
+| | |
+|   |   |
+Mimoriadne výnosy, z toho: | | |
+| | |
+| | |
+38. Informácie k časti H. písm. g) prílohy č. 3 o čistom obrate
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Tržby za vlastné výrobky |  3642 |   |
+Tržby z predaja služieb |   | |
+Tržby za tovar |   |   |
+Výnosy zo zákazky |   |   |
+Výnosy z nehnuteľnosti na predaj |   |   |
+Iné výnosy súvisiace s bežnou činnosťou |   |   |
+Čistý obrat celkom |  3642 | |
+39. Informácie k časti I. prílohy č. 3 o nákladoch
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Náklady za poskytnuté služby, z toho: | | |
+Náklady voči audítorovi, audítorskej spoločnosti, z toho: |   |   |
+náklady za overenie individuálnej účtovnej závierky |   |   |
+iné poisťovacie audítorské služby |   |   |
+súvisiace audítorské služby |   |   |
+daňové poradenstvo |   |   |
+ostatné neaudítorské služby |   |   |
+Ostatné významné položky nákladov za poskytnuté služby, z toho: |   |   |
+| | |
+| | |
+| | |
+Ostatné významné položky nákladov z hospodárskej činnosti, z toho: |   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+Finančné náklady, z toho: |   |   |
+Kurzové straty, z toho: |   |   |
+kurzové straty ku dňu, ku ktorému sa zostavuje účtovná závierka |   |   |
+Ostatné významné položky finančných nákladov, z toho: |   |   |
+| | |
+| | |
+Mimoriadne náklady, z toho: | | |
+| | |
+| | |
+40. Informácie k časti J. písm. a) až e) prílohy č. 3 o daniach z príjmov
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Suma odloženej daňovej pohľadávky účtovanej ako náklad alebo výnos vyplývajúca zo zmeny sadzby dane z príjmov |   |   |
+Suma odloženého daňového záväzku účtovaného ako náklad alebo výnos vyplývajúci zo zmeny sadzby dane z príjmov |   |   |
+Suma odloženej daňovej pohľadávky týkajúca sa umorenia daňovej straty, nevyužitých daňových odpočtov a iných nárokov, ako aj dočasných rozdielov predchádzajúcich účtovných období, ku ktorým sa v predchádzajúcich účtovných obdobiach odložená daňová pohľadávka neúčtovala |   |   |
+Suma odloženého daňového záväzku, ktorý vznikol z dôvodu neúčtovania tej časti odloženej daňovej pohľadávky v bežnom účtovnom období, o ktorej sa účtovalo v predchádzajúcich účtovných obdobiach |   |   |
+Suma neuplatneného umorenia daňovej straty, nevyužitých daňových odpočtov a iných nárokov a odpočítateľných dočasných rozdielov, ku ktorým nebola účtovaná odložená daňová pohľadávka |   |   |
+Suma odloženej dani z príjmov, ktorá sa vzťahuje na položky účtované priamo na účty vlastného imania bez účtovania na účty nákladov a výnosov |   |   |
+41. Informácie k časti J. písm. f) a g) prílohy č. 3 o daniach z príjmov
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+| Základ dane | Daň | Daň v % | Základ dane | Daň | Daň v % |
+a | b | c | d | e | f | g |
+Výsledok hospodárenia pred zdanením, z toho: | | x | x | | x | x |
+teoretická daň | x | | | x | | |
+Daňovo neuznané náklady |   |   |   |   |   |   |
+Výnosy nepodliehajúce dani |   |   |   |   |   |   |
+Umorenie daňovej straty |   |   |   |   |   |   |
+Spolu |   |   |   |   |   |   |
+Splatná daň z príjmov | x |   |   | x |   |   |
+Odložená daň z príjmov | x |   |   | x |   |   |
+Celková daň z príjmov | x |   |   | x |   |   |
+42. Informácie k časť K. prílohy č. 3 o podsúvahových položkách
+Názov položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Prenajatý majetok |   |   |
+Majetok v nájme (operatívny prenájom) |   |   |
+Majetok prijatý do úschovy |   |   |
+Pohľadávky z derivátov |   |   |
+Záväzky z opcií derivátov |   |   |
+Odpísané pohľadávky |   |   |
+Pohľadávky z leasingu |   |   |
+Záväzky z leasingu |   |   |
+Iné položky-úverový prísľub BKS |  350 000 |   |
+43. Informácie k časti L. písm. a) prílohy č. 3 o podmienených záväzkoch
+Tabuľka č. 1
+Druh podmieneného záväzku | Bežné účtovné obdobie |
+| Hodnota celkom | Hodnota voči spriazneným osobám |
+Zo súdnych rozhodnutí |   |   |
+Z poskytnutých záruk |   |   |
+Zo všeobecne záväzných právnych predpisov |   |   |
+Zo zmluvy o podriadenom záväzku |   |   |
+Z ručenia |   |   |
+Iné podmienené záväzky |   |   |
+Tabuľka č. 2
+Druh podmieneného záväzku | Bezprostredne predchádzajúce účtovné obdobie |
+| Hodnota celkom | Hodnota voči spriazneným osobám |
+Zo súdnych rozhodnutí |   |   |
+Z poskytnutých záruk |   |   |
+Zo všeobecne záväzných právnych predpisov |   |   |
+Zo zmluvy o podriadenom záväzku |   |   |
+Z ručenia |   |   |
+Iné podmienené záväzky |   |   |
+44. Informácie k časti L. písm. c) prílohy č. 3 o podmienenom majetku
+Druh podmieneného majetku | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+Práva zo servisných zmlúv |   |   |
+Práva z poistných zmlúv |   |   |
+Práva z koncesionárskych zmlúv |   |   |
+Práva z licenčných zmlúv |   |   |
+Práva z investovania prostriedkov získaných oslobodením od dane z príjmov |   |   |
+Práva z privatizácie |   |   |
+Práva zo súdnych sporov |   |   |
+Iné práva |   |   |
+45. Informácie k časti M. prílohy č. 3 o príjmoch a výhodách členov štatutárnych orgánov, dozorných orgánov a iných orgánov
+Druh príjmu, výhody | Hodnota  príjmu, výhody súčasných členov orgánov | Hodnota príjmu, výhody bývalých členov orgánov  |
+| b | c |
+| štatutárnych | dozorných | iných | štatutárnych | dozorných | iných |
+| Časť 1 - Bežné účtovné obdobie | Časť 1 - Bežné účtovné obdobie |
+a | Časť 2 - Bezprostredne predchádzajúce účtovné obdobie | Časť 2 - Bezprostredne predchádzajúce účtovné obdobie |
+Peňažné príjmy |   |   |   |   |   |   |
+|   |   |   |   |   |   |
+Nepeňažné príjmy |   |   |   |   |   |   |
+|   |   |   |   |   |   |
+Peňažné preddavky |   |   |   |   |   |   |
+|   |   |   |   |   |   |
+Nepeňažné preddavky |   |   |   |   |   |   |
+|   |   |   |   |   |   |
+Poskytnuté úvery |   |   |   |   |   |   |
+|   |   |   |   |   |   |
+Poskytnuté záruky |   |   |   |   |   |   |
+|   |   |   |   |   |   |
+Iné |   |   |   |   |   |   |
+|   |   |   |   |   |   |
+46. Informácie k časti N. prílohy č. 3 o ekonomických vzťahoch medzi účtovnou jednotkou a spriaznenými osobami
+Tabuľka č. 1
+Spriaznená osoba  | Kód druhu obchodu | Hodnotové vyjadrenie obchodu |
+| | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+a | b | c | d |
+| |   |   |
+| |   |   |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| |   |   |
+| |   |   |
+| |   |   |
+Tabuľka č. 2
+Dcérska účtovná jednotka/Materská účtovná jednotka | Kód druhu obchodu | Hodnotové vyjadrenie obchodu |
+| | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+a | b | c | d |
+|   |   |   |
+|   |   |   |
+| | | |
+| | | |
+| | | |
+| | | |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+47. Informácie k časti P. prílohy č. 3 o zmenách vlastného imania
+Tabuľka č. 1
+Položka vlastného imania | Bežné účtovné obdobie |
+| Stav na začiatku účtovného obdobia  | Prírastky | Úbytky | Presuny | Stav na konci účtovného obdobia |
+a | b | c | d | e | f |
+Základné imanie |   |   |   |   |  10 000 |
+Vlastné akcie a vlastné obchodné podiely |   |   |   |   |   |
+Zmena základného imania |   |   | |   |   |
+Pohľadávky za upísané vlastné imanie |   |   |   |   |   |
+Emisné ážio |   |   |   |   |   |
+Ostatné kapitálové fondy |   |   |   |   |   |
+Zákonný rezervný fond (nedeliteľný fond) z kapitálových vkladov |   |   |   |   |   |
+Oceňovacie rozdiely z precenenia majetku a záväzkov |   |   |   |   |   |
+Oceňovacie rozdiely z kapitálových účastín |   |   |   |   |   |
+Oceňovacie rozdiely z precenenia pri zlúčení, splynutí a rozdelení |   |   |   |   |   |
+Zákonný rezervný fond |   |   |   |   |   |
+Nedeliteľný fond |   |   |   |   |   |
+Štatutárne fondy a ostatné fondy |   |   |   |   |  61 285 |
+Nerozdelený zisk minulých rokov |   |   |   |   |   |
+Neuhradená strata minulých rokov |   |   |   |   |   |
+Výsledok hospodárenia bežného účtovného obdobia |   |   |   |   |  -14 224 |
+Vyplatené dividendy |   |   |   |   |   |
+Ostatné položky vlastného imania |   |   |   |   |   |
+Účet 491 - Vlastné imanie fyzickej osoby - podnikateľa |   |   |   |   |  57 061 |
+Tabuľka č. 2
+Položka vlastného imania | Bezprostredne predchádzajúce účtovné obdobie |
+| Stav na začiatku účtovného obdobia  | Prírastky | Úbytky | Presuny | Stav na konci účtovného obdobia |
+a | b | c | d | e | f |
+Základné imanie |   |   |   |   | |
+Vlastné akcie a vlastné obchodné podiely |   |   |   |   |   |
+Zmena základného imania |   |   | |   |   |
+Pohľadávky za upísané vlastné imanie |   |   |   |   |   |
+Emisné ážio |   |   |   |   |   |
+Ostatné kapitálové fondy |   |   |   |   |   |
+Zákonný rezervný fond (nedeliteľný fond) z kapitálových vkladov |   |   |   |   |   |
+Oceňovacie rozdiely z precenenia majetku a záväzkov |   |   |   |   |   |
+Oceňovacie rozdiely z kapitálových účastín |   |   |   |   |   |
+Oceňovacie rozdiely z precenenia pri zlúčení, splynutí a rozdelení |   |   |   |   |   |
+Zákonný rezervný fond |   |   |   |   |   |
+Nedeliteľný fond |   |   |   |   |   |
+Štatutárne fondy a ostatné fondy |   |   |   |   |   |
+Nerozdelený zisk minulých rokov |   |   |   |   |   |
+Neuhradená strata minulých rokov |   |   |   |   |   |
+Výsledok hospodárenia bežného účtovného obdobia |   |   |   |   |   |
+Vyplatené dividendy |   |   |   |   |   |
+Ostatné položky vlastného imania |   |   |   |   |   |
+Účet 491 - Vlastné imanie fyzickej osoby - podnikateľa |   |   |   |   |   |
+48. Informácie k časti S. prílohy č. 3 o prehľade peňažných tokov pri použití priamej metódy
+Označenie položky | Obsah položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+| | | |
+| Peňažné toky z prevádzkovej činnosti |   |   |
+A. 1. | Príjmy z predaja tovaru (+) |   |   |
+A. 2. | Výdavky na nákup tovaru |   |   |
+A. 3. | Príjmy z predaja vlastných výrobkov (+) |   |   |
+A. 4. | Príjmy z predaja služieb (+) |   |   |
+A. 5. | Výdavky na obstaranie materiálu, energie a ostatných neskladovateľných dodávok (-) |   |   |
+A. 6. | Výdavky na služby (-) |   |   |
+A. 7. | Výdavky na osobné náklady (-) |   |   |
+A. 8. | Výdavky na dane a poplatky, s výnimkou výdavkov na daň z príjmov účtovnej jednotky (-) |   |   |
+A. 9. | Príjmy z predaja cenných papierov určených na predaj alebo na obchodovanie (+) |   |   |
+A. 10. | Výdavky na nákup cenných papierov určených na predaj alebo na obchodovanie (-) |   |   |
+A. 11. | Príjmy z uzatvorených zmlúv, ktorých predmetom je právo určené na predaj alebo na obchodovanie (+) |   |   |
+A. 12. | Výdavky z uzatvorených zmlúv, ktorých predmetom je právo určené na predaj alebo na obchodovanie (-) |   |   |
+A. 13. | Príjmy z úverov, ktoré účtovnej jednotke poskytla
+banka alebo pobočka zahraničnej banky, ak boli úvery poskytnuté na zabezpečenie hlavného predmetu činnosti (+) |   |   |
+A. 14. | Výdavky na splácanie úverov, ktoré účtovnej jednotke poskytla banka alebo pobočka zahraničnej banky, ak boli úvery poskytnuté na zabezpečenie hlavného predmetu činnosti (-) |   |   |
+A. 15. | Ostatné príjmy z prevádzkových činností, s výnimkou tých, ktoré sa uvádzajú osobitne v iných častiach prehľadu peňažných tokov (+) |   |   |
+A. 16. | Ostatné výdavky na prevádzkové činnosti, s výnimkou tých, ktoré sa uvádzajú osobitne v  iných častiach prehľadu peňažných tokov (-) |   |   |
+* | Peňažné toky z  prevádzkovej činnosti okrem príjmov
+a výdavkov, ktoré sa  uvádzajú osobitne v iných častiach prehľadu peňažných tokov (+/-), (súčet A. 1. až A. 16. ) |   |   |
+A. 17. | Prijaté úroky, s výnimkou tých, ktoré sa začleňujú do investičných činností (+) |   |   |
+A. 18. | Výdavky na zaplatené úroky, s výnimkou tých, ktoré sa začleňujú do finančných činností (-) |   |   |
+A. 19. | Príjmy z dividend a iných podielov na zisku, s výnimkou tých, ktoré sa začleňujú do investičných činností (+) |   |   |
+A. 20. | Výdavky na vyplatené dividendy a iné podiely na zisku, s výnimkou tých, ktoré sa začleňujú do finančných činností (-) |   |   |
+| Peňažné toky z prevádzkovej činnosti (+/-),
+(súčet A. 1. až A. 20.) |   |   |
+A. 21. | Výdavky na daň z príjmov  účtovnej jednotky, s výnimkou tých, ktoré sa  začleňujú do investičných činností alebo do finančných činností (-/+) |   |   |
+A. 22. | Príjmy mimoriadneho charakteru vzťahujúce sa na
+prevádzkovú činnosť (+) |   |   |
+A. 23. | Výdavky mimoriadneho charakteru vzťahujúce sa na
+prevádzkovú činnosť (-) |   |   |
+A. | Čisté peňažné toky z prevádzkovej činnosti
+(súčet A. 1. až A. 23.) |   |   |
+| Peňažné toky z investičnej činnosti |   |   |
+B. 1. | Výdavky na obstaranie dlhodobého nehmotného majetku (-) |   |   |
+B. 2. | Výdavky na obstaranie dlhodobého hmotného majetku (-) |   |   |
+B. 3. | Výdavky na obstaranie dlhodobých cenných papierov
+a podielov  v iných účtovných jednotkách, s výnimkou cenných papierov, ktoré sa považujú za peňažné ekvivalenty a cenných papierov určených na predaj alebo na obchodovanie (-) |   |   |
+B. 4. | Príjmy z predaja dlhodobého nehmotného majetku (+) |   |   |
+B. 5. | Príjmy z predaja dlhodobého hmotného majetku (+) |   |   |
+B. 6. | Príjmy z predaja dlhodobých cenných papierov a
+podielov v iných účtovných jednotkách, s výnimkou cenných papierov, ktoré sa považujú za peňažné ekvivalenty a cenných papierov určených na predaj alebo na obchodovanie (+) |   |   |
+B. 7. | Výdavky na dlhodobé pôžičky poskytnuté účtovnou jednotkou inej účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (-) |   |   |
+B. 8. | Príjmy zo splácania dlhodobých pôžičiek poskytnutých účtovnou jednotkou inej účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (+) |   |   |
+B. 9. | Výdavky na dlhodobé pôžičky poskytnuté účtovnou jednotkou tretím osobám, s výnimkou dlhodobých pôžičiek poskytnutých účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (-) |   |   |
+B. 10. | Príjmy zo splácania pôžičiek poskytnutých účtovnou jednotkou tretím osobám, s výnimkou pôžičiek poskytnutých účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (+) |   |   |
+B. 11. | Prijaté úroky, s výnimkou tých, ktoré sa začleňujú do prevádzkových činností (+) |   |   |
+B. 12. | Príjmy z dividend a iných podielov na zisku, s výnimkou tých, ktoré sa začleňujú do prevádzkových činností (+) |   |   |
+B. 13. | Výdavky súvisiace s derivátmi s výnimkou, ak sú určené na predaj alebo na obchodovanie alebo, ak sa tieto výdavky považujú za peňažné toky z  finančnej činnosti (-) |   |   |
+B. 14. | Príjmy súvisiace s derivátmi s výnimkou, ak sú určené na predaj alebo na obchodovanie alebo, ak sa tieto výdavky považujú za peňažné toky z finančnej činnosti (+) |   |   |
+B. 15. | Výdavky na daň z príjmov  účtovnej jednotky, ak je ich možné začleniť do investičných činností (-) |   |   |
+B. 16. | Príjmy mimoriadneho charakteru vzťahujúce sa na investičnú činnosť (+) |   |   |
+B. 17. | Výdavky mimoriadneho charakteru vzťahujúce sa na
+investičnú činnosť (-) |   |   |
+B. 18. | Ostatné príjmy vzťahujúce sa na investičnú činnosť (+) |   |   |
+B. 19. | Ostatné výdavky vzťahujúce sa na investičnú činnosť (-) |   |   |
+B. | Čisté peňažné toky z investičnej činnosti
+(súčet B. 1. až B. 19.) |   |   |
+| Peňažné toky z finančnej činnosti |   |   |
+C. 1. | Peňažné toky vznikajúce vo  vlastnom imaní
+(súčet C. 1. 1. až C. 1. 8.) |   |   |
+C. 1. 1. | Príjmy z upísaných akcií a obchodných podielov (+) |   |   |
+C. 1. 2. | Príjmy z ďalších vkladov do vlastného imania spoločníkmi alebo fyzickou osobou, ak je účtovnou jednotkou (+) |   |   |
+C. 1. 3. | Prijaté peňažné dary (+) |   |   |
+C. 1. 4. | Príjmy z úhrady straty spoločníkmi (+) |   |   |
+C. 1. 5. | Výdavky na obstaranie alebo spätné odkúpenie vlastných akcií a vlastných obchodných podielov (-) |   |   |
+C. 1. 6. | Výdavky spojené so znížením fondov vytvorených účtovnou jednotkou (-) |   |   |
+C. 1. 7. | Výdavky na vyplatenie podielu na vlastnom imaní spoločníkom alebo fyzickou osobou, ktorá je účtovnou jednotkou (-) |   |   |
+C. 1. 8. | Výdavky z ďalších dôvodov, ktoré súvisia so znížením vlastného imania (-) |   |   |
+C. 2. | Peňažné toky vznikajúce z dlhodobých záväzkov  a krátkodobých záväzkov z finančnej činnosti,
+(súčet C. 2. 1. až C. 2. 9.) |   |   |
+C. 2. 1. | Príjmy z emisie dlhových cenných papierov (+) |   |   |
+C. 2. 2. | Výdavky na úhradu záväzkov z dlhových cenných papierov (-) |   |   |
+C. 2. 3. | Príjmy z úverov, ktoré účtovnej jednotke poskytla banka
+alebo pobočka zahraničnej banky, s výnimkou úverov, ktoré boli poskytnuté na zabezpečenie hlavného predmetu činnosti (+) |   |   |
+C. 2. 4. | Výdavky na splácanie úverov, ktoré účtovnej jednotke poskytla banka alebo pobočka zahraničnej banky, s výnimkou úverov, ktoré boli poskytnuté na zabezpečenie hlavného predmetu činnosti (-) |   |   |
+C. 2. 5. | Príjmy z prijatých pôžičiek (+) |   |   |
+C. 2. 6. | Výdavky na splácanie pôžičiek (-) |   |   |
+C. 2. 7. | Výdavky na úhradu záväzkov z  používania majetku, ktorý je predmetom zmluvy o kúpe prenajatej veci (-) |   |   |
+C. 2. 8. | Príjmy z ostatných dlhodobých záväzkov  a krátkodobých záväzkov vyplývajúcich z finančnej činnosti, s výnimkou tých, ktoré sa  uvádzajú osobitne v inej časti prehľadu peňažných tokov (+) |   |   |
+C. 2. 9. | Výdavky na splácanie ostatných dlhodobých záväzkov
+a krátkodobých záväzkov vyplývajúcich z finančnej činnosti, s výnimkou tých, ktoré sa  uvádzajú osobitne v inej časti prehľadu peňažných tokov (-) |   |   |
+C. 3. | Výdavky na zaplatené úroky, s výnimkou tých, ktoré sa začleňujú do prevádzkových činností (-) |   |   |
+C. 4. | Výdavky na vyplatené dividendy a iné podiely na zisku, s výnimkou tých, ktoré sa  začleňujú do prevádzkových činností (-) |   |   |
+C. 5. | Výdavky súvisiace s derivátmi s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo ak sa považujú za peňažné toky z  investičnej činnosti (-) |   |   |
+C. 6. | Príjmy súvisiace s  derivátmi, s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo ak sa považujú za  peňažné toky z investičnej činnosti (+) |   |   |
+C. 7. | Výdavky na daň z príjmov  účtovnej jednotky, ak ich možno začleniť do finančných činností (-) |   |   |
+C. 8. | Príjmy mimoriadneho charakteru vzťahujúce sa na finančnú činnosť (+) |   |   |
+C. 9. | Výdavky mimoriadneho charakteru vzťahujúce sa na finančnú činnosť (-) |   |   |
+C. | Čisté peňažné toky z finančnej činnosti
+(súčet C. 1. až C. 9.) |   |   |
+D. | Čisté zvýšenie alebo čisté zníženie peňažných prostriedkov (+/-), (súčet A + B + C) |   |   |
+E. | Stav peňažných prostriedkov a peňažných ekvivalentov na začiatku účtovného obdobia (+/-) |   |   |
+F. | Stav peňažných prostriedkov a peňažných ekvivalentov na konci účtovného obdobia pred zohľadnením kurzových rozdielov vyčíslených ku dňu, ku ktorému sa zostavuje účtovná závierka (+/-) |   |   |
+G. | Kurzové rozdiely vyčíslené k peňažným prostriedkom a peňažným ekvivalentom ku dňu, ku ktorému sa zostavuje účtovná závierka (+/-) |   |   |
+H. | Zostatok peňažných prostriedkov a peňažných ekvivalentov na konci účtovného obdobia upravený o kurzové rozdiely vyčíslené ku dňu, ku ktorému sa zostavuje účtovná závierka (+/-) |   |   |
+49. Informácie k časti T. prílohy č. 3 o prehľade peňažných tokov pri použití nepriamej metódy
+Označenie položky | Obsah položky | Bežné účtovné obdobie | Bezprostredne predchádzajúce účtovné obdobie |
+| | | |
+| Peňažné toky z prevádzkovej činnosti |   |   |
+Z/S | Výsledok hospodárenia z bežnej činnosti pred zdanením daňou z príjmov  (+/-) |   |   |
+A. 1. | Nepeňažné operácie ovplyvňujúce výsledok hospodárenia
+z bežnej činnosti pred zdanením daňou z príjmov (+/-), (súčet A. 1. 1. až A. 1. 13.) |   |   |
+A. 1. 1. | Odpisy dlhodobého nehmotného majetku a dlhodobého hmotného majetku (+) |   |   |
+A. 1. 2. | Zostatková hodnota dlhodobého nehmotného majetku a dlhodobého hmotného majetku účtovaná pri vyradení tohto majetku do nákladov na bežnú činnosť, s výnimkou jeho predaja (+) |   |   |
+A. 1. 3. | Odpis opravnej položky k nadobudnutému majetku (+/-) |   |   |
+A. 1. 4. | Zmena stavu dlhodobých rezerv  (+/-) |   |   |
+A. 1. 5. | Zmena stavu opravných položiek (+/-) |   |   |
+A. 1. 6. | Zmena stavu položiek časového rozlíšenia nákladov a výnosov  (+/-) |   |   |
+A. 1. 7. | Dividendy a iné podiely na zisku účtované do výnosov  (-) |   |   |
+A. 1. 8. | Úroky účtované do nákladov  (+) |   |   |
+A. 1. 9. | Úroky účtované do výnosov  (-) |   |   |
+A.1. 10. | Kurzový zisk vyčíslený k peňažným prostriedkom a peňažným ekvivalentom ku dňu, ku ktorému sa zostavuje účtovná závierka (-) |   |   |
+A. 1. 11. | Kurzová strata vyčíslená k peňažným prostriedkom a peňažným ekvivalentom ku dňu, ku ktorému sa zostavuje účtovná závierka (+) |   |   |
+A. 1. 12. | Výsledok z predaja dlhodobého majetku, s výnimkou majetku, ktorý sa považuje za peňažný ekvivalent (+/-) |   |   |
+A. 1. 13. | Ostatné položky nepeňažného charakteru, ktoré ovplyvňujú výsledok hospodárenia z bežnej činnosti, s výnimkou tých, ktoré sa uvádzajú osobitne v iných častiach prehľadu peňažných tokov  (+/-) |   |   |
+A. 2. | Vplyv zmien stavu pracovného kapitálu, ktorým sa na účely tohto opatrenia rozumie rozdiel medzi obežným majetkom a krátkodobými záväzkami s výnimkou položiek obežného majetku, ktoré sú súčasťou peňažných prostriedkov
+a peňažných ekvivalentov, na výsledok hospodárenia
+z bežnej činnosti (súčet A. 2. 1. až A. 2. 4.) |   |   |
+A. 2. 1. | Zmena stavu pohľadávok z prevádzkovej činnosti (-/+) |   |   |
+A. 2. 2. | Zmena stavu záväzkov z prevádzkovej činnosti (+/-) |   |   |
+A. 2. 3. | Zmena stavu zásob (-/+) |   |   |
+A. 2. 4. | Zmena stavu krátkodobého finančného majetku, s výnimkou majetku, ktorý je súčasťou peňažných prostriedkov
+a peňažných ekvivalentov (-/+) |   |   |
+| Peňažné toky z prevádzkovej činnosti s výnimkou príjmov a výdavkov, ktoré sa  uvádzajú osobitne v iných častiach prehľadu peňažných tokov (+/-),
+(súčet Z/S  + A. 1. + A. 2.) |   |   |
+A. 3. | Prijaté úroky, s výnimkou tých, ktoré sa začleňujú do investičných činností (+) |   |   |
+A. 4. | Výdavky na zaplatené úroky, s výnimkou tých, ktoré sa začleňujú do finančných činností (-) |   |   |
+A. 5. | Príjmy z dividend a iných podielov na zisku, s výnimkou tých, ktoré sa začleňujú do investičných činností (+) |   |   |
+A. 6. | Výdavky na vyplatené dividendy a iné podiely na zisku, s výnimkou tých, ktoré sa začleňujú do finančných činností
+(-) |   |   |
+| Peňažné toky z prevádzkovej činnosti (+/-),
+(súčet Z/S + A. 1. až A. 6.) |   |   |
+A. 7. | Výdavky na daň z príjmov účtovnej jednotky, s výnimkou tých, ktoré sa  začleňujú do investičných činností alebo finančných činností (-/+) |   |   |
+A. 8. | Príjmy mimoriadneho charakteru vzťahujúce sa na prevádzkovú činnosť (+) |   |   |
+A. 9. | Výdavky mimoriadneho charakteru vzťahujúce sa na prevádzkovú činnosť (-) |   |   |
+A. | Čisté peňažné toky z prevádzkovej činnosti (+/-),
+(súčet Z/S + A. 1. až A. 9.) |   |   |
+| Peňažné toky z investičnej činnosti |   |   |
+B. 1. | Výdavky na obstaranie dlhodobého nehmotného majetku (-) |   |   |
+B. 2. | Výdavky na obstaranie dlhodobého hmotného majetku (-) |   |   |
+B. 3. | Výdavky na obstaranie dlhodobých cenných papierov a
+podielov v iných účtovných jednotkách, s výnimkou cenných papierov, ktoré sa považujú za peňažné ekvivalenty a cenných papierov určených na predaj alebo na obchodovanie (-) |   |   |
+B. 4. | Príjmy z predaja dlhodobého nehmotného majetku (+) |   |   |
+B. 5. | Príjmy z predaja dlhodobého hmotného majetku (+) |   |   |
+B. 6. | Príjmy z predaja dlhodobých cenných papierov
+a podielov v iných účtovných jednotkách, s výnimkou cenných papierov, ktoré sa považujú za peňažné ekvivalenty a cenných papierov určených na predaj alebo na obchodovanie (+) |   |   |
+B. 7. | Výdavky na dlhodobé pôžičky poskytnuté účtovnou jednotkou inej účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (-) |   |   |
+B. 8. | Príjmy zo splácania dlhodobých pôžičiek poskytnutých účtovnou jednotkou inej účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (+) |   |   |
+B. 9. | Výdavky na dlhodobé pôžičky poskytnuté účtovnou jednotkou tretím osobám s výnimkou dlhodobých pôžičiek poskytnutých účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (-) |   |   |
+B. 10. | Príjmy zo splácania pôžičiek poskytnutých účtovnou jednotkou tretím osobám, s výnimkou pôžičiek poskytnutých účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (+) |   |   |
+B. 11. | Prijaté úroky, s výnimkou tých, ktoré sa začleňujú do prevádzkových činností (+) |   |   |
+B. 12. | Príjmy z dividend a iných podielov na zisku, s výnimkou tých, ktoré sa začleňujú do prevádzkových činností (+) |   |   |
+B. 13. | Výdavky súvisiace s derivátmi s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo ak sa tieto výdavky považujú za peňažné toky z finančnej činnosti (-) |   |   |
+B. 14. | Príjmy súvisiace s derivátmi s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo ak sa tieto výdavky považujú za peňažné toky z finančnej činnosti (+) |   |   |
+B. 15. | Výdavky na daň z príjmov účtovnej jednotky, ak je ju možné začleniť do investičných činností (-) |   |   |
+B. 16. | Príjmy mimoriadneho charakteru vzťahujúce sa na investičnú činnosť (+) |   |   |
+B. 17. | Výdavky mimoriadneho charakteru vzťahujúce sa na investičnú činnosť (-) |   |   |
+B. 18. | Ostatné príjmy vzťahujúce sa na investičnú činnosť (+) |   |   |
+B. 19. | Ostatné výdavky vzťahujúce sa na investičnú činnosť (-) |   |   |
+B. | Čisté peňažné toky z investičnej činnosti
+(súčet B. 1. až B. 19.) |   |   |
+| Peňažné toky z finančnej činnosti |   |   |
+C. 1. | Peňažné toky vo vlastnom imaní (súčet C. 1. 1. až C. 1. 8.) |   |   |
+C. 1. 1. | Príjmy z upísaných akcií a obchodných podielov (+) |   |   |
+C. 1. 2. | Príjmy z  ďalších vkladov do vlastného imania spoločníkmi alebo fyzickou osobou, ktorá je účtovnou jednotkou (+) |   |   |
+C. 1. 3. | Prijaté peňažné dary (+) |   |   |
+C. 1. 4. | Príjmy z úhrady straty spoločníkmi (+) |   |   |
+C. 1. 5. | Výdavky na obstaranie alebo spätné odkúpenie vlastných akcií a vlastných obchodných podielov (-) |   |   |
+C. 1. 6. | Výdavky spojené so znížením fondov vytvorených účtovnou jednotkou (-) |   |   |
+C. 1. 7. | Výdavky na vyplatenie podielu na vlastnom imaní spoločníkmi účtovnej jednotky a fyzickou osobou, ktorá je účtovnou jednotkou (-) |   |   |
+C.1. 8. | Výdavky z  iných dôvodov, ktoré súvisia so znížením vlastného imania (-) |   |   |
+C. 2. | Peňažné toky vznikajúce z dlhodobých záväzkov  a krátkodobých záväzkov  z finančnej činnost,
+(súčet C. 2. 1. až C. 2. 9.) |   |   |
+C. 2. 1. | Príjmy z emisie dlhových cenných papierov (+) |   |   |
+C. 2. 2. | Výdavky na úhradu záväzkov z dlhových CP (-) |   |   |
+C. 2. 3. | Príjmy z úverov, ktoré účtovnej jednotke poskytla
+banka alebo pobočka zahraničnej banky, s výnimkou úverov, ktoré boli poskytnuté na zabezpečenie hlavného predmetu činnosti (+) |   |   |
+C. 2. 4. | Výdavky na splácanie úverov, ktoré účtovnej jednotke poskytla banka alebo pobočka zahraničnej banky, s výnimkou úverov, ktoré boli poskytnuté na zabezpečenie hlavného predmetu činnosti (-) |   |   |
+C. 2. 5. | Príjmy z prijatých pôžičiek (+) |   |   |
+C. 2. 6. | Výdavky na splácanie pôžičiek (-) |   |   |
+C. 2. 7. | Výdavky na úhradu záväzkov z používania majetku, ktorý je predmetom zmluvy o kúpe prenajatej veci (-) |   |   |
+C. 2. 8. | Príjmy z ostatných dlhodobých záväzkov a krátkodobých záväzkov vyplývajúcich z finančnej činnosti účtovnej jednotky, s výnimkou tých, ktoré sa uvádzajú osobitne v inej časti prehľadu peňažných tokov (+) |   |   |
+C. 2. 9. | Výdavky na splácanie ostatných dlhodobých záväzkov  a krátkodobých záväzkov vyplývajúcich z finančnej činnosti účtovnej jednotky, s výnimkou tých, ktoré sa uvádzajú osobitne v inej časti prehľadu peňažných tokov (-) |   |   |
+C. 3. | Výdavky na zaplatené úroky, s výnimkou tých, ktoré sa začleňujú do prevádzkových činností (-) |   |   |
+C. 4. | Výdavky na vyplatené dividendy a iné podiely na zisku, s výnimkou tých, ktoré sa začleňujú do prevádzkových činností (-) |   |   |
+C. 5. | Výdavky súvisiace s derivátmi, s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo ak sa považujú za  peňažné toky z investičnej činnosti (-) |   |   |
+C. 6. | Príjmy súvisiace s  derivátmi, s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo ak sa považujú za peňažné toky z  investičnej činnosti (+) |   |   |
+C. 7. | Výdavky na daň z príjmov  účtovnej jednotky, ak ich možno začleniť do finančných činností (-) |   |   |
+C. 8. | Príjmy mimoriadneho charakteru vzťahujúce sa na finančnú činnosť (+) |   |   |
+C. 9. | Výdavky mimoriadneho charakteru vzťahujúce sa na finančnú činnosť (-) |   |   |
+C. | Čisté peňažné toky z finančnej činnosti
+(súčet C. 1. až C. 9.) |   |   |
+D. | Čisté zvýšenie alebo čisté zníženie peňažných prostriedkov (+/-), (súčet A + B + C) |   |   |
+E. | Stav peňažných prostriedkov a peňažných ekvivalentov
+na začiatku účtovného obdobia (+/-) |   |   |
+F. | Stav peňažných prostriedkov a peňažných ekvivalentov
+na konci účtovného obdobia pred zohľadnením kurzových rozdielov vyčíslených ku dňu, ku ktorému sa zostavuje účtovná závierka (+/-) |   |   |
+G. | Kurzové rozdiely vyčíslené k peňažným prostriedkom a peňažným ekvivalentom ku dňu, ku ktorému sa zostavuje účtovná závierka (+/-) |   |   |
+H. | Zostatok peňažných prostriedkov a peňažných ekvivalentov na konci účtovného obdobia upravený o kurzové rozdiely vyčíslené ku dňu, ku ktorému sa zostavuje účtovná závierka (+/-) |   |   |
+Vysvetlivky:
+(1) Identifikačné číslo organizácie (IČO) sa vyplňuje podľa Registra organizácií vedeného Štatistickým úradom Slovenskej republiky.
+(2) Daňové identifikačné číslo (DIČ) sa vyplňuje, ak ho má účtovná jednotka pridelené.
+(3) Kód SK NACE sa vypĺňa podľa vyhlášky Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
+(4) V bodoch č. 3, 5 a 7 sa prvotným ocenením majetku rozumie jeho ocenenie podľa § 25 zákona.
+(5) V bodoch č. 2, 9, 22, 25, 29, 30, 31, 32, 35, 37, 39, 46, 48 a 49 sa obsahová náplň tabuliek a počet riadkov v nich uvádzajú podľa potrieb účtovnej jednotky.
+(6) V bode č. 46 sa kód druhu obchodu vyplňuje takto:
+Kód druhu obchodu |
+Druh obchodu: |
+01 | kúpa |
+02 | predaj |
+03 | poskytnutie služby |
+04 | obchodné zastúpenie |
+05 | licencia |
+06 | transfer |
+07 | know -how |
+08 | úver, pôžička |
+09 | výpomoc |
+10 | záruka |
+11 | iný obchod. |
+Použité skratky:
+kons. - konsolidovaný
+CP - cenný papier
+DFM – dlhodobý finančný majetok
+DHM – dlhodobý hmotný majetok
+DIČ – daňové identifikačné číslo
+DNM – dlhodobý nehmotný majetok
+DÚJ – dcérska účtovná jednotka
+IČO – identifikačné číslo organizácie
+OP – opravná položka
+PSČ – poštové smerovacie číslo
+ÚJ – účtovná jednotka
+VI – vlastné imanie
+ZI – základné imanie

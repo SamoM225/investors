@@ -1,0 +1,20 @@
+{
+  "updated": "2026-10-09",
+  "institutions": [
+    {
+      "id": "54544378",
+      "name": "SIIC Fund, s.r.o.",
+      "address": "Zrínskeho 1205/9, 81103 Bratislava - mestská časť Staré mesto",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2022-06-06",
+          "parent_entity_id": "54184339",
+          "parent_entity_name": "Sociálni Inovátori Impact Capital, s.r.o."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{"prilohy":[{"id":11482677,"meno":"Účtovná závierka PODindiv..PDF","jazyk":"SK","pocetStran":0,"velkostPrilohy":353442,"mimeType":"application/pdf","digest":"536ae10aa4fa590269b5f21c12e0289c157d7f1bcf0a6618b255d7f25f4f1c3c"},{"id":11482678,"meno":"POD_2121762456_IR_2024_4277394_5614431.pdf","jazyk":"SLK","pocetStran":12,"velkostPrilohy":436398,"mimeType":"application/pdf","digest":"a7889841e08c56725d0df1e02b12a097bc1668c8457cbfb1972e1ce815c05238"}],"id":9505202,"idUctovnejZavierky":6315649,"obsah":{"tabulky":[{"nazov":{"sk":"Strana aktív","en":"Assets"},"data":["784092","638","783454","747722","334045","638","333407","5103","119404","","119404","","","","","","","","","","","","","","","","","","","","","","119404","","119404","","","","","","5741","638","5103","5103","","","","","","","","","5741","638","5103","5103","","","","","","","","","","","","","","","","","","","","","","","","","208900","","208900","","","","","","","","","","","","","","","","","","","","","","208900","","208900","","","","","","","","","","","","","","","","","","","","","","450047","","450047","742619","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","34694","","34694","950","1321","","1321","","","","","","","","","","1321","","1321","","","","","","","","","","","","","","29811","","29811","","","","","","","","","","","","","","3562","","3562","950","","","","","","","","","","","","","","","","","","","","","415353","","415353","741669","","","","282","415353","","415353","741387","","","","","","","","","","","","","","","","","","","",""]},{"nazov":{"sk":"Strana pasív","en":"Liabilities and equity"},"data":["783454","747722","12067","9180","5000","5000","5000","5000","","","","","","","","","","","","","","","","","","","","","","","","","","","","","4177","1364","4177","1364","","","2890","2816","771387","738542","761562","725000","","","","","","","","","","","","","","","761349","725000","","","","","","","213","","","","","","","","","","","","","","","","9825","13542","87","5276","","","","","87","5276","","","","","","","","","4134","","2807","","2077","3175","","","720","5091","","","","","","","","","","","","","","","","","","","",""]},{"nazov":{"sk":"Výkaz ziskov a strát","en":"Income statement"},"data":["26960","77029","146361","77029","","","","","26960","77029","","","119401","","","","","","137686","69583","","","5788","15374","","","73802","50362","57833","","41891","","","","15113","","829","","106","3175","","638","","638","","","","","","","157","34","8675","7446","66771","11293","34704","","","","12444","","","","","","12444","","","","","","","","","","22260","","","","22260","","","","","","","","36670","4630","","","","","","","36349","4568","","","36349","4568","","","","","321","62","-1966","-4630","6709","2816","3819","","3819","","","","","","2890","2816"]}],"titulnaStrana":{"nazovUctovnejJednotky":"Forecast Analytics 1 s.r.o.","ico":"54614741","dic":"2121762456","typUctovnejJednotky":"malá","adresa":{"ulica":"Šustekova","cislo":"51","psc":"85104","mesto":"Bratislava"},"skNace":"68200","typZavierky":"Riadna","obdobieOd":"2024-01","obdobieDo":"2024-12","predchadzajuceObdobieOd":"2023-01","predchadzajuceObdobieDo":"2023-12","datumSchvalenia":"2025-03-28","datumZostavenia":"2025-03-28","oznacenieObchodnehoRegistra":"OR MS BAIII, oddiel: Sro, Vložka čísl o: 160670/B"}},"pristupnostDat":"Verejné","idSablony":699,"kodDanovehoUradu":"100","zdrojDat":"FRSR","datumPoslednejUpravy":"2025-03-29"}
+
+--- príloha 11482677 (Účtovná závierka PODindiv..PDF), text, https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/11482677 ---
+Poznámky Úč POD 3 – 01                                   IČO: 54614741 DIČ: 2121762456
+
+                                POZNÁMKY K ÚČTOVNEJ ZÁVIERKE 2024
+
+zostavené podľa Opatrenia č.MF/23378/2014-74 (FS č.12/2014), ktorým sa ustanovujú podrobnosti o individuálnej
+           účtovnej závierke a rozsahu údajov určených z individuálnej účtovnej závierky na zverejnenie
+                                               pre malé účtovné jednotky
+
+                            Článok I – VŠEOBECNÉ INFORMÁCIE
+
+1) Základné informácie o účtovnej jednotke:
+
+Obchodné meno:              Forecast Analytics 1 s. r. o.
+Sídlo:                      Šustekova, 851 04 Bratislava
+Právna forma:               Spoločnosť s ručením obmedzeným
+Dátum vzniku:               Zápis do obchodného registra: 06.05.2022
+Hlavný predmet podnikania:  Prenájom a prevádzkovanie vlastných alebo prenajtých nehnuteľností
+Subjekt verejného záujmu:   Spoločnosť nie je subjektom verejného záujmu (§ 2/14 ZoU).
+Účtovné obdobie:            Kalendárny rok 2024
+
+Test veľkostnej skupiny účtovnej jednotky (2 ZoU)
+(Do veľkostnej skupiny mala účtovná jednotka patrí taká, ktorá za dve po sebe idúce účtovné obdobia spĺňa aspoň dve
+z troch podmienok – suma netto aktív presiahla 350 000 eura, ale nepresiahla 4 000 000 eur, čistý obrat presiahol
+700 000 eur, ale nepresiahol 8 000 000 eur a priemerný prepočítaný počet zamestnancov počas účtovného obdobia
+presiahol 10, ale nepresiahol 50).
+
+    Názov položky        Bežné účtovné obdobie             Bezprostredne predchádzajúce           Áno/Nie
+                                                                    účtovné obdobie
+Netto aktíva celkom  783 454                                                                    nie
+Čistý obrat celkom   26 960                              747 722                                nie
+Počet zamestnancov   1                                   77 029
+                                                         1
+
+Komentár: UJ spĺňa veľkostné podmienky na zatriedenie do veľkostnej skupiny – malá účtovná jednotka, preto
+zostavuje účtovnú závierku podľa metodiky pre túto veľkostnú skupinu (Opatrenie č.MF/23378/2014-74).
+
+2) Účtovná závierka Spoločnosti k 31.12.2023 za predchádzajúce účtovné obdobie bola schválená 11.04.2024.
+
+3) Právny dôvod na zostavenie účtovnej závierky: riadna
+
+4) Údaje o skupine účtovných jednotiek v súvislosti s konsolidáciou: spoločnosť nie je súčasťou konsolidovaného celku
+d) Účtovná jednotka nie je materskou účtovnou jednotkou.
+
+5) Priemerný prepočítaný počet zamestnancov účtovnej jednotky:
+
+Názov položky                                            Bežné účtovné obdobie       Bezprostredne
+                                                                                    predchádzajúce
+Priemerný prepočítaný počet počas účtovného obdobia 1                               účtovné obdobie
+                                                                                1
+
+                                   Článok II – INFORMÁCIE O ORGÁNOCH SPOLOČNOSTI
+Informácie o orgánoch účtovnej jednotky:
+
+                                                                                                                      1
+    Poznámky Úč POD 3 – 01                           IČO: 54614741 DIČ: 2121762456
+
+- informácie o podmienkach a výške jednotlivých druhov záruk: žiadne
+- informácie o podmienkach a výške iných zabezpečení: žiadne
+- informácie o pôžičkách a ich podmienkach: žiadne
+- Informácie o použití majetku účtovnej jednotky na súkromné účely: žiadne
+
+                           Článok III – INFORMÁCIE O PRIJATÝCH POSTUPOCH
+
+1) Spoločnosť zostavila účtovnú závierku za splnenia predpokladu, že účtovná jednotka bude nepretržite pokračovať vo
+svojej činnosti minimálne 12 mesiacov po závierkovom dni v zmysle § 7 ods. 4 zákona o účtovníctve.
+
+2) Spoločnosť aplikovala účtovné zásady a účtovné metódy, ktoré sú dôležité na posúdenie majetku, záväzkov, finančnej
+situácie a výsledku hospodárenia konzistentne.
+
+    -
+3) Spoločnosť si nie je vedomá žiadnych transakcií, ktoré by neboli neuvedené v súvahe, a ktoré by pre spoločnosť
+predstavovali významné budúce riziko alebo prínosy. (napr. súdne spory, zmluvy, časovo limitované licencie a oprávnenia,
+podnikové kombinácie, záväzky investovať, dopad legislatívy, celkový pokles v hospodárskom segmente):
+
+4) Spôsob a určenie oceňovania majetku a záväzkov (vrátane rozhodujúcich odhadov):
+a) Spôsob oceňovania majetku a záväzkov (§ 25 ZoU):
+
+Č.                         Názov položky                                    Spôsob oceňovania
+
+1. Dlhodobý nehmotný majetok externe kúpený:                  Obstarávacia cena
+
+2. Dlhodobý nehmotný majetok interne vytvorený:               Vlastné náklady
+
+3. Dlhodobý nehmotný majetok obstaraný inak (darom):          Reprodukčná obstarávacia cena
+
+4. Dlhodobý hmotný majetok externe kúpený:                    Obstarávacia cena
+
+5. Dlhodobý hmotný majetok interne vytvorený:                 Vlastné náklady
+
+6. Dlhodobý nehmotný majetok obstaraný inak (darom):          Reprodukčná obstarávacia cena
+
+7. Dlhodobý finančný majetok:                                 Obstarávacia cena
+
+8. Zásoby obstarané kúpou:                                    Obstarávacia cena
+
+9. Zásoby vytvorené vlastnou činnosťou:                       Vlastné náklady
+
+10. Zásoby obstarané inak (darom):                            Reprodukčná obstarávacia cena
+
+11. ZV a zákazková výstavba nehnuteľnosti určenej na predaj:  Menovitá hodnota
+
+12.1. Vlastné pohľadávky:                                     Menovitá hodnota
+
+12.2 Kúpené pohľadávky:                                       Obstarávacia cena
+
+13. Krátkodobý finančný majetok:                              Obstarávacia cena
+
+14. Časové rozlíšenie na strane aktív súvahy:                 Menovitá hodnota
+
+15. Záväzky, vrátane rezerv, dlhopisov, pôžičiek a úverov:    Menovitá hodnota
+
+16. Časové rozlíšenie na strane pasív súvahy:                 Menovitá hodnota
+
+17. Deriváty:                                                 Menovitá hodnota
+
+18. Majetok a záväzky zabezpečené derivátmi:                  Menovitá hodnota
+
+19. Prenajatý majetok a majetok obstaraný na základe zmluvy o Obstarávacia cena
+
+    kúpe prenajatej veci:
+
+20. Splatná daň z príjmov a odložená daň z príjmov:           Menovitá hodnota
+
+b) Trvalé zníženie hodnoty majetku nebolo účtované. Prechodné zníženie hodnoty majetku je zaúčtované formou
+opravnej položky stanovené odborným odhadom bonity klienta.
+
+c) Záväzky účtovná jednotka ocenila menovitou hodnotou záväzkov. Rezervy účtovná jednotka ocenila odborným
+odhadom budúcej menovitej hodnoty potrebnej na ich úhradu.
+
+d) Určenie ocenenia finančných nástrojov alebo majetku, ktorý nie je finančným nástrojom pri oceňovaní reálnou
+hodnotou:
+
+                                                                                               2
+Poznámky Úč POD 3 – 01                      IČO: 54614741 DIČ: 2121762456
+
+e) Určenie ocenenia finančných nástrojov pri oceňovaní obstarávacou cenou alebo vlastnými nákladmi:
+
+Komentár k oceňovaniu majetku a záväzkov:
+
+ Finančné nástroje definuje § 5 zákona č.566/2001 Z.z. o cenných papieroch v znení neskorších predpisov – sú to
+   napr. cenné papiere (akcie, dlhopisy, dočasné listy), deriváty (opcie, futures, swapy, forwardy), nástroje peňažného
+   trhu (pokladničné poukážky, vkladové listy).
+
+ Opravné položky k majetku, okrem dlhodobej pohľadávky a dlhodobej pôžičky, stanovila UJ odborným odhadom
+   bonity príslušného majetku.
+
+ Opravnú položku k dlhodobej pohľadávke a opravnú položku k dlhodobej pôžičke UJ stanovila metódu odúročenia
+   na súčasnú hodnotu (§ 18/8 PU; § 21/6 PU).
+
+ Rezervy ocenila UJ kalkulačnou metódou kvalifikovaného odhadu ich menovitej hodnoty na pokrytie budúcich
+   záväzkov.
+
+ UJ počas účtovného obdobia (§ 25 ZoU), ani k závierkovému dňu (§ 27 ZoU) nepoužila ocenenie reálnou hodnotou
+   – lebo nemala k tomu vecnú náplň.
+
+ ÚJ používa pri oceňovaní úbytku rovnakého druhu zásob a cenných papierov – vážený aritmetický priemer (§ 25/5
+   ZoU; § 22/1 PU).
+
+ ÚJ používa pri oceňovaní prírastku cudzej meny v hotovosti alebo na bankový účet – zmenárenský kurz konkrétnej
+   banky (§ 24/3 ZoU).
+
+ ÚJ používa pri oceňovaní úbytku cudzej meny v hotovosti alebo z bankového účtu – základné pravidlo (D-1), teda
+   kurz zo dňa predchádzajúceho dňu účtovného prípadu (§ 24/2/a; § 24/6 ZoU).
+
+f) Účtovná jednotka nepoužila dobrovoľné oceňovanie obchodných podielov metódou vlastného imania (§ 27/9 ZoU).
+
+g) Tvorba odpisového plánu pre dlhodobý majetok, pričom sa uvádza doba odpisovania, sadzby odpisov a odpisové
+metódy pre účtovné odpisy:
+
+         Dlhodobý hmotný a nehmotný  číslo  doba odpisovania  odpisová sadzba
+               odpisovaný majetok    účtu     (počet rokov)           (%)
+                                      013            4                25
+Software                              019            4                25
+Ostatný DNM                           021            40               2,5
+Stavby                               022.A           5                25
+Počítače s príslušenstvom             023            4               14,3
+Dopravné prostriedky                 022.A           4                25
+Ostatné stroje                        029            5                20
+Ostatný dlhodobý hmotný majetok
+
+Komentár k odpisovému plánu:
+ UJ používa účtovné odpisy nezávisle na daňových odpisoch. Majetok sa začína odpisovať v mesiaci, kedy bol
+
+   zaradený do užívania. Účtovné odpisy vychádzajú z predpokladanej doby používania majetku. Dlhodobý nehmotný
+   majetok sa odpisuje počas 4 rokov od jeho obstarania.
+ UJ používa rovnomerné odpisovanie dlhodobého hmotného majetku a dlhodobého nehmotného majetku. Podrobný
+   účtovný odpisový plán po položkách sa vedie v podsystéme Majetok s podporou softvéru Money (taktiež daňové
+   odpisy podľa zákona o dani z príjmov).
+ UJ odpisuje jednotlivé veci alebo relevantné súbory hnuteľných vecí (napr. počítačová sieť, nábytková zostava). UJ
+   nepoužíva komponentné odpisovanie (odpisovanie častí majetku - komponentov).
+ UJ nepoužila jednorazový odpis dlhodobého majetku z dôvodu jednorazového trvalého zníženia hodnoty majetku (§
+   21/5 PU).
+
+                                                                                                                      3
+Poznámky Úč POD 3 – 01                               IČO: 54614741 DIČ: 2121762456
+
+ ÚJ nepoužíva kategóriu drobného dlhodobého nehmotného majetku - položky pod 2 400 eur jednotkovej ceny so
+   životnosťou nad jeden rok (§ 13/2 PU).
+
+ ÚJ nepoužíva kategóriu drobného dlhodobého hmotného majetku - položky pod 1 700 eur jednotkovej ceny so
+   životnosťou nad jeden rok (§ 13/6 PU).
+
+ ÚJ nepoužíva dobrovoľné účtovanie podlimitného technického zhodnotenia do odpisovaného dlhodobého majetku –
+   technické zhodnotenie pod 1 700 eur za účtovné obdobie (§ 21/3 PU; § 29/2 ZDP).
+
+ ÚJ nepoužíva dobrovoľnú kapitalizáciu úrokov do obstarávacej ceny odpisovaného dlhodobého hmotného majetku
+    alebo dlhodobého nehmotného majetku (§ 34/1 PU; § 35/2/h PU).
+
+h) Informácia o poskytnutých dotáciách a pri dotáciách na obstaranie majetku sa uvedú zložky majetku a ich ocenenie:
+žiadne
+
+5) Informácie o oprave významných chýb minulých účtovných období účtovaných v bežnom účtovnom období
+s uvedením sumy vplyvu na nerozdelený zisk minulých rokov alebo na neuhradenú stratu minulých rokov. Účtovná
+jednotka môže uviesť aj informácie o oprave nevýznamných chýb minulých účtovných období účtovaných v bežnom
+účtovnom období s uvedením sumy vplyvu na výsledok hospodárenia bežného účtovného obdobia:
+
+Opis účtovného prípadu  Suma MD/DAL Vplyv na výsledok Vplyv na vlastné imanie
+
+Článok IV – INFORMÁCIE, KTORÉ VYSVETĽUJÚ A DOPĹŇAJÚ SÚVAHU A VÝKAZ ZISKOV A STRÁT
+
+1) Celková suma záväzkov so zostatkovou dobou splatnosti dlhšou ako 5 rokov:
+
+                      Názov položky                   Bežné účtovné obdobie        Bezprostredne
+Záväzky so zostatkovou dobou splatnosti nad 5 rokov  0                             predchádzajúce
+                                                                                  účtovné obdobie
+                                                                              0
+
+[Vysvetlivky: Zostatková doba splatnosti záväzku alebo jeho časti – je rozdiel medzi dohodnutou dobou splatnosti
+záväzkov a závierkovým dňom (§ 12 PU).]
+
+                             Článok V – INFORMÁCIE O INÝCH AKTÍVACH A INÝCH PASÍVACH
+1a) Podmienený majetok – žiadne
+1b) Podmienené záväzky – žiadne
+
+2) Ostatné finančné povinnosti, ktoré sa nevykazujú v účtovných výkazoch - napríklad zákonná povinnosť alebo
+zmluvná povinnosť odobrať určité množstvo produktu, uskutočniť investície a veľké opravy: žiadne
+3) Podsúvahové účty – uvádzajú sa informácie o významných položkách sledovaných na podsúvahových účtoch (§ 85
+PU):
+
+                                                                                                                      4
+Poznámky Úč POD 3 – 01                             IČO: 54614741 DIČ: 2121762456
+
+                       Názov podsúvahovej položky  Bežné účtovné                Bezprostredne
+                                                      obdobie                   predchádzajúce
+Prenajatý majetok
+Majetok prijatý do úschovy                                                          účtovné
+Pohľadávky z opcií                                                                  obdobie
+Záväzky z opcií
+Odpísané pohľadávky
+Iné ............................
+
+                              Článok VI – UDALOSTI, KTORÉ NASTALI PO ZÁVIERKOVOM DNI
+                                                         (Následné udalosti)
+
+Spoločnosť prehlasuje, že si nie je vedomá, že by po závierkovom dni do času zostavenia účtovnej závierky nastali
+významné udalosti, ktoré by mali významný finančný vplyv (t.j. do dňa podpísania výkazov podľa § 17/5 ZoU) a ktoré
+nie sú zohľadnené v súvahe alebo vo výkaze ziskov a strát.
+
+a) Pokles alebo zvýšenie trhovej ceny finančného majetku
+b) Dôvody pre zmenu výšky rezerv a opravných položiek,
+c) Zmena spoločníkov účtovnej jednotky:
+d) Prijaté rozhodnutia o predaji účtovnej jednotky alebo jej časti:
+e) Zmeny významných položiek dlhodobého finančného majetku:
+f) Začatie alebo ukončenie činnosti časti účtovnej jednotky, napríklad odštepného závodu, organizačnej zložky,
+prevádzkarne:
+g) Vydané dlhopisy a iné cenné papiere:
+h) Zlúčenie, splynutie, rozdelenie a zmena právnej formy účtovnej jednotky:
+i) Mimoriadne udalosti, ak majú vplyv na hospodárenie účtovnej jednotky, napr. živelná pohroma:
+j) Získanie alebo odobratie licencií alebo iných povolení významných pre činnosť účtovnej jednotky:
+
+                                              Článok VII – OSTATNÉ INFORMÁCIE
+
+1) Informácie o výlučnom práve poskytovať služby vo verejnom záujme: NIE
+2) Informácie o osobitnej kategórii priemyselnej výroby (§ 23d/6 ZoU): NIE
+3) Informácie o finančných vzťahoch s orgánmi verejnej moci (§ 23d/6 ZoU): NIE
+
+                                                                                                5
+
