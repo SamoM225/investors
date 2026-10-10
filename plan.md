@@ -10,7 +10,7 @@
 | 2 | Spôsob overenia | pripomienky zapracované (R6–R10) |
 | 3 | Odhad počtov a spoľahlivosti pre každý typ | pripomienky zapracované (R12–R15). Úroveň 2 doplnená (3.11), čaká na pripomienky. |
 | 4 | Pilot: VC v SR | beh dokončený (2026-10-10), čaká na ručnú kontrolu. Výsledky: [logs/run_summary.md](logs/run_summary.md) |
-| 5 | Model nákladov na celý svet | čaká |
+| 5 | Model nákladov na celý svet | návrh na pripomienky (ľudská zložka čaká na ručnú kontrolu pilotu) |
 
 ---
 
@@ -913,7 +913,99 @@ Ak bude zaradených VC v SR menej, pilot **nedokáže KU1 štatisticky potvrdiť
 
 ## 5. Model nákladov na celý svet
 
-*Čaká.*
+Model stojí na **meraniach z pilotu VC v SR** (bod 4, [logs/run_summary.md](logs/run_summary.md), [logs/usage.csv](logs/usage.csv)), na **cenníku modelov** a na **poplatkoch registrov** z bodu 3. Tam, kde chýba zdroj alebo meranie, je položka **parameter** a nie odhad.
+
+> **Stav:** ručná kontrola pilotu ešte neprebehla. Čas človeka na záznam (M6) a presnosť (M1–M4) sú preto zatiaľ parametre. Po vyplnení `data/review_sample.csv` sa doplnia z `logs/metrics.md`.
+
+### 5.1 Jednotkové náklady namerané v pilote
+
+| Krok | Na čo | Tokeny | Čas | Ďalšie |
+|---|---|---|---|---|
+| Scout | celý beh SR | 275 566 (≈ 207 na kandidáta) | ~20 min | 101 volaní nástrojov, 1 334 kandidátov |
+| Registrátor (skript) | kandidát | 0 | sekundy | ~2 dopyty na RPO API |
+| Registrátor (agent, nejasné názvy) | kandidát | ≈ 5 900 (207 232 / 35) | – | iba pri 2,6 % kandidátov |
+| Triedenie podľa NACE | kandidát | 0 | – | vyradilo 612 kandidátov |
+| Rýchly skríning (T2) | kandidát | **≈ 3 160** | ~3 min na dávku 40 | do plného výskumu postúpilo 14/608 = **2,3 %** |
+| Plný výskum (T1) | subjekt | **≈ 171 000** | **medián 12,5 min** | ~117 stránok, ~20 tvrdení, ~3,5 cieľovej firmy |
+| Overovateľ | subjekt | **≈ 94 000** | ~2–7 min | zamietnutých 14 % tvrdení |
+| Opakovaný pokus | subjekt | ~160 000 + 76 000 | – | potrebný pri 1 z 35 subjektov |
+
+Spolu za pilot **12,0 mil. tokenov**: na zaradený záznam (15) ≈ **801 000**, na subjekt v databáze vrátane neistých (22) ≈ 546 000.
+
+**Priepustnosť:** pri limite 20 súbežných agentov sa hlavná fáza (asi 30 plných výskumov s overením) zmestila do ~45 minút. To je rádovo **40 subjektov za hodinu**.
+
+**Lievik pilotu:** 1 334 kandidátov → 22 subjektov v databáze (1,6 %). Hlavný „šum“ je hľadanie podľa názvu v RPO: 1 179 kandidátov, z ktorých sa do databázy nedostal ani jeden, ktorý by nemal aj iný zdroj.
+
+### 5.2 Prepočet na peniaze
+
+Cenník Claude Opus 5.5 (model, na ktorom bežali agenti): vstup **4 $**, výstup **20 $**, čítanie z cache **0,20 $** za milión tokenov. Batch API dáva zľavu 50 %, ale agentové slučky sa ňou bežne nedajú spracovať ([cenník Anthropic](https://platform.claude.com/docs/en/about-claude/pricing), otvorené 2026-10-10).
+
+Pilot zaznamenal iba **súčet tokenov**, bez rozdelenia na vstup, výstup a cache. Cena preto má pásmo:
+
+| Položka | Tokeny | Dolná hranica (všetko ako cache, 0,20 $/M) | Referencia (všetko ako vstup, 4 $/M) | Horná hranica (všetko ako výstup, 20 $/M) |
+|---|---|---|---|---|
+| celý pilot | 12,0 M | 2,4 $ | 48 $ | 240 $ |
+| zaradený záznam | 0,80 M | 0,16 $ | 3,2 $ | 16 $ |
+| plný výskum + overenie jedného subjektu | 0,27 M | 0,05 $ | 1,1 $ | 5,3 $ |
+
+**TODO:** v ďalšom behu zapisovať tokeny rozdelené na vstup, výstup a cache. Pásmo sa tým zúži na jedno číslo.
+
+### 5.3 Vzorec pre celý svet
+
+Pre každú vrstvu *s* = typ × krajina:
+
+**Náklady_s = výpočet_s + registre_s + človek_s + fixné_s**
+
+| Zložka | Vzorec | Zdroj parametrov |
+|---|---|---|
+| výpočet | (K_s · (t_reg + p_T2,s · t_skr) + K_s · (p_T1,s + p_T2,s · p_post,s) · (t_vysk + t_over)) · cena tokenu | t_* z 5.1; K_s, p_* zo zdroja kandidátov v danej vrstve |
+| registre | počet plne skúmaných · (1 + 3,5) výpisov · cena výpisu_s | 3,5 cieľovej firmy na subjekt z pilotu; cena výpisu z 3.11 (napr. SG 5,50 SGD, HK 16–23 HKD, IL 12 ILS, NL 0,02 € + 6,40 €/mes.); SR, ČR, UK, USA (EDGAR) zadarmo |
+| človek | n_vzorka,s · h_min · sadzba + (neistí_s) · h_min · sadzba | n_vzorka z tabuľky 2.6 podľa zvolenej úrovne (P90/P95/P98, ±5/±10); **h_min = parameter z M6**; **sadzba = parameter** |
+| fixné | právne posúdenie (GDPR pri fyzických osobách, podmienky registrov) + technická integrácia registra, ktorý blokuje automatizáciu (gov.il, MCA India, GSXT Čína) | **parameter**, zdroj nemáme |
+
+### 5.4 Príklady pre vrstvy s počtom zo zdroja
+
+Výpočtová zložka pre kandidátov zo štátnych zoznamov (počty N z bodov 3.1, 3.2 a 3.11). Dve krajné stratégie: **všetci do plného výskumu** (horná hranica) a **skríning a do plného výskumu iba 2,3 %** (pomer z pilotu, kde však kandidáti pochádzali z hľadania podľa názvu; pri regulačných zoznamoch bude podiel postupujúcich vyšší, to zmerajú K1–K6).
+
+| Vrstva | N | Plný výskum všetkých: tokeny / USD (0,20 – 4 – 20 $/M) | Skríning + 2,3 %: tokeny / USD (referencia) |
+|---|---|---|---|
+| VC USA (SEC) | 3 273 | 868 M / 174 – 3 472 – 17 358 | 30 M / 121 |
+| PE USA (SEC) | 4 603 | 1 221 M / 244 – 4 882 – 24 411 | 43 M / 170 |
+| VC EÚ (EuVECA) | 447 | 119 M / 24 – 474 – 2 371 | 4 M / 17 |
+| VC + PE Čína (AMAC) | 11 087 | 2 940 M / 588 – 11 759 – 58 797 | 103 M / 411 |
+| VC + PE Japonsko (FSA) | 4 589 | 1 217 M / 243 – 4 867 – 24 337 | 42 M / 170 |
+| správcovia Singapur (MAS) | 1 320 | 350 M / 70 – 1 400 – 7 000 | 12 M / 49 |
+| správcovia Hongkong (SFC) | 2 358 | 625 M / 125 – 2 501 – 12 505 | 22 M / 87 |
+| VC Kórea | 246 | 65 M / 13 – 261 – 1 305 | 2 M / 9 |
+
+Registrová zložka pri plnom výskume všetkých kandidátov, výpočet: Singapur 1 320 · 4,5 · 5,50 SGD = **32 670 SGD**; Hongkong 2 358 · 4,5 · 16–23 HKD = **169 776 – 244 053 HKD**. Pri SR, ČR, UK a SEC je registrová zložka nulová.
+
+**Angeli, family offices, veľkí súkromní investori:** žiadny štátny zoznam kandidátov neexistuje (3.3–3.5). Bez kalibračných vzoriek (K3–K5) nevieme K_s ani p_post, a teda **náklady pre tieto typy zatiaľ nevieme vyčísliť**.
+
+### 5.5 Čo z modelu vyplýva
+
+1. **Výpočet je lacný v porovnaní s ostatnými zložkami.** Aj horná hranica pre najväčšiu vrstvu (Čína, 11 087 správcov, všetci do plného výskumu) je rádovo desiatky tisíc USD. Pri referenčnej cene ide o tisíce až nízke desaťtisíce USD na vrstvu.
+2. **Náklady budú určovať človek a fixné položky.** Ručná kontrola pri úrovni P95 ±10 p. b. znamená 97 záznamov na vrstvu. Pri 5 typoch a ~40 krajinách úrovní 1 a 2 je to až 200 vrstiev, teda **až 19 400 kontrolovaných záznamov**. Ich cena = 19 400 · h_min · sadzba. Kým nepoznáme h_min z ručnej kontroly pilotu, túto zložku nevieme vyčísliť.
+3. **Registre za poplatok** (SG, HK, IL, IN, AU) sú lineárne v počte portfóliových firiem, nie investorov. Pri plnom výskume sú pri veľkých vrstvách rádovo desaťtisíce v miestnej mene.
+4. **Najlacnejšie zníženie nákladov:** spätné vyhľadávanie v ORSR (investor → firmy), ktoré pilot objavil až počas behu. Nahrádza drahé hľadanie investícií cez web. Pri SR subjektoch by malo byť prvým krokom Výskumníka.
+5. **Najväčšie riziko kvality nie je cena, ale chyby, ktoré automatika nezachytí** (vymyslený citát zo skenu, zámena subjektu). Ručná kontrola sa preto nedá vynechať, aby sa ušetrilo.
+
+### 5.6 Odporúčaný ďalší krok: kalibračné vzorky K1–K6 (R18)
+
+Model má 4 parametre, ktoré pilot nezmeral a ktoré určujú väčšinu nákladov:
+
+| Parameter | Prečo chýba | Kalibračná vzorka |
+|---|---|---|
+| p_post a lievik pri regulačných zoznamoch | pilot mal kandidátov z hľadania podľa názvu | K1 (VC USA), K2 (PE USA), K6 (VC ČR) |
+| K_s a lievik pri typoch bez zoznamu | žiadny štátny zoznam | K3 (angel UK), K4 (FO UK), K5 (súkromný investor SR) |
+| h_min (čas človeka na záznam) | ručná kontrola pilotu ešte neprebehla | ručná kontrola pilotu + K1–K6 |
+| rozdelenie tokenov (vstup / výstup / cache) | pilot ho nezaznamenal | každý ďalší beh |
+
+### 5.7 Otvorené otázky k bodu 5
+
+- **Q19 Sadzba kontrolóra:** akú hodinovú sadzbu použiť pre ručnú kontrolu? Bez nej sa ľudská zložka dá vyjadriť iba v hodinách.
+- **Q20 Úroveň presnosti pre rozpočet:** ktorý variant z tabuľky 2.6 (P90/P95/P98, ±5/±10 p. b.) má byť základ rozpočtu?
+- **Q21 Model pre lacné kroky:** pilot bežal celý na Claude Opus 5.5. Má model počítať aj variant s lacnejším modelom pre skríning a Registrátora? Ak áno, treba to zmerať, nie predpokladať.
 
 ---
 
