@@ -154,7 +154,7 @@ Postup bol rovnaký ako v pilote: Výskumník a nezávislý Overovateľ, ktorý 
 
 Spolu 7,2 mil. tokenov, teda menej, než odhadoval návrh (23 mil. pre všetkých 88 subjektov).
 
-Overovatelia zamietli 23 tvrdení (podrobnosti v `data/verify/`). Opakovaný pokus Výskumníka sa nespúšťal. Zamietnuté tvrdenia sa týkajú opisu činnosti, veľkosti firmy alebo úrovne zdroja a výsledok subjektu nemenia.
+Overovatelia zamietli 20 zo 196 tvrdení, teda 10 % (podrobnosti v `data/verify/`). Opakovaný pokus Výskumníka sa nespúšťal. Zamietnuté tvrdenia sa týkajú opisu činnosti, veľkosti firmy alebo úrovne zdroja a výsledok subjektu nemenia.
 
 **Výsledky:**
 - **Skutočné VC, ktoré skríning chybne vyradil:**
