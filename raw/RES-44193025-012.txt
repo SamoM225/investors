@@ -1,0 +1,215 @@
+{"prilohy":[{"id":10761319,"meno":"Príloha k účtovnej závierke MÚJ.PDF","velkostPrilohy":1009193,"pocetStran":0,"jazyk":"SK","mimeType":"application/pdf","digest":"a07dd16c61582b8447adf716844385802f8bd53a2024e3402847e22c18fda9b8"},{"id":10761320,"meno":"MUJ_2122055155_IR_202308-202312_3894655_5220523.pdf","velkostPrilohy":172637,"pocetStran":5,"jazyk":"SLK","mimeType":"application/pdf","digest":"ce53dafc2500c80d8b80f5d01c7845be128bbfbfc60162248653218e5443a173"}],"id":9046851,"idUctovnejZavierky":5931269,"obsah":{"tabulky":[{"nazov":{"sk":"Strana aktív"},"data":["5000","","","","","","","","","","","","","","","","","","","","","","","","","","5000","","","","","","5000","","","","","","5000","","","","","","",""]},{"nazov":{"sk":"Strana pasív"},"data":["5000","","4750","","5000","","5000","","","","","","","","","","","","-250","","250","","","","","","","","","","","","","","","","","","250","","","","",""]},{"nazov":{"sk":"Výkaz ziskov a strát"},"data":["","","","","","","","","","","","","","","250","","","","","","250","","","","","","","","","","","","","","-250","","-250","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","-250","","","","","","-250",""]}],"titulnaStrana":{"nazovUctovnejJednotky":"EC Dental s. r. o.","ico":"55632629","dic":"2122055155","adresa":{"ulica":"NÁM. M. R. ŠTEFÁNIKA","cislo":"2156/21","psc":"95501","mesto":"Topoľčany"},"skNace":"70220","typZavierky":"Riadna","obdobieOd":"2023-08","obdobieDo":"2023-12","datumSchvalenia":"2024-03-27","datumZostavenia":"2024-03-27","oznacenieObchodnehoRegistra":"OR Okresného súdu Nitra, oddiel: Sro,  vložka č. 61162/N"}},"pristupnostDat":"Verejné","idSablony":687,"kodDanovehoUradu":"400","datumPoslednejUpravy":"2024-04-08","zdrojDat":"FRSR"}
+
+=== https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/10761319 (príloha účtovnej závierky, text cez pdftotext -layout, medzery zlúčené) ===
+Poznámky Úč MÚJ 3-01 IČO 55632629 DIČ 2122055155
+Čl. I Všeobecné údaje
+1) Názov právnickej osoby a jej sídlo alebo meno a priezvisko fyzickej osoby
+EC Dental s. r. o.
+Nám. M. R. Štefánika 2156/21
+955 01 Topoľčany
+2) Údaje o konsolidovanom celku
+Účtovná jednotka nie je súčasťou konsolidovaného celku.
+3) Priemerný prepočítaný počet zamestnancov 0
+1
+Poznámky Úč MÚJ 3-01 IČO 55632629 DIČ 2122055155
+Čl. II Informácie o prijatých postupoch
+1) Účtovná závierka je zostavená za predpokladu, že účtovná jednotka bude
+nepretržite pokračovať vo svojej činnosti Áno
+2) Spôsob oceňovania jednotlivých položiek majetku a záväzkov
+Účtovná jednotka bude nepretržite pokračovať vo svoje činnosti: [x] Áno [ ] Nie
+Zmeny účtovných zásad a metód: [ ] Áno [x] Nie
+Účtovné metódy a zásady boli aplikované v rámci platného zákona o účtovníctve, s
+osobitosťami:
+Spôsob oceňovania jednotlivých zložiek majetku a záväzkov:
+ÚJ nakupovala v danom roku dlhodobý nehmotný majetok: [ ] Áno [x] Nie
+1) Dlhodobý nehmotný majetok nakupovaný, ÚJ oceňovala obstarávacou cenou v zložení:
+[ ] Obstarávacia cena vrátane nákladov súvisiacich s obstaraním v zložení
+[ ] dopravné [ ] provízie [ ] poistné [ ] clo
+ÚJ tvorila vlastnou činnosťou dlhodobý nehmotný majetok: [ ] Áno [x] Nie
+2) Dlhodobý nehmotný majetok vytvorený vlastnou činnosťou oceňovala ÚJ vlastnými
+nákladmi v zložení:
+[ ] priame náklady [ ] nepriame náklady spojené s výrobou [ ] inak:
+ÚJ v bežnom roku nakupovala dlhodobý hmotný majetok: [ ] Áno [x] Nie
+3) Dlhodobý hmotný majetok nakupovaný oceňovala ÚJ obstarávacou cenou v zložení:
+[ ] obstarávacia cena, vrátane nákladov súvisiacich s obstaraním v zložení
+[ ] dopravné [ ] provízie [ ] poistné [ ] clo [ ] ostatné VON
+ÚJ v bežnom roku tvorila dlhodobý hmotný majetok vlastnou činnosťou: [ ] Áno [x] Nie
+4) Dlhodobý hmotný majetok vytvorený vlastnou činnosťou oceňovala ÚJ vlastnými nákladmi v
+zložení
+[ ] priame náklady
+[ ] nepriame náklady (výrobná réžia) súvisiace s vytvorením dlhodobého hmotného majetku
+[ ] inak:
+ÚJ v bežnom roku vlastnila cenné papiere: [ ] Áno [x] Nie
+5) Podiely na základnom imaní spoločností, cenné papiere a deriváty oceňoval:
+[ ] obstarávacou cenou pri nákupe a predaji
+[ ] pri nákupe obstarávacou cenou a pri predaji váženým aritmetickým priemerom, (pri
+rovnakom druhu, rovnakom emitentovi, rovnakej mene)
+[ ] metódou FIFO (pri rovnakom druhu, rovnakom emitentovi a rovnakej mene)
+[ ] inak:
+2
+Poznámky Úč MÚJ 3-01 IČO 55632629 DIČ 2122055155
+ÚJ nakupovala zásoby: [ ] Áno [x] Nie
+Účtovanie obstarania a úbytku zásob.
+Pri účtovaní zásob postupovala ÚJ podľa Postupov účtovania, ÚT l, čl.2
+[ ] spôsobom A účtovania zásob
+[ ] spôsobom B účtovania zásob
+6) Nakupované zásoby oceňovala ÚJ obstarávacou cenou v zložení:
+[ ] cena obstarania vrátane nákladov súvisiacich s obstaraním v zložení
+[ ] dopravné [ ] provízie [ ] poistné [ ] clo [ ] ostatné VON
+Náklady súvisiace s obstaraním zásob
+[ ] pri príjme na sklad sa rozpočítali s cenou obstarania na technickú jednotku
+obstaranej zásoby,
+[ ] obstarávacia cena zásob sa v analytickej evidencii rozdelila na cenu obstarania
+a náklady súvisiace s obstaraním. Pri vyskladnení sa tieto náklady zahŕňali do
+nákladov predaného tovaru záväzne stanoveným spôsobom takto:
+VON
+-------------------------- x výdaj zo skladu
+PS zásob + príjem na sklad
+Popis:
+[ ] obstarávacia cena zásob sa v analytickej evidencii rozdeľovala na vopred
+stanovenú cenu (pevnú cenu) podľa internej smernice a odchýlku od skutočnej ceny
+obstarania (tamtiež). Pri vyskladnení sa táto odchýlka rozpúšťala do nákladov
+predaných zásob spôsobom záväzne stanoveným ÚJ podľa popisu:
+Pri vyskladnení zásob sa používal
+[ ] vážený aritmetický priemer z obstarávacích cien, aktualizovaný mesačne
+[ ] metóda FIFO (prvá cena na ocenenie prírastku zásob sa použila ako prvá cena
+na ocenenie úbytku zásob)
+[ ] iný spôsob:
+ÚJ tvorila v bežnom roku zásoby vlastnou činnosťou: [ ] Áno [x] Nie
+7) Zásoby vytvorené vlastnou činnosťou ÚJ oceňovala vlastnými nákladmi
+[ ] podľa skutočnej výšky nákladov, v zložení
+- priame náklady
+- časť nepriamych nákladov, súvisiaca s ich vytváraním
+ÚJ oceňovala peňažné prostriedky, ceniny, pohľadávky, záväzky: [ ] Áno [x] Nie
+8) peňažné prostriedky a ceniny, pohľadávky pri ich vzniku, záväzky pri ich vzniku
+oceňoval menovitou hodnotou
+9) pohľadávky pri odplatnom nadobudnutí, pohľadávky nadobudnuté vkladom do
+základného imania a záväzky pri ich prevzatí oceňoval obstarávacou cenou.
+3
+Poznámky Úč MÚJ 3-01 IČO 55632629 DIČ 2122055155
+3) Spôsob zostavenia odpisového plánu pre jednotlivé druhy dlhodobého hmotného
+majetku a dlhodobého nehmotného majetku, doba odpisovania a odpisové
+metódy pri určení odpisov
+Spôsob zostavenia odpisového plánu dlhodobého majetku
+Spôsob zostavovania účtovného odpisového plánu pre dlhodobý majetok a použité
+účtovné odpisové metódy pri stanovení účtovných odpisov:
+Druh majetku Doba odpisovania Sadzba odpisov Odpisová metóda
+[ ] Nehmotný majetok odpisuje účtovná jednotka počas predpokladanej doby
+používania zodpovedajúcej spotrebe budúcich ekonomických úžitkov z majetku.
+[ ] Dlhodobý hmotný majetok sa odpisuje s ohľadom na opotrebovanie
+zodpovedajúce bežným podmienkam jeho používania. Pri tvorbe odpisového plánu
+sa zohľadňuje doba použiteľnosti, počet výrobkov alebo podobných jednotiek, u
+ktorých sa predpokladá ich získanie prostredníctvom majetku. Účtovné a daňové
+odpisy sa rovnajú.
+[ ] Odpisový plán bol ovplyvnený týmito rozhodnutiami:
+4) Zmeny účtovných zásad a zmeny účtovných metód s uvedením dôvodu týchto
+zmien a vyčíslením ich vplyvu na finančnú hodnotu majetku, záväzkov,
+základného imania a výsledku hospodárenia ÚJ
+Vyčíslenie vplyvu zmien na:
+Typ zmeny Dôvod zmeny Majetok Záväzky Základné Hospodársky
+imanie výsledok
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+5) Informácie o dotáciách a ich oceňovanie v účtovníctve
+Dotácia Ocenenie
+0,00
+0,00
+0,00
+0,00
+4
+Poznámky Úč MÚJ 3-01 IČO 55632629 DIČ 2122055155
+6) Informácie o účtovaní významných opráv chýb minulých účtovných období v
+bežnom účtovnom období
+Opravy minulého Patrí do Účet Účtované na účet Účtované do HV
+ÚO obdobia HV min. období bežného
+(EUR) obdobia(EUR)
+0,00 0,00
+0,00 0,00
+0,00 0,00
+0,00 0,00
+0,00 0,00
+Čl. III Informácie, ktoré vysvetľujú a dopĺňajú súvahu a výkaz ziskov a strát
+1) Informácia o sume a dôvodoch vzniku jednotlivých položiek nákladov alebo
+výnosov, ktoré majú výnimočný rozsah alebo výskyt
+Popis nákladov a výnosov Dôvod vzniku Eur
+2) Informácie o záväzkoch
+Celková suma záväzkov so zostatkovou dobou splatnosti dlhšou ako päť rokov 0,00
+Celková suma zabezpečených záväzkov 0,00
+Opis a spôsoby zabezpečenia záväzkov
+3) Informácie o vlastných akciách
+a)
+Dôvod nadobudnutia vlastných akcií
+b.1) Nadobudnuté počas ÚO Prevedené počas ÚO
+Počet Menovitá %hodnota na Počet Menovitá %hodnota na
+hodnota upísanom ZI hodnota upísanom ZI
+0 0
+0 0,00 0,00 0 0,00 0,00
+0 0
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+5
+Poznámky Úč MÚJ 3-01 IČO 55632629 DIČ 2122055155
+b.2) Prevedené počas ÚO
+Nadobudnuté počas ÚO
+Počet Hodnota Počet Hodnota
+0 0,00 0 0,00
+0 0,00 0 0,00
+0 0,00 0 0,00
+c) V držbe k poslednému dňu ÚO
+Počet Menovitá hodnota Nadobúdacia hodnota %podiel na
+0 upísanom ZI
+0 0,00 0,00
+0 0,00
+0,00 0,00
+0,00
+0,00 0,00
+0,00
+4) Kapitálový fond z príspevkov podľa § 123 ods. 2 a § 217a Obchodného zákonníka
+účtovná jednotka vytvorila: Nie
+5) Informácie o orgánoch účtovnej jednotky
+Orgány účtovnej jednotky
+Štatutárny orgán Dozorný orgán Iný orgán
+Suma Úroková Suma Úroková Suma Úroková
+sadzba sadzba sadzba
+Celková suma poskytnutých 0,00 0,00 0,00 0,00 0,00 0,00
+pôžičiek 0,00 0,00 0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00 0,00 0,00
+Celková suma splatených 0,00 0,00 0,00 0,00 0,00 0,00
+pôžičiek k poslednému dňu
+účtovného obdobia 0,00 X 0,00 X 0,00 X
+Celková suma odpustených
+pôžičiek a odpísaných pôžičiek
+k poslednému dňu účtovného
+obdobia
+Celková suma použitých
+finančných prostriedkov alebo
+iné plnenie na súkr. účely
+Celková suma záruk podľa
+jednotlivých druhov záruk
+(záruky, garancie, ručenie na
+zmenke, ručenie na pôžičku,
+hypotéku)
+6
+Poznámky Úč MÚJ 3-01 IČO 55632629 DIČ 2122055155
+Hlavné podmienky pre poskytnutie záruk a pôžičiek a doplňujúci komentár
+6) Informácie o povinnostiach účtovnej jednotky
+a) celková suma finančných povinností, ktoré sa nevykazujú v súvahe, ale sú
+významné na posúdenie finančnej situácie
+b) celková suma významných podmienených záväzkov
+c) opis významných finančných povinností a významných podmienených záväzkov
+d) celková suma významných finančných povinností a významných podmienených
+záväzkoch voči dcérskej ÚJ a ÚJ s podstatným vplyvom
+e) opis významných povinností ÚJ vyplývajúcich z dôchodkových programov pre
+zamestnancov
+7
+Poznámky Úč MÚJ 3-01 IČO 55632629 DIČ 2122055155
+7) Informácie o udelení výlučného alebo osobitného práva, ktorým sa udelilo právo
+poskytovať služby vo verejnom záujme, pričom sa uvádza náhrada za túto
+činnosť v akejkoľvek forme, a ak sa zároveň vykonávajú aj iné činnosti, uvádzajú
+sa aj informácie o
+a) všetkých formách prijatej náhrady; b) účtovných zásadách použitých pri
+prideľovaní nákladov a výnosov; c) všetkých druhoch činnosti ÚJ
+Doplňujúce informácie
+8

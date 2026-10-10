@@ -1,0 +1,162 @@
+URL: https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/12641859
+ACCESSED_AT: 2026-10-09T19:16:01.847Z
+
+NOTE: text PDF prílohy (Poznámky Úč MÚJ 2025) extrahovaný pdftotext -layout
+
+Poznámky Úč MÚJ 3-01
+
+I. Všeobecné údaje                                                                                        IČO: 51301547
+                                                                                                        DIČ: 2120673918
+1. Obchodné meno a sídlo účtovnej jednotky:
+
+                                             365.fintech, a.s.
+
+                                             Dvořákovo nábrežie 4
+
+                                             Bratislava
+
+2. Informácie o konsolidovanom celku
+
+2a1) Konsolidujúca účtovná jednotka, ktorá zostavuje konsolidovanú účtovnú závierku za tú skupinu účtovných jednotiek
+konsolidovaného celku, ktorého súčasťou je aj účtovná jednotka
+
+                      obchodné meno          J&T FINANCE GROUP SE
+                                    sídlo    Sokolovská 700/113a, 186 00 Praha 8
+                                             Česká republika
+
+2a2) Účtovná jednotka, ktorá je bezprostredne konsolidujúcou účtovnou jednotkou,
+
+                      obchodné meno          365.bank, a.s.
+                                    sídlo    Dvořákovo nábrežie 4
+                                             811 02 Bratislava
+
+2b) Účtovná jednotka nie je materskou účtovnou jednotkou
+
+3. Priemerný počet zamestnancov:
+
+II. Informácie o prijatých postupoch
+
+1. Spoločnosť zostavila účtovnú závierku za predpokladu nepretržitého pokračovania vo svojej činnosti:
+
+                                             áno          nie
+
+2. Spôsob oceňovania jednotlivých zložiek majetku a záväzkov:
+  Účtovná jednotka oceňovala majetok a záväzky
+                             obstarávacou cenou dlhodobý nehmotný majetok obstaraný kúpou
+                                                       dlhodobý hmotný majetok obstaraný kúpou
+                                                       dlhodobý finančný majetok
+                                                       zásoby obstarané kúpou
+                                                       pohľadávky pri odplatnom nadobudnutí
+                                                       záväzky pri ich prevzatí
+                                                       krátkodobý finančný majetok obstaraný kúpou
+
+                           menovitou hodnotou peňažné prostriedky a ceniny
+                                                       záväzky pri ich vzniku
+                                                       pohľadávky pri ich vzniku
+
+                              vlastnými nákladmi dlhodobý nehmotný majetok vytvorený vlastnou činnosťou
+                                                       dlhodobý hmotný majetok vytvorený vlastnou činnosťou
+                                                       zásoby vytvorené vlastnou činnosťou
+
+3. Tvorba odpisového plánu pre dlhodobý majetok
+  Pri tvorbe odpisového plánu vychádzala účtovná jednotka z odpisov stanovených zákonom o dani
+  z príjmov č. 595 / 2003 Z. z. pre dlhodobý hmotný majetok.
+  U dlhodobého nehmotného majetku sa vychádzalo z doby životnosti majetku. Software sa odpisuje rovnomerne 4 roky.
+
+4. Zmeny účtovných zásad a metód             nastali      nenastali
+
+Účtovná jednotka zmenila účtovné metódy, zásady oproti predchádzajúcemu účtovnému obdobiu
+
+Vplyv na HV, VI, Majetok, Záväzky                     Druh zmeny                  Dôvod                 Vplyv zmeny v
+                                                                                                              EUR
+
+5. Dotácie poskytnuté na obstaranie majetku v bežnom účtovnom období                       Hodnota Výška dotácie
+                                                 Zložka majetku                            Vplyv na VH minulých období
+
+6. Opravy významných chýb minulých účtovných období
+                                                         Popis opravy
+
+                                                                                                                         Strana 1 z 2
+Poznámky Úč MÚJ 3-01
+
+III. Informácie vysvetľujúce a doplňujúce súvahu a výkaz ziskov a strát                                          IČO: 51301547
+                                                                                                               DIČ: 2120673918
+
+1. Informácie o výnosoch a nákladoch, ktoré majú výnimočný pocit a výskyt
+
+1a) Výnimočné výnosy
+
+Výnimočné výnosy - popis                         Suma                              Dôvod vzniku
+
+1b) Výnimočné náklady                            Suma                              Dôvod vzniku
+             Výnimočné náklady - popis
+                                                           90 Fin. investicia Tapline UG - očakávanž vstup do likviácie
+  Tvorba opravných pooložiek
+  Tvorba opravných pooložiek                               146 Fin. investicia Monite GmbH - očakávaný vstup do likvidácie
+
+2. Informácie o záväzkoch
+2a) Záväzky so zostatkovou dobou splatnosti dlhšou ako 5 rokov:
+
+2b) Informácie o zabezpečených záväzkoch                                       Suma zabezpečeného záväzku
+                               Formy zabezpečenia záväzku
+
+Zabezpečenie záväzku ručením
+Zabezpečenie záväzku zmluvnou pokutou
+Zabezpečovací prevod práva
+Zabezpečovacie postúpenie pohľadávky
+Iná forma zabezpečenia (uvedenie konkrétnej formy)
+Celková suma zabezpečených záväzkov
+
+3. Informácie o vlastných akciách
+
+Počet a menovitá hodnota nadobudnutých vlastných akcií počas účtovného obdobia
+Počet a hodnota nadobudnutia vlastných akcií počas účtovného obdobia
+Podiel na upísanom základnom imaní v %
+Menovitá hodnota prevedených vlastných akcií počas účtovného obdobia
+Počet a hodnota prevedenia vlastných akcií počas účtovného obdobia
+
+Počet a menovitá hodnota vlastných akcií držaných k poslednému dňu účtovného obdobia
+Počet a hodnota nadobudnutia vlastných akcií držaných k poslednému dňu účtovného obdobia
+Podiel na upísanom základnom imaní v %
+
+4. Informácia o tom, či účtovná jednotka vytvorila kapitálový fond z príspevkov podľa § 123 ods. 2 a 217a
+Obchodného zákonníka v znení neskorších predpisov - účtovná jednotka nevytvorila kapitálový fond z príspevkov
+
+5. Informácie o poskytnutých pôžičkách, zárukách a iných plnení pre členov štatutárnych, správnych a dozorných orgánov
+
+                                                                                Štatutárny        Správny         Dozorný
+                                                                                   orgán           orgán           orgán
+                                                                                    suma            suma            suma
+
+                                                                               úroková sadzba  úroková sadzba  úroková sadzba
+
+Celková suma poskytnutých pôžičiek
+
+Celková suma splatených pôžičiek k 31.12.2025                                   X                X             X
+
+Celková suma odpustených a odpísaných pôžičiek k 31.12.2025                     X                X             X
+
+Poskytnuté preddavky na budúce mzdy a platy, odmeny, prémie                     X                X             X
+Celková suma záruk podľa jednotlivých druhov záruk
+(záruky, garancie, ručenie na zmenke, za pôžičku, hypotéku)
+
+6. Informácie o povinnostiach účtovnej jednotky
+
+Povinnosti účtovnej jednotky                                     Celková suma                  Opis
+
+Finančné povinnosti nevykázané v súvahe,
+ale významné na posúdenie finančnej situácie
+
+Významné podmienené záväzky
+Významné finančné povinnosti a významné podmienené
+záväzky voči dcérskej účtovnej jednotke a účtovnej jednotke s
+podstatným vplyvom
+Významné povinnosti vyplývajúcich z dôchodkových
+programov pre zamestnancov
+
+7. Informácie o udelení výlučného práva alebo osobitného práva:
+
+Účtovnej jednotke nebolo udelené výlučné alebo osobitné právo poskytovať služby vo verejnom záujme.
+
+                                                                                                                                Strana 2 z 2
+

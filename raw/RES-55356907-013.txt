@@ -1,0 +1,330 @@
+       Poznámky Úč MÚJ 3-01    IČO 4 7 0 5 9 9 9 1            DIČ  2023802605
+
+1. Všeobecné údaje                                                 Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+Názov Spoločnosti a jej sídlo
+
+Martin Dental Center s.r.o.               2023
+Antolská 3721/4, 851 07 Bratislava
+
+Informácie o konsolidovanom celku
+
+Spoločnosť nie je súčasťou konsolidovaného celku inej obchodnej spoločnosti.
+
+Obchodné meno a sídlo konsolidujúcej ÚJ, ktorá zostavuje konsolidovanú ÚZ za všetky skupiny ÚJ, pre ktorú je Spoločnosť konsolidovanou ÚJ:
+
+Obchodné meno a sídlo bezprostredne konsolidujúcej ÚJ, ktorá zostavuje konsolidovanú ÚZ za skupinu ÚJ, ktorej je Spoločnosť súčasťou:
+
+Je materská spoločnosť oslobodená od povinnosti zostaviť konsolidovanú ÚZ ?
+
+     áno (podľa § 22 ods.8) Spoločnosť uvádza nasledujúce informácie:
+
+Obchodné meno a sídlo materskej ÚJ zostavujúcej konsolidovanú ÚZ do ktorej je zahrnutá Spoločnosť a všetky jej dcérske ÚJ:
+
+Údaje o počte zamestnancov:
+
+Názov položky
+
+Priemerný prepočítaný počet zamestnancov                                      74
+
+K všeobecným údajom Spoločnosť uvádza doplňujúce informácie:
+
+                                                                                                                            1 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1                       DIČ  2023802605
+
+                                                                     Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+2. Informácie o prijatých postupoch
+
+• Východiská pre zostavenie účtovnej závierky, vplyv zmeny účtovných zásad na hodnotu majetku,
+ záväzkov, vlastného imania a výsledku hospodárenia účtovnej jednotky
+
+Účtovná závierka bola zostavená za predpokladu nepretržitého trvania Spoločnosti.
+
+Účtovné metódy a všeobecné účtovné zásady       boli účtovnou jednotkou konzistentne aplikované.
+
+        Druh zmeny účtovných zásad alebo metód     Dôvod zmeny         Hodnota vplyvu na výsledok hospodárenia
+                                                                                   alebo na vlastné imanie
+zmena štrukrúry položiek súvahy a výsledovky    zmena zákona
+                                                                     bez vplyvu na hospodársky výsledok a vlastné imanie
+
+• Ocenenie, odpisové plány DNM a DHM (obstaraného kúpou, vlastnou činnosťou, inak)
+Dlhodobý majetok nakupovaný sa oceňuje obstarávacou cenou, ktorá zahŕňa cenu obstarania a náklady
+súvisiace s obstaraním (clo, prepravu, montáž, poistné a pod.).
+Dlhodobý majetok vytvorený vlastnou činnosťou sa oceňuje vlastnými nákladmi. Vlastnými nákladmi sú
+všetky priame náklady vynaložené na výrobu alebo inú činnosť a nepriame náklady, ktoré sa vzťahujú na
+výrobu alebo inú činnosť.
+Odpisy dlhodobého nehmotného majetku sú stanovené vychádzajúc z predpokladanej doby jeho
+používania a predpokladaného priebehu jeho opotrebenia. Odpisovať sa začína prvým dňom mesiaca
+uvedenia dlhodobého majetku do používania. Drobný dlhodobý nehmotný majetok, ktorého obstarávacia
+cena (resp. vlastné náklady) je 2400 EUR a nižšia, sa odpisuje jednorazovo pri uvedení do používania.
+
+                                                                                                                                         2 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1  DIČ  2023802605
+
+                                                Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+Predpokladaná doba používania, metóda odpisovania a odpisová sadzba sú uvedené v tabuľke:
+
+                      druh majetku         Predpokladaná doba   Metóda odpisovania         Sadzba ročného
+                                           používania v rokoch                                  odpisu
+
+Odpisy dlhodobého hmotného majetku sú stanovené vychádzajúc z predpokladanej doby jeho
+používania a predpokladaného priebehu jeho opotrebenia. Odpisovať sa začína prvým dňom mesiaca
+uvedenia dlhodobého majetku do používania. Drobný dlhodobý hmotný majetok, ktorého obstarávacia
+cena (resp. vlastné náklady) je 1700 EUR a nižšia, sa odpisuje jednorazovo pri uvedení do používania.
+
+Predpokladaná doba používania, metóda odpisovania a odpisová sadzba sú uvedené v tabuľke:
+
+                      druh majetku         Predpokladaná doba   Metóda odpisovania         Sadzba ročného
+                                           používania v rokoch                                  odpisu
+
+Nehnuteľnosti                              40                   rovnomerná                             2,5%
+Osobné automobily
+                                           4                    rovnomerná                             25%
+
+                                                                                                             3 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1  DIČ  2023802605
+
+                                                Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+• Ocenenie DFM (cenných papierov, obchodných podielov)
+Cenné papiere a podiely sa oceňujú obstarávacími cenami vrátane nákladov súvisiacich s obstaraním.
+
+• Ocenenie zásob (obstaraných kúpou, vlastnou činnosťou, inak)
+Zásoby sa oceňujú nižšou z nasledujúcich hodnôt: obstarávacia cena (nakupované zásoby) alebo
+vlastné náklady (zásoby vytvorené vlastnou činnosťou) alebo čistá realizačná hodnota.
+Nakupované zásoby sa oceňujú váženým aritmetickým priemerom z obstarávacích cien.
+Zníženie hodnoty zásob sa upravuje vytvorením opravnej položky.
+
+                                                                                                                                         4 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1  DIČ 2 0 2 3 8 0 2 6 0 5
+
+                                                                                                                                                                                    Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+• Ocenenie pohľadávok
+Pohľadávky pri ich vzniku sa oceňujú ich menovitou hodnotou; postúpené pohľadávky a pohľadávky
+nadobudnuté vkladom do základného imania sa oceňujú obstarávacou cenou vrátane nákladov súvisiacich
+
+s obstaraním. Toto ocenenie sa znižuje o pochybné a nevymožiteľné pohľadávky.
+
+• Ocenenie krátkodobého finančného majetku (peňažných prostriedkov, cenín, CP na obchodovanie)
+Peňažné prostriedky a ceniny sa oceňujú ich menovitou hodnotou.
+Zníženie ich hodnoty sa vyjadruje opravnou položkou.
+Cenné papiere, dlhové cenná papiere na obchodovanie sa oceňujú obstarávacími cenami vrátane nákladov
+súvisiacich s obstaraním.
+
+• Ocenenie záväzkov vrátane rezerv, dlhopisov, pôžičiek a úverov
+Záväzky pri ich vzniku sa oceňujú menovitou hodnotou. Záväzky pri ich prevzatí sa oceňujú obstarávacou
+cenou. Ak sa pri inventarizácii zistí, že suma záväzkov je iná ako ich výška v účtovníctve, uvedú sa záväzky
+v účtovníctve a v účtovnej závierke v tomto zistenom ocenení.
+Rezervy sú záväzky s neurčitým časovým vymedzením alebo výškou; tvoria sa na krytie známych rizík alebo
+strát z podnikania. Oceňujú sa v očakávanej výške záväzku.
+
+                                                                                                                                         5 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1  DIČ  2023802605
+
+                                                Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+• Ocenenie derivátov
+Deriváty sa oceňujú reálnou hodnotou.
+Zmena reálnej hodnoty zabezpečovacích derivátov sa účtuje bez vplyvu na výsledok hospodárenia,
+priamo do vlastného imania.
+Zmena reálnej hodnoty derivátov určených na obchodovanie na burze alebo verejnom trhu sa účtuje s
+s vplyvom na výsledok hospodárenia.
+
+• Ocenenie majetku a záväzkov zabezpečených derivátmi
+Majetok a záväzky zabezpečené derivátmi sa oceňujú reálnou hodnotou. Zmeny reálnych hodnôt majetku
+a záväzkov zabezpečených derivátmi sa účtujú bez vplyvu na výsledok hospodárenia, priamo do vlastného
+imania.
+
+                                                                                                                                         6 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1                          DIČ  2023802605
+
+                                                                        Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+• Informácie o poskytnutých dotáciach a ich ocenení
+Dotácie na hospodársku činnosť sa vykazujú ako výnosy budúcich období a do výkazu ziskov a strát sa
+rozpúšťajú ako výnosy z hospodárskej činnosti v časovej a vecnej súvislosti s vynaložením nákladov na
+príslušný účel.
+Dotácie na obstaranie dlhodobého hmotného majetku a dlhodobého nehmotného majetku sa najskôr
+vykazujú ako výnosy budúcich období a do výkazu ziskov a strát sa rozpúšťajú v časovej a vecnej súvislosti
+so zaúčtovaním odpisov z tohto dlhodobého majetku.
+
+• Informácie o opravách významných chýb minulých účtovných období
+
+V bežnom účtovnom období Spoločnosť  nevykonala významné opravy chýb minulých účtovných období.
+
+Popis opravy chyby minulého účtovného obdobia  Hodnota vplyvu na nerozdelený zisk / neuhradenú stratu
+                                                                        minulých rokov
+
+                                                                                                                                 7 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1             DIČ 2 0 2 3 8 0 2 6 0 5
+
+                                                                                                                                                                                   Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+3. Informácie, ktoré vysvetľujú a dopĺňajú súvahu a výkaz ziskov a strát.
+
+Záväzky
+
+Spoločnosť eviduje záväzky.
+K záväzkom Spoločnosť uvádza nasledujúce informácie:
+
+Štruktúra záväzkov je vykázaná v súvahe spoločnosti.
+
+Štruktúra záväzkov podľa zostatkovej doby splatnosti je uvedená v tabuľke:
+
+               Názov položky                          Bežné účtovné obdobie
+                                                                 8 082
+Dlhodobé záväzky spolu
+                                                                 8 082
+Záväzky so zostatkovou dobou splatnosti
+nad päť rokov
+Záväzky so zostatkovou dobou splatnosti
+jeden až päť rokov
+
+Spoločnosť nemá záväzky zabezpečené záložným právom alebo inou formou zabezpečenia.
+
+     Opis predmetu záložného práva        Hodnota predmetu záložného práva           Hodnota záväzku
+                                                               X
+Záväzky kryté záložným právom alebo inou
+formou zabezpečenia
+Hodnota záväzkov na ktoré sa zriadilo
+záložné právo
+
+Informácie o položkách nákladov a výnosov, ktoré majú výnimočný rozsah alebo výskyt
+
+Spoločnosť neúčtovala o položkách nákladov a výnosov, ktoré mali výnimočný rozsah alebo výskyt.
+K týmto položkám Spoločnosť uvádza nasledujúce údaje:
+
+                                                                                                                                                                                                                                            8 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1          DIČ           2023802605
+
+                                                                 Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+Položky nákladov a výnosov, ktoré mali výnimočný rozsah alebo výskyt sú uvedené v tabuľke:
+
+     položka majúca výnimočný rozsah alebo výskyt  druh položky  suma výnimočnej položky
+Spoločnosť nezaznamenala výnosy ani náklady
+mimoriadneho rozsahu
+
+Informácie o vlastných akciách
+Spoločnosť neeviduje vlastné akcie.
+
+                                                                                                                          9 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1                        DIČ  2023802605
+
+                                                                      Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+Informácie o vlastných akciách sú uvedené v tabuľke:
+
+                      vlastné akcie nadobudnuté počas účtovného obdobia
+
+počet akcií  menovitá hodnota  hodnota spolu                          upísané ZI   podiel akcií na ZI
+
+                      vlastné akcie prevedené počas účtovného obdobia
+
+počet akcií  menovitá hodnota  hodnota spolu                          upísané ZI   podiel akcií na ZI
+
+                           vlastné akcie nadobudnuté a prevedené počas účtovného obdobia
+počet akcií nadobúdacia hodnota hodnota spolu počet akcií prevádzacia hodnota hodnota spolu
+
+             nadobudnuté vlastné akcie v držbe k poslednému dňu účtovného obdobia
+
+počet akcií menovitá hodnota hodnota nadobudnutia hodnota spolu       upísané ZI   podiel akcií na ZI
+                                                                                                 10 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1                        DIČ     2023802605
+
+                                                                         Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+Informácie o povinnostiach účtovnej jednotky
+Spoločnosť neeviduje finančné povinnosti, ktoré sa nevykazujú v súvahe.
+
+Informácie o jednotlivých finančných povinnostiach, ktoré sa nevykazujú v súvahe, ale sú významné na
+posúdenie finančnej situácie Spoločnosti sú uvedené v tabuľke:
+
+                Názov položky finančnej povinnosti               celková suma finančnej povinnosti
+
+z operatívneho prenájmu
+zo zmlúv na poskytnutie pôžičky alebo úveru
+z licenčných zmlúv
+z koncesionárskych zmlúv /suma poplatku za zostávajúce obdobie/
+
+                                                                                                      11 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1         DIČ  2023802605
+
+                                                       Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+Spoločnosť neeviduje podmienené zäväzky.
+
+          Druh podmieneného záväzku       celkom        Hodnota
+                                                  voči dcérskej ÚJ voči ÚJ s podstatným vplyvom
+Zo súdnych rozhodnutí
+Z poskytnutých záruk
+Zo všeobecne záväzných predpisov
+Zo zmluvy o podriadenom záväzku
+Z ručenia
+
+Spoločnosť k významným finančným povinnostiam a podmieneným záväzkom uvádza ďalšie informácie:
+
+Spoločnosť neposkytla účasť na dochodkových programoch pre zamestnancov.
+K významým povinnostiam vyplývajúcim z dôchodkových programov Spoločnosť uvádza:
+
+                                                                                                12 / 14
+Poznámky Úč MÚJ 3-01  IČO 4 7 0 5 9 9 9 1           DIČ  2023802605
+
+                                                         Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+Informácie o orgánoch účtovnej jednotky
+Spoločnosť neposkytla členom orgánov ÚJ záruky, zabezpečenia, pôžičky, plnenia na súkromné účely.
+
+Prehľad o príjmoch a výhodách členov štatutárnych, dozorných a iných orgánov v tabuľke:
+
+                                           Hodnota príjmu, výhody členov orgánov
+
+Druh príjmu, výhody                   štatutárnych       dozorných                       iných
+
+Poskytnuté záruky a iné zabezpečenia
+Hlavné podmienky poskytnutých záruk:
+
+                                                                                                   13 / 14
+Poznámky Úč MÚJ 3-01                IČO 4 7 0 5 9 9 9 1              DIČ  2023802605
+
+Hlavné podmienky poskytnutých záruk:                                      Aplikácia "PoznámkyMUJ" © Equilibrium, s.r.o. 2014-2015
+
+Poskytnuté pôžičky ku dňu:               31.12.              2 023         2 022                   2 021
+                                                            430 995       430 995                 300 115
+celková suma poskytnutých pôžičiek (+)                                    -12 120
+
+                      celková suma splatených pôžičiek (-)
+
+celková suma odpustených/odpísaných pôžičiek (-)
+
+Hlavné podmienky poskytnutých pôžičiek:
+
+                                                   úroky:
+
+                                         výška pôžičky:
+
+                                      deň poskytnutia:
+
+                                         deň splatnosti:
+
+                                         splátky:
+
+Suma plnenia (finančného alebo iného) na súkromné
+účely
+
+Informácie o udelení výlučného práva alebo osobitného práva
+
+Spoločnosti nie je udelené výlučné právo alebo osobitné právo ktorým jej bolo udelené právo
+poskytovať služby vo verejnom záujme, pričom prijíma náhradu za túto činnosť v akejkoľvek forme.
+
+Všetky formy prijatej náhrady:
+
+Účtovné zásady pri priraďovaní nákladov a výnosov:
+
+Všetky druhy činností Spoločnosti:
+
+                                                                                                           14 / 14
+

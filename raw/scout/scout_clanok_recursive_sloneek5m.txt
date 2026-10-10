@@ -1,0 +1,79 @@
+URL: https://www.therecursive.com/czech-slovak-startup-sloneek-closes-over-eur5m-round-to-turn-hr-software-into-an-ai-colleague/
+FINAL_URL: https://www.therecursive.com/czech-slovak-startup-sloneek-closes-over-eur5m-round-to-turn-hr-software-into-an-ai-colleague/
+HTTP: 200
+FETCHED_AT: 2026-10-09T19:03:33
+TITLE: Czech-Slovak Startup Sloneek Closes Over €5M Round to Turn HR Software into an AI Colleague
+DATES: ['2026-06-16T09:16:26.000Z', '2026-06-17T11:27:52.000Z'] ['2026-06-16T09:16:26.000Z']
+
+ 
+ Czech-Slovak Startup Sloneek Closes Over €5M Round to Turn HR Software into an AI Colleague 
+ Media 
+ Events 
+ Reports 
+ Podcast 
+ Studio 
+ About us 
+ Sign in 
+ Become a subscriber Become a subscriber 
+ Czech-Slovak Startup Sloneek Closes Over €5M Round to Turn HR Software into an AI Colleague
+ Sloneek Intelligence connects corporate data across every HR application in use, and can be controlled entirely by voice or chat. The new round will fund the platform's AI development and expansion into the UK and Polish markets.
+ Sloneek HR software Series A czech ecosystem 
+ by
+ Yoana Stanislavova 
+ June 16, 2026 ∙ 2 min read 
+ Share 
+ Written by 
+ Yoana Stanislavova
+ Tech & Startup Content Specialist at The Recursive, covering funding rounds, emerging technologies, and AI development in the CEE. Focused on delivering clear, well-researched content that helps readers navigate the fast-changing startup landscape.
+ Editor’s Choice 
+ The Silent M&A Wave: When the Next Funding Round Becomes Less Attractive Than a Sale
+ How Bulgaria Built One of Europe’s Fastest-Growing Battery Markets
+ Start Up Bulgaria! Crossroads 2026
+ Sloneek , cloud-based HR and workforce management platform, secured oversubscribed $6M (€5.18M) Series A round  led by Orbit Capital and Venture to Future Fund. 
+ The European HR software market was worth more than $4.8 billion last year, yet much of it remains fragmented across dozens of disconnected tools. HR teams still spend significant time moving information between systems, updating records manually and navigating siloed data. Sloneek believes the next step is to replace that complexity with a single AI-powered platform, where tasks can be executed through a simple chat prompt or voice command.
+ The funding round, led by Orbit Capital and Venture to Future Fund , was oversubscribed, exceeding its original target. The round represents the company's largest to date, following a €350,000 pre-seed in 2020, a €1 million seed in 2022, and a €3.6 million raise in 2024. 
+ For Orbit Capital, one of Sloneek's strongest assets was its ability to quickly bring AI-driven features to market while keeping growth sustainable. 
+ " Sloneek has built a digital product deeply rooted in the SME environment, often becoming the first company-wide system for its customers. What stood out to us was the speed and efficiency with which the company is able to ship AI-powered tools, combined with strong cost discipline and commercial traction. Sloneek was therefore a compelling candidate for venture debt funding," , said Vít Javůrek of Orbit Capital. According to Filip Lukáč, CEO and co-founder of Sloneek, the company was looking for an investor that understood the realities of building a global B2B SaaS business.
+ ,,Throughout the entire process, Orbit Capital demonstrated that they think exactly the way we do. That was the deciding factor for us.
+And the fact that our round was oversubscribed with follow-on participation is really just a nice bonus — and proof that our team is executing well.", said Filip Lukáč, CEO and co-founder of Sloneek: With 500+ companies across 25 countries
+ Founded in 2019, Sloneek is a Czech-Slovak HR software company headquartered in Prague. The platform helps businesses manage the entire employee lifecycle, from recruitment and onboarding to attendance tracking, performance management and offboarding.
+ Sloneek was among the first HR software companies in Europe to integrate generative AI directly into its platform, a move the company says accelerated both customer adoption and international expansion. The company built an agent with the aim to execute tasks more effectively. 
+ Today, Sloneek serves more than 500 companies across 25 countries, supporting HR operations for roughly 50,000 employees. The company reported annual recurring revenue (ARR) of €2.5 million, having more than doubled year-over-year. Its customer base includes Grant Thornton, MAN, WPP Media and Twisto.
+ From HR software to AI-powered workflows
+ The company's flagship product, Sloneek Intelligence , connects employee data and HR workflows into a single platform that can be operated through voice or chat commands.
+ According to the company, the feature can automate up to 90% of routine HR tasks through an AI-powered assistant. Users can interact with the platform through voice or chat commands rather than navigating traditional software menus. It also provides HR teams with a more comprehensive view of the organisation, bringing together data on employees, teams and workforce performance.
+ CEO Filip Lukáč sees this as only the beginning. "In a few years, no one will think of Sloneek as an application — they will think of it as a partner wherever it is needed," he said.
+ Looking ahead, Sloneek wants to extend its platform beyond HR by integrating with systems used across finance, marketing and other departments. The company hopes this will make Sloneek a more integrated part of day-to-day business operations rather than simply another HR tool.
+ Share 
+ Newer post 
+ Greece’s Startup Ecosystem Has Found Capital. Now It Needs Structural Change
+ Older post 
+ Two Greek-American Investors Return to Greece to Raise €106M for Its First Life Sciences Fund
+ Member discussion
+ Newsletter 
+ Get all the latest posts delivered straight to your inbox.
+ Subscribe 
+ Processing your application 
+ Please check your inbox and click the link to confirm your subscription. 
+ There was an error sending the email 
+ Meet the world's next tech leaders before anyone else!
+ Become a subscriber → 
+ Get all the latest posts delivered straight to your inbox. 
+ Social 
+ Facebook 
+ LinkedIn 
+ YouTube 
+ Instagram 
+ Links 
+ Join the Community 
+ Privacy Policy 
+ Join our Viber channel! 
+ © 2026 The Recursive .
+ Cherni Vrah Boulevard 51, Building 4, Sofia, Bulgaria
+ You’ve successfully subscribed to The Recursive
+ Welcome back! You’ve successfully signed in.
+ Great! You’ve successfully signed up.
+ Success! Your email is updated.
+ Your link has expired
+ Success! Check your email for magic link to sign-in.
+ 

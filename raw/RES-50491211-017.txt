@@ -1,0 +1,42 @@
+SOURCE: https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/12452071
+DOCUMENT: Účtovná závierka Ostatné typy ÚJ.PDF – Fond WTEP, s. r. o., IČO 52196151, riadna účtovná závierka k 31.12.2025 (RÚZ účtovná závierka id 6823239, výkaz id 10100120, podaná 2026-03-31)
+METHOD: PDF je sken bez textovej vrstvy. Nasledujúci text je doslovný ručný prepis vybraných častí strán 3, 14 a 15 (vizuálne prečítané z obrázkov strán). Iné časti dokumentu nie sú prepísané.
+
+--- strana 3 (SÚVAHA k 31.12.2025, ÚČ SKISPS 1-02) ---
+B. Dlhodobý majetok (súčet položiek 19 a 22) | Brutto 19 535 338,91 | Korekcia 0,00 | Netto 19 535 338,91 | Predchádzajúce účtovné obdobie 19 533 838,91
+20. Dlhodobý finančný majetok | 19 535 338,91 | 0,00 | 19 535 338,91 | 19 533 838,91
+a) podiely v prepojených podnikoch | 19 535 338,91 | 0,00 | 19 535 338,91 | 19 533 838,91
+Aktíva spolu | 20 652 830,89 | 0,00 | 20 652 830,89 | 21 141 432,(orezané)
+
+--- strana 14 (E. Poznámky k položkám súvahy a k položkám výkazu ziskov a strát) ---
+Na riadku 20. a). v súvahe zostavenej k 31.12.2025 sú vykázané finančné investície v celkovej sume 19 535 338,91 Eur.
+Suma 19 535 338,91 Eur je zložená z nasledujúcich finančných investícií:
+
+Vklady do základného imania:
+Cieľová spoločnosť | Vklad v Eur | Nadobudnutý podiel na ZI v %
+Reco-plast, s.r.o. | 2 750,00 | 55,00
+Envirotex, s.r.o. | 3 500,00 | 70,00
+Recable, s.r.o. | 3 500,00 | 70,00
+CEMTOP Invest, s.r.o. | 5 000,00 | 100,00
+ReTirezz, s.r.o. | 3 500,00 | 70,00
+Waste Park, s.r.o. | 1 750,50 | 50,00
+New Waste 1, s.r.o. | 2 500,00 | 50,00
+
+Na základe Zmluvy o prevode obchodného podielu zo dňa 19.10.2022 nadobudol Fond WTEP ďalších 30% podielu v spoločnosti Infra Waste Investments, s.r.o., čím sa stal jej 100% spoločníkom. Obstarávacia cena podielu bola dohodnutá vo výške 1,00 Eur. Táto zmena bola v obchodnom registri zapísaná dňa 19.01.2023. Okrem toho bolo zápisom dňa 19.01.2023 zmenené aj obchodné meno spoločnosti z Infra Waste Investments, s.r.o. na New Waste, s.r.o.. Na základe Zmluvy o prevode obchodného podielu zo dňa 29.06.2023 previedol Fond WTEP 50% podielu v spoločnosti New Waste, s.r.o. na spoločnosť LIEBERMANN. Predajná cena podielu bola dohodnutá na 2500,00 Eur a táto zmena bola v obchodnom registri zapísaná dňa 07.09.2023. Zápisom v obchodnom registri zo dňa 30.11.2023 bolo zmenené obchodné meno spoločnosti z New Waste, s.r.o. na Waste Park, s.r.o..
+
+Na základne Zmluvy o prevode obchodného podielu zo dňa 21.12.2023 previedol Fond WTEP 50% podielu v spoločnosti New Waste 1, s.r.o. na spoločnosť SWS PP s.r.o.. Predajná cena podielu bola dohodnutá na 2500,00 EUR a táto zmena bola v obchodnom registri zapísaná dňa 12.01.2024.
+
+Na základne Zmluvy o prevode obchodného podielu zo dňa 16.06.2023 previedol Fond WTEP 15% podielu v spoločnosti Reco-Plast, s.r.o. na spoločnosť 3life s.r.o.. Predajná cena podielu bola dohodnutá na 750,00 EUR a táto zmena bola dňa 24.02.2024 zapísaná v obchodnom registri.
+
+--- strana 15 ---
+Na základe Zmluvy o prevode obchodného podielu zo dňa 03.04.2025 nadobudol Fond WTEP ďalších 50% podielu v spoločnosti CEMTOP Invest s.r.o., čím sa stal jej 100% spoločníkom. Obstarávacia cena podielu bola dohodnutá vo výške 1500,00 Eur. Táto zmena bola v obchodnom registri zapísaná dňa 11.04.2025.
+
+Vklady do ostatných kapitálových fondov:
+Cieľová spoločnosť | Vklad v Eur
+Reco-plast, s.r.o. | 2 350 500,00
+Envirotex, s.r.o. | 5 537 166,67
+Recable, s.r.o. | 4 071 500,00
+CEMTOP Invest, s.r.o. | 1 221 500,00
+ReTirezz, s.r.o. | 2 328 255,58
+Waste Park, s.r.o. | 3 108 916,16
+New Waste 1, s.r.o. | 895 000,00

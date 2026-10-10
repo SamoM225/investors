@@ -1,0 +1,166 @@
+URL: https://www.vestbee.com/insights/articles/largest-cee-startup-funding-rounds-2026
+FINAL_URL: https://www.vestbee.com/insights/articles/largest-cee-startup-funding-rounds-2026
+HTTP: 200
+FETCHED_AT: 2026-10-09T19:03:31
+TITLE: The 15 largest CEE startup funding rounds in 2026 | Vestbee
+DATES: ['2026-08-19T08:38:37.865Z', '2026-08-19T08:54:55.084Z'] []
+
+ 
+ The 15 largest CEE startup funding rounds in 2026 | Vestbee 
+ Join here Join Vestbee
+ The leading platform for startups, VCs, accelerators and corporates in Europe
+ Join here Join here 
+ News 
+ Insights 
+ Sectors 
+ Newsletter Events Platform 
+ News 
+ Insights 
+ Sectors 
+ Newsletter Events Vestbee Platform 
+ August 19, 2026 · 9 min read 
+ Katarzyna Groszkowska
+ Editor, Vestbee Insights
+ The 15 largest CEE startup funding rounds in 2026
+ Between January and July 2026, the 15 largest funding rounds involving CEE-connected startups brought in nearly €1 billion. However, the capital continued to flow selectively: the five biggest deals — Mews, Preply, Oxylabs, Fonoa Technologies, and Viktor — alone accounted for roughly two-thirds of the total.
+ AI is a common thread across most of the headline-making rounds, although not every company on the list is a pure AI startup. Some, including Viktor, Cyber Swarm, and Turbine, are developing AI-native products or infrastructure. Others, such as Mews, Preply, Fonoa, Ominimo, and HOLYWATER, plan to use the newly raised capital to add AI capabilities to established platforms. 
+ When it comes to geography , Estonia continues to cement its position as a deeptech and defence innovation hub, represented by Skeleton Technologies and Frankenburg Technologies. Ukrainian-founded companies — Preply, Uforce, and HOLYWATER — also demonstrate the strength of the country’s startup ecosystem, with major rounds spanning edtech, defense, and entertainment. Lithuania and Hungary are represented by two companies each, while Romania, Bulgaria, Slovakia, Poland, Croatia, and Czechia also appear in the ranking.
+ At the same time, many of the region’s most successful scaleups are following a familiar path: keeping their founding, engineering, R&D, or production roots in CEE while relocating commercial headquarters closer to global customers and growth capital. Mews, Preply, Fonoa, Uforce, Cyber Swarm, and Alcatraz AI all reflect different versions of this cross-border model.
+ Investor participation is similarly diverse, spanning publicly backed institutions, regional VCs, and major global funds. Repeat investors include EBRD, SmartCap, Taiwania Capital, Horizon Capital, and Accel, alongside global players such as EQT Growth, Warburg Pincus, WestCap, Headline, Lakestar, and Plural.
+ Below, we take a closer look at the largest funding rounds announced across Central and Eastern Europe through July 2026 and the trends shaping where investors are placing their bets.
+ The 15 largest funding rounds in CEE in 2026 (so far)
+ Mews, $300M in Series D 
+ Announced: January 2026
+ CEE connection: Czech-founded, headquartered in Amsterdam 
+ Funding source : Tiger Global Management, Kinnevik, HarbourVest Partners, EQT Growth, Battery Ventures, Atomica
+ Total funding received:  $817.3M
+ Mews is a cloud-based hospitality platform that streamlines operations for hotels, hostels, and serviced apartments worldwide. The company will use the recent funding to accelerate investment in AI and agent-driven automation across its platform, expand Mews Payments and fintech infrastructure, and support continued international growth across North America, Europe, and new markets.
+ Preply, $150M in Series D 
+ Announced:  January 2026
+ CEE connection: Ukrainian-founded, headquartered in the US
+ Funding source : WestCap, Indico Capital Partners, Hoxton Ventures, Horizon Capital, EBRD, Educapital
+ Total funding received:  $320.1M
+ Preply runs a global marketplace connecting learners with independent tutors for one-to-one online lessons across 90+ languages, with over 100,000 tutors serving users in 180 countries. Founded in 2012, the company's Series D valued it at $1.2 billion, giving it unicorn status. The funding will support AI tools for lesson planning and homework, better learner–tutor matching, and scaling its personalized, human-led tutoring model.
+ Oxylabs, $130M in Series A 
+ Announced : July 2026
+ CEE connection: HQ in Vilnius, Lithuania
+ Funding source: Warburg Pincus
+ Total funding received: $130M
+ Oxylabs provides web intelligence infrastructure that enables companies and AI systems to access real-time public web data. The newly raised capital will support the company's global expansion, strengthen its data collection network, and accelerate the development of products for AI agents, including its web index and headless browser.
+ Fonoa Technologies, $110M in Series C
+ Announced: May 2026
+ CEE connection: Croatian-founded, headquartered in Dublin, Ireland
+ Funding source: Headline, Eurazeo, Forestay Capital, Index Ventures, OMERS, Coatue, Dawn Capital
+ Total funding received : ~$185M
+ Fonoa provides an AI-powered tax operating system for global digital businesses, automating tax determination, ID validation, e-invoicing, and reporting across more than 190 jurisdictions. Alongside the raise, the company acquired PwC's Indirect Tax Edge platform, extending its coverage of the full indirect tax lifecycle. The funding will support integration of the acquired platform and continued expansion of Fonoa's AI infrastructure.
+ Viktor, $75M in Series A 
+ Announced: May 2026
+ CEE connection : Warsaw, Poland and Munich, Germany dual-headquartered
+ Funding source: Accel, Tenacity Capital, Oxford Seed Fund, Leonis Capital, Kaya VC, Inovo.vc, Bek Ventures, and angels including Harry Stebbings, Mati Staniszewski, Nico Rosberg
+ Total funding received: $75M
+ Viktor develops an AI coworker that operates inside Slack and Microsoft Teams and integrates with more than 3,000 workplace tools. The fresh capital will enable the company to scale its AI employee platform, expand product capabilities, and accelerate adoption across more teams and businesses globally.
+ Uforce, $50M in a seed round 
+ Announced:  March 2026
+ CEE connection : Ukrainian-founded, headquartered in London, UK
+ Funding source: Lakestar, Shield Capital, Ballistic Ventures, Iron Wolf Capital
+ Total funding received: $50M
+ Uforce develops unmanned systems for air, land, and sea operations that have been deployed extensively by Ukraine's armed forces. The firm plans to use the fresh capital to expand manufacturing into multiple allied countries and increase output of its combat-proven defence systems, including counter-drone technology, autonomous vehicles, and battlefield management software. The round values the company at over $1 billion, making it the first Ukrainian-founded defence tech unicorn.
+ Cyber Swarm, $50M in Series A
+ Announced: May 2026
+ CEE connection: Romanian-founded, headquartered in San Mateo, US
+ Funding source: Falanga Invest
+ Total funding received: ~$51M
+ Cyber Swarm develops neuromorphic hardware based on a memristor architecture that stores and processes information the way biological neurons do — chips the company describes as a "brain on a chip." The company holds over 30 patents and has spent roughly a decade developing the technology at its Ploiești and Bucharest engineering hubs. The Series A values the company at $250 million and will accelerate development of the architecture, expand engineering teams, strengthen industry partnerships, and support initial commercial deployments. 
+ Alcatraz AI, $50M in Series B
+ Announced: April 2026
+ CEE connection : Bulgarian-founded, headquartered in Cupertino, California, with production facilities in Sofia, Bulgaria
+ Funding source : European Bank for Reconstruction and Development, Ray Stata, Taiwania Capital, Cogito Capital Partners
+ Total funding received : over $100M
+ Alcatraz AI develops the Rock, an anonymized facial-biometric access control system that replaces badges and legacy biometric readers at office and facility entrances. The Series B will support the company's expansion into new verticals, including data centers and airports, and international markets.
+ Skeleton Technologies, €33M (first close of a pre-IPO round) 
+ Announced: May 2026
+ CEE connection: Estonian-founded, dual-based in Estonia and Germany
+ Funding source: Taiwania Capital Management Corporation, Axon Partners Group, SmartCap, and CBMM
+ Total funding received: €392M
+ Skeleton Technologies develops high-power energy storage systems based on supercapacitors and its proprietary Curved Graphene technology. The funding round will allow the company to scale its high-power energy storage solutions for AI data centers, expand manufacturing capacity in Europe and the United States, and prepare for a planned US IPO in 2027.
+ Frankenburg Technologies, €30M in Series A
+ Announced: February 2026
+ CEE connection:  HQ in   Tallinn, Estonia
+ Funding source : Plural, SmartCap
+ Total funding received : €40M
+ Frankenburg Technologies is a Tallinn-based defence tech startup building cost-efficient missile and air-defence systems tailored to Europe's evolving security needs. Founded in 2024, the company plans to use the fresh capital to scale manufacturing, expand its engineering team, and accelerate deployment of its interceptor technology across the region.
+ GA Drilling, $24.7M in late VC capital; $44.1M, if converted SAFE included
+ Announced : March 2026
+ CEE connection : HQ in Bratislava, Slovakia
+ Funding source: TomEnterprise (lead), Underground Ventures, Nabors Industries
+ Total funding received: ~$106M
+ GA Drilling develops non-contact plasma drilling technology for ultra-deep geothermal wells, aiming to unlock geothermal energy access anywhere in the world. The round comprises $24.7 million in new capital plus $19.4 million converted from a prior SAFE investment, and will move the company from advanced development into commercial validation of its drilling technology.
+ Turbine, $25M in Series B
+ Announced : February 2026
+ CEE connection : HQ in Budapest, Hungary
+ Funding source : Interactive Venture Partners (lead), Beiersdorf Venture Capital, Merck Global Health Innovation Fund, Mercia Ventures, Accel
+ Total funding received: $61.7M
+ Turbine is a Budapest-based biotech company developing AI-driven simulation technology to model how cancer cells respond to drugs. The Series B funding will support the expansion of its predictive platform beyond oncology into immunology, deepen pharmaceutical partnerships, and accelerate the development of data-driven therapies.
+ Ominimo, $22.5M in Series B at $1.6B valuation 
+ Announced: July 2026
+ CEE connection:  HQ in Budapest, Hungary
+ Funding source : the European Bank for Reconstruction and Development (EBRD)
+ Total funding received : $33.8M
+ Ominimo develops AI-powered digital insurance solutions focused on motor insurance. The newly raised capital will support the company’s next phase of growth, including expanding into additional European markets, preparing for its planned US launch in 2027, developing new insurance products, and investing further in artificial intelligence and technology.
+ HOLYWATER, $22M in Series A 
+ Announced:  January 2026
+ CEE connection : HQ in Kyiv, Ukraine
+ Funding source : Horizon Capital, Endeavor Catalyst, Wheelhouse
+ Total funding received : $22M 
+ HOLYWATER is a technology-driven entertainment company that builds tools and platforms for creators, allowing them to produce, distribute, and monetize short-form series, e-books, and interactive AI-powered content. The firm will use the fresh funding to expand its content production and IP incubation engine and develop new genres and formats, including AI-enabled comics and anime.
+ Saltz, €20M in Series A 
+ Announced: March 2026
+ CEE connection: HQ in Vilnius, Lithuania
+ Funding source:  European Bank for Reconstruction and Development, Inovo, Lifeline Ventures, Change Ventures, and business angels
+ Total funding received: €23M
+ Saltz is a digital marketplace linking professional kitchens with verified food suppliers. It unifies catalogues, ordering, payments, and logistics in one interface, enabling chefs to source fresh products from farms and regional producers across five European countries, as it expands globally.
+ Methodology
+ This ranking covers publicly disclosed rounds announced between 1 January and 31 July 2026. It includes the 15 largest transactions identified by Vestbee, with a lower threshold of approximately €20 million or the equivalent in another currency.
+ Companies are included based on a material CEE connection, such as being founded or headquartered in the region or maintaining significant engineering, R&D, or production operations there. Each company’s connection to CEE is stated separately to make cross-border cases transparent.
+ Rounds are ordered by their approximate euro value at the time of announcement. Because companies disclosed deals in different currencies and on different dates, euro equivalents and aggregate totals are approximate. For GA Drilling, the ranking uses the $24.7 million in new capital; the converted SAFE is disclosed separately.
+ This article will be updated as additional large CEE funding rounds are announced in 2026.
+ Rankings #Funding #Venture capital #CEE August 19, 2026 
+ Latest news
+ Oct 09 UK neurotech chip developer MintNeuro raises $5M. Czech JSK Investments joined the round Oct 09 OllyGarden lands $4M to improve telemetry quality for AI agents and engineers Oct 08 Golbriak Space raises €4M to scale laser communications for satellite constellations Oct 08 Verso raises $6M to scale AI-powered consumer intelligence platform Oct 08 PSV Tech secures €56M Fund II to back early-stage Nordic startups Explore more 
+ Editor's pick
+ Top CEE funding rounds closed in September 2026 Europe’s defence and dual-use investors The US loves longevity. Can Europe turn it into venture category How many of Europe's unicorns are still worth $1B? How CEE venture funding is changing in 2026 
+ Newsletter 
+ Subscribe 
+ I agree my personal data will be stored and processed for online communication read more read more 
+ Related posts
+ Explore more 
+ 100 must-watch European startups featured by Vestbee
+ In 2025, Vestbee featured 10 promising companies each month, many of which closed funding rounds. Here are 100 must-watch European startups from the series, all showing great potential. 
+ 100 must-watch European startups featured by Vestbee in 2024
+ In 2024, Vestbee featured 10 promising companies each month, many of which closed funding rounds. Here are 100 must-watch European startups from the series, all showing great potential. 
+ Top women from VC and startup ecosystem in Iceland
+ Check out the overview of active and inspiring female market players from Iceland contributing to the global VC & startup ecosystem development!
+ Latest news
+ Explore more 
+ UK neurotech chip developer MintNeuro raises $5M. Czech JSK Investments joined the round 
+ The $5 million round was led by Odyssey Ventures, with participation from JSK Investments, 33East, and Alumni Ventures.
+ OllyGarden lands $4M to improve telemetry quality for AI agents and engineers
+ The round was backed by Next Frontier Capital, Grand Ventures, and ACTAI Ventures.
+ Golbriak Space raises €4M to scale laser communications for satellite constellations
+ The round was co-led by Join Capital and PhotonVentures, with participation from Takeoff.
+ Subscribe to our newsletter
+ Subscribe 
+ I agree my personal data will be stored and processed for online communication read more 
+ Join Vestbee
+ Join the leading matchmaking platform for startups, VC funds, angels, accelerators and corporates
+ Join Now 
+ Platform Startups VC Funds Accelerators Service Providers Angels Community CEE VC Summit 
+ Resources Insights VC List LP List Events List CEE SaaS Index Perfect Pitch E-book 
+ Company Careers Terms Of Service Privacy Policy Cookies Policy 
+ Subscribe newsletter 
+ I agree my personal data will be stored and processed for online communication. Read more 
+ Follow us Linkedin 
+ office@vestbee.com media@vestbee.com 
+ © 2026 Vestbee. All rights reserved. 
+ The material presented via this website is for informational purposes only. Nothing in this website constitutes a solicitation for the purchase or sale of any financial product or service. Material presented on this website does not constitute a public offering of securities or investment management services in any jurisdiction. Investing in startup and early stage companies involves risks, including loss of capital, illiquidity, lack of dividends and dilution, and it should be done only as part of a diversified portfolio. The Investments presented in this website are suitable only for investors who are sufficiently sophisticated to understand these risks and make their own investment decisions. 
+ 

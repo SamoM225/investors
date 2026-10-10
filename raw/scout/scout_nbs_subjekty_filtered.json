@@ -1,0 +1,1990 @@
+{
+ "updated": "2026-10-08",
+ "source": "https://subjekty.nbs.sk/api/json",
+ "filter": [
+  "alternatívny investičný fond",
+  "registrovaný alternatívny investičný fond",
+  "registrovaný samosprávny alternatívny investičný fond",
+  "registrovaný správca alternatívnych investičných fondov",
+  "správcovská spoločnosť"
+ ],
+ "institutions": [
+  {
+   "id": "31621317",
+   "name": "365.invest, správ. spol., a. s.",
+   "address": "Dvořákovo nábrežie 4, 81102 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [],
+     "valid_from": "2000-04-17"
+    },
+    {
+     "scope": "navrhovateľ viazaných finančných agentov",
+     "licenses": [
+      {
+       "scope": "sektor kapitálového trhu"
+      }
+     ]
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "56333714",
+   "name": "Across Asset Management, správ. spol., a. s.",
+   "address": "Zochova 3, 81103 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [],
+     "valid_from": "2025-07-08"
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "35786272",
+   "name": "Eurizon Asset Management Slovakia, správ. spol., a.s.",
+   "address": "Mlynské Nivy 1, 82004 Bratislava 24",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [],
+     "valid_from": "2000-04-17"
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "50549065",
+   "name": "HB Reavis Investment Management správ. spol., a.s.",
+   "address": "Mlynské Nivy 5, 821 09 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [
+      {
+       "scope": "voľné cezhraničné pôsobenie",
+       "valid_from": "2017-05-26",
+       "country": "HU"
+      }
+     ],
+     "valid_from": "2016-10-06"
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "17330254",
+   "name": "IAD Investments, správ. spol., a.s.",
+   "address": "Malý trh 2/A, 81108 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [
+      {
+       "scope": "voľné cezhraničné pôsobenie",
+       "valid_from": "2009-08-31",
+       "country": "CZ"
+      }
+     ],
+     "valid_from": "2001-02-14"
+    },
+    {
+     "scope": "navrhovateľ viazaných finančných agentov",
+     "licenses": [
+      {
+       "scope": "sektor kapitálového trhu"
+      }
+     ]
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "53859111",
+   "name": "J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s.",
+   "address": "Dvořákovo nábrežie 8, 81102 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [],
+     "valid_from": "2021-06-09"
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "53068351",
+   "name": "PARTNERS ASSET MANAGEMENT, správ. spol., a.s.",
+   "address": "Einsteinova 24, 851 01 Bratislava - mestská časť Petržalka",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [],
+     "valid_from": "2020-09-14"
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "47255277",
+   "name": "Sandberg Capital, správ. spol., a.s.",
+   "address": "Dvořákovo nábrežie 8, 81102 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [],
+     "valid_from": "2014-07-29"
+    },
+    {
+     "scope": "ponuka zahraničných subjektov kolektívneho investovania",
+     "licenses": []
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "51865513",
+   "name": "Slovak Capital Management, a. s.",
+   "address": "Grosslingova 44, 81109 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2025-01-20"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "35742968",
+   "name": "Tatra Asset Management, správ. spol., a.s.",
+   "address": "Hodžovo námestie 3, 81106 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [],
+     "valid_from": "2000-04-25"
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "56682999",
+   "name": "VOSEM Capital, správ. spol., a. s.",
+   "address": "Hlavné námestie 5, 81101 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "správcovská spoločnosť",
+     "licenses": [],
+     "valid_from": "2024-12-12"
+    }
+   ],
+   "matched_scopes": [
+    "správcovská spoločnosť"
+   ]
+  },
+  {
+   "id": "50794973",
+   "name": "ADVENTUM s.r.o.",
+   "address": "Dunajská 15A, 81108 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2020-05-18"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "55212336",
+   "name": "AETNA INVESTMENTS MANAGEMENT s. r. o., správca podlimitných rizikových fondov",
+   "address": "Plynárenská 7/B, 821 09 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2026-08-26"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "53456149",
+   "name": "AIMC, s.r.o.",
+   "address": "Zochova 3, 81103 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2020-11-30"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "56921560",
+   "name": "Alpha Capital VP s. r. o.",
+   "address": "Prievozská 6A, 82109 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2025-11-10"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "50301683",
+   "name": "AP Capital s.r.o.",
+   "address": "Cintorínska 22, 81108 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2023-04-18"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "54486343",
+   "name": "CB ESPRI s. r. o.",
+   "address": "Staromestská 3, 81103 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2022-05-05"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "52524531",
+   "name": "CB Investment Management s. r. o.",
+   "address": "Staromestská 3, 81103 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2019-08-20"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "50491211",
+   "name": "CEE Capital Management, a. s.",
+   "address": "Holubyho 1, 81103 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2019-03-13"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "50532481",
+   "name": "EQT Ventures s.r.o.",
+   "address": "Hviezdoslavovo námestie 15, 811 01 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2017-11-21"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "55317049",
+   "name": "Ethernum Consulting s. r. o.",
+   "address": "Nám. M.R. Štefánika 2156/21, 95501 Topoľčany",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2023-09-11"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "53527798",
+   "name": "G-Force, s.r.o.",
+   "address": "Pekárska 14, 91701 Trnava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [
+      {
+       "scope": "správca Európskych fondov rizikového kapitálu (EuVECA)",
+       "valid_from": "2021-08-16"
+      },
+      {
+       "scope": "správca Európskych fondov rizikového kapitálu (EuVECA)",
+       "valid_from": "2021-08-16"
+      }
+     ],
+     "valid_from": "2021-08-16"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "53602650",
+   "name": "Hilberman Capital, s.r.o.",
+   "address": "Pribinova 30, 82109 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2025-01-28"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "44663706",
+   "name": "Icon group, s.r.o.",
+   "address": "Halašova 2649/17, Žilina 010 01",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2019-11-11"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "52204634",
+   "name": "IPM Avanea Eco Management a.s.",
+   "address": "Mostová 2, 81102 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2019-03-05"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "56102411",
+   "name": "ISCAM, a. s.",
+   "address": "Mostová 2, 81102 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2024-04-04"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "47777028",
+   "name": "Limerock Investment Holding, s.r.o.",
+   "address": "Planét 5, 82102 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2025-07-25"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "51833263",
+   "name": "Miracle Trade s.r.o.",
+   "address": "Tománkova 2A, 84104 Bratislava - mestská časť Karlova Ves",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2019-04-02"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "54067189",
+   "name": "MPK Capital Management a.s.",
+   "address": "Polomská 524, 049 21 Betliar",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2022-03-16"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "55387845",
+   "name": "Occam Investments s. r. o.",
+   "address": "Digital Park I, Einsteinova 21, 85101 Bratislava - mestská časť Petržalka",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [
+      {
+       "scope": "správca Európskych fondov rizikového kapitálu (EuVECA)",
+       "valid_from": "2024-06-20"
+      }
+     ],
+     "valid_from": "2024-06-20"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "54138817",
+   "name": "PC19 Management s.r.o.",
+   "address": "Na Grunte 7/A, 83152 Bratislava - mestská čast Nové Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2021-11-24"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "57568472",
+   "name": "SNP Energy Administrator, správca podlimitných rizikových fondov s. r. o.",
+   "address": "Prievozská 6A, 82109 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2026-09-24"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "54184339",
+   "name": "Sociálni Inovátori Impact Capital, s.r.o.",
+   "address": "Zrínskeho 1205/9, 81103 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2022-06-06"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "55778674",
+   "name": "STONEBRIDGE ALPHA MANAGEMENT s. r. o.",
+   "address": "Hlavné námestie 5, 811 01 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2024-03-26"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "52568288",
+   "name": "Vision Ventures, s.r.o.",
+   "address": "Bottova 2/A, 81109 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2019-11-11"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "51453240",
+   "name": "Wasteland Investment Management s. r. o.",
+   "address": "Tallerova 10, 811 02 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2019-02-15"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "46588540",
+   "name": "WEM Wealth Advisory s.r.o.",
+   "address": "Bottova 2A, 81109 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2023-06-12"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": "52651894",
+   "name": "Zero Gravity Capital s.r.o.",
+   "address": "Staromestská 7830/3, Bratislava - mestská časť Staré Mesto 811 03",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2020-02-13"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný správca alternatívnych investičných fondov"
+   ]
+  },
+  {
+   "id": null,
+   "name": "365.invest Capital FKI o. p. f. - 365.invest, správ. spol., a. s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2021-05-27",
+     "parent_entity_id": "31621317",
+     "parent_entity_name": "365.invest, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "365.invest Equity FKI o. p. f. - 365.invest, správ. spol., a. s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2021-06-15",
+     "parent_entity_id": "31621317",
+     "parent_entity_name": "365.invest, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Erste Asset Management GmbH, ERSTE Realitná Renta, o.p.f.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-09-17",
+     "parent_entity_name": "Erste Asset Management GmbH"
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Erste Asset Management GmbH, Fond reálnych aktív, o.p.f.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-01-30",
+     "parent_entity_name": "Erste Asset Management GmbH"
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Erste Asset Management GmbH, Privátny P11, o.p.f.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2012-06-07",
+     "parent_entity_name": "Erste Asset Management GmbH"
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Erste Asset Management GmbH, Svetové akcie, o.p.f.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2012-02-23",
+     "parent_entity_name": "Erste Asset Management GmbH"
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Fond nájomného bývania FKI o. p. f. – 365.invest, správ. spol., a. s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "parent_entity_id": "31621317",
+     "parent_entity_name": "365.invest, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "IAD Energy Fund, o.p.f., IAD Investments, správ. spol., a.s.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2013-06-27",
+     "parent_entity_id": "17330254",
+     "parent_entity_name": "IAD Investments, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "J&T BOND EUR zmiešaný o.p.f. - J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2013-09-18",
+     "parent_entity_id": "53859111",
+     "parent_entity_name": "J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "J&T GLOBAL EUR akciový o.p.f. - J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-04-15",
+     "parent_entity_id": "53859111",
+     "parent_entity_name": "J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "J&T HARMONY EUR zmiešaný o.p.f. - J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "parent_entity_id": "53859111",
+     "parent_entity_name": "J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "J&T INDEX EUR akciový o.p.f. - J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-09-05",
+     "parent_entity_id": "53859111",
+     "parent_entity_name": "J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "J&T PROFIT EUR zmiešaný o.p.f. - J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2018-09-13",
+     "parent_entity_id": "53859111",
+     "parent_entity_name": "J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "J&T SELECT zmiešaný o.p.f. - J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2015-02-27",
+     "parent_entity_id": "53859111",
+     "parent_entity_name": "J&T INVESTIČNÁ SPOLOČNOSŤ, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Konzervatívny flexibilný o. p. f. – 365.invest, správ. spol., a. s.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2014-01-22",
+     "parent_entity_id": "31621317",
+     "parent_entity_name": "365.invest, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Korunový realitný fond, o.p.f., IAD Investments, správ. spol., a.s.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2017-01-17",
+     "parent_entity_id": "17330254",
+     "parent_entity_name": "IAD Investments, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "PARTNERS Fond krátkodobých investícií, o.p.f., PARTNERS ASSET MANAGEMENT, správ. spol., a.s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-09-26",
+     "parent_entity_id": "53068351",
+     "parent_entity_name": "PARTNERS ASSET MANAGEMENT, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "",
+   "name": "PARTNERS Fond realitných investícií, o.p.f., PARTNERS ASSET MANAGEMENT, správ. spol., a.s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2021-10-18",
+     "parent_entity_id": "53068351",
+     "parent_entity_name": "PARTNERS ASSET MANAGEMENT, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Privátny investičný fond 3, u.p.f., IAD Investments, správ. spol., a.s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2024-11-15",
+     "parent_entity_id": "17330254",
+     "parent_entity_name": "IAD Investments, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Prvý realitný fond, o.p.f., IAD Investments, správ. spol., a.s.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2006-11-20",
+     "parent_entity_id": "17330254",
+     "parent_entity_name": "IAD Investments, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Realitný o. p. f. - 365.invest, správ. spol., a. s.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2007-04-16",
+     "parent_entity_id": "31621317",
+     "parent_entity_name": "365.invest, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Smart Bond Fund, o.p.f., Across Asset Management, správ. spol., a.s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-09-17",
+     "parent_entity_id": "56333714",
+     "parent_entity_name": "Across Asset Management, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Smart Wallet Fund, o.p.f., Across Asset Management, správ. spol., a.s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-03-18",
+     "parent_entity_id": "56333714",
+     "parent_entity_name": "Across Asset Management, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Tatra Asset Management, správ. spol., a.s., AP Realitný fond u.p.f.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2021-12-15",
+     "parent_entity_id": "35742968",
+     "parent_entity_name": "Tatra Asset Management, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Tatra Asset Management, správ. spol., a.s., Fond nájomného bývania o.p.f.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-04-09",
+     "parent_entity_id": "35742968",
+     "parent_entity_name": "Tatra Asset Management, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Tatra Asset Management, správ. spol., a.s., Private Short-Term o.p.f.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "parent_entity_id": "35742968",
+     "parent_entity_name": "Tatra Asset Management, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Tatra Asset Management, správ. spol., a.s., Realitný Fond o.p.f.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2007-04-02",
+     "parent_entity_id": "35742968",
+     "parent_entity_name": "Tatra Asset Management, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Tatra Asset Management, správ. spol., a.s., RealitnýFond II. o.p.f.",
+   "address": "",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2021-02-19",
+     "parent_entity_id": "35742968",
+     "parent_entity_name": "Tatra Asset Management, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Tatra Asset Management, správ. spol., a.s., zaistený fond 2026 o.p.f.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-03-20",
+     "parent_entity_id": "35742968",
+     "parent_entity_name": "Tatra Asset Management, správ. spol., a.s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52380483",
+   "name": "Venture to Future Fund, a.s.",
+   "address": "Grösslingova 44, 81109 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2025-01-20",
+     "parent_entity_id": "51865513",
+     "parent_entity_name": "Slovak Capital Management, a. s."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "VOSEM Fond alternatívnych investícií, o. p. f., VOSEM Capital, správ. spol., a. s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-01-30",
+     "parent_entity_id": "56682999",
+     "parent_entity_name": "VOSEM Capital, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "VOSEM Fond nájomného bývania, o. p. f., VOSEM Capital, správ. spol., a. s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-05-05",
+     "parent_entity_id": "56682999",
+     "parent_entity_name": "VOSEM Capital, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": null,
+   "name": "VOSEM Fond realitných investícií, o. p. f., VOSEM Capital, správ. spol., a. s.",
+   "address": null,
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-05-05",
+     "parent_entity_id": "56682999",
+     "parent_entity_name": "VOSEM Capital, správ. spol., a. s."
+    }
+   ],
+   "matched_scopes": [
+    "alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "54961467",
+   "name": "Acquisition Corp XXII j.s.a.",
+   "address": "Polomská 524, 04921 Betliar",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2022-11-07",
+     "parent_entity_id": "54067189",
+     "parent_entity_name": "MPK Capital Management a.s."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "53566009",
+   "name": "Across Heritage Fund, investičný fond s premenlivým základným imaním a. s.",
+   "address": "Zochova 3, 81103 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2020-11-30",
+     "parent_entity_id": "53456149",
+     "parent_entity_name": "AIMC, s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52248593",
+   "name": "AETNA INVESTMENTS a. s.",
+   "address": "Plynárenská 7/B, 82109 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-08-26",
+     "parent_entity_id": "55212336",
+     "parent_entity_name": "AETNA INVESTMENTS MANAGEMENT s. r. o., správca podlimitných rizikových fondov"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "55330339",
+   "name": "Alpha Fund Conservative j.s.a.",
+   "address": "Polomská 524, 04921 Betliar",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-04-03",
+     "parent_entity_id": "54067189",
+     "parent_entity_name": "MPK Capital Management a.s."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "55174078",
+   "name": "Alpha Fund Dynamic j.s.a.",
+   "address": "Polomská 524, 04921 Betliar",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-02-07",
+     "parent_entity_id": "54067189",
+     "parent_entity_name": "MPK Capital Management a.s."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "54420954",
+   "name": "Alpha Fund j.s.a.",
+   "address": "Polomská 524, 049 21 Betliar",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2022-03-16",
+     "parent_entity_id": "54067189",
+     "parent_entity_name": "MPK Capital Management a.s."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "57269807",
+   "name": "Alpha SICAV, investičný fond s premenlivým základným imaním, a. s.",
+   "address": "Prievozská 5434/6A, 82109 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2025-11-10",
+     "parent_entity_id": "56921560",
+     "parent_entity_name": "Alpha Capital VP s. r. o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "54901847",
+   "name": "AP Fund j.s.a.",
+   "address": "Doležalova 15C, 82104 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-04-18",
+     "parent_entity_id": "50301683",
+     "parent_entity_name": "AP Capital s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "53097131",
+   "name": "AVEBRENTA investičný fond s premenlivým základným imaním a.s.",
+   "address": "Dunajská 15A, 81108 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2020-05-13",
+     "parent_entity_id": "50794973",
+     "parent_entity_name": "ADVENTUM s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "54546702",
+   "name": "CB ESPRI Impact One s. r. o.",
+   "address": "Staromestská 3, 81103 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2022-05-05",
+     "parent_entity_id": "54486343",
+     "parent_entity_name": "CB ESPRI s. r. o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52656136",
+   "name": "CB Growth ONE s. r. o.",
+   "address": "Staromestská 3, 81103 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-08-20",
+     "parent_entity_id": "52524531",
+     "parent_entity_name": "CB Investment Management s. r. o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "55356907",
+   "name": "Ethernum Capital s. r. o.",
+   "address": "Mlynské Nivy 18890/5, 82109 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-09-11",
+     "parent_entity_id": "55317049",
+     "parent_entity_name": "Ethernum Consulting s. r. o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52196151",
+   "name": "Fond WTEP, s. r. o.",
+   "address": "Dunajská 15/A, 81108 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-03-13",
+     "parent_entity_id": "50491211",
+     "parent_entity_name": "CEE Capital Management, a. s."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "53588398",
+   "name": "G-Force Fund, j.s.a.",
+   "address": "Pekárenska 14, 917 01 Trnava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2021-08-16",
+     "parent_entity_id": "53527798",
+     "parent_entity_name": "G-Force, s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52647668",
+   "name": "Global Opportunities Fund a.s. investičný fond s premenlivým základným imaním",
+   "address": "Halašova 2649/17, 01001 Žilina",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-11-11",
+     "parent_entity_id": "44663706",
+     "parent_entity_name": "Icon group, s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "56342900",
+   "name": "Hilberman Capital SPV1, s. r. o.",
+   "address": "Pribinova 17130/30, 82109 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2025-01-28",
+     "parent_entity_id": "53602650",
+     "parent_entity_name": "Hilberman Capital, s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52261948",
+   "name": "IPM Avanea Eco s.r.o.",
+   "address": "Mostová 2, 81102 Bratislava- Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-03-05",
+     "parent_entity_id": "52204634",
+     "parent_entity_name": "IPM Avanea Eco Management a.s."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "50003607",
+   "name": "ISC Public Markets Fund I., s.r.o.",
+   "address": "Mostová 2, 81102 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2024-04-04",
+     "parent_entity_id": "56102411",
+     "parent_entity_name": "ISCAM, a. s."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "47254734",
+   "name": "JEREMIE Co-Investment Fund, s.r.o. v likvidácii",
+   "address": "Paulínyho 8, 81102 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2014-07-08",
+     "parent_entity_id": "47777028",
+     "parent_entity_name": "Limerock Investment Holding, s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "56480831",
+   "name": "Occam Fund III. j.s.a.",
+   "address": "Digital Park I, Einsteinova 21, 85101 Bratislava - mestská časť Petržalka",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2024-10-29",
+     "parent_entity_id": "55387845",
+     "parent_entity_name": "Occam Investments s. r. o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "54235146",
+   "name": "PC19 Capital,investičný fond s premenlivým základným imaním a.s.",
+   "address": "Na Grunte 7/A, 831 52 Bratislava - mestská časť Nové Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2021-11-24",
+     "parent_entity_id": "54138817",
+     "parent_entity_name": "PC19 Management s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "54544378",
+   "name": "SIIC Fund, s.r.o.",
+   "address": "Zrínskeho 1205/9, 81103 Bratislava - mestská časť Staré mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2022-06-06",
+     "parent_entity_id": "54184339",
+     "parent_entity_name": "Sociálni Inovátori Impact Capital, s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "55935991",
+   "name": "Slovenský agrárny fond, j.s.a.",
+   "address": "Doležalova 15C, 82104 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2024-01-09",
+     "parent_entity_id": "50301683",
+     "parent_entity_name": "AP Capital s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52163920",
+   "name": "Slovenský Energetický a Odpadový Fond s.r.o. (skrátený názov SEOF s.r.o.)",
+   "address": "Janotova 14, 841 Bratislava - mestská časť Karlova Ves",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-02-15",
+     "parent_entity_id": "51453240",
+     "parent_entity_name": "Wasteland Investment Management s. r. o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "57803137",
+   "name": "SNP Energy SICAV, investičný fond s premenlivým základným imaním, a. s.",
+   "address": "Prievozská 6A, 82109 Bratislava - mestská časť Ružinov",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-09-24",
+     "parent_entity_id": "57568472",
+     "parent_entity_name": "SNP Energy Administrator, správca podlimitných rizikových fondov s. r. o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "55173896",
+   "name": "Special Investments Corp I j.s.a.",
+   "address": "Polomská 524, 04921 Betliar",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-02-07",
+     "parent_entity_id": "54067189",
+     "parent_entity_name": "MPK Capital Management a.s."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "55998011",
+   "name": "STONEBRIDGE CAPITAL HEDGE FUND, investičný fond s premenlivým základným imaním a. s.",
+   "address": "Hlavné námestie 5, 81101 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2024-03-26",
+     "parent_entity_id": "55778674",
+     "parent_entity_name": "STONEBRIDGE ALPHA MANAGEMENT s. r. o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52265200",
+   "name": "ToroFin a.s., investičný fond s premenlivým základným imaním",
+   "address": "Kadnárova 89, 83106 Bratislava - mestská časť Rača",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-04-02",
+     "parent_entity_id": "51833263",
+     "parent_entity_name": "Miracle Trade s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52656438",
+   "name": "Vision Ventures Growth I, s. r. o.",
+   "address": "Bottova 2A, 81109 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-11-11",
+     "parent_entity_id": "52568288",
+     "parent_entity_name": "Vision Ventures, s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "55505554",
+   "name": "WEM Private Fund, investičný fond s premenlivým základným imaním, a. s.",
+   "address": "Bottova 2A, 81109 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-06-12",
+     "parent_entity_id": "46588540",
+     "parent_entity_name": "WEM Wealth Advisory s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "51145979",
+   "name": "ZEPHYR AIF a.s.",
+   "address": "Hviezdoslavovo námestie 15, 81101 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2017-11-21",
+     "parent_entity_id": "50532481",
+     "parent_entity_name": "EQT Ventures s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52768058",
+   "name": "ZGC Fund I., s.r.o.",
+   "address": "Staromestská 7830/3, 811 03 Staromestská 7830/3 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2020-02-13",
+     "parent_entity_id": "52651894",
+     "parent_entity_name": "Zero Gravity Capital s.r.o."
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "53095731",
+   "name": "BizPartner Investments, j. s. a.",
+   "address": "Dlhé hony 5031/6, 05801 Poprad",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2022-05-30"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "57423237",
+   "name": "BizPartner, investičné družstvo",
+   "address": "Dlhé hony 5031/6, 05801 Poprad",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-04-01"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "54014999",
+   "name": "BRIDGEWOOD HOLDING investičný fond s premenlivým základným imaním a.s.",
+   "address": "Zadunajská 406/27, 851 01 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2021-09-27"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "53642538",
+   "name": "CVEU a.s.",
+   "address": "Palárikova 2845/26A, 02201 Čadca",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2021-05-13"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "46961593",
+   "name": "EWAMCo. ONE, družstvo",
+   "address": "Kremeľská 11A, 84110 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2013-08-05"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "47051981",
+   "name": "Fond inovácií a technológií, a.s.",
+   "address": "Karadžičova 2, 81109 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2023-08-21"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "56249331",
+   "name": "GTI investičný fond s premenlivým základným imaním a.s.",
+   "address": "Hviezdoslavovo námestie 7, 811 02 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2024-07-10"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "52474011",
+   "name": "Investment II a.s. investičný fond s premenlivým základným imaním",
+   "address": "Urbánkova 1540/39, Košice - mestská časť Sever, 040 01",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-07-16"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "47715561",
+   "name": "JPT Investment a.s. Investičný fond s premenlivým základným imaním",
+   "address": "Urbánkova 1540/39, Košice - mestská časť Sever, 040 01",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2014-04-15"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  },
+  {
+   "id": "48161829",
+   "name": "NEXE, samosprávny podlimitný investičný fond, správca podlimitných rizikových fondov, a. s.",
+   "address": "Budatínska 10, 85106 Bratislava - mestská časť Petržalka",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný samosprávny alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2026-10-06"
+    }
+   ],
+   "matched_scopes": [
+    "registrovaný samosprávny alternatívny investičný fond"
+   ]
+  }
+ ]
+}

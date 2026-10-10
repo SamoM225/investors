@@ -1,0 +1,35 @@
+[
+  {
+    "id": "55387845",
+    "name": "Occam Investments s. r. o.",
+    "address": "Digital Park I, Einsteinova 21, 85101 Bratislava - mestská časť Petržalka",
+    "country": "SK",
+    "licenses": [
+      {
+        "scope": "registrovaný správca alternatívnych investičných fondov",
+        "licenses": [
+          {
+            "scope": "správca Európskych fondov rizikového kapitálu (EuVECA)",
+            "valid_from": "2024-06-20"
+          }
+        ],
+        "valid_from": "2024-06-20"
+      }
+    ]
+  },
+  {
+    "id": "56480831",
+    "name": "Occam Fund III. j.s.a.",
+    "address": "Digital Park I, Einsteinova 21, 85101 Bratislava - mestská časť Petržalka",
+    "country": "SK",
+    "licenses": [
+      {
+        "scope": "registrovaný alternatívny investičný fond",
+        "licenses": [],
+        "valid_from": "2024-10-29",
+        "parent_entity_id": "55387845",
+        "parent_entity_name": "Occam Investments s. r. o."
+      }
+    ]
+  }
+]

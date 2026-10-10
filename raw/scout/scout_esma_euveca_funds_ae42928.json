@@ -1,0 +1,41 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"_root_:ae42928",
+      "rows":"100",
+      "wt":"json"}},
+  "response":{"numFound":1,"start":0,"numFoundExact":true,"docs":[
+      {
+        "id":"ae42928",
+        "ae_entityTypeCode":"EVC",
+        "ae_lastUpdate":"2021-10-28T00:00:00Z",
+        "ae_lastUpdateStr":"28/10/2021",
+        "ae_lei":"",
+        "ae_headOfficeLei":"",
+        "ae_entityName":"G-Force, s. r. o.",
+        "collectorParent":["G-Force, s. r. o."],
+        "ae_officeType":"Head office",
+        "ae_competentAuthority":"National Bank of Slovakia (NBS)",
+        "ae_homeMemberState":"SLOVAKIA",
+        "ae_hostMemberState":"",
+        "ae_headOfficeAddress":"Pekárska 14, 91701 Trnava, Slovakia",
+        "ae_branchAddress":"",
+        "ae_comment":"",
+        "ae_status":"Active",
+        "ae_authorisationNotificationDate":"2021-08-16T00:00:00Z",
+        "ae_authorisationNotificationDateStr":"16/08/2021",
+        "ae_authorisationWithdrawalEndDateStr":"",
+        "entity_type":"ae",
+        "type_s":"parent",
+        "ae_entityTypeLabel":"EVC",
+        "_root_":"ae42928",
+        "ae_dbId":42928,
+        "ae_website":"",
+        "ae_commercialName":"",
+        "ae_legalform":"",
+        "timestamp":"2026-04-09T13:40:22.297Z",
+        "no_of_funds":"2",
+        "_version_":1878528518349914112}]
+  }}

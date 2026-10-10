@@ -1,0 +1,421 @@
+{"prilohy":[{"id":10899737,"meno":"Príloha k účtovnej závierke MÚJ.PDF","velkostPrilohy":326856,"pocetStran":0,"jazyk":"SK","mimeType":"application/pdf","digest":"5c358e9f987b45394f89afd6f3cf1613df4672378fb8394fba3c89a7e37f3f18"},{"id":10899738,"meno":"MUJ_2122002146_IR_2023_3991944_5292377.pdf","velkostPrilohy":180033,"pocetStran":5,"jazyk":"SLK","mimeType":"application/pdf","digest":"2b64e9481c61f23963c2a15bdc38c474cfaf921b0142cbe427c5140532a2a70c"}],"id":9131024,"idUctovnejZavierky":5996657,"obsah":{"tabulky":[{"nazov":{"sk":"Strana aktív"},"data":["656874","","","","","","","","","","","","","","","","","","","","","","","","","","656874","","","","","","27217","","27217","","","","","","629657","","629657","","",""]},{"nazov":{"sk":"Strana pasív"},"data":["656874","","-4467","","5000","","5000","","","","","","","","","","","","-9467","","661341","","625018","","","","","","36323","","28963","","5364","","1996","","","","","","","","",""]},{"nazov":{"sk":"Výkaz ziskov a strát"},"data":["22680","","","","22680","","","","","","","","","","31805","","","","","","25678","","6127","","","","","","","","","","","","-9125","","-2998","","","","","","","","","","","","","","","","342","","","","","","","","342","","","","","","-342","","-9467","","","","","","-9467",""]}],"titulnaStrana":{"nazovUctovnejJednotky":"Kultúrna Infraštruktúra s.r.o.","ico":"55485880","dic":"2122002146","adresa":{"ulica":"MÄSIARSKA","cislo":"468/35","psc":"04001","mesto":"KOŠICE - MESTSKÁ ČASŤ STARÉ MESTO"},"skNace":"55200","typZavierky":"Riadna","obdobieOd":"2023-01","obdobieDo":"2023-12","predchadzajuceObdobieOd":"2022-01","predchadzajuceObdobieDo":"2022-12","datumSchvalenia":"2024-06-16","datumZostavenia":"2024-06-16","oznacenieObchodnehoRegistra":"Spoločnosť je zapísaná v registri Mestský súd Košice, registrácia č. Sr"}},"pristupnostDat":"Verejné","idSablony":687,"kodDanovehoUradu":"800","datumPoslednejUpravy":"2024-06-18","zdrojDat":"FRSR"}
+
+--- PDF príloha https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/10899737 ---
+Poznámky Úč MÚJ 3 - 01  IČO: 55485880                         DIČ: 2122002146
+
+A. Poznámky obsahujú tieto informácie o účtovnej jednotke: k 31.12.2023
+
+                        Za obdobie od 31.05.2023-31.12.2023
+
+a) obchodné meno a sídlo účtovnej jednotky, dátum jej založenia a dátum jej vzniku
+
+Obchodné meno           Kultúrna Infraštruktúra s.r.o.
+Sídlo:                  040 01 Košice, Mäsiarska 468/35
+IČO, DIČ:               IČO: 55485880 DIČ: 2122002146
+Dátum založenia:        31.05.2023
+Dátum vzniku:           31.05.2023
+
+   b) opis hospodárskej činnosti účtovnej jednotky
+
+Ubytovacie služby bez poskytovania pohostinských činností
+Vydavateľská činnosť, polygrafická výroba a knihárske práce
+Služby súvisiace s produkciou filmov, videozáznamov a
+zvukových nahrávok
+Mimoškolská vzdelávacia činnosť
+Prevádzkovanie kultúrnych, spoločenských, zábavných,
+športových zariadení a zariadení slúžiacich na regeneráciu a
+rekondíciu
+Organizovanie športových, kultúrnych a iných spoločenských
+podujatí
+Kúpa tovaru na účely jeho predaja konečnému spotrebiteľovi
+(maloobchod) alebo iným prevádzkovateľom živnosti
+(veľkoobchod)
+Poskytovanie služieb osobného charakteru
+
+Poskytovanie služieb rýchleho občerstvenia v spojení s
+predajom na priamu konzumáciu, prevádzkovanie výdajne
+stravy
+Prenájom, úschova a požičiavanie hnuteľných vecí
+Reklamné, marketingové, fotografické a informačné služby,
+prieskum trhu a verejnej mienky
+Výskum a vývoj v oblasti prírodných, technických,
+spoločenských a humanitných vied
+Služby v oblasti administratívnej správy a služby
+organizačno-hospodárskej povahy
+Uskutočňovanie stavieb a ich zmien
+Dokončovacie stavebné práce pri realizácii exteriérov a
+interiérov
+
+Prípravné práce k realizácii stavby
+Čistiace a upratovacie služby
+
+Inžinierske činnosti, technické testovanie a analýzy
+Sprostredkovateľská činnosť v oblasti obchodu, služieb a
+výroby
+
+Nákladná cestná doprava vykonávaná vozidlami s celkovou
+hmotnosťou do 3,5 t vrátane prípojného vozidla
+Skladové, pomocné a prepravné služby v doprave
+
+Verejné obstarávanie
+Počítačové služby a služby súvisiace s počítačovým
+spracovaním údajov
+
+Finančný lízing
+Správa a údržba bytového a nebytového fondu v rozsahu
+voľných živnosti
+
+Činnosť podnikateľských, organizačných a ekonomických
+poradcov
+
+Vedenie účtovníctva
+
+c) priemerný prepočítaný počet zamestnancov účtovnej jednotky počas účtovného
+obdobia, počet zamestnancov účtovnej jednotky ku dňu, ku ktorému sa zostavuje účtovná
+závierka, z toho počet vedúcich zamestnancov, ktorými sa rozumejú vedúci zamestnanci v
+priamej riadiacej pôsobnosti štatutárneho orgánu alebo člena štatutárneho orgánu a vedúci
+zamestnanci, ktorí sú v priamej riadiacej pôsobnosti tohto vedúceho zamestnanca,
+
+Informácie o počte zamestnancov
+
+Názov položky                    Bežné účtovné obdobie          Bezprostredne
+                                                          predchádzajúce účtovné
+Priemerný prepočítaný            38
+                                                                    obdobie
+počet zamestnancov                                                      0
+
+Stav zamestnancov ku dňu         38                                     0
+
+ku ktorému sa zostavuje                                                 0
+
+účtovná závierka z toho:
+
+Počet vedúcich                   0
+
+zamestnancov
+
+B. Ak je účtovná jednotka súčasťou konsolidovaného celku poznámky obsahujú aj
+    tieto informácie:
+
+účtovná jednotka nie je súčasťou konsolidovaného celku
+E. V časti o použitých účtovných zásadách a účtovných metódach sa uvádzajú
+informácie o
+a) splnení predpokladu, že účtovná jednotka bude nepretržite pokračovať vo svojej
+činnosti účtovná závierka bola zostavená za predpokladu nepretržitého trvania účtovnej
+jednotky
+
+b) zmenách účtovných zásad a zmenách účtovných metód, s uvedením dôvodu ich
+uplatnenia a ich vplyvu na hodnotu majetku, záväzkov, vlastného imania a výsledku
+hospodárenia účtovnej jednotky účtovná jednotka nezmenila účtovné zásady a metódy
+počas účtovného obdobia
+
+c) spôsobe oceňovania jednotlivých zložiek majetku a záväzkov v členení na
+1. dlhodobý nehmotný majetok obstaraný kúpou : ocenenie obstarávacou cenou
+2. dlhodobý nehmotný majetok obstaraný vlastnou činnosťou : ocenenie vlastnými
+nákladmi
+3. dlhodobý nehmotný majetok obstaraný iným spôsobom: UJ nemá náplň pre túto
+položku
+4. dlhodobý hmotný majetok obstaraný kúpou: ocenenie obstarávacou cenou
+5. dlhodobý hmotný majetok obstaraný vlastnou činnosťou: ocenenie vlastnými nákladmi
+6. dlhodobý hmotný majetok obstaraný iným spôsobom: UJ nemá náplň pre túto položku
+7. dlhodobý finančný majetok: ocenenie menovitou hodnotou
+8. zásoby obstarané kúpou: ocenenie obstarávacou cenou
+9. zásoby vytvorené vlastnou činnosťou: ocenenie vlastnými nákladmi
+10. zásoby obstarané iným spôsobom: UJ nemá náplň pre túto položku
+11. zákazkovú výrobu a zákazkovú výstavbu nehnuteľnosti určenej na predaj: UJ nemá
+náplň pre túto položku
+12. pohľadávky: ocenenie menovitou hodnotu pri vzniku
+13. krátkodobý finančný majetok: ocenenie menovitou hodnotu pri vzniku
+14. časové rozlíšenie na strane aktív súvahy: ocenenie menovitou hodnotou pri ich vzniku
+15. záväzky, vrátane rezerv, dlhopisov, pôžičiek a úverov: ocenenie menovitou hodnotou
+pri ich vzniku
+16. časové rozlíšenie na strane pasív súvahy: ocenenie menovitou hodnotou pri ich vzniku
+17. deriváty: UJ nemá náplň pre túto položku
+18. majetok a záväzky zabezpečené derivátmi: UJ nemá náplň pre túto položku
+19. prenajatý majetok a majetok obstaraný na základe zmluvy o kúpe prenajatej veci:
+ocenenie menovitou hodnotou pri ich vzniku
+20. majetok obstaraný v privatizácii: UJ nemá náplň pre túto položku
+21. daň z príjmov splatnú za bežné účtovné obdobie a za zdaňovacie obdobie (ďalej len
+„splatná daň z príjmov“) a daň z príjmov odloženú do budúcich účtovných období a
+zdaňovacích období (ďalej len „odložená daň z príjmov“): ocenenie menovitou hodnotou
+pri ich vzniku
+d) tvorbe odpisového plánu pre dlhodobý majetok, pričom sa uvádza doba odpisovania,
+sadzby odpisov a odpisové metódy pre účtovné odpisy
+účtovná jednotka odpisuje majetok účtovne v súlade s daňovými odpismi
+➢ ÚJ nepoužíva kategóriu drobného dlhodobého nehmotného majetku - položky pod 2
+400 eur jednotkovej ceny (§ 13/2 PU).
+➢ ÚJ nepoužíva kategóriu drobného dlhodobého hmotného majetku - položky pod 1 700
+eur jednotkovej ceny (§ 13/6 PU).
+    ➢ ÚJ nepoužíva dobrovoľné účtovanie podlimitného technického zhodnotenia do
+    odpisovaného dlhodobého majetku (§ 21/3 PU).
+    ➢ ÚJ nepoužíva dobrovoľnú kapitalizáciu úrokov do obstarávacej ceny odpisovaného
+    dlhodobého majetku (§ 34/1 PU; § 35/2/h PU).
+
+E. Dotáciách poskytnutých na obstarávanie majetku s uvedením zložky majetku a ich
+ocenenia: UJ nemá náplň pre túto položku
+F.V oprave významných chýb minulých účtovných období účtovanej v bežnom účtovnom
+období s uvedením sumy vplyv na nerozdelený zisk minulých rokov alebo na neuhradenú
+stratu minulých rokov; súčasne môže účtovná jednotka uviesť aj informácie o oprave
+nevýznamných chýb minulých účtovných období účtovanej v bežnom účtovnom období
+s uvedením sumy vplyvu na výsledok hospodárenia bežného účtovného obdobia: v účtovnom
+období nebolo účtované o oprave chýb minulých období
+M. Pri dlhodobom finančnom majetku, na ktorý je zriadené záložné právo a o dlhodobom
+majetku, pri ktorom má účtovná jednotka obmedzené právo s ním nakladať: UJ nemá náplň
+pre túto položku
+
+Z. b) vlastných akciách, a to o
+    1. dôvode nadobudnutia vlastných akcií počas účtovného obdobia,
+    2. počte a menovitej hodnote nadobudnutých vlastných akcií počas účtovného obdobia
+         a o počte a menovitej hodnote prevedených vlastných akcií počas účtovného obdobia,
+         pričom sa uvádza percentuálna hodnota týchto vlastných akcií na upísanom
+         základnom imaní,
+    3. počte a hodnote, za ktorú sa vlastné akcie počas účtovného obdobia nadobudli
+         a o počte a hodnote, za ktorú sa vlastné akcie počas účtovného obdobia previedli na
+         inú osobu,
+    4. počte, menovitej hodnote a hodnote, za ktorú sa vlastné akcie nadobudli a ktoré
+         účtovná jednotka má v držbe k poslednému dňu účtovného obdobia; uvádza sa aj ich
+         percentuálny podiel na upísanom základnom imaní,
+    c) významných položkách časového rozlíšenia nákladov budúcich období
+    d) majetku prenajatom formou finančného prenájmu v poznámkach prenajímateľa, a to
+    1. celková suma dohodnutých platieb ku dňu, ku ktorému sa zostavuje účtovná závierka
+         v členení na istinu u prenajímateľa a finančný výnos,
+    2. suma istiny u prenajímateľa a finančného výnosu podľa doby splatnosti
+    2a. do jedného roka vrátane,
+    2b. od jedného roka do piatich rokov vrátane,
+    2c viac ako päť rokov
+        UJ nemá náplň pre tieto položky
+
+C. výške záväzkov do lehoty splatnosti a po lehote splatnosti,
+D. štruktúre záväzkov podľa zostatkovej doby splatnosti v členení podľa jednotlivých
+položiek súvahy, a to podľa zostatkovej doby splatnosti v členení podľa jednotlivých položiek
+súvahy, a to podľa zostatkovej doby splatnosti
+
+    1. do jedného roka vrátane,
+    2. od jedného roka do piatich rokov vrátane,
+    3. viac ako päť rokov
+Informácie k prílohe č.3.časti F. písmeno w) o krátkodobom finančnom majetku
+
+Názov položky       Bežné účtovné obdobie  Bezprostredne
+                                           predchádzajúce obdobie
+
+Pokladnica, ceniny   5.000
+Bežné účty          624.658
+Vkladové účty
+Peniaze na ceste    629.658
+
+Spolu
+
+G. Informácie o údajoch vykázaných na strane pasív súvahy:
+
+A) vlastné imanie za bežné účtovné obdobie :
+    Vlastné imanie spoločnosti tvorí:
+    - splatené základné imanie : 5.000 eur
+    - zákonný rezervný fond: 0 eur
+    - nerozdelený zisk minulých období: 0 eur
+    - nerozdelená strata minulých období: 0 eur
+    - výsledok hospodárenia bežného účtovného obdobia: strata :-9.467,01
+
+Informácia k prílohe č.3 časti G písm. a) bod 3 o rozdelení účtovného zisku
+
+Názov položky                              Bezprostredne predchádzajúce
+                                           účtovné obdobie
+Účtovný zisk
+Vysporiadanie účtovného zisku              0
+Prídel do zákonného rezervného fondu       Bežné účtovné obdobie
+Prídel do štatutárnych a ostatných fondov
+Prídel do sociálneho fondu                                    0
+Prídel na zvýšenie základného imania                          0
+Úhrady straty minulých období                                 0
+Iné                                                           0
+Spolu                                                         0
+                                                              0
+                                                              0
+Informácie k prílohe č3 časti G písm. b) o rezervách
+
+                                               Bežné účtovné obdobie
+
+          Názov položky       Stav na začiatk  Tvorba Použitie Zrušenie  Stav na konc
+                               u účtovného                               i účtovného
+                  a                               c   d          e
+Dlhodobé rezervy, z toho:         obdobia                                  obdobia
+                                      b                                         f
+
+Krátkodobé rezervy, z toho:
+
+24. Informácie k časti G. písm c) a d) prílohy č. 3 o záväzkoch
+
+Názov položky                 Bežné obdobie           Bezprostredne
+                                          28.964      predchádzajúce obdobie
+Záväzky do lehoty splatnosti
+Záväzky po lehote splatnosti              28.964
+Záväzky do 1roka splatnosti              625.000
+Krátkodobé záväzky spolu
+Záväzky so zost. dobou                   625.000
+splatnosti 1-5r.
+Záväzky nad 5r.
+Dlhodobé záväzky spolu
+Informácie k prílohe č. 3 časti G. písm. g) o záväzkoch zo sociálneho fondu
+
+         Názov položky                      Bežné účtovné obdobie             Bezprostredne
+                                                                             predchádzajúce
+Začiatočný stav sociálneho fondu                 0                           účtovné obdobie
+
+                                                                                      0
+
+Tvorba sociálneho fondu na ťarchu nákladov    18
+
+Tvorba sociálneho fondu zo zisku
+
+Ostatná tvorba sociálneho fondu
+
+Tvorba sociálneho fondu spolu                 18
+
+Čerpanie sociálneho fondu                        0
+
+Konečný zostatok sociálneho fondu             18
+
+I) bankových úveroch, pôžičkách a návratných finančných výpomociach, pričom sa
+         uvádza najmä mena, v ktorej boli poskytnuté, charakter, hodnota v cudzej mene
+         a hodnota v eurách, výška úroku, splatnosť, forma zabezpečenia,
+
+Informácie o bankových úveroch, pôžičkách a krátkodobých finančných
+výpomociach
+
+Názov    Mena              Úrok     Dátum     Suma istiny    Suma              Suma istiny
+položky                    p. a.   splatnost  v príslušnej    istiny           v príslušnej
+                           v%                               v eurách
+                                        i      mene za      za bežné             mene za
+                                                 bežné      účtovné          bezprostredne
+                                                účtovné     obdobie          predchádzajúce
+                                                obdobie
+                                                                f                účtovné
+a        b                 c       d          e                                  obdobie
+
+                                                                                      g
+
+Dlhodobé bankové úvery
+ Krátkodobé bankové úvery
+ Kontokorent. Eur
+ účet
+
+m) majetku prenajatom formou finančného prenájmu v poznámkach nájomcu, a to
+1. celková suma dohodnutých platieb ku dňu, ku ktorému sa zostavuje účtovná závierka
+v členení na istinu u nájomcu a finančný náklad,
+2. suma istiny u nájomcu a finančného nákladu podľa doby splatnosti
+2a. do jedného roka vrátane,
+2b. od jedného roka do piatich rokov vrátane,
+2c. viac ako päť rokov.
+
+31. Informácie k časti G. písm. m) prílohy č. 3 o majetku prenajatom formou finančného
+prenájmu
+
+    I. V časti o nákladoch sa uvádzajú tieto informácie:
+    a) Opis a suma významných položiek nákladov za poskytnuté služby: významné
+
+         nákladové položky:
+    b) Opis a suma významných položiek ostatných nákladov z hospodárskej činnosti,
+
+         významné nákladové položky z hospodárskej činnosti sú u UJ mzdové náklady.
+    c) Opis a suma významných položiek finančných nákladov a celková suma kurzových
+
+         strát; osobitne sa uvádza suma kurzových strát účtovaná ku dňu, ku ktorému sa
+         zostavuje účtovná závierka.
+    d) Opis a suma položiek nákladov, ktoré majú výnimočný rozsah alebo výskyt,
+         týkajúcich sa bežného účtovného obdobia a položiek nákladov, ktoré majú výnimočný
+         rozsah alebo výskyt, týkajúcich sa bežného účtovného obdobia a položiek
+         mimoriadnych nákladov týkajúcich sa predchádzajúcich účtovných období,
+    e) Opis a celková suma nákladov za overenie individuálnej účtovnej závierky, súvisiace
+         audítorskou spoločnosťou.
+Informácie o čistom obrate                       Bežné účtovné        Bezprostredne
+                                                     obdobie    predchádzajúce účtovné
+                       Názov položky
+                                                                          obdobie
+ Tržby za vlastné výrobky
+ Tržby z predaja služieb                         22.681
+ Tržby za tovar
+ Výnosy zo zakázky                               22.681
+ Výnosy z nehnuteľnosti na predaj
+ Iné výnosy súvisiace s bežnou činnosťou
+ Čistý obrat celkom
+
+Informácie o vybraných nákladoch
+
+Názov položky                     Bežné obdobie          Bezprostredne
+                                                         predchádzajúce obdobie
+
+Náklady voči auditorovi, z toho:
+
+Náklady na overenie
+účt.závierky
+Iné uisťovacie audit.služby
+
+Súvisiace audit.služby
+Daňové poradenstvo
+
+Ost. neauditorské služby
+
+L. V časti o iných aktívach a iných pasívach sa uvádzajú tieto informácie:
+a) opis a hodnota podmienených záväzkov vyplývajúcich zo súdnych rozhodnutí,
+z poskytnutých záruk, zo všeobecne záväzných právnych predpisov, zo zmlúv o podriadenom
+záväzku 1cb), z ručenia podľa jednotlivých druhov ručenia a podobne; takýmito
+podmienenými záväzkami sú
+1. možná povinnosť, ktorá vznikla ako dôsledok minulej udalosti a ktorej existencia závisí od
+toho, či nastane alebo nenastane jedna alebo viac neistých udalostí v budúcnosti, ktorých
+vznik nezávisí od účtovnej jednotky, alebo
+2. existujúca povinnosť, ktorá vznikla ako dôsledok minulej udalosti, ale ktorá sa nevykazuje
+v súvahe, pretože
+2a. nie je pravdepodobné, že na splnenie tejto povinnosti bude potrebný úbytok
+ekonomických úžitkov, alebo
+b) opis a hodnota podmienených záväzkov podľa písmena a) voči spriazneným osobám,
+ktorými sú
+1. právnické osoby, ktoré sú vo vzťahu k účtovnej jednotke dcérskou účtovnou jednotkou
+alebo materskou účtovnou jednotkou alebo právnické osoby, ktoré sú spoločne s účtovnou
+jednotkou vo vzťahu k inej účtovnej jednotke dcérskymi účtovnými jednotkami,
+2. právnické osoby, ktoré vykonávajú podstatný vplyv v účtovnej jednotke alebo je v nich
+vykonávaný podstatný vplyv účtovnou jednotkou,
+3. fyzické osoby, prostredníctvom ktorých vykonáva iná osoba v účtovnej jednotke podstatný
+vplyv,
+4. zamestnanci zodpovední za riadenie a kontrolu činnosti účtovnej jednotky a ich blízke
+osoby a osoby zodpovedné za riadenie a kontrolu činnosti účtovnej jednotky, ktoré nie sú
+zamestnancami a ich blízke osoby,
+5. právnické osoby, v ktorých fyzické osoby uvedené v treťom a štvrtom bode vykonávajú
+podstatný vplyv a to aj sprostredkovane,
+6. osoby, ktoré vykonávajú v účtovnej jednotke a súčasne v inej účtovnej jednotke
+prostredníctvom členov štatutárnych orgánov, dozorných rád a iných orgánov taký vplyv, že
+sú schopné ovplyvniť ekonomické zámery
+7. osoby, ktoré poskytli účtovnej jednotke úver, a z tohto dôvodu sú schopné ovplyvniť
+ekonomické vzťahy s účtovnou jednotkou,
+8. osoby, s ktorými účtovná jednotka realizuje taký objem obchodov, že je od týchto osôb
+hospodársky závislá,
+c) opis a hodnota podmieneného majetku, ktorým sa rozumie možný majetok, ktorý vznikol
+v dôsledku minulých budúcnosti, ktorých vznik nezávisí od účtovnej jednotky; týmto
+majetkom sú napríklad práva zo servisných zmlúv, poistných zmlúv, koncesionárskych
+zmlúv, licenčných zmlúv, práva z investovania prostriedkov získaných oslobodením od dane
+z príjmov a práva z privatizácie; informácie o možnom majetku sa neuvádzajú len, ak je
+zvýšenie ekonomických úžitkov nepravdepodobné.
+
+M. V časti o príjmoch a výhodách členov štatutárneho orgánu, dozorného orgánu
+a iného orgánu účtovnej jednotky sa uvádzajú informácie o
+a) výške priznaných odmien za účtovné obdobie pre členov štatutárneho orgánu, dozorného
+orgánu a iného orgánu účtovnej jednotky z dôvodu výkon ich funkcie vrátane plnení
+vyplývajúcich z dôchodkových programov pre bývalých členov týchto orgánov, a to v členení
+za jednotlivé orgány,
+b) výške jednotlivých druhov záruk alebo iných zabezpečení poskytnutých pre členov
+štatutárneho orgánu, dozorného orgánu a iného orgánu účtovnej jednotky, a to v členení za
+jednotlivé orgány,
+c) pôžičkách poskytnutých členom štatutárneho orgánu, dozorného orgánu a iného orgánu
+účtovnej jednotky, a to
+1. celková suma poskytnutých pôžičiek k poslednému dňu účtovného obdobia za jednotlivé
+orgány,
+2. celková suma splatených pôžičiek k poslednému dňu účtovného obdobia v členení za
+jednotlivé orgány,
+3. celková suma odpustených pôžičiek a odpísaných pôžičiek k poslednému dňu účtovného
+obdobia v členení za jednotlivé orgány,
+d) hlavných podmienkach, na základe ktorých im boli záruky alebo iné zabezpečenia
+a pôžičky poskytnuté; pri pôžičkách sa uvádzajú aj úrokové sadzby,
+e) celkovej sume použitých finančných prostriedkov alebo iného plnenia na súkromné účely
+členmi štatutárneho orgánu, dozorného orgánu a iného orgánu účtovnej jednotky, ktoré sa
+vyúčtovávajú.
+
+        UJ nemá náplň pre tieto položky
+

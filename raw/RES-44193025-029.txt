@@ -1,0 +1,437 @@
+{"prilohy":[{"id":7709120,"meno":"Príloha k účtovnej závierke POD.PDF","velkostPrilohy":296474,"pocetStran":0,"jazyk":"SK","mimeType":"application/pdf","digest":"d66119875e78094c0db3c5a0b621f8dd5922f19371407381d8776185528cbaa2"},{"id":7709141,"meno":"POD_2024164153_IR_2019_2495039_3546013.pdf","velkostPrilohy":441479,"pocetStran":12,"jazyk":"SLK","mimeType":"application/pdf","digest":"1c37fa6973be56a7bfb20ef0e337423025226a2fbab54077fed5d820f8ef0184"}],"id":7169478,"idUctovnejZavierky":4399528,"obsah":{"tabulky":[{"nazov":{"sk":"Strana aktív","en":"Assets"},"data":["3817923","341330","3476593","1692468","922166","277323","644843","411775","915158","274716","640442","409304","","","","","542754","238067","304687","255929","126925","36649","90276","","","","","","","","","","245479","","245479","153375","","","","","5834","2607","3227","2471","","","","","","","","","5834","2607","3227","2471","","","","","","","","","","","","","","","","","","","","","","","","","1174","","1174","","1174","","1174","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2892775","64007","2828768","1280693","1708221","17368","1690853","538337","","","","","","","","","","","","","","","","","1708221","17368","1690853","538337","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","861919","46639","815280","684602","832384","17104","815280","684602","","","","","","","","","832384","17104","815280","684602","","","","","","","","","","","","","","","","","","","","","","","","","","","","","29535","29535","","","","","","","","","","","","","","","","","","","","","","","322635","","322635","57754","83","","83","","322552","","322552","57754","2982","","2982","","","","","","2982","","2982","","","","","","","","",""]},{"nazov":{"sk":"Strana pasív","en":"Liabilities and equity"},"data":["3476593","1692468","640119","-1512499","23133","9665","23133","9665","","","","","","","4101327","909163","","","","","","","","","","","","","","","","","","","","","-2431328","-1546310","","","-2431328","-1546310","-1053013","-885017","2772378","3124897","202986","2211","","","","","","","","","","","","","200000","","","","","","","","","","2986","2211","","","","","","","","","","","","","","","2242663","2110798","2030803","1201241","","","","","2030803","1201241","","","","","","","116099","771118","8156","8636","6887","6294","79196","112109","","","1522","11400","24471","18016","5359","","19112","18016","680","19","301578","993853","64096","80070","","","","","","","64096","80070"]},{"nazov":{"sk":"Výkaz ziskov a strát","en":"Income statement"},"data":["6654849","4648213","6689489","4649020","6651231","4639779","","","3618","8433","","","","","","","34640","808","7474261","5329186","4164169","3120453","22151","22094","2058","-5962","2789652","1867370","261163","197649","184062","150778","11500","","58039","45657","7562","1214","23068","2580","145988","78131","145988","78131","","","","","17104","14767","48908","32104","-784772","-680166","-323181","-355743","22346","1017","","","","","","","","","","","","","","","","","","","","","","","","","22241","1017","","","105","","290587","205868","","","","","","","43946","109356","","","43946","109356","154492","93775","","","92149","2737","-268241","-204851","-1053013","-885017","","","","","","","","","-1053013","-885017"]}],"titulnaStrana":{"nazovUctovnejJednotky":"eyerim s.r.o.","ico":"47970006","dic":"2024164153","typUctovnejJednotky":"malá","adresa":{"ulica":"BREZOVÁ","cislo":"2055/22","psc":"05201","mesto":"Spišská Nová Ves 1"},"skNace":"47910","typZavierky":"Riadna","obdobieOd":"2019-01","obdobieDo":"2019-12","predchadzajuceObdobieOd":"2018-01","predchadzajuceObdobieDo":"2018-12","datumZostavenia":"2020-06-26","oznacenieObchodnehoRegistra":"Obchodný register Okresného súdu Koši ce I, oddiel: Sro, vložka číslo:36601"}},"pristupnostDat":"Verejné","idSablony":699,"kodDanovehoUradu":"800","datumPoslednejUpravy":"2020-06-27","zdrojDat":"FRSR"}
+
+=== https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/7709120 (príloha účtovnej závierky, text cez pdftotext -layout, medzery zlúčené) ===
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+IČO 47970006
+Článok I - Všeobecné informácie
+1) Základné informácie o účtovnej jednotke
+Firma: eyerim s.r.o.
+Ulica: Brezová 2055/22
+Obec: 052 01 Spišská Nová Ves 1
+Hospodárske Œinnosti pod©a výpisu z OR
+Dátum zápisu do OR: 04.12.2014
+Dátum výpisu:
+Zoznam výpisov Œíslo:
+Oddiel: Sro
+Vložka Œíslo: 36601/V
+Predmet Œinnosti:
+1. donášková služba
+2. Kuriérske služby
+3. Œinnosti podnikate©ských, organizaŒných a ekonomických poradcov
+4. Prenájom hnute©ných vecí
+5. Kúpa tovaru na úŒely jeho predaja koneŒnému spotrebite©ovi (maloobchod) alebo iným prevádzkovate©om živnosti(ve©koobchod)
+6. Sprostredkovate©ská Œinnos£ v oblasti obchodu
+7. Sprostredkovate©ská Œinnos£ v oblasti služieb
+8. Sprostredkovate©ká Œinnos£ v oblasti výroby
+9. Administratívne služby
+10. Prieskum trhu a verejnej mienky
+11. Skladovanie
+Spoločníci:
+Andrea Zahurancová
+Brezová 2055/22
+Spišská Nová Ves 052 01
+(od: 04.12.2014)
+Branislav Ramšák
+1. Mája 610/27
+Očová 962 23
+(od: 04.12.2014)
+Martin Zahuranec
+Brezová 2055/22
+Spišská Nová Ves 052 01
+(od: 15.05.2015)
+Slovak Venture Fund S. C. A., SICAR
+Boulevard Royal 18
+Luxemburg L-2449
+Luxemburské veľkovojvodstvo
+(od: 15.05.2015)
+TCEE FUND III S. C. A., SICAR
+rue Lou Hemmer 8
+Luxembourg - Findel L-1748
+Luxemburské veľkovojvodstvo
+(od: 08.08.2019)
+Prvá slovenská investičná skupina a.s.
+Staromestská 3
+Bratislava - mestská časť Staré Mesto 811 03
+(od: 15.02.2019)
+Inovo Fund Co?peratief U.A.
+Jan van Goyenkade 8
+Amsterdam 1075 HP
+Holandské kráľovstvo
+(od: 08.08.2019)
+Zatisie s. r. o.
+Zátišie 10/a
+Bratislava - mestská časť Nové Mesto 831 03
+(od: 08.08.2019)
+Yassaman Omidbakhsh
+Americká 3
+Bratislava - mestská časť Nové Mesto 831 02
+(od: 15.02.2019)
+konatelia
+(od: 04.12.2014)
+Martin Zahuranec
+Brezová 2055/22
+Spišská Nová Ves 052 01
+Vznik funkcie: 08.04.2015
+(od: 15.05.2015)
+Yassaman Omidbakhsh
+Brezová 2055/22
+Spišská Nová Ves 052 01
+Vznik funkcie: 27.06.2016
+(od: 17.08.2017)
+Jan Gabriel
+Longobardská 32
+Bratislava - mestská časť Rusovce 851 10
+Vznik funkcie: 01.02.2019
+2) Dátum schválenia účtovnej závierky za bezprostredne predchádzajúce účtovné obdobie
+16.12.2019
+3) Právny dôvod na zostavenie účtovnej závierky
+Účtovná závierka Spoločnosti k 31. decembru 2019 je zostavená ako riadna účtovná
+závierka podľa § 17 ods. 6 zákona NR SR č. 431/2002 Z. z. o účtovníctve za účtovné
+obdobie od 1. januára 2019 do 31. decembra 2019.
+1
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+IČO 47970006
+4) Údaje o skupine účtovných jednotiek v súvislosti s konsolidáciou
+Spoločnosť sa nezahŕňa do konsolidovanej účtovnej závierky a ani nemá povinnosť
+zostaviť konsolidovanú účtovnú závierku.
+5) Priemerný prepočítaný počet zamestnancov počas účtovného obdobia
+Názov položky Bežné účtovné obdobie Bezprostredne predchádzajúce
+účtovné obdobie
+Priemerný prepočítaný počet zamestnancov 17 16
+Stav zamestnancov ku dňu, ku ktorému sa 19 25
+zostavuje účtovná závierka, z toho:
+4
+počet vedúcich zamestnancov 4
+Článok II - Informácie o orgánoch spoločnosti
+Informácie o orgánoch účtovnej jednotky - štatutárneho, dozorného a iného orgánu účtovnej jednotky
+Členom štatutárneho orgánu, ani členom dozorných orgánov neboli v roku 2019 poskytnuté žiadne
+pôžičky, záruky alebo iné formy zabezpečenia, ani finančné prostriedky alebo iné plnenia na súkromné
+účely členov, ktoré sa vyúčtovávajú (v roku 2018: žiadne).
+2
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+IČO 47970006
+Článok III - Informácie o prijatých postupoch
+1) ÚŒtovná jednotka bude nepretržite pokraŒova£ vo svoje Œinnosti: [x] Áno [ ] Nie
+2) Zmeny úŒtovných zásad a metód: [ ] Áno [x] Nie
+ÚŒtovné metódy a zásady boli aplikované v rámci platného zákona o úŒtovníctve, s osobitos£ami:
+Účtovníctvo Spoločnosť vedie na základe dodržania časovej a vecnej súvislosti nákladov a výnosov. Za základ sa berú všetky náklady a výnosy, ktoré sa
+vzťahujú na účtovné obdobie bez ohľadu na dátum ich platenia.
+Účtovné metódy a všeobecné účtovné zásady Spoločnosť aplikovala konzistentne s predchádzajúcim účtovným obdobím.
+3) Informácia o charaktere a úŒele transakcií, ktoré sa neuvádzajú v súvahe s uvedením finanŒného vplyvu transakcií na úŒt. jednotku: XXXX
+4) Spôsob a urŒenie oce¬ovania majetku a záväzkov:
+a) Spôsob oce¬ovania majetku a záväzkov §25 ZoU
+ÚJ nakupovala v danom roku dlhodobý nehmotný majetok: Áno
+Dlhodobý nehmotný majetok nakupovaný, ÚJ oce¬ovala obstarávacou cenou v zložení:
+[x] Obstarávacia cena vrátane nákladov súvisiacich s obstaraním v zložení
+[x] dopravné [ ] provízie [ ] poistné [ ] clo
+ÚJ tvorila vlastnou Œinnos£ou dlhodobý nehmotný majetok: Nie
+ÚJ v bežnom roku nakupovala dlhodobý hmotný majetok: áno
+Dlhodobý hmotný majetok nakupovaný oce¬ovala ÚJ obstarávacou cenou v zložení:
+[ X] obstarávacia cena, vrátane nákladov súvisiacich s obstaraním v zložení
+[ X] dopravné [ ] provízie [ ] poistné [ ] clo [ X] ostatné VON
+ÚJ v bežnom roku tvorila dlhodobý hmotný majetok vlastnou Œinnos£ou: Nie
+Dlhodobý nehmotný a dlhodobý hmotný majetok
+Dlhodobý majetok nakupovaný sa oceňuje obstarávacou cenou, ktorá zahrňuje cenu, za ktorú sa majetok obstaral, a náklady súvisiace s obstaraním (clo,
+prepravu, montáž, poistné a pod.). Hodnota obstarávaného dlhodobého hmotného majetku, ktorý sa používa, sa zníži o opravnú položku vo výške
+zodpovedajúcej opotrebeniu.
+Dlhodobý majetok vytvorený vlastnou činnosťou sa oceňuje vlastnými nákladmi. Vlastnými nákladmi sú všetky priame náklady vynaložené na výrobu alebo
+inú činnosť a všetky nepriame náklady vzťahujúce sa na výrobu alebo inú činnosť.
+Dlhodobý majetok nadobudnutý bezodplatne sa oceňuje reprodukčnou obstarávacou cenou, čo je cena, za ktorú by sa majetok obstaral v čase, keď sa o
+ňom účtuje.
+Odpisovaný majetok nadobudnutý bezodplatne od iných osôb sa účtuje súvzťažne na účet Výnosy budúcich období s vplyvom na hospodársky výsledok
+počas doby odpisovania majetku. Neodpisovaný majetok nadobudnutý bezodplatne od iných osôb sa účtuje súvzťažne s vplyvom na hospodársky výsledok
+na účet Ostatné výnosy z hospodárskej činnosti.
+Dlhodobý majetok nadobudnutý bezodplatne od spoločníkov alebo členov, ktorým sa nezvyšuje základné imanie, sa účtuje bez vplyvu na výsledok
+hospodárenia priamo do vlastného imania na účet Ostatné kapitálové fondy.
+Náklady na výskum sa neaktivujú, ale sa účtujú do nákladov účtovného obdobia, v ktorom vznikli. Náklady na vývoj sa účtujú do obdobia, v ktorom vznikli,
+ale tie, ktoré sa vzťahujú na jasne definovaný výrobok alebo proces, pri ktorých možno preukázať technickú realizovateľnosť a možnosť predaja a
+Spoločnosť má dostatočné zdroje na dokončenie projektu, jeho predaj alebo na vnútorné využitie jeho výsledkov, sa aktivujú, a to vo výške, ktorá sa
+pravdepodobne získa späť z budúcich ekonomických úžitkov.
+Aktivované náklady na vývoj sa odpisujú počas obdobia maximálne päť rokov, a to v tých účtovných obdobiach, v ktorých sa očakáva predaj produktu alebo
+využívanie procesu. Ak sa zníži ich hodnota, odpisujú sa na sumu, ktorá sa pravdepodobne získa späť z budúcich ekonomických úžitkov.
+Dlhodobý majetok nadobudnutý zámenou sa oceňuje reálnou hodnotou. Rozdiel medzi reálnou hodnotou nadobudnutého dlhodobého majetku a účtovnou
+hodnotou odovzdávaného majetku sa účtuje podľa charakteru tohto rozdielu na vecne príslušný nákladový účet, na ktorom sa účtuje úbytok majetku alebo na
+vecne príslušný výnosový účet, na ktorom sa účtuje dosiahnutie výnosu z tohto majetku.
+Dlhodobý nehmotný majetok sa odpisuje podľa odpisového plánu, ktorý bol zostavený na základe predpokladanej doby jeho používania zodpovedajúcej
+spotrebe budúcich ekonomických úžitkov z majetku. Odpisovať sa začína prvým dňom mesiaca nasledujúceho po uvedení majetku do používania. Nehmotný
+majetok, ktorého obstarávacia cena (resp. vlastné náklady) neprevýši 2 400 EUR, nezaraďuje na účty dlhodobého majetku a odpisuje sa jednorazovo pri
+uvedení do používania
+Dlhodobý hmotný majetok sa odpisuje podľa odpisového plánu, ktorý bol zostavený na základe predpokladanej doby jeho používania zodpovedajúcej
+spotrebe budúcich ekonomických úžitkov z majetku. Odpisovať sa začína prvým dňom mesiaca nasledujúceho po uvedení majetku do používania. Hmotný
+majetok, ktorého obstarávacia cena (resp. vlastné náklady) neprevýši 1 700 EUR, sa nezaraďuje na účty dlhodobého majetku a odpisuje sa jednorazovo pri
+uvedení do používania.
+V prípade prechodného zníženia úžitkovej hodnoty dlhodobého majetku, ktorá bola zistená pri inventarizácii a je výrazne nižšia ako jeho ocenenie v
+účtovníctve po odpočítaní oprávok, je vytvorená opravná položka na úroveň jeho zistenej úžitkovej hodnoty.
+ÚJ v bežnom roku vlastnila cenné papiere: [x] Áno [ ] Nie
+Podiely na základnom imaní spoloŒností, cenné papiere a deriváty oce¬oval:
+[x] obstarávacou cenou pri nákupe a predaji
+[ ] pri nákupe obstarávacou cenou a pri predaji váženým aritmetickým priemerom, (pri rovnakom druhu, rovnakom emitentovi, rovnakej mene)
+[ ] metódou FIFO (pri rovnakom druhu, rovnakom emitentovi a rovnakej mene)
+[ ] inak:
+ÚJ nakupovala zásoby: áno
+ÚŒtovanie obstarania a úbytku zásob.
+Pri úŒtovaní zásob postupovala ÚJ pod©a Postupov úŒtovania, ÚT l, Œl.2
+[ ] spôsobom A úŒtovania zásob
+[x] spôsobom B úŒtovania zásob
+Nakupované zásoby oce¬ovala ÚJ obstarávacou cenou v zložení:
+[x] cena obstarania vrátane nákladov súvisiacich s obstaraním v zložení
+[x] dopravné [ ] provízie [ ] poistné [x] clo [x] ostatné VON
+SpoloŒnos£ v priebehu roka úŒtuje nákup tovaru priamo do spotreby na úŒet 504. V rámci mesaŒných uzávierkových operácií spoloŒnos£ zo skladovej
+evidencie vyexportuje zostavu položiek skladu k poslednému dnu mesiaca v množstevnom vyjadrení a ocení položky nákupnými cenami, ktoré boli platné v
+Œase posledného predaja položky. Takto ocenený stav tovaru sa ku koncu mesiaca zaúŒtuje ako tovar na sklade na úŒte 132. V rámci koncoroŒných
+uzávierkových operácií spoloŒnos£ postupuje rovnako, t.j. množstevný stav zistení zo skladovej evidencie a po zoh©adnení fyzickej inventúry sa ocení
+nákupnými cenami, ktoré boli platné v Œase posledného predaja položky. Hospodársky výsledok a stav zásob nie je skreslený nad hladinu vyznamnosti, ale
+môze prichádza£ k posunom nákladov medzi obdobiami.
+3
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+IČO 47970006
+Pri vyskladnení zásob sa používal
+[ X] vážený aritmetický priemer z obstarávacích cien, aktualizovaný mesaŒne
+[ ] metóda FIFO (prvá cena na ocenenie prírastku zásob sa použila ako prvá cena na ocenenie úbytku zásob)
+[ ] iný spôsob:
+ÚJ tvorila v bežnom roku zásoby vlastnou Œinnos£ou: [ ] Áno [x] Nie
+ÚJ oce¬ovala pe¬ažné prostriedky, ceniny, poh©adávky, záväzky: [x] Áno [ ] Nie
+Pe¬ažné prostriedky a ceniny, poh©adávky pri ich vzniku, záväzky pri ich vzniku oce¬oval menovitou hodnotou.
+Poh©adávky pri odplatnom nadobudnutí, poh©adávky nadobudnuté vkladom do základného imania a záväzky pri ich prevzatí oce¬oval obstarávacou cenou.
+ÚJ prijala darovaný majetok: [ ] Áno [x] Nie
+Majetok nadobudnutý darovaním oce¬oval reprodukŒnou obstarávacou cenou, s výnimkou pe¬ažných prostriedkov a cenín a poh©adávok ocenených
+menovitými hodnotami.
+ÚJ má novozistený majetok pri inventarizácii: [ ] Áno [x] Nie
+Novozistený majetok ÚJ oce¬ovala reprodukŒnou obstarávacou cenou.
+Pohľadávky
+Pohľadávky sa pri ich vzniku oceňujú ich menovitou hodnotou (postúpené pohľadávky a pohľadávky nadobudnuté vkladom do základného imania sa oceňujú
+obstarávacou cenou, t.j. vrátane nákladov súvisiacich s obstaraním). Opravná položka sa vytvára k pochybným a nedobytným pohľadávkam, kde existuje
+riziko nevymožiteľnosti pohľadávok.
+Ak je zostatková doba splatnosti pohľadávky dlhšia než jeden rok, vytvára sa opravná položka, ktorá predstavuje rozdiel medzi menovitou a súčasnou
+hodnotou pohľadávky. Súčasná hodnota pohľadávky sa počíta ako súčet súčinov budúcich peňažných príjmov a príslušných diskontných faktorov.
+Finančné účty
+Finančné účty tvorí peňažná hotovosť a zostatky na bankových, pričom riziko zmeny hodnoty tohto majetku je zanedbateľne nízke.
+Náklady budúcich období a príjmy budúcich období
+Náklady budúcich období a príjmy budúcich období sú vykázané vo výške, ktorá je potrebná na dodržanie zásady vecnej a časovej súvislosti s účtovným
+obdobím.
+Opravné položky
+Opravné položky sa tvoria na základe zásady opatrnosti, ak je opodstatnené predpokladať, že došlo k zníženiu hodnoty majetku oproti jeho oceneniu v
+účtovníctve. Opravná položka sa účtuje v sume opodstatneného predpokladu zníženia hodnoty majetku oproti jeho oceneniu v účtovníctve.
+Rezervy
+Rezerva je záväzok predstavujúci existujúcu povinnosť Spoločnosti, ktorá vznikla z minulých udalostí a je pravdepodobné, že v budúcnosti zníži jej
+ekonomické úžitky. Rezervy sú záväzky s neurčitým časovým vymedzením alebo výškou a oceňujú sa odhadom v sume potrebnej na splnenie existujúcej
+povinnosti ku dňu, ku ktorému sa zostavuje účtovná závierka.
+Tvorba rezervy sa účtuje na vecne príslušný nákladový alebo majetkový účet, ku ktorému záväzok prislúcha. Použitie rezervy sa účtuje na ťarchu vecne
+príslušného účtu rezerv so súvzťažným zápisom v prospech vecne príslušného účtu záväzkov. Rozpustenie nepotrebnej rezervy alebo jej časti sa účtuje
+opačným účtovným zápisom ako sa účtovala tvorba rezervy.
+Rezerva na bonusy, rabaty, skontá a vrátenie kúpnej ceny pri reklamácii sa tvorí ako zníženie pôvodne dosiahnutých výnosov so súvzťažným zápisom v
+prospech účtu rezerv.
+Záväzky
+Záväzky pri ich vzniku sa oceňujú menovitou hodnotou. Záväzky pri ich prevzatí sa oceňujú obstarávacou cenou. Ak sa pri inventarizácii zistí, že suma
+záväzkov je iná ako ich výška v účtovníctve, uvedú sa záväzky v účtovníctve a v účtovnej závierke v tomto zistenom ocenení.
+Odložená da¬ - SpoloŒnosti v roku 2019 vznikla povinnos£ prvykrát úŒtova£ o odloženej dani. Odložená da¬ bola vypoŒítaná k 1.1.2019 a k 31.12.2019. V
+obidvoch výpoŒtoch vyšla odložená da¬ová poh©adávka. Z dôvodu, že nie je isté, že základ dane voŒi ktorému bude možné vyrovna£ doŒasné rozdiely, je
+dosiahnuteľný, sa o odloženej da¬ovej poh©adávke neúŒtovalo.
+UrŒenie ocenenia finanŒných nástrojov alebo majetku, ktorý nie je finanŒným nástrojom pri oce¬ovaní reálnou hodnotou: x
+UrŒenie ocenenia finanŒných nástrojov pºi oce¬ovaní obstarávacou cenou alebo vlastnými nákladmi: X
+Stanovenie metódy vlastného imania
+g) Tvorba odpisového plánu pre dlhodobý majetok
+Spôsob zostavenia odpisovaného plánu pre jednotlivé druhy dlhodobého hmotného majetku a dlhodobého nehmotného majetku, pričom sa uvádza doba
+odpisovania, použité sadzby a odpisové metódy pri určení odpisov:
+Dlhodobý nehmotný majetok sa odpisuje podľa odpisového plánu, ktorý bol zostavený na základe predpokladanej doby jeho používania zodpovedajúcej
+spotrebe budúcich ekonomických úžitkov z majetku. Odpisovať sa začína prvým dňom mesiaca nasledujúceho po uvedení majetku do používania. Nehmotný
+majetok, ktorého obstarávacia cena (resp. vlastné náklady) neprevýši 2 400 EUR, nezaraďuje na účty dlhodobého majetku a odpisuje sa jednorazovo pri
+uvedení do používania
+Dlhodobý hmotný majetok sa odpisuje podľa odpisového plánu, ktorý bol zostavený na základe predpokladanej doby jeho používania zodpovedajúcej
+spotrebe budúcich ekonomických úžitkov z majetku. Odpisovať sa začína prvým dňom mesiaca nasledujúceho po uvedení majetku do používania. Hmotný
+majetok, ktorého obstarávacia cena (resp. vlastné náklady) neprevýši 1 700 EUR, sa nezaraďuje na účty dlhodobého majetku a odpisuje sa jednorazovo pri
+uvedení do používania.
+majetok metóda doba odpisovani
+Softvér - Hatimeria rovnomerná 60 mesiacov
+PC vybavenie rovnomerná 48 mesiacov
+Kancelársky nábytok rovnomerná 72 mesiacov
+rovnomerná 24 mesiacov
+Magic Mirror rovnomerná 36 mesiacov
+Roinvenue
+[ ] ÚJ používa úŒtovné odpisy nezávisle na da¬ových odpisoch. Majetok sa zaŒína odpisova£ v mesiaci, kedy bol zaradený do užívania. ÚŒtovné odpisy
+vychádzajú z predpokladanej doby používania majetku; priŒom ÚJ používa rovnomerné odpisovanie dlhodobého hmotného a nehmotného majetku.
+[ ] Podrobný úŒtovný odpisový plán po položkách vedie ÚJ s podporou softvéru, da¬ové odpisy sú v súlade so zákonom o dani z príjmov. ÚJ nepoužíva
+kategóriu drobného dlhodobého hmotného a kategóriu dlhodobého nehmotného majetku.
+h) Informácia o poskytnutých dotáciách; pri dotáciách na obstaranie majetku sa uvedú zložky majetku a ich ocenenie:
+5) Informácie o oprave významných chýb minulých úŒtovných období úŒtovaných v bežnom úŒtovnom období s uvedením vplyvu na výsledok hospodárenia
+a na vlastné imanie:
+Ak Spoločnosť zistí v bežnom účtovnom období významnú chybu týkajúcu sa minulých účtovných období, opraví túto chybu na účtoch Nerozdelený zisk
+minulých rokov a Neuhradená strata minulých rokov, t.j. bez vplyvu na výsledok hospodárenia v bežnom účtovnom období. Opravy nevýznamných chýb
+minulých účtovných období sa účtujú v bežnom účtovnom období na príslušný nákladový alebo výnosový účet.
+4
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+IČO 47970006
+Článok IV - Informácie, ktoré vysvetľujú a dopĺňajú súvahu a výkaz ziskov a strát
+1) Informácie k dlhodobému majetku, ktorým je goodwill alebo záporný goodwill – dôvod jeho vzniku, spôsob výpočtu a
+prehodnotenie opodstatnenosti jeho výšky a odpisu jeho hodnoty
+2) Informácie o významných položkách majetku a záväzkoch zabezpečených derivátmi, pričom sa uvádza forma tohoto
+zabezpečenia a uvádza sa zmena reálnej hodnoty v priebehu účtovného obdobia
+Názov položky Účtovná hodnota Dohodnutá cena
+podkladového nástroja
+a pohľadávky záväzku
+Deriváty určené na obchodovanie, z toho: d
+b c 0,00
+0,00 0,00
+0,00 0,00 0,00
+0,00 0,00 0,00
+0,00 0,00 0,00
+0,00 0,00 0,00
+Zabezpečovacie deriváty, z toho: 0,00 0,00 0,00
+0,00 0,00 0,00
+0,00 0,00 0,00
+0,00 0,00 0,00
+0,00 0,00 0,00
+Bežné účtovné obdobie Bezprostredne predchádzajúce
+účtovné obdobie
+Názov položky Zmena reálnej hodnoty Zmena reálnej hodnoty (+/-)
+a (+/-) s vplyvom na s vplyvom na
+Deriváty určené na obchodovanie, z toho: výsledok vlastné imanie výsledok vlastné imanie
+hospodárenia hospodárenia
+Zabezpečovacie deriváty, z toho:
+b c d e
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00
+5
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+IČO 47970006
+3) Informácia o záväzkoch
+a) celková suma záväzkov so zostatkovou dobou splatnosti dlhšou ako päť rokov
+Názov položky Bežné účtovné obdobie Bezprostredne
+predchádzajúce účtovné
+obdobie
+Záväzky so zostatkovou dobou splatnosti nad päť 0,00 0,00
+rokov
+b) celková suma zabezpečených záväzkov, opis a spôsob zabezpečenia záväzkov
+4) Informácie o vlastných akciách
+a)
+Dôvod nadobudnutia vlastných akcií
+b.1)
+Nadobudnuté počas ÚO Prevedené počas ÚO
+Počet Menovitá %hodnota na Počet Menovitá %hodnota na
+hodnota upísanom ZI hodnota upísanom ZI
+0 0,00 0,00 0 0,00 0,00
+0 0,00 0,00 0 0,00 0,00
+0 0,00 0,00 0 0,00 0,00
+b.2)
+Nadobudnuté počas ÚO Prevedené na inú osobu počas ÚO
+Počet Hodnota Počet Hodnota
+0 0,00 0 0,00
+0 0,00 0 0,00
+0 0,00 0 0,00
+c) V držbe k poslednému dňu ÚO
+Menovitá hodnota Nadobúdacia hodnota %podiel na upísanom ZI
+Počet
+0 0,00 0,00 0,00
+0 0,00 0,00 0,00
+0 0,00 0,00 0,00
+6
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+IČO 47970006
+5) Kapitálový fond z príspevkov podľa § 123 ods. 2 a § 217a Obchodného zákonníka účtovná jednotka vytvorila:
+Bežné obdobie áno
+Predchádzajúce obdobie
+Výška tvorby príspevkov do OKF v roku 2019 predstavovala: 3 566 414 eur
+6) Informácia o sume a dôvodoch vzniku jednotlivých položiek nákladov alebo výnosov, ktoré majú výnimočný rozsah
+alebo výskyt
+Názov položky Bežné účtovné Bezprostredne
+obdobie predchádzajúce
+účtovné obdobie
+Náklady, ktoré majú výnimočný rozsah alebo výskyt: 0,00 0,00
+Náklady na predaný tovar 0 0,00
+Služby - softvér 0 0,00
+Služby - preprava balíkov 0 0,00
+Služby - marketing 0 0,00
+Kurzové straty 0 0,00
+Výnosy, ktoré majú výnimočný rozsah alebo výskyt: 0,00
+Tržby za predaný tovar 0,00 0,00
+Kurzové zisky 0 0,00
+0
+0,00 0,00
+0,00 0,00
+0,00 0,00
+7
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+IČO 47970006
+Článok V - Informácie o iných aktívach a iných pasívach
+1) Informácie o iných aktívach a pasívach – podmienený majetok a záväzky
+a) Podmienený majetok
+Druh podmieneného majetku Bežné účtovné obdobie Bezprostredne
+predchádzajúce účtovné
+Práva zo servisných zmlúv 0,00
+obdobie
+Práva z poistných zmlúv 0,00 0,00
+0,00
+Práva z koncesionárskych zmlúv 0,00 0,00
+0,00
+Práva z licenčných zmlúv 0,00
+0,00
+Práva z investovania prostriedkov získaných 0,00 0,00
+oslobodením od dane z príjmov 0,00
+0,00
+Práva z privatizácie 0,00
+Práva zo súdnych sporov 0,00
+Iné práva 0,00
+b) Podmienené záväzky (uvádza sa i hodnota podmienených záväzkov voči spriazneným osobám – čl.V bod 2)
+Druh podmieneného záväzku Bežné účtovné obdobie
+Hodnota celkom Hodnota voči spriazneným
+osobám
+Zo súdnych rozhodnutí 0,00 0,00
+Z poskytnutých záruk 0,00 0,00
+Zo všeobecne záväzných právnych predpisov 0,00 0,00
+Zo zmluvy o podriadenom záväzku 0,00 0,00
+Z ručenia 0,00 0,00
+Iné podmienené záväzky 0,00 0,00
+8
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+2) Ostatné finančné povinnosti IČO 47970006
+Druh podmieneného záväzku Bezprostredne predchádzajúce účtovné obdobie
+Zo súdnych rozhodnutí Hodnota celkom Hodnota voči spriazneným
+Z poskytnutých záruk osobám
+Zo všeobecne záväzných právnych predpisov
+Zo zmluvy o podriadenom záväzku 0,00 0,00
+Z ručenia
+Iné podmienené záväzky 0,00 0,00
+0,00 0,00
+0,00 0,00
+0,00 0,00
+0,00 0,00
+3) Podsúvahové účty Bežné účtovné obdobie Bezprostredne
+predchádzajúce účtovné
+Názov položky 0,00
+0,00 obdobie
+Prenajatý majetok 0,00
+Majetok prijatý do úschovy 0,00 0,00
+Pohľadávky z opcií 0,00 0,00
+Záväzky z opcií 0,00 0,00
+Odpísané pohľadávky
+Iné položky 0,00
+0,00
+0,00
+Článok VI - Udalosti, ktoré nastali po dni, ku ktorému sa zostavuje účtovná závierka
+K významným udalostiam, ktoré sa stali v období medzi rozvahou a zostavením
+úŒtovnej uzávierky, patrí celosvetové rozšírenie pandémie COVID-19. Táto okolnos£
+bezprecedentným spôsobom ovplyvnila celosvetovú ekonomiku a tým pádom aj
+správanie našich zákazníkov. V marci sme zaznamenali medziroŒný pokles tržieb na
+úrovni 15% a v apríli na úrovni 20%. Vývoj v máji už vykazuje mierny rast. Našej
+spoloŒnosti sa podarilo udrža£ business kontinuitu. Napriek tomu, že sa oŒakávajú
+opakované vlny nákazy veríme, že eyerim je pripravený týmto výzvam v roku 2020
+odola£, pokraŒova£ nepretržite v Œinnosti a fungova£ ako zdravý subjekt. A to
+predovšetkým preto, že management spoloŒnosti vŒas a správne reagoval na túto
+krízu a zaviedol adekvátne opatrenia
+Informácie o zmene spoloŒníkov v roku 2020 - pristúpenie nového spoloŒníka s
+vkladom do základného imania v sume 3 326 EUR a zvýšenie vkladu do základného
+imania spoloŒníka TCEE FUND III SCA SICAR o sumu 444 EUR.
+9
+Poznámky Úč PODV 3 - 01 DIČ 2 0 2 4 1 6 4 1 5 3
+IČO 47970006
+Článok VII - Ostatné informácie
+1) Informácie o práve poskytovať služby vo verejnom záujme
+2) Informácie o osobitnej kategórii priemyselnej výroby
+3) Informácie o finančných vzťahoch s orgánmi verejnej moci
+10

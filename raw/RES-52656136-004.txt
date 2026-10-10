@@ -1,0 +1,135 @@
+URL: https://www.cbim.sk/_files/ugd/c6d8bc_73567defb4b7425b9c4c1d296b9a8c1c.pdf
+ACCESSED: 2026-10-09T19:15:16.055Z
+NOTE: text extrahovaný z PDF (pdftotext -layout -enc UTF-8)
+
+                     SUSTAINABILITY POLICY OF THE MANAGER
+                      OF THE ALTERNATIVE INVESTMENT FUND
+
+                                                     1. Introductory Provisions
+
+1. This sustainability policy (Policy) is issued by CB Investment Management s. r. o., with registered office
+     at Staromestská 3, 811 03 Bratislava – Staré Mesto borough, Company ID: 52 524 531, registered in the
+     Commercial Register of the Bratislava III District Court, section: Sro, file no. 139629/B (Manager).
+
+2. The Manager is a registered alternative investment fund manager registered in the register of the National
+     Bank of Slovakia under number: 0018. The Policy is published on the Manager's website as part of
+     fulfilling disclosure obligations under:
+
+      a) Regulation (EU) 2019/2088 on sustainability-related disclosures in the financial services sector
+            (SFDR Regulation); and
+
+      b) Commission Delegated Regulation (EU) 2022/1288 of 6 April 2022 supplementing Regulation (EU)
+            2019/2088 of the European Parliament and of the Council with regard to regulatory technical
+            standards specifying the details of the content and presentation of information in relation to the
+            principle of “do no significant harm”, specifying the content, methodologies and presentation of
+            information in relation to sustainability indicators and adverse sustainability impacts, and the content
+            and presentation of information in relation to the promotion of environmental or social characteristics
+            and sustainable investment objectives in pre-contractual documents, on websites and in periodic
+            reports.
+
+3. This disclosure is made at the level of the Manager, pursuant to Articles 3, 4 and 5 of the SFDR
+     Regulation. It applies to the management of the fund: CB Growth ONE s. r. o. with registered office at
+     Staromestská 3, 811 03 Bratislava – Staré Mesto borough, Company ID: 52 656 136, registered in the
+     Commercial Register of the Bratislava III District Court, section: Sro, file no. 140835/B (Fund).
+
+4. The Fund was established in 2019 as a closed-ended alternative investment fund with a duration of 10
+     years and the possibility of extension by up to 3 years. The investment phase ended on 31 December
+     2023. At the time of issuance of this Policy, the Manager therefore operates primarily in the area of
+     portfolio management and active support of portfolio companies.
+
+                                    2. Investment Activities of the Manager and the Fund
+
+1. The Manager actively manages the Fund with an investment strategy focused on venture capital in the
+     Slovak market.
+
+2. The investment strategy targets innovative companies at an early stage of development (start-ups) and/or
+     rapid growth (scale-ups). These companies typically have a short operating history and limited internal
+     capacity, which means that standardised, methodologically consistent and/or audited sustainability data
+     are not commonly available during the due diligence process. Investment decisions therefore rely
+     primarily on financial, technological and market criteria in line with the investment strategy.
+
+3. Under the SFDR Regulation, the Fund is classified as a financial product pursuant to Article 6 of the
+     SFDR Regulation and does not promote environmental or social characteristics within the meaning of
+
+CB Investment Management s. r. o., UNIQ Offices - Staromestská 3, 811 03 Bratislava – Staré Mesto borough,
+Company ID: 52 524 531, Tax ID: 2121071986, Commercial Register of the Bratislava III District Court, section:
+Sro, file no.: 139629/B, info@cbim.sk, www.cbim.sk
+     Article 8 of the SFDR Regulation, and its objective is not sustainable investment within the meaning of
+     Article 9 of the SFDR Regulation.
+
+              3. Integration of Sustainability Risks into the Investment Decision-Making Process
+
+1. Pursuant to Article 3(1) of the SFDR Regulation, the Manager announces that sustainability risks, i.e.
+     environmental, social or governance events with the potential to negatively affect the value of an
+     investment, are not systematically integrated into the investment decision-making process in the
+     management of the Fund as a separate category with a pre-determined weight.
+
+                                   4. Principal Adverse Impacts of Investment Decisions
+
+1. The Manager does not currently take into account the principal adverse impacts of investment decisions
+     on sustainability factors pursuant to Article 4(1)(b) of the SFDR Regulation.
+
+2. Having regard to the size and nature of its activities, the Manager declares that it does not currently
+     monitor the principal adverse impacts (hereinafter PAI) of investment decisions on sustainability factors
+     through mandatory indicators. The reasons are as follows:
+
+      a) the nature of portfolio assets, as the Fund's target companies are at an early stage of
+            development and/or growth and mostly do not have systems in place to measure or report PAI
+            indicators. The tools designed to assess them are also financially demanding for small and growing
+            businesses;
+
+      b) unavailability of necessary data, as collecting the relevant data would impose a disproportionate
+            financial and administrative burden on target companies, or would not be feasible at all. The
+            Manager would therefore be unable to guarantee the correctness and accuracy of the analyses on
+            which it would rely when taking adverse impacts into account; and
+
+      c) absence of a unified methodology, as no standardised methodological framework for measuring
+            adverse impacts yet exists for the venture capital segment in the Slovak market.
+
+3. The Manager will continue to monitor market developments and the availability of sustainability data. It
+     does not exclude the introduction of systematic consideration of these impacts and will consider it when
+     circumstances allow.
+
+                                       5. Remuneration Policy and Sustainability Risks
+
+1. Pursuant to Article 5(1) of the SFDR Regulation, the Manager does not publish information on how its
+     remuneration policy is consistent with the integration of sustainability risks.
+
+2. The purpose of the Manager's remuneration policy is to promote prudent and effective risk management.
+     It is also designed not to discourage the taking of risks that are consistent with the investment strategy
+     and investment profile of the Fund.
+
+3. As sustainability risks are not systematically integrated into the investment process, remuneration is not
+     conditional on the achievement of specific sustainability targets. The basis for determining the
+     remuneration of employees and members of management remains the financial performance of the Fund,
+     individual contribution and compliance with regulatory requirements.
+
+CB Investment Management s. r. o., UNIQ Offices - Staromestská 3, 811 03 Bratislava – Staré Mesto borough,
+Company ID: 52 524 531, Tax ID: 2121071986, Commercial Register of the Bratislava III District Court, section:
+Sro, file no.: 139629/B, info@cbim.sk, www.cbim.sk
+4. Remuneration is structured as follows:
+      a) the management fee consists of the average amount of capital commitments during the first four
+            years of the fund's operation and a performance fee;
+      b) the performance fee is linked to the value of investments in target companies;
+      c) The Manager is also entitled to a carried interest from distributable proceeds after achieving the
+            stipulated hurdle rate and the subsequent catch-up mechanism.
+                                                6. Governance, Review and Update
+
+1. In governing, reviewing and updating the Policy, the Manager follows these rules:
+      a) The Policy is reviewed at least once a year;
+      b) any material change to the Policy shall be published by the Manager without undue delay on its
+            website pursuant to Article 7 of this Policy.
+                                                            7. Final Provisions
+
+1. This Policy is publicly available on the Manager's website in a dedicated section on sustainability
+     information.
+
+2. The Policy is prepared in the Slovak, Czech, English and German language versions. In the event of any
+     discrepancies between the individual language versions, the Slovak language version shall prevail.
+     Effective date: 12. 03. 2026
+     Last updated: 12. 03. 2026
+
+CB Investment Management s. r. o., UNIQ Offices - Staromestská 3, 811 03 Bratislava – Staré Mesto borough,
+Company ID: 52 524 531, Tax ID: 2121071986, Commercial Register of the Bratislava III District Court, section:
+Sro, file no.: 139629/B, info@cbim.sk, www.cbim.sk
+

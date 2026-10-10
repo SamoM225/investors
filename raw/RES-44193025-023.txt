@@ -1,0 +1,62 @@
+{"prilohy":[{"id":10289684,"meno":"Príloha k účtovnej závierke POD.PDF","velkostPrilohy":75453,"pocetStran":0,"jazyk":"SK","mimeType":"application/pdf","digest":"52ffc566d44e7101a0943539a1edbf7cfc7ec474273ba43347e0b10bc3e7a7ba"},{"id":10289685,"meno":"POD_2121853899_IR_202211-202212_3690189_4956285.pdf","velkostPrilohy":427358,"pocetStran":12,"jazyk":"SLK","mimeType":"application/pdf","digest":"b2a730712f576fb941d65d88e4804dbc6f547915716bb469e362b5cd9c15446b"}],"id":8748900,"idUctovnejZavierky":5694559,"obsah":{"tabulky":[{"nazov":{"sk":"Strana aktív","en":"Assets"},"data":["2617157","","2617157","27500","2605176","","2605176","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2605176","","2605176","","2605176","","2605176","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","11981","","11981","27500","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","27500","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","27500","","","","","","","","","","","","","","","","","","","","","11981","","11981","","","","","","11981","","11981","","","","","","","","","","","","","","","","","","","","",""]},{"nazov":{"sk":"Strana pasív","en":"Liabilities and equity"},"data":["2617157","27500","25763","27500","25000","25000","25000","25000","","","","","","","","","2500","2500","2500","2500","","","","","","","","","","","","","","","","","","","","","","","-1737","","2591394","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2590194","","18","","","","","","18","","","","","","","","2590176","","","","","","","","","","","","1200","","","","1200","","","","","","","","","","","","","","",""]},{"nazov":{"sk":"Výkaz ziskov a strát","en":"Income statement"},"data":["","","","","","","","","","","","","","","","","","","1644","","","","","","","","1560","","","","","","","","","","","","","","","","","","","","","","","","84","","-1644","","-1560","","10","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","10","","103","","","","","","","","","","","","","","","","","","103","","-93","","-1737","","","","","","","","","","-1737",""]}],"titulnaStrana":{"nazovUctovnejJednotky":"MTBIKER.group a.s.","ico":"54944325","dic":"2121853899","typUctovnejJednotky":"malá","adresa":{"ulica":"SVÄTOPLUKOVA II.","cislo":"18892/2","psc":"82108","mesto":"BRATISLAVA - STARÉ MESTO"},"skNace":"68200","typZavierky":"Riadna","obdobieOd":"2022-11","obdobieDo":"2022-12","predchadzajuceObdobieOd":"2022-11","predchadzajuceObdobieDo":"2022-11","datumZostavenia":"2023-06-29","oznacenieObchodnehoRegistra":"OR Mestského súdu Bratislava III vložka č. 7493/B"}},"pristupnostDat":"Verejné","idSablony":699,"kodDanovehoUradu":"100","datumPoslednejUpravy":"2023-07-11","zdrojDat":"FRSR"}
+
+=== https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/10289684 (príloha účtovnej závierky, text cez pdftotext -layout, medzery zlúčené) ===
+Poznámky Úč PODV 3-01 IČO 5 4 9 4 4 3 2 5 DIČ 2 1 2 1 8 5 3 8 9 9
+Čl. I Všeobecné informácie o účtovnej jednotke
+Čl. I (1) (5) Všeobecné informácie
+Čl. I (1) MTBIKER.group a.s.
+Obchodné meno účtovnej jednotky: Svätoplukova II. 18892/2 A, 82 1 08, Bratislava - Staré Mesto
+Sídlo účtovnej jednotky:
+Opis hospodárskej činnosti v nadväznosti na predmet podnikania
+kúpa tovaru na účely jeho predaja konečnému spotrebiteľovi (maloobchod) alebo iným prevádzkovateľom živnosti (veľkoobchod)
+sprostredkovateľská činnosť v oblasti obchodu, služieb a výroby
+činnosť podnikateľských, organizačných a ekonomických poradcov
+počítačové služby a služby súvisace s počítačovým spracovaním údajov
+prenájom nehnuteľností spojený s poskytovaním iných než základných služieb spojených s prenájmom
+vedenie účtovníctva
+poskytovanie úverov alebo pôžičiek z peňažných zdrojov získaných výlučne bez verejnej výzvy a bez verejnej ponuky majetkových hodnôt
+administratívne služby
+Čl. I (5)
+Priemerný počet zamestnancov počas účtovného obdobia Bežné účtovné obdobie Bezprostredne
+Názov položky predchádzajúce účtovné
+Priemerný prepočítaný počet zamestnancov obdobie
+Stav zamestnancov ku dňu, ku ktorému sa zostavuje účtovná závierka, z toho:
+Počet vedúcich zamestnancov
+Čl. I (4) Údaje o skupine
+(4) a) Obchodné meno a sídlo účtovnej jednotky, ktorá zostavuje konsolidovanú účtovnú závierku za najväčšiu skupinu, ktorej súčasťou je účtovná jednotka ako dcérska
+účtovná jednotka:
+(4) b) Obchodné meno a sídlo účtovnej jednotky, ktorá zostavuje konsolidovanú účtovnú závierku za najmenšiu skupinu, ktorej súčasťou je účtovná jednotka ako dcérska
+účtovná jednotka a ktorá je tiež začlenená do skupiny účtovných jednotiek uvedených v písmene a):
+(4) c) Adresa, kde sa môže vyžiadať kópia konsolidovaných účtovných závierok uvedených v písmenách a) a b):
+(4) d) Účtovná jednotka je materskou účtovnou jednotkou
+Áno Nie
+Účtovná jednotka je oslobodená od povinnosti zostaviť konsolidovanú účtovnú závierku a konsolidovanú výročnú správu podľa § 22
+Áno Nie
+Čl. III Informácie o prijatých postupoch
+Čl. III (1) Nepretržité pokračovanie účtovnej jednotky
+Čl. III (1) Účtovná jednotka bude nepretržite pokračovať vo svojej činnosti:
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega Strana: 1
+Poznámky Úč PODV 3-01 IČO 5 4 9 4 4 3 2 5 DIČ 2 1 2 1 8 5 3 8 9 9
+Áno Nie
+Čl. III (4) Spôsob a určenie ocenenia majetku a záväzkov
+Čl. III (4) a) Spôsob oceňovania majetku a záväzkov - obstarávacia cena, vlastné náklady,
+menovitá hodnota
+Čl. III (4) a) Spôsob oceňovania majetku a záväzkov - obstarávacia cena, vlastné náklady, menovitá hodnota
+Ocenenie majetku a záväzkov ÚJ má náplň (x) Poznámka k oceneniu
+Obstarávacou cenou x
+Hmotný majetok s výnimkou hmotného majetku vytvoreného vlastnou činnosťou
+Zásoby s výnimkou zásob vytvorených vlastnou činnosťou x
+Podiely na základnom imaní obchodných spoločností, deriváty a cenné papiere x
+Pohľadávky pri odplatnom nadobudnutí alebo pohľadávky nadobudnuté vkladom do ZI
+Nehmotný majetok s výnimkou nehmotného majetku vytvoreného vlastnou činnosťou
+Záväzky pri ich prevzatí
+Vlastnými nákladmi
+Hmotný majetok vytvorený vlastnou činnosťou
+Zásoby vytvorené vlastnou činnosťou
+Nehmotný majetok vytvorený vlastnou činnosťou
+Príchovky a prírastky zvierat
+Menovitou hodnotou
+Peňažné prostriedky a ceniny
+Pohľadávky pri ich vzniku
+Záväzky pri ich vzniku
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega Strana: 2

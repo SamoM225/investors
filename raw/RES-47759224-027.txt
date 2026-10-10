@@ -1,0 +1,1138 @@
+_______________________________________________________________________________________________________________________
+
+                       CONVERTIBLE LOAN AGREEMENT
+
+                                                                         CONCERNING
+                                                                        THE COMPANY
+
+                         TrollWall AI Technologies j.s.a.
+
+                                                                    AND THE INVESTORS
+
+                              SLSP Seed Starter, s.r.o.
+
+                                                                               AND
+
+                      National Development Fund II., a.s.
+
+                                                                               AND
+
+                                  HERNWOOD, a.s.
+
+______________________________________________________________________________________________________________________
+
+                                                                                                                                                      Page 1 of 60
+TABLE OF CONTENT
+
+    1 PARTIES .................................................................................................................................................................... 4
+    2 RECITALS .................................................................................................................................................................. 4
+    3 DEFINED TERMS ....................................................................................................................................................... 5
+    4 INTERPRETATION ...................................................................................................................................................... 8
+    5 COMMITMENT TO PROVIDE THE CONVERTIBLE LOAN AND DISBURSEMENT ............................................................. 9
+    6 PURPOSE OF THE LOANS........................................................................................................................................ 10
+    7 CONDITIONS PRECEDENT AND DRAW-DOWN REQUEST ........................................................................................ 11
+    8 INTEREST ................................................................................................................................................................ 12
+    9 REPAYMENT OF THE LOAN ...................................................................................................................................... 12
+    10 CONVERSION ......................................................................................................................................................... 12
+    11 COMPANY WARRANTIES ......................................................................................................................................... 13
+    12 SHAREHOLDERS WARRANTIES ............................................................................................................................... 13
+    13 FOUNDERS WARRANTIES ....................................................................................................................................... 14
+    14 REPETITION OF THE WARRANTIES........................................................................................................................... 14
+    15 LIABILITY FOR BREACH OF WARRANTIES & LIMITATIONS......................................................................................... 14
+    16 FOUNDER’S TIME AND EFFORT COMMITMENT ........................................................................................................ 15
+    17 FOUNDER’S LOCK-UP............................................................................................................................................. 15
+    18 BAD LEAVER DEPARTURE OF THE FOUNDER ........................................................................................................... 15
+    19 GOVERNANCE AND MANAGEMNENT OF THE COMPANY ........................................................................................ 16
+    20 TRANSFER OF IP RIGHTS ......................................................................................................................................... 17
+    21 OBLIGATIONS REGARDING IP RIGHTS..................................................................................................................... 18
+    22 NON-COMPETE AND NON-SOLICITATION UNDERTAKING....................................................................................... 18
+    23 EMPLOYEE STOCK OPTION PROGRAM .................................................................................................................... 19
+    24 INFORMATION RIGHTS & INVESTOR REPORTING .................................................................................................... 19
+    25 UPDATES OF BUSINESS AND FINANCIAL PLAN ....................................................................................................... 20
+    26 EVENTS OF DEFAULT .............................................................................................................................................. 20
+    27 CONSEQUENCES OF EVENTS OF DEFAULT ............................................................................................................. 21
+    28 CONFIDENTIALITY & PRESS RELEASE ...................................................................................................................... 21
+    29 COSTS AND EXPENSES ........................................................................................................................................... 21
+    30 NOTICES................................................................................................................................................................. 22
+    31 EXPERT DETERMINATION ........................................................................................................................................ 22
+    32 RELATIONSHIP BETWEEN THIS AGREEMENT AND ARTICLES OF ASSOCIATION AND EXISTING SHA ......................... 22
+    33 OFFSETTING AND PAYMENTS.................................................................................................................................. 22
+    34 OBLIGATIONS TO SURVIVE...................................................................................................................................... 23
+    35 SEVERABILITY ......................................................................................................................................................... 23
+    36 APPLICABLE LAW AND COURT JURISDICTION ......................................................................................................... 23
+    37 ASSIGNMENT .......................................................................................................................................................... 23
+    38 AMENDMENTS ........................................................................................................................................................ 23
+    39 ENTIRE AGREEMENT ............................................................................................................................................... 23
+    40 MISCELLANEOUS.................................................................................................................................................... 23
+    41 EFFECTIVENESS...................................................................................................................................................... 24
+
+                                                                                                                                                      Page 2 of 60
+SCHEDULES ....................................................................................................................................................... 25
+    SCHEDULE A - CAPITALIZATION TABLE OF THE COMPANY AS OF THE SIGNING DATE ................................................... 25
+    SCHEDULE B – BUSINESS AND FINANCIAL PLAN .......................................................................................................... 26
+    SCHEDULE C - PARAMETERS OF SEED PREFERRED SHARES......................................................................................... 26
+    SCHEDULE D - PRE-CONVERSION OBLIGATIONS ......................................................................................................... 42
+    SCHEDULE E - CONVERSION PROCEDURE................................................................................................................... 43
+    SCHEDULE F - TERMS AND CONDITIONS FOR THE NEW OR AMENDED SHAREHOLDERS' AGREEMENT ........................ 45
+    SCHEDULE G - COMPANY WARRANTIES ....................................................................................................................... 50
+    SCHEDULE H – RESERVED MATTERS............................................................................................................................. 53
+    SCHEDULE I – COMPANY DISCLOSURE ........................................................................................................................ 54
+    SCHEDULE J – REGULATORY COVENANTS OF THE NDF INVESTOR ............................................................................... 55
+    SCHEDULE K – INDEX OF DEFINITIONS......................................................................................................................... 58
+
+SIGNATURE PAGE................................................................................................................................................ 60
+
+                                                                                                                                                      Page 3 of 60
+This CONVERTIBLE LOAN AGREEMENT (the “Agreement”) is concluded pursuant to Sec. 269 (2) of the Act No. 513/1991 Coll.,
+the Commercial Code (Obchodný zákonník) as amended (the “Commercial Code”) by and between:
+
+1 PARTIES
+
+1.1 Pavol Bujňák, born on             , permanently residing at
+                  , email:                    (the “Founder PB”);
+
+1.2 Ing. Tomáš Koctúr, PhD., born on                 , permanently residing at
+                  , email:            (the “Founder TK”);
+
+1.3 Tomáš Halász, born on             , permanently residing at                                   , email:
+
+                            (the “Founder TH”);
+
+1.4 Filip Strýčko, born on            , permanently residing at                                   , e-
+
+mail address:               (the “Founder FS”);
+
+(the Founder PB, the Founder TK, the Founder TH antd the Founder FS hereinafter collectively, the “Founders” and any of
+them individually also the “Founder”);
+
+1.5 Reboot, s.r.o., a limited liability company organized and existing under the laws of the Slovak republic, having its registered
+       seat at Námestie 1. Mája 7991/9, 811 06 Bratislava, the Slovak Republic, company ID. No. 48 277 614, registered with the
+       commercial register of the Municipal Court Bratislava III under Sec. Sro, insert No. 106072/B, and with e-mail address:
+                                         (the “Shareholder RT”);
+
+1.6 ml-san s.r.o., a limited liability company organized and existing under the laws of the Slovak republic, having its registered
+seat at Skalická 1915/1, 040 18 Košice, Slovak Republic, company ID. No. 52 891 721, registered with the commercial
+
+register of Municipal Court Košice under Sec. Sro, insert No. 48112/V, and with e-mail address:   (the
+
+“Shareholder MN”);
+
+1.7 MiXai, s.r.o., a limited liability company organized and existing under the laws of the Slovak republic, having its registered
+       seat at Hviezdoslavova 501, 925 21 Sládkovičovo, Slovak Republic, company ID. No. 45 467 358, registered with the
+       commercial register of District Court Trnava under Sec. Sro, insert No. 35196/T, e-mail address:
+       (the “Shareholder MX”);
+
+1.8 CB ESPRI Impact One s.r.o., a limited liability company organized and existing under the laws of the Slovak republic, having
+       its registered seat at Staromestská 3, 811 03 Bratislava, Slovak Republic, company ID. No. 54 546 702, registered with the
+       Commercial Registry of the Municipal Court Bratislava III under Sec. Sro, insert No. 160365/B and with e-mail address:
+                                                                                                         (the “Pre-seed Investor”)
+
+1.9 HERNWOOD, a.s., joint stock company organized and existing under the laws of the Czech Republic, having its registered
+       seat at Vídeňská 995/63, Štýřice, 639 00 Brno, the Czech Republic, company ID. No. 05682177, registered with the
+       commercial register of Regional Court in Brno under Sec. B, insert No. 7638, and with e-mail address:
+                                        (the “HWD Investor”);
+
+(the Founder FS, the Shareholder RT, the Shareholder MN, the Shareholder MX, the Pre-seed Investor and HWD Investor
+hereinafter collectively, the “Existing Shareholders” and any of them individually also the “Existing Shareholder”)
+
+1.10 SLSP Seed Starter, s.r.o., a limited liability company organized and existing under the laws of the Slovak republic, having
+       its registered seat at Tomašíkova 48, 831 04 Bratislava, Slovak Republic, company ID. No. 54 736 196, registered with the
+       commercial register of the Municipal Court Bratislava III under Sec. Sro, insert No. 162970/B and with e-mail address:
+                                          (the “Lead Investor”);
+
+1.11 National Development Fund II., a.s., a joint-stock company organized and existing under the laws of the Slovak Republic,
+having its registered seat at Grösslingová 44, 811 09 Bratislava, Slovak Republic, company ID. No. 47 759 224, registered
+
+with the Commercial Register of the Municipal Court Bratislava III, under Sec. Sa, insert No.: 5948/B and with e-mail
+
+address:                    (the “NDF Investor”);
+
+(the Lead Investor, the NDF Investor and the HWD Investor hereinafter collectively, the “Investors” and any of them
+individually also the “Investor”)
+
+1.12 TrollWall AI Technologies j.s.a., a limited liability company organized and existing under the laws of the Slovak republic,
+
+having its registered seat at Bezručova 11895/9, 080 01 Prešov, Slovak Republic, having its offices also at Cintorínska
+2340/3, 811 08 Bratislava, Slovak Republic, company ID. No. 55 316 590, registered with the Commercial Registry of District
+
+Court Prešov under clause Sja, insert No. 31/P and with e-mail address:         (the “Company”);
+
+(the Founders, the Existing Shareholders, the Investors and the Company hereinafter collectively, the “Parties” and any of
+them individually also the “Party”)
+
+2 RECITALS
+
+2.1 As of the Signing Date all Shares in the Company are held by the Existing Shareholders as set forth in the capitalization table
+                                                                                                                                                      Page 4 of 60
+3.2.8   “Change of Control” means (i) the Majority Sale, (ii) a merger (zlúčenie), takeover (splynutie) or split (rozdelenie)
+        or any other change in structure (irrespective of the applicable law regime) that results in a change of the Control
+        over the Company, (iii) a sale, long-term lease or other similar disposition of majority (> 50 % of the Fair Value) of
+        the tangible or intangible assets of the Company to a Third Party including the transfer of the enterprise (prevod
+        podniku) or part of the enterprise (prevod časti podniku), (iv) the transfer of the intellectual property rights of the
+        Company (relating to and/or important for the Business and Product) to a Third Party, the granting of an exclusive
+        license to the intellectual property rights of the Company to a Third Party that results the Company ceasing to
+        operate the Business, except for the disposition to be made in the ordinary course of business of the Company, (v)
+        IPO (listing of the Company directly or indirectly on a stock exchange).
+
+3.2.10  “Control” means the ability to manage an entity and determine its internal rules through the ownership of a
+3.2.11  majority (> 50 %) Shares, upon an agreement or otherwise; the terms “controlled” or “controlling” shall be
+3.2.12  interpreted accordingly.
+
+3.2.13  “Director” means the executive director / member of the board of directors (člen predstavenstva / konateľ) of the
+3.2.14  respective entity (or analogically according to any other applicable law under which the respective entity was
+3.2.15  incorporated and is existing).
+
+        “Disclosed” means fairly disclosed (and described) in reasonable detail to allow the Investor and/or its advisers
+        to clearly identify from such information that a particular General Warranty and/or Company Warranty is untrue,
+        inaccurate or misleading, and to reasonably assess the nature, extent, and potential consequences of such
+        inaccuracy, but in any case, only if and to the extent such information, fact, claim, liability or circumstance: (a)
+        was made available to the Investor and/or its professional advisors in the data room anytime prior Signing Date,
+        (b) would transpire from (i) an excerpt from the Slovak Commercial Register regarding the Company made online
+        as at the Signing Date (and in reference to any Warranty to be repeated in future, as of the date of such repetition),
+        or (c) was disclosed to the Investors under this Agreement, Article of Association and/or Existing SHA.
+
+        “Encumbrance” means any charge, mortgage, pledge, security, lien, claim, collateral, obligation, option, power
+        of sale, notarial deeds of execution (notárske exekučné tituly), buy-back rights, better-buyer reservation, retention
+        of title, right of pre-emption (right of first refusal), security interest of any kind or any other third-party rights, all of
+        the foregoing whether arising by agreement, operation of law or otherwise (and the words “encumbered”,
+        “encumber”, “un-encumbered” and similar shall be construed accordingly).
+
+        “Equity Fund” means the fund of the respective entity created from the monetary contributions of the
+        Shareholders of such entity (kapitálový fond) within the meaning of Sec. 217a of the Commercial Code (or
+        analogically according to any other applicable law under which the respective entity was incorporated and is
+        existing).
+
+        “Existing SHA” means the Shareholders’ Agreement dated 16 June 2025 concluded between the Company,
+        Existing Shareholders and Founders regulating their individual as well as collective rights and obligations in
+        relation to the Company, each other and vis-á-vis third parties.
+
+3.2.19  “Fully Diluted Registered Capital” means the Registered Capital of the Company as if all share options
+3.2.20  outstanding immediately before the Conversion Event were converted into Shares.
+3.2.21
+        “General Meeting” means the shareholder’s meeting (valné zhromaždenie) of the respective entity.
+3.2.22
+        “Good Reason” means loss of capacity of the Founder to perform legal acts (strata spôsobilosti na právne úkony),
+        death of the Founder, serious illness or other inadvertent pressing personal circumstances relating to the
+        respective Founder, which includes death or serious illness of a close family member necessitating a permanent
+        in person care by the respective Founder, which are objectively expected to result in the incapacity of the
+        respective Founder to comply with its obligations under the Founder’s Time and Effort Commitment.
+
+        “IP Rights” means on a worldwide basis all rights of the following types, which may exist or be created under the
+        laws of any jurisdiction (in each case whether registered or not): (i) trademarks, business names, domain names,
+
+        Page 6 of 60
+        trade name rights, work titles, trade tress or rights protected against passing off, (ii), patents, utility models, rights
+        to inventions and design rights; (iii) copyrights, database rights and other rights associated with works of
+        authorship, including exploitation rights, economic rights in software as set forth in Act No. 185/2015 Coll. the
+        Copyright Act (Autorský zákon) of Slovak Republic as amended or other applicable copyright laws and rules of
+        other applicable jurisdiction (the “Copyright Act”) and moral rights (osobnostné práva) as applicable or similar
+        rights protected through copyright in other countries (to the extent assignable under applicable law); (iv) trade
+        secret rights and rights in know-how; (v) any other proprietary rights in intellectual property; and (vi) rights in or
+        relating to applications, registrations, renewals, extensions, combinations, divisions, continuations and reissues
+        of, and applications for, any of the rights referred to in clauses (i) through (v) above.
+
+3.2.24  “Majority of Investors” means collective approval or collective disapproval of majority (> 50 %) of votes of
+3.2.25  Investors, while each have one (1) vote per each disbursed EUR 1,000 (in words: one thousand euro) of its
+        respective investment in this Investment Round.
+3.2.26
+        “Majority Sale” means a direct or indirect transfer or other disposition of such Shares in the Company, which
+        (each such transfer or disposition, alone or in combination with other such material or time-related transfers or
+        dispositions) will result in an acquisition by the acquirer (or persons acting jointly or in coordination with the
+        acquirer) of such Shares in the Company, on the basis of which the acquirer (or persons acting jointly or in
+        coordination with the acquirer) will acquire the Control over the Company.
+
+        “Management Service Agreement” means the agreement between the Company and the Director of the
+        Company (člen predstavenstva) regulating the performance of his/her office (zmluva o výkone funkcie člena
+        predstavenstva).
+
+3.2.30  “Part of the Shares without Buy-back Right” means with respect to the relevant Founder or the Founder Holding
+        Company (whichever applies) (i) the Shares in the Company held by the relevant Founder or by the relevant
+3.2.31  Founder Holding Company (whichever applies) as of the Signing Date less (ii) the Part of the Shares with Buy-back
+3.2.32  Right.
+3.2.33
+        “Person” means any individual or legal entity designed as such by law.
+
+        “Preferred Shares” means any and all preferred shares (akcie s osobitnými právami) in the Company, either Seed
+        Preferred Shares or Pre-seed Preferred Shares.
+
+        “Pre-seed Preferred Shares” means any and all Preferred Shares in the Company owned by the Pre-seed Investor.
+
+        Page 7 of 60
+3.2.35  “Receivable” means respective Investor's receivable from the Company under this Agreement, which consists of
+3.2.36  the amount of the drawn Loan (only the amount actually drawn) provided by the relevant Investor to the Company,
+3.2.37  and respective Interest (if not paid back by the Company by a wire transfer on the Conversion Date) .
+3.2.38
+        “Registered Capital” means the registered capital (základné imanie) of the respective entity within the meaning
+3.2.39  of Sec. 58 of the Commercial Code (or analogically according to any other applicable law under which the
+3.2.40  respective entity was incorporated and is existing).
+3.2.41
+3.2.42  “Regulatory Covenants” means the customary regulatory provisions required under the NDF Investor’s
+3.2.43  investment policy which are set out in Schedule J hereto. The Company acknowledges that the NDF Investor’s
+        financial means come from the state and EU sources (Recovery and Resilience Facility) and, consequently, are
+        subject to rules governing procurement, environment, and social standards as well as purpose of investment.
+
+        “Related Party” means any Person in the position under Sec. 66a of the Commercial Code and/or under Sec. 116
+        of the Act No. 40/1964 Coll. Civil Code (Občiansky zákonník) of Slovak Republic as amended (the “Civil Code”)
+        and/or any Person which is in the position under Sec. 66a of the Commercial Code to the Person under Sec. 116
+        of the Civil Code, including any fund or entity that is managed, initiated or sponsored by one or more investment
+        manager(s) of Investor.
+
+        “Repayment Request” means a notification by the Investor addressed to the Company, on the basis of which, in
+        line with the Sec. 9.4.2, the Company will be obliged to carry out Repayment.
+
+        “Scope of Business” means any business activities that the Company has performed, performs and/or will
+        perform in accordance with the Business and Financial Plan. The primary Scope of Business consists in the
+        Business.
+
+        “Seed Preferred Shares” means any and all Seed Preferred Shares in the Company that shall constitute a new
+        distinct class of Preferred Shares with the rights as set forth in Schedule C – Parameters of Seed Preferred Shares.
+        The Seed Preferred Shares shall represent the most senior class of Shares in the Company that shall have
+        preference over all other existing and future classes of Shares in the Company until the Qualified Financing.
+
+        “Shareholder(s)” means any shareholder(s) (spoločník/spoločníci, akcionár/akcionári) of respective entity
+        according to the Slovak law or analogically according to any other applicable law (under which the respective entity
+        was incorporated and is existing).
+
+        “Shares” means any and all of the shares (akcie) in the Company, regardless of their class.
+
+3.2.45  “Signing Date” means the date on which this Agreement has been duly signed by all Parties (the latest date of
+3.2.46  signature shall be used for this purpose, if the Agreement has been signed by the Parties on different dates).
+
+3.2.47  “Subscription Amount” means the amount (in EUR) equal to 110% (in word: one hundred ten per cent) of the
+3.2.48  aggregate nominal value of newly issued Seed Preferred Shares to the Investor (according to applicable law, each
+        simple joint stock company such as the Company has to create a reserve fund corresponding to 10% of Registered
+        Capital.
+
+        “Subsidiary” means a legal entity that is under the Control of the Company (according to respective context),
+        including such legal entities that will come under the Control of any of the companies listed above in the future.
+
+        “Taxes” means all kinds of taxes and similar charges, duties or contributions arising under Slovak law or the laws
+        of any foreign jurisdiction, including, but not limited to, state, local, municipal and governmental duties, corporate
+        income tax, trade tax, stamp duty, transfer tax, custom duty, registration tax, wealth tax, wage tax, value added
+        tax, social security charges (including, but not limited to, employee share thereof) and any other form of taxation,
+        levy, duty, charge, contribution, withholding or impost of whatever nature, and any related fine, penalty, surcharge
+        charges, costs or interest or similar charges, including, but not limited to, all charges accessory to taxes imposed
+        by any taxing authority.
+
+      3.2.50 “Third Party” means any Person (one or more) except for (i) the Parties and (ii) Related Parties.
+
+4 INTERPRETATION
+
+4.1 The headings contained in this Agreement are for convenience and reference purposes only and shall not affect the meaning
+       or construction of any of the provisions hereof.
+
+4.2 Except as set forth otherwise, references to “Sec.” or “Section” refer to the corresponding Section of, and references to
+
+                                                                                                                                                      Page 8 of 60
+“Schedule” to the corresponding Schedule to this Agreement. All words used in this Agreement shall be construed to be of
+such gender or number as the circumstances require.
+
+4.3 All Schedules attached hereto form an integral part of this Agreement.
+
+4.4 Wherever this Agreement refers to an agreement, such reference shall apply to and include all ancillary agreements,
+       arrangements, amendments, side letters, waivers and other legally binding statements, if any, related thereto.
+
+4.5 The word “including” shall not limit the meaning of the preceding words or terms.
+
+4.6 Singular words in this Agreement include also the plural and vice versa.
+
+4.7 Wherever this Agreement specifies a time period determined by:
+
+4.7.1  days or Business Days, such a time period shall be counted from the day that follows the event decisive for the
+       commencement of such period;
+
+4.7.2  weeks, months or years, such a time period shall end on the day whose designation or number corresponds with
+       the designation or number of the day on which the event from which the period commences falls. If there is no
+       such day in the last month, the end of the period shall fall on the last day of that month;
+
+4.8 An Event of Default “continues” or “persists” in case(i) it has not been remedied within the period for its remedy as set
+       forth in respective Sections of this Agreement, or (ii) the right to have it remedied has not been waived.
+
+4.9 Where this Agreement provides that a Party shall “ensure” including cause or procure (the “Obliged Party”) a certain action
+       or situation (the “Obligation”), then in relation to the Obliged Party such Obligation includes the commitment, to the
+       maximum extent permitted by mandatory legal provisions, to perform acts, convene all meetings and sessions, waive all
+       rights and give consents and take all decisions and exercise other of its rights and powers at its disposal in such a way as to
+       perform the Obligation which this Obliged Party is to ensure and where used with respect to any of the Existing Shareholders,
+       shall mean that the Existing Shareholder shall, to the extent permitted by applicable laws, exercise its voting rights and all
+       other powers vested in the Existing Shareholder as shareholder, director, officer or employee or otherwise (as applicable)
+       in such a way as to achieve the effect set out in the obligation to ensure, whether acting independently or (to the extent that
+       such collective action is permitted by applicable laws) together with other persons; but the Existing Shareholder shall not
+       be (i) liable for a failure to achieve a particular result if such Existing Shareholder has duly exercised all its powers and
+       obligations as stipulated herein and has duly exercised or made use of all powers available to such Shareholder under
+       applicable law, this Agreement or the relevant articles of association and (ii) held in breach of its obligation if the obligation
+       to ensure has been fulfilled irrespective of the Existing Shareholder’s omission.
+
+4.10 Unless the context indicates otherwise, any obligation of the Company or the Shareholder of the Company or the Founder
+       that is not a financial obligation shall be valid and effective as long as any financial obligation (debt) of the Company under
+       this Agreement towards Investor lasts.
+
+4.11 Unless the context indicates otherwise (e. g. joint action of the Investors), any action of the Investor contemplated by this
+       Agreement with respect to the Loan shall mean the action of such Investor with respect or relating to the Loan provided by
+       such Investor.
+
+4.12 Any payment shall be performed in the currency as stated in this Agreement or in which the respective loan/funds was made
+       available in case the Parties do not agree otherwise. In all other cases when a conversion between currencies is needed,
+       the ECB conversion rates shall apply.
+
+4.13 Where a term in the Slovak language is used in this Agreement, be it in italics, in brackets or otherwise, to further specify or
+       define an expression in the English language, such Slovak term only (and not the English term) shall be authoritative for the
+       meaning, construction and interpretation of the relevant provision and all matters related thereto, provided, however that
+       such term is attributable to the relationship and/or entity regulated by Slovak law. In cases where defined terms are used in
+
+       relation to the relationship and/or entity regulated obligatorily by other than Slovak law (i. e. by the applicable law under
+       which the respective entity was incorporated and is existing) the closest possible interpretation of respective defined term
+       or closest institute admissible under such law shall be used.
+
+4.14 Any reference in this Agreement to an obligation of a Founder and its respective Founder Holding Company to pay a
+       contractual penalty shall mean a joint and several (spoločná a nerozdielna) obligation to pay such contractual penalty. For
+       the avoidance of doubt, the contractual penalty shall be payable only once, either by the Founder or by its Founder’s Holding
+       Company).
+
+5 COMMITMENT TO PROVIDE THE CONVERTIBLE LOAN AND DISBURSEMENT
+
+5.1 Subject to the terms and conditions of this Agreement:
+
+5.1.2 the NDF Investor (as the creditor) undertakes to provide to the Company (as the debtor) with the loan (úver) in an
+                                                                                                                                               Page 9 of 60
+Company exclusively for:
+
+6.1.1 the Business of the Company according to approved Business and Financial Plan;
+
+6.1.2 costs of Investors’ Investment incurred by the Company and the Founders up to the amount of EUR 15,000;
+
+6.1.3 the Signing Conditions Costs.
+
+6.2 Any other use of the Loans is subject to the prior written approval of the Majority of Investors.
+
+6.3 Without prejudice to the foregoing, the use of the Loan provided by the NDF Investor shall be further subject to the following
+       additional restrictions:
+
+6.3.1  The Company may not use the Loan from the NDF Investor to repay any other loans of the Company prior to the
+       execution hereof or to pay damages, unjust enrichment or any other amount of similar nature to any party other
+       than to the NDF Investor.
+
+6.3.2  The Company may not use the Loan from NDF Investor for any financing, refinancing, as well as co-financing with
+       funds from any national grants or European Union grants, including any funded from the Recovery and Resilience
+       Facility of the Slovak Republic.
+
+6.3.3  The Loan from the NDF Investor shall be utilized exclusively in the territory of the Slovak Republic, except for (i)
+       usual travelling, lodging, accommodation costs of employees travelling outside of the Slovak Republic, and (ii)
+       services or products not commonly available in the Slovak Republic such as web cloud services, purchase of
+       applications, payment of fees to telephone providers, marketing providers, Google, Meta, Instagram, Apple,
+       payment of advisors such as tax or legal advisors.
+
+6.3.4  The Loan from NDF Investor may not be used for and the Company cannot be active in: (i) activities and assets
+       related to fossil fuels, including downstream use; (ii) activities and assets under the EU Emission Trading System
+       (ETS) achieving projected greenhouse gas emissions that are not lower than the relevant benchmarks; (iii) activities
+       and assets related to waste landfills, incinerators and mechanical biological treatment plants; (iv) activities and
+       assets where the long-term disposal of waste may cause harm to the environment.
+
+6.3.5 The Loan from the NDF Investor shall be utilized until 31 August 2026.
+
+6.4 The Investors are not obliged to monitor or verify the accuracy of the utilisation of the Loans pursuant to this Agreement,
+       except that the NDF Investor reserves the right to request information from the Company and to verify compliance with
+       (i) the restrictions set out in Section 6.3 above, and (ii) the Regulatory Covenants set out in Schedule J (Regulatory Covenants
+       of the NDF Investor), and the Company undertakes to cooperate with such requests.
+
+7 CONDITIONS PRECEDENT AND DRAW-DOWN REQUEST
+
+7.1 The disbursement of the Second Lead Tranche, Second NDF Tranche and Second HWD Tranche is subject to meeting
+       (cumulatively) of the following conditions precedent by the Company (the “Conditions Precedent”):
+
+7.2 The Second Lead Tranche, the Second NDF Tranche and the Second HWD Tranche shall be provided by the respective
+       Investor on the basis of a duly issued (i.e., formally and substantively in compliance with this Sec. 7) request for the provision
+       of the Second Lead Tranche, the Second NDF Tranche and the Second HWD Tranche, addressed and delivered to the
+       respective Investor (the “Draw-down Request”).
+
+7.3 The Draw-down Request shall be deemed to have been duly issued only if it is issued for the entire amount of the Tranche
+       as set forth in respective Sec. 5.2.2, 5.3.2 or 5.4.2, and accompanied by the documents and information reasonably and
+       satisfactorily proving of meeting the respective Conditions Precedent. The Draw-down Request shall be deemed to have
+       been duly issued only if it is issued for the entire amount of the Tranche as set forth in respective Sec. 5.2.2, 5.3.2 or 5.4.2.
+
+7.4 Should the Investor consider that the Draw-down Request has not been issued in a proper manner, the Investor is obliged
+       to notify the Company of such fact within five (5) Business Days after receipt of the Draw-down Request. The new time limit
+       for the disbursement of the Tranche will start to run from the date of delivery of the Draw-down Request issued in a proper
+       manner.
+
+7.5 Should the Investor fail to express its opinion within the time limit pursuant to Sec. 7.4, the legal fiction shall apply that the
+       Draw-down Request has been issued in a proper manner.
+
+7.6 The Company is entitled to deliver the duly issued Draw-down Request relating to the Tranche to the Investor within twelve
+       (12) months following the Signing Date The Investor has right, but is not obliged to accept such Draw-down Request (i. e. to
+       provide and disburse the Tranche), which was delivered to the Investor after elapse of the period as set forth in first sentence
+       of this Sec. 7.6.
+
+7.7 If the concerned Parties cannot agree whether the Conditions Precedent have been met, it shall be determined by an Expert.
+
+                                                                                                                                                    Page 11 of 60
+7.8 The Investor (at its sole discretion) may waive any or all of the Conditions Precedent (or any part thereof) upon notice
+       addressed to the Company. Such waiver may be subject to the fulfilment of any other conditions set forth in respective
+       waiver.
+
+8 INTEREST
+
+8.1 The Company is obliged to pay the Investor interest in the amount of  per annum of the actually disbursed amount
+of the funds - respective Investor’s Tranche from the respective Disbursement Date relating to respective Tranche until the
+
+repayment of the respective Tranche (the “Interest”). The Parties agree that the Interest shall be paid via the Conversion
+under the conditions as set forth in Sec. 10, or the Interest shall be paid back to the Investor by a wire transfer of immediately
+
+available funds to the domestic bank account of the Investor.
+
+8.2 The Interest becomes due and payable at the same time as the Loan. Any subsequent Interest (i. e. relating to the period
+       after the maturity of the Loan) is due and payable immediately at the request of the Investor. The Interest shall be paid in the
+       same way as the Loan in accordance with the conditions specified in Sec. 9.
+
+8.3 Any Interest under this Agreement shall be calculated on a daily basis, based on the number of days actually elapsed and a
+       year having 365 days.
+
+9 REPAYMENT OF THE LOAN
+
+9.1 Subject to the terms and conditions of this Agreement, the Company (as a borrower) undertakes to repay the respective
+       drawn Loan (respectively whole actually drawn amount of the funds) to the Investor alongside with the Interest.
+
+9.2
+
+       Notwithstanding anything to the contrary herein, if the Conversion will not be permitted under applicable law, the Company
+       is obliged to repay the Loan including Interest by Repayment.
+
+10 CONVERSION
+
+10.1 Except as provided in Sec. 27.1, the Parties hereby undertake (and each Party is obliged to ensure) to convert the Receivable
+       into the Seed Preferred Shares in the Company in accordance with the procedure set forth in Schedule E - Pre-Conversion
+       Obligations and on the basis of the Conversion Formula (the “Conversion”), i.e. to perform or ensure the performance of
+       such acts in order to enable the Investor to acquire the Seed Preferred Shares in the Company, which the Investor will pay
+       up in full by offsetting against the Receivable. The Parties are obliged to perform the Conversion on the Conversion Date if
+       the first of the following events occurs (or is to occur):
+      10.1.1 the Qualified Financing; or
+      10.1.2 the Change of Control; or
+      10.1.3 the Final Maturity Date;
+       (any of the aforementioned the “Conversion Event”).
+
+                                                                                                                                                    Page 12 of 60
+10.2 The newly issued Seed Preferred Shares to be subscribed by the Investor in relation to the Conversion Event shall be
+       determined based on the following conversion formula (the “Conversion Formula”):
+
+      10.2.1 in relation to the Conversion that occurs before the Milestone as follows:
+
+                The number of newly issued Seed Preferred Shares = [(Receivable of the respective Investor divided by the
+                Base Valuation) multiplied by Fully Diluted Registered Capital] divided by 2 (i.e. the nominal value of each Seed
+                Preferred Share which is EUR 2.00);
+
+      10.2.2 in relation to the Conversion that occurs after the Milestone as follows:
+
+                The number of newly issued Seed Preferred Shares = [(Receivable of the respective Investor divided by the
+                Adjusted Valuation) multiplied by Fully Diluted Registered Capital] divided by 2 (i.e. the nominal value of each
+                Seed Preferred Share which is EUR 2.00).
+
+10.3 The amount of the Seed Preferred Shares calculated based on the Conversion Formula in accordance with Sec. 10.2 shall
+       be mathematically rounded up to whole number.
+
+10.4 If a Founder and/or its Founder Holding Company or Existing Shareholder (as applicable) breaches its obligation under
+       Section 10.1, and unless such Founder and/or the Founder Holding Company and/or the Existing Shareholder (as
+       applicable) fails to cure such breach despite prior notice from the Investor within ten (10) Business Days after the delivery
+       of such notice, the respective Founder or Founder Holding Company or Existing Shareholder shall, in addition to any other
+       remedies of the Investor under this Agreement or law, immediately upon the Investor’s request, pay to (each) the Investor a
+       contractual penalty in amount of EUR 1,000 (in words: one thousand euro) per each day in which respective breach persists
+       (has not been remedied). The cumulative amount of the contractual penalty for such breach shall not exceed in relation to
+       the respective Founder jointly with its Founder Holding Entity or Existing Shareholder the amount of 50% of the Investor’s
+       Investment. The Investor shall not be deemed to have waived the obligation of a Founder or a Founder Holding Company,
+       and the relevant Founder or Founder Holding Company shall not be deemed to be relieved of its obligation, to comply with
+       the Sec. 10 by the Investor by accepting payment of the contractual penalty or seeking any other remedy available to which
+       the Investor may be entitled under this Agreement or applicable law. The right to claim damages exceeding the contractual
+       penalty shall not be affected by this Sec. 10.4, resp. by the payment of the contractual penalty.
+
+10.5 If the Conversion is carried out at the Base Valuation and the Company subsequently reaches the Milestone, the equity
+       position of the Investor shall be adjusted according to the Adjusted Valuation, such that the number of Seed Preferred
+       Shares held by the Investor reflects the Conversion made at the Adjusted Valuation. In such a case, the Company shall
+       issue such additional Shares to the Existing Shareholders at their nominal value pro-rata (or alternatively reduce the
+       Investor’s equity position via buyback free of charge, if legally permissible), so as to reflect the revised capitalization table
+       based on the Adjusted Valuation. The adjusted mechanism this Sec. 10.5 shall not involve any (re)payment by the Company
+       and/or the Existing Shareholders. This clause is intended to survive termination of this Agreement.
+
+11 COMPANY WARRANTIES
+
+11.1 The Company, represents and warrants (vyhlasuje a zaručuje) vis-à-vis the Investor that as of the Signing Date, and except
+       as Disclosed, information and/or matter as set forth in Schedule G - Company Warranties (each a “Company Warranty”
+       and, collectively, the “Company Warranties”) are true, accurate, complete and not misleading as of the Signing Date and
+       the Investor may rely on each Company Warranty.
+
+12 SHAREHOLDERS WARRANTIES
+
+12.1 Each Existing Shareholder, to the extent applicable each individually and not as joint debtor with any other Existing
+       Shareholder and with respect to its respective Shares in the Company only, represents and warrants (vyhlasuje a zaručuje)
+       vis-à-vis the Investor as of the Signing Date, and except as Disclosed, (each a “Shareholders Warranty” and, collectively,
+       the “Shareholders Warranties”) following:
+
+12.1.1 The Existing Shareholder has all requisite power and authority to enter into this Agreement.
+
+12.1.2  The respective Shares in the Company has been validly acquired by the Existing Shareholder in compliance with
+        all applicable laws and have been fully paid-in, either in cash or in kind, and have not been repaid or returned in
+        any way. There are no obligations to make any further contributions by the Existing Shareholder in connection with
+        its respective Shares in the Company.
+
+12.1.3  The Existing Shareholder holds full and unrestricted title to its respective Shares in the Company as set forth in
+        detail in Sec. 2.1. Other than as provided under the Existing SHA and/or the Articles of Association, and/or as
+        contemplated under this Agreement, the Shares in the Company held by Existing Shareholder is not subject to any
+        (i) Encumbrances, (ii) silent partnerships (tiché spoločenstvo) or similar arrangements, (iv) sale, disposal, option
+        or transfer agreements, (v) voting agreements, (vi) agreements obliging the Existing Shareholder to perform any of
+        the aforementioned measures, or (vii) shareholders’ resolutions providing for their redemption or similar
+        measures.
+
+                                                                                                     Page 13 of 60
+13 FOUNDERS WARRANTIES
+
+13.1 Each Founder, to the extent applicable each individually and not as joint debtor with any other Founders represents and
+       warrants (vyhlasuje a zaručuje) vis-à-vis the Investor as of the Signing Date, and except as Disclosed, (each a “Founders
+       Warranty” and, collectively, the “Founders Warranties”) following:
+
+13.1.1  The Founder has reviewed the Company Warranties and no Company Warranty contains, as of the Signing Date,
+        any misrepresentation, or is, as of the Signing Date, inaccurate in any respect and therefore the Founder accesses
+        (pristupuje) to all of the Company Warranties set forth in Sec. 11, resp. as set forth in Schedule G - Company
+        Warranties.
+
+14 REPETITION OF THE WARRANTIES
+
+14.1 Each Company Warranty, each Shareholders Warranty and each Founders Warranty (each the “Warranty” and any
+       combination of then collectively, the “Warranties”) provided by the Company, the Existing Shareholder and the Founders
+       shall be deemed to be repeated by each of them on the day of submission of the Draw-down Request and on the Conversion
+       Date, provided that
+
+14.1.1 this paragraph shall not apply to Warranties that are not intended to be repeated, as indicated in Schedule G -
+            Company Warranties,
+
+14.1.2  the scope of the respective Warranty shall be automatically updated and provide for any changes arising from (a)
+        performance of this Agreement, (b) approved by the Majority of Investors or an Investor (as applicable), (c)
+        performance of the scope of business and carrying out legal acts and action that are not subject to approval of the
+        Investor or Majority of Investors (as applicable), or
+
+14.1.3 in relation to the repetition of Warranties on the Conversion Date, the Disclosures shall be updated to reflect
+            circumstances existing at the time of the Conversion Date.
+
+15 LIABILITY FOR BREACH OF WARRANTIES & LIMITATIONS
+
+15.1 The Company and the Founders acknowledge that the Investor is entering into this Agreement in reliance upon each of the
+       Warranties being true, accurate, complete and not misleading as of the Signing Date and whenever being repeated.
+
+15.2 In the event of an actual or potential breach of any Warranty, the Investor shall, without undue delay after becoming aware
+       of such matter, notify the respective Warranty Obligor(s) of such alleged breach, describing the potential claim in
+       reasonable detail and, to the extent practical, may state the estimated amount of such claim and give the respective
+       Warranty Obligor(s) the opportunity to remedy the breach within the time period stipulated in Sec. 15.3.
+
+15.3 In the event of a breach of:
+
+      15.3.1 any of the Company Warranties, the Company,
+
+      15.3.2 any of the Shareholders Warranties, the Existing Shareholders,
+
+      15.3.3 any of the Founders Warranties, the Founders,
+
+       (the Company and/or the Existing Shareholders and/or the Founders in breach of the respective Warranty given by such
+       Party the “Warranty Obligor(s)”) shall put the Investor (or at the request of the Investor the Company) in the position it (they)
+       would be in, if the respective Warranty had not been breached (uvedenie do zmluvne konformného stavu). If the respective
+       Warranty Obligor(s) is/are unable to achieve this position within twenty (20) Business Days after having been notified by the
+       Investor of the breach in accordance with Sec. 15.2, the Investor may claim for any monetary damages from respective
+       Warranty Obligor(s) (and the respective Warranty Obligor(s) undertakes to indemnify and compensate the Investor for such
+       damage/damages the Investor suffers, should any of the Warranties turn out to be untrue, inaccurate, incomplete and
+       misleading as of the Signing Date and whenever being repeated) or to proceed in accordance with Sec. 27, provided,
+       however, that the Warranty Obligor(s) shall only be liable for any actual and direct damages of the Investor and/or the
+       Company resulting from the breach of a respective Warranty (for the avoidance of doubt, a liability of Warrant Obligors for
+       a loss of profit is hereby excluded).
+
+15.4 For the purposes of the Warranties, “Best Knowledge” of a Warranty Obligor in respect of a particular fact or circumstance
+       shall be deemed given only if such Warranty Obligor (or its Director(s) if applicable) (i) positively knows of such fact or
+       circumstance, or (ii) would or could have known such fact or circumstance after due inquiry applying the due standard of
+       care of a prudent businessman.
+
+15.5 The Warranty Obligor(s) shall be liable pursuant to Sec. 15.2 and Sec. 15.3 only if and to the extent that the aggregate amount
+       of all damages resulting from any breach of a Warranty exceeds EUR 40,000 (in words: forty thousand euro) (the
+       “Deductible Amount”). In the event that the Deductible Amount is exceeded, the Warranty Obligors shall be liable only for
+       the amount of damages in excess of the Deductible Amount. To the extent that the aggregate amount of all damages
+       exceeds the Deductible Amount, the Warranty Obligor(s) shall be liable pursuant to Sec. 15.2 and Sec. 15.3 only if and to
+       the extent that:
+
+                                 Page 14 of 60
+15.5.1  individual damages resulting from any breach or, in the case of a series of related breaches of a Warranty, from
+        such series of breaches of a Warranty exceed EUR 10,000 (in words: ten thousand euro) (the “De Minimis
+        Amount”);
+
+15.5.2  the aggregate amount of all damages resulting from any individual breach or a series of related breaches of a
+        Warranty that, individually, exceed the De Minimis Amount. In the event that the Deductible Amount is exceeded,
+        the Warranty Obligors shall be liable for the total amount of all damages in excess of the Deductible Amount that,
+        individually, exceed the De Minimis Amount, and not only for the amount of damages in excess of the Deductible
+        Amount.
+
+15.6 With respect to a breach of a Company Warranty(ies), the Company’s (in position of Warranty Obligor) liability vis-à-vis the
+       Investor under or in connection with this Agreement including, but not limited to, any and all claims for the breach of a
+       Company Warranty(ies) shall be limited to 100 % amount of the respective disbursed Loan.
+
+15.7 The total liability of an Existing Shareholder (other than a Founder that is an Existing Shareholder and Founder Holding
+       Company that is an Existing Shareholder) for a breach of a Shareholder Warranty(ies) vis-à-vis the Investor under or in
+       connection with this Agreement shall be limited to EUR 50,000.
+
+15.8 The total liability of a Founder jointly with its Founder Holding Company for any breach of a Founder Warranty(ies), in
+       aggregate vis-à-vis all the Investors under or in connection with this Agreement including, but not limited to, shall be limited
+       to EUR 50,000.
+
+15.9 The aggregated liability of the Company, the Existing Shareholders and the Founders and the Founder Holding Companies
+       with respect to a breach of any and all Warranty(ies) shall be limited to 100 % amount of the respective disbursed Loan.
+
+15.10 Notwithstanding anything to the contrary herein, nothing in this Agreement shall have the effect of limiting any liability
+       of the Warranty Obligor(s) arising from wilful misconduct (úmyselné porušenie povinností), gross negligence (hrubá
+       nedbanlivosť) or fraudulent action (podvodné konanie).
+
+16 FOUNDER’S TIME AND EFFORT COMMITMENT
+
+16.1 The Founders hereby (i) declare their interest in and undertake to further develop the Business in the scope specified in such
+       Founder’s Service Agreement. Therefore, during the Lock-up Period, the Founders shall devote substantially all of their
+       professional time (at least forty (40) hours per week) and efforts exclusively to the management and development of the
+       Company (whereby cumulative absence of twenty (20) Business Days per year is accepted, e.g. due to vacation or sick
+       leave). Any other professional and/or commercial activity of the Founders irrespective of whether this activity is competing
+       directly or indirectly in any manner with the Company and the Business shall be subject to the prior approval by the Majority
+       of Investors to be granted or denied at sole discretion of the Majority of Investors (the “Founder’s Time and Effort
+       Commitment”).
+
+16.2 Notwithstanding the foregoing, the Parties agree that any activity of the Founders relating to: (i) non-commercial / non-profit
+       activities and (ii) other professional and/or commercial activities not competing directly or indirectly in any manner with the
+       Company and the Business, not exceeding eight (8) hours per week, are permitted activities and shall be not deemed as
+       breach of Sec. 16.1, respectively breach of Founder’s Time and Effort Commitment.
+
+16.3 Notwithstanding the foregoing, the Parties acknowledge and agree that the Founder TK is on maternity leave and shall return
+       to work on July 15, 2026. Until that date, his maternity leave shall be not deemed as breach of Sec. 16.1, respectively breach
+       of Founder’s Time and Effort Commitment, and the Founder TK is neither a Good Leaver nor a Bad Leaver.
+
+17 FOUNDER’S LOCK-UP
+
+17.1 Prior to the elapse of the Lock-up Period, any direct or indirect disposition (including Encumbrance) of the Shares in
+       Company (or any part thereof) held by a Founder or its Founder Holding Company (whichever applies) (excluding the ESOP)
+       is not allowed without prior approval of the Majority of Investors (as set forth in Schedule H - Reserved Matters), to be granted
+       or denied at sole discretion of the Majority of Investors (the “Founder’s Lock-up”).
+
+17.2 For a breach of the Founder Lock-up by a Founder or its Founder Holding Company (whichever applies), unless a Founder
+       or the Founder Holding Company (whichever applies) cures such breach upon prior notice from the Investor within fifteen
+       (15) Business Days after the delivery of such notice, the respective Founder or Founder Holding Company (whichever
+       applies) shall pay (in addition to any other remedies of Investor under this Agreement or law), to the Investor a contractual
+       penalty in the amount of lower of (a) 20 % of the Investor’s Investment immediately upon the request of the Investor.
+
+18 BAD LEAVER DEPARTURE OF THE FOUNDER
+
+18.1 If a Founder’s service is terminated during the Lock-up Period due to any of the following events such Founder shall be
+       considered a bad leaver (the “Bad Leaver”):
+      18.1.1 the relevant Founder has been convicted or pleaded guilty to a criminal offense involving moral turpitude;
+
+        Page 15 of 60
+      18.1.2 the relevant Founder wilfully breaches the fiduciary duty;
+
+      18.1.3 the relevant Founder fails to comply with Founder’s Time and Effort Commitment (other than for any of the reasons
+                   under which the Founder becomes a Good Leaver), or
+
+      18.1.4 the relevant Founder fails to comply with Founder’s Lock-up, or with Non-Compete / Non-Solicitation Obligation;
+
+      18.1.5 resignation (vzdanie sa funkcie) of the Founder from the office of Director of the Company (or any successor)
+                   without the prior written consent of the Board or other than for a Good Reason.
+
+18.2 If a Founder’s service is terminated during the Lock-up Period due to
+
+      18.2.1 a Good Reason such Founder, or
+
+      18.2.2 due to material breach of the Company’s obligations under the Founder Service Agreement,
+
+      18.2.3 due to termination by the Company in accordance with this Agreement (subject to approval of the Investor’s
+                   Majority),
+
+                   such Founder shall be considered a good leaver (the “Good Leaver”).
+
+18.3 If an event occurs under which the relevant Founder is considered a Bad Leaver, then such departing Bad Leaver:
+
+      18.3.1 shall offer to the Company to sell and transfer for a consideration equal in total to EUR 1.00 (in words: one euro)
+                   the Part of the Shares with Buy-back Right; and
+
+      18.3.2 shall offer to the Company to sell and transfer for a consideration equal to the Fair Value the Part of the Shares
+                   without Buy-back Right;
+
+       and execute without undue delay all steps necessary to effectuate such a transfer of Shares in the Company held by
+       respective Founder to the Company.
+
+18.4 If an event occurs under which the relevant Founder is considered a Good Leaver, then such departing Good Leaver shall
+       offer to the Company to sell and transfer for a consideration equal to the Fair Value the Part of the Shares with Buy-back
+       Right and execute without undue delay all steps necessary to effectuate such a transfer of parts of Shares in the Company
+       held by respective Founder to the Company. For the avoidance of any doubt, the departing Good Leaver shall be entitled to
+       keep the Part of the Shares without Buy-back Right.
+
+18.5 Majority of Investors may, at their sole discretion, determine that any circumstance that would otherwise classify the
+       Founder as a Bad Leaver or Good Leaver shall not trigger the consequences set out in Article 18.3, or that a Founder who
+       would otherwise be deemed a Bad Leaver shall instead be treated as a Good Leaver for the purposes of this Agreement.
+
+19 GOVERNANCE AND MANAGEMNENT OF THE COMPANY
+
+19.1 Director(s) of the Company
+
+19.1.1  The Director of the Company shall manage the Company’s business activities with the due care and diligence of a
+        prudent businessman in accordance with (i) the applicable law under which the Company was incorporated and
+        is existing and where it is doing business, (ii) the provisions of the Articles of Association of the respective
+        Company, (iii) this Agreement, (iv) the duly approved Business and Financial Plan, (v) the resolutions of the General
+        Meeting of the Company and (vi) on arm’s length basis.
+
+19.1.2  The Company shall have three (3) Managing Directors, which will be the Founder TH, the Founder PB and the
+        Founder FS, unless agreed otherwise between the Founders and Majority of Investors. At least two Directors shall
+        act and sign on behalf of the Company jointly.
+
+19.2 Acting on behalf of the Company and Reserved Matters
+
+19.2.1  Reserved Matters as set forth in Schedule H – Reserved Matters may only be undertaken by the Director(s) of the
+        Company (if the respective Reserved Matter falls within the competence of the Director(s)) with the prior consent
+        specified in Sec. H.1.
+
+19.2.2  In case any of the Directors do not observe Reserved Matters as set forth in Schedule H – Reserved Matters, the
+        Investors jointly are entitled to require the contractual penalty in the amount EUR 50,000 (in words: fifty thousand
+        euro) from the Company for each breach.
+
+19.2.3 For the avoidance of doubt, this Article 19.2 is without prejudice to the obligations, limitations and other corporate
+            governance provisions relating to the reserved matters set out in the Existing SHA.
+
+19.3 Remuneration for the Founders
+
+19.3.1  Total annual remuneration of each Founder provided by the Company pursuant to Founder Service Agreement(i.e.
+        arising from any employment agreements, performing duties as the Director (), provision of any services to the
+        Company directly or indirectly, or similar arrangements, measured by all-in cost to the Company, including any
+        social security, health insurance, taxes incurred by any of the Company and similar costs of the Company directly
+        linked to such remuneration) shall not exceed 84,000 EUR (in words: eighty-four thousand euro) annually as
+
+                                                           Page 16 of 60
+21 OBLIGATIONS REGARDING IP RIGHTS
+
+22 NON-COMPETE AND NON-SOLICITATION UNDERTAKING
+
+                                                 Page 18 of 60
+23 EMPLOYEE STOCK OPTION PROGRAM
+
+23.1 The Company plans to allocate up to 10% of the fully diluted share capital for an employee stock option plan (the “ESOP”).
+       The economic effect of the ESOP shall be borne pro rata by all Shareholder, including (following the Conversion) the
+       Investors. The detailed terms and conditions of any ESOP (including size, vesting, strike price, and allocation) shall be
+       subject to the prior approval of the Supervisory Board.
+
+24 INFORMATION RIGHTS & INVESTOR REPORTING
+
+24.1 The Investor shall have at reasonable times and upon reasonable notice full access to statutory information rights vis-à-vis
+       the Company including books and records of the Company as if the Investor was its Shareholder.
+
+24.2 In addition, the Company shall furnish the following information within the relevant prescribed time periods to the Investor:
+
+24.2.1  Within fifteen (15) days after the expiration of a calendar month quantitative and qualitative management reports
+        as to the status of the Company’s operations including without limitation narrative comments as to the progress
+        in the Business and Product development.
+
+24.2.2 At least thirty (30) days prior to the end of each financial year updated Business and Financial Plan (as set forth in
+            Schedule B – Business and Financial Plan) monthly structured forward-looking for the next financial year.
+
+24.3 Without prejudice to the foregoing provisions of this Sec. 24, the Company shall be required to keep the Investor fully
+       informed, as soon as reasonably practicable, of all material matters of which it is or they have become aware relating to the
+       Company business (including, but not limited to, such matters as: any material litigation, financing and M&A opportunities).
+
+                                            Page 19 of 60
+27 CONSEQUENCES OF EVENTS OF DEFAULT
+
+28 CONFIDENTIALITY & PRESS RELEASE
+
+28.1 The Parties undertake to keep all present and future information in connection with this Agreement secret and confidential
+       vis-à-vis any Third Party, provided, however, that the Parties shall be entitled to disclose information (i) to the extent that the
+       relevant information is publicly known, (ii) if and to the extent that disclosure is required under statutory law, regulations
+       binding on the relevant Party (including publication of this Agreement in the Central Register of Contracts in accordance
+       with Section 47a of the Civil Code), (iii) if and to the extent that disclosure is necessary for fundraising and marketing of the
+       Company, and/or Investor and its professional advisers, or (iv) to its professional advisers, auditors, bankers, directors,
+       officers or employees on a need-to-know basis. In such a case, the Parties shall limit any disclosure to the minimum
+       reasonably required.
+
+28.2 The Parties acknowledge and agree that this Agreement will be publicly available following its publication in the Central
+       Register of Contracts. All sensitive information, such as personal data and trade secrets, will be redacted to the extent that
+       their disclosure is not required by law.
+
+29 COSTS AND EXPENSES
+
+29.1 Subject to Lead Investor’s Investment being provided, the Company shall bear the Signing Conditions Costs.
+29.2 The Company shall bear the legal costs as well as other costs and expenses in connection with Conversion.
+
+                                                                                                                                                    Page 21 of 60
+30 NOTICES
+
+30.1 Unless stipulated otherwise in this Agreement and except where a stricter form is required under applicable law, all
+       declarations, notifications, notices, requests, approvals and information or other communications hereunder (the
+       “Notices”) shall be made in writing (in particular, letter or e-mail) in Slovak or English, and delivered to each respective Party
+       or its designated recipient at the addresses set forth in Sec. 1, or such other designated recipient and/or other addresses
+       as may be communicated by the respective Party to the other Parties in accordance with Sec. 30.3.
+
+30.2 The time of effectiveness of the Notice shall be determined as follows: (i) upon personal delivery to the party to be notified,
+       (ii) when sent by e-mail if sent during normal business hours of the recipient; if not, then on the next Business Day, (iii) three
+       (3) Business Days after having been sent by registered or certified mail, return receipt requested, postage prepaid, (iv) one
+       (1) Business Day after deposit with a nationally recognized overnight courier, specifying next day delivery, if notice is being
+       given to a resident of the same country as the giver of such notice, or (v) three (3) Business Days after deposit with an
+       internationally recognized courier, specifying priority delivery, if notice is being given to a resident of a different country as
+       the giver of such notice, in each case with written verification of receipt; provided, however, that if the Notice has actually
+       been received by the respective recipient earlier than as set forth in (ii) through (v) above, such earlier point in time shall be
+       decisive for the effectiveness of the relevant Notice.
+
+30.3 Each Party shall inform the other Parties about any change of its designated recipient or such Party’s or its designated
+       recipient’s address (as set forth in Sec. 1) as soon as possible. Until a Party has been informed about a change of another
+       Party’s designated recipient or such Party’s or its designated recipient’s address in accordance with the provisions of this
+       Sec. 30.3, only the designated recipient and/or addresses set forth in Sec. 1 or the last designated recipient and/or
+       addresses communicated in accordance with this Sec. 30.3 shall be relevant.
+
+31 EXPERT DETERMINATION
+
+31.1 Where any Sec. of this Agreement provides for a matter to be determined by an expert, the expert appointed to resolve such
+       matter (the “Expert”) shall be an independent expert external advisor (one from the listed: PRICEWATERHOUSECOOPERS,
+       KPMG, DELOITTE, EY) whose appointment is agreed between the Parties.
+
+31.2 If the Parties are unable to agree on an Expert within ten (10) Business Days, the Majority of Investors shall have the right to
+       appoint an Expert upon its discretion.
+
+31.3 The Expert shall be required to deliver a notice setting out its determination within twenty (20) Business Days of its
+       appointment. The Expert shall adopt a valuation method which it considers, in its absolute discretion, to be the most
+       appropriate method for the matter upon which determination is required.
+
+31.4 The Parties shall be entitled to make submissions to the Expert and shall provide (or procure that others provide) the Expert
+       with such assistance and documents as it shall reasonably require for the purposes of making its determination.
+
+31.5 The Parties shall provide each other with such reasonable information concerning the affairs of the Company as will enable
+       them to make submissions under Sec 31.4.
+
+31.6 The Expert shall act as an expert and not as an arbitrator and its written opinion on the matters referred to it shall, save for
+       manifest error, be final and binding.
+
+31.7 The costs of any reference to an Expert under Sec. 31 shall be borne on one hand by the Company and on the other hand by
+       the Investor equally.
+
+32 RELATIONSHIP BETWEEN THIS AGREEMENT AND ARTICLES OF ASSOCIATION AND EXISTING
+     SHA
+
+32.1 Neither Party is entitled to use Articles of Association of the Company and/or the Existing SHA (or any provision thereof or
+       the rights and obligations arising therefrom) to prevent or disable the performance or enforceability of any of the provisions
+       set forth in this Agreement.
+
+33 OFFSETTING AND PAYMENTS
+
+33.1 Each Investor may unilaterally set off any of its receivables against the Company, and/or Founder Holding Companies,
+       and/or Founders against any receivable (whether due or not yet due) that the Company, and/or Founder Holding
+       Companies, and/or Founders have against the Investor. For the avoidance of doubt, none of the Investor may set-off any its
+       receivable against its obligation to provide the Loan (or any part of it).
+
+33.2 The Company shall be entitled to unilaterally set off against the Investor's Receivable solely the outstanding claim that the
+       Company has against the Investor in respect of an obligation to repay a contribution to the Registered Capital of the
+       Company and/or the Equity Fund of the Company in connection with the acquisition of new Seed Preferred Shares in the
+       Company.
+
+                                                                                                                                                    Page 22 of 60
+33.3 If the Investor receives a payment from the Company, and/or Founder Holding Companies, and/or Founders, the Investor
+       may use such payment to settle the liabilities of the Company, and/or Founder Holding Companies, and/or Founders in the
+       following order (unless agreed otherwise):
+      33.3.1 in the first instance, to cover any outstanding fees, costs and expenses of the Investor under this Agreement;
+      33.3.2 in the second place, for the payment of the default interest due under this Agreement;
+      33.3.3 in the third place, for the payment of the principal due (e. g. the disbursed amount of the Loan) under this
+                   Agreement;
+      33.3.4 in the fifth place, for the payment of any other amount due under this Agreement.
+       while this order takes precedence over any determination made by the Company, and/or Founder Holding Companies,
+       and/or Founders.
+
+34 OBLIGATIONS TO SURVIVE
+
+34.1 Termination of this Agreement will not affect the Parties’ rights and obligations intended to survive termination, and
+       termination will be without prejudice to, and will not be a waiver of any claims which any Party may have against any other
+       Party concerning any breach or other failure to comply with any term or condition of this Agreement before the date of
+       termination.
+
+34.2 For avoidance of any doubt, the Schedule J – Regulatory Covenants of the NDF Investor shall remain in effect even after the
+       termination of this Agreement to ensure the possibility of monitoring the use of NDF Investor's Investment provided by the
+       NDF Investor.
+
+35 SEVERABILITY
+
+35.1 Should any provision of this Agreement be or become invalid, ineffective or unenforceable as a whole or in part, the validity,
+       effectiveness and enforceability of the remaining provisions shall not be affected thereby. Any such invalid, ineffective or
+       unenforceable provision shall be deemed replaced by such valid, effective and enforceable provision as comes closest to
+       the economic intent and the purpose of such invalid, ineffective or unenforceable provision as regards subject-matter,
+       amount, time, place and extent. The aforesaid shall apply mutatis mutandis to any unintended gap in this Agreement.
+
+36 APPLICABLE LAW AND COURT JURISDICTION
+
+36.1 This Agreement has been drafted in accordance with the laws of the Slovak Republic and shall be construed and interpreted
+       on the basis of the laws of the Slovak Republic only, without regard to principles of conflicts of laws. If the English legal
+       meaning differs from the Slovak legal meaning contained in this Agreement in matters related to and governed by the Slovak
+       law, the Slovak meaning shall prevail.
+
+36.2 Slovak courts shall have an exclusive jurisdiction to resolve any dispute arising under or in connection with this Agreement
+       (including any dispute relating to existence or validity of this Agreement).
+
+37 ASSIGNMENT
+
+37.1 NDF Investor may at any time assign any or all of its rights and obligations under this Agreement to any person directly or
+       indirectly owned or controlled by the Slovak Republic.
+
+38 AMENDMENTS
+
+38.1 Any amendment or supplementation of this Agreement, including this provision, and any waiver under this Agreement shall
+       be valid only if made in writing, except where a stricter form (e.g., notarization) is required under applicable law.
+
+39 ENTIRE AGREEMENT
+
+39.1 This Agreement constitutes the entire agreement of the Parties relating to the subject matter hereof and supersedes all prior
+       agreements, whether written or oral, that may exist between the Parties in respect of the subject matter of this Agreement
+       or parts thereof. There are no other side agreements to this Agreement, other than those explicitly specified in this
+       Agreement.
+
+40 MISCELLANEOUS
+
+                                                                                                                                                    Page 23 of 60
+40.1 No delay or omission to exercise any right, power, or remedy accruing to any Party under this Agreement, upon any breach
+       or default of any other Party under this Agreement, shall impair any such right, power, or remedy of such non-breaching or
+       non-defaulting Party, nor shall it be construed to be a waiver of or acquiescence to any such breach or default, or to any
+       similar breach or default thereafter occurring, nor shall any waiver of any single breach or default be deemed a waiver of
+       any other breach or default theretofore or thereafter occurring. Unless explicitly stated otherwise in this Agreement, all
+       remedies, whether under this Agreement or by law or otherwise afforded to any Party, shall be cumulative and not
+       alternative.
+
+41 EFFECTIVENESS
+
+41.1 This Agreement shall become valid as of the date of its conclusion and effective on the day following the day of its official
+       publication in the Central register of Contracts, in accordance with § 47a (1) Act No. 40/1964 Coll. Civil Code as
+       subsequently amended.
+
+                                                                                                                                                    Page 24 of 60
+SCHEDULE K – INDEX OF DEFINITIONS                                               Good Reason .......................................................... 6
+                                                                                HWD Investor.......................................................... 4
+Adjusted Valuation.................................................. 5          HWD Investor's Investment ..................................... 5
+Affiliate(s) ............................................................... 5  HWD Loan ............................................................ 10
+Agreement .............................................................. 4      HWD Tranche........................................................ 10
+Articles of Association ............................................ 5          HWD Tranches ...................................................... 10
+Bad Leaver.............................................................15       Change of Control ................................................... 6
+Base Valuation........................................................ 5        Interest ................................................................. 12
+Best Knowledge .....................................................14          Investment Round ................................................... 5
+Breach of Warranties .............................................. 5           Investor................................................................... 4
+Business................................................................. 5     Investor Put Option ............................................... 39
+Business and Financial Plan.................................... 5               Investors................................................................. 4
+Business Day .......................................................... 5       Investor's Investment .............................................. 5
+Called Shares ........................................................38        Investor's Investments ............................................ 5
+Civil Code ............................................................... 8    IP License ............................................................. 17
+Commercial Code................................................... 4            IP Rights.................................................................. 6
+Company ................................................................ 4      IP Transfer............................................................. 17
+Company Disclosure .............................................. 6             Lead Investor .......................................................... 4
+Company IP ...........................................................42        Lead Investor's Investment...................................... 5
+Company Warranty(ies) .........................................13               Lead Loan ............................................................... 9
+Conditions Precedent ............................................11             Lead Tranche ........................................................ 10
+Control ................................................................... 6   Lead Tranches ...................................................... 10
+Conversion ............................................................12       Liquidation Preference .......................................... 40
+Conversion Date ....................................................35          Liquidation Proceeds ............................................ 40
+Conversion Event ...................................................12          Liquidity Event....................................................... 40
+Conversion Event Notification ................................34                Loan ..................................................................... 10
+Conversion Formula...............................................13             Loans.................................................................... 10
+Copyright Act .......................................................... 7      Lock-up Period........................................................ 7
+Deductible Amount ................................................14            Majority of Investors ................................................ 7
+DeMinimis Amount ................................................15             Majority Sale ........................................................... 7
+Dilutive Round .......................................................36        Management Service Agreement ............................. 7
+Director .................................................................. 6   Maturity Date ........................................................ 12
+Disbursement Date ................................................10            Milestone................................................................ 7
+Disclosed ............................................................... 6     Monthly Recurring Revenue ..................................... 7
+Drag-Along Notice..................................................38           NDF Investor ........................................................... 4
+Drag-Along Right ....................................................38         NDF Investor's Investment ...................................... 5
+Drag-Along Transaction..........................................38              NDF Loan .............................................................. 10
+Draw-down Request ..............................................11              NDF Tranche ......................................................... 10
+Encumbrance ......................................................... 6         NDF Tranches ....................................................... 10
+Equity Fund............................................................. 6      Non-Compete / Non-Solicitation Obligation .......... 19
+ESOP .....................................................................19    Non-Compete / Non-Solicitation Period ................ 18
+Event(s) of Default .................................................20         Notices ................................................................. 22
+Exempted Disposal ................................................37            Obligation ............................................................... 9
+Exercise Notice ......................................................39        Obliged Party .......................................................... 9
+Exercise Period ......................................................37        Offered Shares ...................................................... 37
+Existing SHA............................................................ 6      Offeree Shareholder(s) .......................................... 37
+Existing Shareholder(s) ........................................... 4           Offeror Shareholder .............................................. 37
+Expert ....................................................................22   Part of the Shares with Buy-back Right..................... 7
+Fair Value ............................................................... 6    Part of the Shares without Buy-back Right................ 7
+Final Maturity Date .................................................12         Party/ies) ................................................................ 4
+Financial Statements .............................................41            Person .................................................................7, 8
+First HWD Tranche .................................................10           Personal Information............................................. 43
+First Lead Tranche .................................................10          Preferential Rights................................................. 33
+First NDF Tranche ..................................................10          Pre-seed Investor .................................................... 4
+Founder FS ............................................................. 4      Product................................................................... 5
+Founder Holding Company...................................... 6                 Pro-rata Ratio........................................................ 40
+Founder PB ............................................................. 4      Put Option Holder ................................................. 39
+Founder TH ............................................................. 4      Qualified Financing ................................................. 7
+Founder TK ............................................................. 4      Receivable .............................................................. 8
+Founder Warranty(ies)............................................14             Registered Capital................................................... 8
+Founder(s) .............................................................. 4     Related Party .......................................................... 8
+Founder’s Lock-up .................................................15           Repayment ........................................................... 12
+Founder’s Time and Effort Commitment .................15                        Repayment Request ................................................ 8
+Fully Diluted Registered Capital .............................. 6               Reserved Matters .................................................. 43
+General Meeting...................................................... 6
+Good Leaver ..........................................................16                                                            Page 58 of 60
+Right of First Refusal ..............................................37        Subsidiary ............................................................... 8
+Scope of Business .................................................. 8         Tag-Along Beneficiary(ies) ..................................... 37
+Second HWD Tranche ............................................10              Tag-Along Notification ........................................... 38
+Second Lead Tranche.............................................10             Tag-Along Obligor.................................................. 37
+Second NDF Tranche .............................................10             Tag-Along Right ..................................................... 37
+Shareholder MN ...................................................... 4        Taxes ...................................................................... 8
+Shareholder MX ...................................................... 4        Terms and Conditions for the New or Amended
+Shareholder RT ....................................................... 4       Shareholders' Agreement ........................................ 8
+Shareholder(s) ........................................................ 8      Third Party............................................................... 8
+Shareholders’ Agreement.......................................35               Tranche ................................................................ 10
+Shareholders’ Warranty(ies) ...................................13              Tranches............................................................... 10
+Shares .................................................................... 8  Transfer Notification ............................................. 37
+Signing Conditions Costs ........................................ 8            Warranty Obligor(s) ............................................... 14
+Signing Date............................................................ 8     Warranty(ies) ........................................................ 14
+Subscription Amount .............................................. 8
+
+                                                                               Page 59 of 60
+SIGNATURE PAGE
+
+As evidence of the above this Agreement has been executed by their respective duly authorized signatories:
+
+In Bratislava, on 12th March 2026                      In Bratislava, on 12th March 2026
+
+_____________________________                          _____________________________
+           Pavol Bujňák                                   Ing. Tomáš Koctúr, Ph.D.
+
+In Bratislava, on 12th March 2026                      In Bratislava, on 12th March 2026
+
+_____________________________                          _____________________________
+          Tomáš Halász                                            Filip Strýčko
+
+In Bratislava, on 12th March 2026                      In Bratislava, on 12th March 2026
+
+_____________________________                           _____________________________
+          Reboot, s.r.o.                                            ml-san s.r.o.
+
+     Pavol Bujňák, Director                            Ing. Tomáš Koctúr, Ph.D., Director
+
+In Bratislava, on 12th March 2026                      In Bratislava, on 12th March 2026
+
+_____________________________                          _____________________________
+            MiXai, s.r.o.                               CB ESPRI Impact One s.r.o.
+                                                          Miroslav Beblavý, Director
+    Tomáš Halász, Director
+
+In Bratislava, on 12th March 2026                      In Bratislava, on 12th March 2026
+
+    _____________________________                        _____________________________
+   TrollWall AI Technologies j.s.a.                     TrollWall AI Technologies j.s.a.
+Tomáš Halász, Chairman of the Board                    Pavol Bujňák, Member of the Board
+
+In Bratislava, on 12th March 2026                      In Bratislava, on 12th March 2026
+
+_____________________________                          _____________________________
+   SLSP Seed Starter, s.r.o.                              SLSP Seed Starter, s.r.o.
+
+Ing. Michal Vanovčan, Director                          Ing. Rastislav Blažej, Director
+
+In Bratislava, on 12th March 2026                      In Bratislava, on 12th March 2026
+
+             _____________________________                 _____________________________
+         National Development Fund II., a.s.           National Development Fund II., a.s.
+Ing. Peter Dittrich, PhD., Vice chairman of the Board  Ing. Miloš Ješko, Member of the Board
+
+In Bratislava, on 12th March 2026
+
+      _____________________________
+              HERNWOOD, a.s.
+
+Ing. Miroslav Fedor, Member of the Board
+
+                                                                                                            Page 60 of 60
+

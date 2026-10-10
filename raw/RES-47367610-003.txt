@@ -1,0 +1,911 @@
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+A. INFORMÁCIE O ÚČTOVNEJ JEDNOTKE
+
+1. Založenie spoločnosti Spoločnosť Neulogy Ventures a. s. (ďalej len Spoločnosť), bola založená 30.7.2013 a do obchodného registra bola zapísaná 24. augusta 2013 (Obchodný register Okresného súdu Bratislava I v Bratislave, oddiel s.r.o., vložka 5826/B).
+
+2. Hlavnými činnosťami Spoločnosti sú:
+
+– činnosť podnikateľských, organizačných a ekonomických poradcov, – administratívne služby, – sprostredkovateľská činnosť v oblasti obchodu, – sprostredkovateľská činnosť v oblasti služieb, – služby súvisiace s počítačovým spracovaním údajov.
+
+3. Počet zamestnancov Údaje o počte zamestnancov za bežné účtovné obdobie a bezprostredne predchádzajúce účtovné obdobie sú uvedené v nasledujúcom prehľade:
+
+2025
+
+2024
+
+Priemerný prepočítaný počet zamestnancov Počet zamestnancov ku dňu, ku ktorému sa zostavuje účtovná závierka, z toho: počet vedúcich zamestnancov
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+4. Údaje o neobmedzenom ručení Spoločnosť nie je neobmedzene ručiacim spoločníkom v iných spoločnostiach podľa § 56 ods. 5 Obchodného zákonníka.
+5. Právny dôvod na zostavenie účtovnej závierky Účtovná závierka Spoločnosti k 31. decembru 2025 je zostavená ako riadna účtovná závierka podľa § 17 ods. 6 zákona NR SR č. 431/2002 Z. z. o účtovníctve za účtovné obdobie od 1. januára 2025 do 31. decembra 2025.
+6. Dátum schválenia účtovnej závierky za predchádzajúce účtovné obdobie Účtovná závierka Spoločnosti k 31. decembru 2024, za predchádzajúce účtovné obdobie, bola schválená valným zhromaždením Spoločnosti 22. decembra 2025.
+
+B. INFORMÁCIE O ORGÁNOCH ÚČTOVNEJ JEDNOTKY
+
+Predstavenstvo Dozorná rada
+
+Christian Mandl – predseda predstavenstva Jaroslav Ľupták – člen predstavenstva Martin Smetana – člen predstavenstva
+Tomáš Zedníček Terézia Jarošová Pekka Santeri Mäki
+
+1
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+C. INFORMÁCIE O SPOLOČNÍKOCH ÚČTOVNEJ JEDNOTKY Štruktúra spoločníkov k 31. decembru 2025 je takáto:
+
+Spoločník, akcionár
+a Danube Ventures, a.s. 3TS Capital Partners OY Jaroslav Ľupták Martin Smetana Terézia Jarošová Neulogy Ventures a.s. Spolu
+
+Výška podielu na základnom imaní
+
+absolútne b 11 750 1 875 4 750 2 375 1 125 3 125 25 000
+
+v% c
+47,0% 7,5% 19,0% 9,5% 4,5% 12,5% 100%
+
+Podiel na hlasovacích právach
+v% d
+47,0% 7,5% 19,0% 9,5% 4,5% 12,5% 100%
+
+Iný podiel na ostatných
+položkách VI ako na ZI v% e 47,0% 7,5% 19,0% 9,5% 4,5% 12,5% 100%
+
+D. INFORMÁCIE O KONSOLIDOVANOM CELKU
+Spoločnosť nie je súčasťou konsolidovaného celku. Spoločnosť je materskou účtovnou jednotkou a je oslobodená od povinnosti zostaviť konsolidovanú účtovnú závierku a konsolidovanú výročnú správu podľa § 22 ods. 12 zákona. Dcérskou účtovnou jednotkou je spoločnosť Neulogy Ventures S.a.r.l., Luxembourg.
+E. INFORMÁCIE O ÚČTOVNÝCH ZÁSADÁCH A ÚČTOVNÝCH METÓDACH
+(a) Východiská pre zostavenie účtovnej závierky Účtovná závierka bola zostavená za predpokladu, že Spoločnosť bude nepretržite pokračovať vo svojej činnosti (going concern).
+Účtovné metódy a všeobecné účtovné zásady boli účtovnou jednotkou konzistentne aplikované.
+V účtovnom období 2025 Spoločnosť nevykonala žiadne opravy významných chýb minulých účtovných období.
+(b) Dlhodobý nehmotný majetok a dlhodobý hmotný majetok Dlhodobý majetok nakupovaný sa oceňuje obstarávacou cenou, ktorá zahŕňa cenu obstarania a náklady súvisiace s obstaraním (clo, prepravu, montáž, poistné a pod.).
+Súčasťou obstarávacej ceny dlhodobého hmotného majetku nie sú úroky z cudzích zdrojov ani realizované kurzové rozdiely, ktoré vznikli do momentu uvedenia dlhodobého majetku do používania.
+Súčasťou obstarávacej ceny dlhodobého nehmotného majetku nie sú úroky z cudzích zdrojov, ktoré vznikli do momentu zaradenia dlhodobého nehmotného majetku do používania.
+Dlhodobý majetok vytvorený vlastnou činnosťou sa oceňuje vlastnými nákladmi. Vlastnými nákladmi sú všetky priame náklady vynaložené na výrobu alebo inú činnosť a nepriame náklady, ktoré sa vzťahujú na výrobu alebo inú činnosť.
+Náklady na výskum sa neaktivujú, účtujú sa do nákladov účtovného obdobia, v ktorom vznikli. Náklady na vývoj sa účtujú do obdobia, v ktorom vznikli, ale tie náklady na vývoj, ktoré sa vzťahujú na jasne definovaný výrobok alebo proces, pri ktorých je možné preukázať technickú realizovateľnosť a možnosť predaja a spoločnosť má dostatočné zdroje na dokončenie projektu, jeho predaj alebo na vnútorné využitie jeho výsledkov, sa aktivujú, a to vo výške, ktorá je pravdepodobná, že sa získa späť z budúcich ekonomických úžitkov.
+Aktivované náklady na vývoj sa odpisujú počas maximálne 5 rokov, a to v tých účtovných obdobiach, v ktorých sa očakáva predaj produktu alebo využívanie procesu. Ak sa zníži ich hodnota, odpisujú sa na sumu, ktorá je pravdepodobná, že sa získa späť z budúcich ekonomických úžitkov.
+
+2
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+(c) Cenné papiere a podiely Cenné papiere a podiely (okrem cenných papierov na obchodovanie) sa oceňujú obstarávacími cenami vrátane nákladov súvisiacich s obstaraním. Od obstarávacej ceny je odpočítané zníženie hodnoty cenných papierov a podielov.
+Cenné papiere na obchodovanie sa pri ich obstaraní oceňujú reálnou hodnotou.
+(d) Pohľadávky Pohľadávky pri ich vzniku sa oceňujú ich menovitou hodnotou; postúpené pohľadávky a pohľadávky nadobudnuté vkladom do základného imania sa oceňujú obstarávacou cenou vrátane nákladov súvisiacich s obstaraním. Toto ocenenie sa znižuje o pochybné a nevymožiteľné pohľadávky.
+(e) Peňažné prostriedky a ceniny Peňažné prostriedky a ceniny sa oceňujú ich menovitou hodnotou.
+(f) Náklady budúcich období a príjmy budúcich období Náklady budúcich období a príjmy budúcich období sa vykazujú vo výške, ktorá je potrebná na dodržanie zásady vecnej a časovej súvislosti s účtovným obdobím.
+(g) Rezervy Rezervy sú záväzky s neurčitým časovým vymedzením alebo výškou; tvoria sa na krytie známych rizík alebo strát z podnikania. Oceňujú sa v očakávanej výške záväzku.
+(h) Záväzky Záväzky pri ich vzniku sa oceňujú menovitou hodnotou. Záväzky pri ich prevzatí sa oceňujú obstarávacou cenou. Ak sa pri inventarizácii zistí, že suma záväzkov je iná ako ich výška v účtovníctve, uvedú sa záväzky v účtovníctve a v účtovnej závierke v tomto zistenom ocenení.
+(i) Výdavky budúcich období a výnosy budúcich období Výdavky budúcich období a výnosy budúcich období sa vykazujú vo výške, ktorá je potrebná na dodržanie zásady vecnej a časovej súvislosti s účtovným obdobím.
+(j) Prenájom (lízing) Majetok prenajatý na základe operatívneho prenájmu vykazuje ako svoj majetok jeho vlastník, nie nájomca.
+Finančný prenájom je obstaranie dlhodobého hmotného majetku na základe nájomnej zmluvy s dojednaným právom kúpy prenajatej veci za dohodnuté platby počas dohodnutej doby nájmu. Majetok prenajatý formou finančného prenájmu vykazuje ako svoj majetok a odpisuje ho jeho nájomca, nie vlastník.
+Prijatie majetku nájomcom sa v účtovníctve nájomcu účtuje v deň prijatia majetku na ťarchu príslušného účtu majetku so súvzťažným zápisom v prospech účtu 474 – Záväzky z nájmu vo výške dohodnutých platieb zníženými o nerealizované finančné náklady.
+Súčasťou dohodnutých platieb je aj kúpna cena, za ktorú na konci dohodnutej doby finančného prenájmu prechádza vlastnícke právo k prenajatému majetku z prenajímateľa na nájomcu. Dohodnutá doba nájmu je najmenej 60 % doby odpisovania podľa daňových predpisov, minimálne však 3 roky. Platba nájomného je alokovaná medzi splátku istiny a finančné náklady, vypočítané metódou efektívnej úrokovej miery. Finančné náklady sa účtujú na ťarchu účtu 562 – Úroky.
+(k) Cudzia mena Majetok a záväzky vyjadrené v cudzej mene sa ku dňu uskutočnenia účtovného prípadu prepočítavajú na menu euro referenčným výmenným kurzom určeným a vyhláseným Európskou centrálnou bankou alebo Národnou bankou Slovenska v deň predchádzajúci dňu uskutočnenia účtovného prípadu.
+Na ocenenie prírastku cudzej meny nakúpenej za euro sa použije kurz, za ktorý bola táto cudzia mena nakúpená.
+Na úbytok rovnakej cudzej meny v hotovosti alebo z devízového účtu sa na prepočet cudzej meny na eurá použije referenčný výmenný kurz určený a vyhlásený Európskou centrálnou bankou alebo Národnou bankou Slovenska v deň predchádzajúci dňu uskutočnenia účtovného prípadu.
+Majetok a záväzky vyjadrené v cudzej mene (okrem prijatých a poskytnutých preddavkov) sa ku dňu, ku ktorému sa zostavuje účtovná závierka, prepočítavajú na menu euro referenčným výmenným kurzom určeným a vyhláseným Európskou centrálnou bankou alebo Národnou bankou Slovenska v deň, ku ktorému sa zostavuje účtovná závierka, a účtujú sa s vplyvom na výsledok hospodárenia.
+
+3
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+Prijaté a poskytnuté preddavky v cudzej mene prostredníctvom účtu vedeného v tejto cudzej mene sa prepočítavajú na menu euro referenčným výmenným kurzom určeným a vyhláseným Európskou centrálnou bankou alebo Národnou bankou Slovenska v deň predchádzajúci dňu uskutočnenia účtovného prípadu. Ku dňu, ku ktorému sa zostavuje účtovná závierka, sa už neprepočítavajú.
+Prijaté a poskytnuté preddavky v cudzej mene na účet zriadený v eurách a z účtu zriadeného v eurách sa prepočítavajú na menu euro kurzom, za ktorý boli tieto hodnoty nakúpené alebo predané.
+(l) Výnosy Tržby za vlastné výkony a tovar neobsahujú daň z pridanej hodnoty. Sú tiež znížené o zľavy a zrážky (rabaty, bonusy, skontá, dobropisy a pod.), bez ohľadu na to, či zákazník mal vopred na zľavu nárok, alebo či ide o dodatočne uznanú zľavu.
+
+4
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+F. INFORMÁCIE O ÚDAJOCH NA STRANE AKTÍV SÚVAHY
+1. Dlhodobý finančný majetok
+Prehľad o pohybe dlhodobého finančného majetku od 1. januára 2025 do 31. decembra 2025 je uvedený v tabuľke na strane 7.
+
+Výška vlastného imania k 31. decembru 2025 a výsledku hospodárenia za účtovné obdobie 2025 podnikov je uvedená v nasledujúcom prehľade:
+
+Obchodné meno a sídlo spoločnosti, v ktorej má účtovná jednotka umiestnený dlhodobý finančný majetok
+
+Podiel účtovnej jednotky na základnom imaní v %
+
+Podiel účtovnej jednotky na hlas. právach v
+%
+
+a Dcérske účtovné jednotky
+
+b
+
+c
+
+NEULOGY VENTURES SARL
+
+LUXEMBOURG
+
+100
+
+100
+
+Slovak Venture Fund S.C.A
+
+0
+
+0
+
+SICAR Dlhodobý finančný majetok spolu
+
+Bežné účtovné obdobie (rok 2025)
+
+Hodnota vlastného imania účtovnej
+jednotky, v ktorej má účtovná jednotka
+umiestnený dlhodobý finančný majetok
+
+Výsledok hospodárenia účtovnej jednotky, v ktorej má účtovná jednotka umiestnený dlhodobý finančný
+majetok
+
+Účtovná hodnota dlhodobého finančného majetku
+
+d
+
+e
+
+f
+
+12 500 3 000
+15 500
+
+5
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+2. Pohľadávky
+
+Veková štruktúra pohľadávok za bežné účtovné obdobie je uvedená v nasledujúcom prehľade:
+
+Pohľadávky k 31.12.2025 a
+Dlhodobé pohľadávky Pohľadávky z obchodného styku Pohľadávky voči dcérskej účtovnej jednotke a materskej účtovnej jednotke Ostatné pohľadávky v rámci konsolidovaného celku Pohľadávky voči spoločníkom, členom a združeniu Iné pohľadávky Dlhodobé pohľadávky spolu
+
+V lehote splatnosti b
+
+Po lehote splatnosti c
+
+Pohľadávky spolu d
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0 1 400 1 400
+
+0
+
+0
+
+0
+
+1 400
+
+0
+
+1 400
+
+Krátkodobé pohľadávky Pohľadávky z obchodného styku Pohľadávky voči dcérskej účtovnej jednotke a materskej účtovnej jednotke Ostatné pohľadávky v rámci konsolidovaného celku Pohľadávky voči prepojeným účt. jednotkám a ÚJ v rámci podielovej spoluúčasti Sociálne poistenie Daňové pohľadávky a dotácie Iné pohľadávky Krátkodobé pohľadávky spolu
+
+0
+0
+0
+2 000 0 0
+1 423 3 423
+
+0
+602 600
+0
+0 0 0 0 602 600
+
+0
+602 600
+0
+2 000 0 0
+1 423 606 023
+
+Spoločnosť eviduje k 31. 12. 2025 pohľadávku voči spriaznenej osobe Neulogy Ventures S.a.r.l. v sume 602 600 EUR, ktorá vznikla z titulu poskytnutých poradenských služieb. Splatnosť pohľadávky bola predĺžená na základe vzájomnej dohody zmluvných strán. Pohľadávka nie je úročená. K pohľadávke nebola tvorená opravná položka, keďže jej vyrovnanie sa očakáva v priebehu roka 2026. Transakcia bola uskutočnená za bežných obchodných podmienok.
+
+6
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+3. Finančné účty
+Ako finančné účty sú vykázané peniaze v pokladnici, účty v bankách a cenné papiere. Účtami v bankách môže Spoločnosť voľne disponovať.
+Prehľad jednotlivých položiek finančných účtov:
+
+Názov položky
+Pokladnica, ceniny Bežné účty v banke alebo v pobočke zahraničnej banky Vkladové účty v banke alebo v pobočke zahraničnej banky termínované Peniaze na ceste Spolu
+
+31. 12. 2025
+40 2 816
+0 0 2 856
+
+31. 12. 2024
+40 1 213
+0 0 1 253
+
+4. Časové rozlíšenie Ide o tieto položky:
+Opis položky časového rozlíšenia
+Náklady budúcich období dlhodobé, z toho: Licencie
+Náklady budúcich období krátkodobé, z toho: Licencia, doména, ostatné drobné Nájomné
+Príjmy budúcich období Refakturácia nákladov
+Spolu
+
+31. 12. 2025
+
+31. 12. 2024
+
+0
+
+0
+
+0
+
+0
+
+1 423
+
+2 028
+
+573
+
+1 178
+
+850
+
+850
+
+0
+
+0
+
+0
+
+0
+
+1 423
+
+2 028
+
+7
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+G. INFORMÁCIE O ÚDAJOCH NA STRANE PASÍV SÚVAHY
+
+1. Vlastné imanie
+
+Informácie o vlastnom imaní sú uvedené v časti C a P.
+
+2. Rezervy
+
+Prehľad o rezervách za bežné účtovné obdobie je uvedený v nasledujúcom prehľade:
+
+Názov položky
+a Dlhodobé rezervy, z toho:
+
+Stav k 1. 1. 2025
+b 0
+
+Bežné účtovné obdobie (rok 2025)
+
+Tvorba c 0
+
+Použitie d 0
+
+Zrušenie e 0
+
+Stav k 31. 12. 2025
+f 0
+
+Krátkodobé rezervy, z toho:
+
+1 500 0
+
+1 500
+
+1 500
+
+0
+
+1 500
+
+Zákonné rezervy krátkodobé Overenie účtovnej závierky
+Rezervy na nev.dovolenky a poistné
+Rezervy na energie Zostavenie účtovnej závierky a zostavenie daňového priznania Zákonné rezervy krátkodobé spolu
+
+1 500 0 0
+0 1 500
+
+1 500 0 0
+0 1 500
+
+1 500 0 0
+0 1 500
+
+0
+
+1 500
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1 500
+
+Prehľad o rezervách za predchádzajúce účtovné obdobie je uvedený v nasledujúcom prehľade:
+
+Názov položky
+a Dlhodobé rezervy, z toho:
+
+Stav k 1.1.2024
+b 0
+
+Predchádzajúce účtovné obdobie (rok 2024)
+
+Tvorba c 0
+
+Použitie d 0
+
+Zrušenie e 0
+
+Stav k 31. 12. 2024
+f 0
+
+Krátkodobé rezervy, z toho:
+
+1 500 0
+
+1 500
+
+1 500
+
+0
+
+1 500
+
+Zákonné rezervy krátkodobé Overenie účtovnej závierky
+Rezervy na nev.dovolenky a poistné ZRoezstearveynniea úečnteorvgnieej závierky a zostavenie daňového priznania Zákonné rezervy krátkodobé spolu
+
+1 500
+0 00 0 1 500
+
+1 500
+0 0 0 1 500
+
+1 500
+0 0 0 1 500
+
+0
+
+1 500
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1 500
+
+8
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+5. Záväzky Štruktúra záväzkov (okrem bankových úverov) podľa zostatkovej doby splatnosti je uvedená v nasledujúcom prehľade:
+
+Názov položky
+
+31. 12. 2025
+
+31. 12. 2024
+
+Dlhodobé záväzky spolu
+
+62 775
+
+147
+
+Krátkodobé záväzky spolu Záväzky so zostatkovou dobou splatnosti do jedného roka vrátane Záväzky po lehote splatnosti
+
+487 341
+35 895 451 446
+
+206 453
+27 296 179 157
+
+H. INFORMÁCIE O VÝNOSOCH
+
+1. Tržby za vlastné výkony a tovar
+
+Tržby za vlastné výkony a tovar podľa jednotlivých segmentov, t. j. podľa typov výrobkov a služieb, a podľa hlavných teritórií sú uvedené v nasledujúcom prehľade:
+
+Oblasť odbytu a
+
+Služby
+
+2025
+
+2024
+
+b
+
+c
+
+Spolu
+
+2025
+
+2024
+
+Slovenská republika Luxembursko Iné Spolu
+
+0 293 000
+0 293 000
+
+0 327 000
+0 327 000
+
+0 293 000
+0 293 000
+
+0 327 000
+0 327 000
+
+6. Výnosy z finančnej činnosti
+
+Prehľad o výnosoch pri aktivácii nákladov, výnosoch z hospodárskej činnosti finančnej činnosti je uvedený v nasledujúcom prehľade:
+
+Názov položky
+
+2025
+
+2024
+
+Finančné výnosy, z toho: Ostatné významné položky finančných výnosov, z toho: Výnosové úroky Kurzové zisky Výnosy z cenných papierov a podielov od prepojených účtovných jednotiek
+
+1 345
+
+0
+
+0
+
+0
+
+1 345
+
+0
+
+0
+
+0
+
+0
+
+0
+
+9
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+7. Čistý obrat
+Čistý obrat Spoločnosti na účely zistenia povinnosti overenia individuálnej účtovnej závierky audítorom [§ 19 ods. 1 písm. a) zákona o účtovníctve] je uvedený v nasledujúcom prehľade:
+
+Názov položky
+Tržby za vlastné výrobky Tržby z predaja služieb Tržby za tovar Výnosy zo zákazky Výnosy z nehnuteľnosti na predaj Iné výnosy súvisiace s bežnou činnosťou Čistý obrat celkom
+
+2025
+0 293 000
+0 0 0 0 293 000
+
+2024
+0 327 000
+0 0 0 0 327 000
+
+I. INFORMÁCIE O NÁKLADOCH
+
+1. Náklady na poskytnuté služby, ostatné náklady na hospodársku činnosť, finančné náklady Prehľad o nákladoch na poskytnuté služby, ostatných nákladoch na hospodársku činnosť a finančných nákladoch:
+
+Náklady voči audítorovi, audítorskej spoločnosti, z toho: Náklady na overenie individuálnej účtovnej závierky Iné uisťovacie audítorské služby Súvisiace audítorské služby Daňové poradenstvo Ostatné neaudítorské služby
+
+1 500 1 500
+0 0 0 0
+
+1 500 1 500
+0 0 0 0
+
+Ostatné významné položky nákladov za poskytnuté služby, z toho: Konzultačné služby Ekonomické poradenstvo Nájomné Právne a notárske služby Administratívne a odborné služby Ostatné
+
+288 120 210 000 60 800
+9 950 0
+140 7 230
+
+321 535 210 000 88 936
+9 890 2 621
+120 9 968
+
+Finančné náklady, z toho: Kurzové straty, z toho: Kurzové straty ku dňu, ku ktorému sa zostavuje účtovná závierka Nákladové úroky
+
+2 872
+
+268
+
+44
+
+78
+
+0
+
+0
+
+2 628
+
+0
+
+Ostatné významné položky finančných nákladov, z toho: Bankové poplatky
+
+200
+
+190
+
+200
+
+75
+
+10
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+J. INFORMÁCIE O DANIACH Z PRÍJMOV
+
+Prevod od teoretickej dane z príjmov k vykázanej dani z príjmov je uvedený v nasledujúcom prehľade:
+
+Názov položky
+a Výsledok hospodárenia pred zdanením, z toho: teoretická daň
+
+Základ dane
+b
+-1 241
+
+2025
+
+Daň
+
+Daň v %
+
+Základ dane
+
+c
+
+d
+
+e
+
+100,00 %
+
+348
+
+-261 21,00 %
+
+2024 Daň
+f
+73
+
+Daňovo neuznané náklady Výnosy nepodliehajúce dani Vplyv nevykázanej odloženej daňovej pohľadávky Umorenie daňovej straty Zmena sadzby dane Iné Spolu
+
+2 564 -2 250
+0 0 0 0 -927
+
+1 447 -116,60 % -473 38,11 %
+
+0 0 0 0 1 920
+
+0,00 % 0,00 % 0,00 % 0,00 % -57,49 %
+
+3 005 -2 250
+0 0 0 0 755
+
+631 -473
+0 0 0 0 1 014
+
+Splatná daň z príjmov
+Odložená daň z príjmov Celková daň z príjmov
+
+1 920 0
+1 920
+
+43,47 % 0,00 %
+43,47 %
+
+1 014 0
+1 014
+
+Daň v % g
+100,00 % 21,00 %
+13,29 % -10,91 %
+0,00 % 0,00 % 0,00 % 0,00 % 23,38 %
+23,38 % 0,00 %
+23,38 %
+
+K. INFORMÁCIE O ÚDAJOCH NA PODSÚVAHOVÝCH ÚČTOCH
+Spoločnosť nevedie podsúvahové účty.
+L. INFORMÁCIE O INÝCH AKTÍVACH A INÝCH PASÍVACH
+1. Podmienené záväzky
+Vzhľadom na to, že mnohé oblasti slovenského daňového práva doteraz neboli dostatočne overené praxou, existuje neistota v tom, ako ich budú daňové orgány aplikovať. Mieru tejto neistoty nie je možné kvantifikovať a zanikne až potom, keď budú k dispozícii právne precedensy, prípadne oficiálne interpretácie príslušných orgánov. Vedenie Spoločnosti si nie je vedomé žiadnych okolností, v dôsledku ktorých by jej vznikol významný náklad.
+M. INFORMÁCIE O PRÍJMOCH A VÝHODÁCH ČLENOV ŠTATUTÁRNYCH ORGÁNOV, DOZORNÝCH ORGÁNOV A INÝCH ORGÁNOV ÚČTOVNEJ JEDNOTKY
+Odmeny členov štatutárnych orgánov Spoločnosti z dôvodu výkonu ich funkcie pre Spoločnosť v sledovanom účtovnom období boli vo výške 0 EUR.
+Členom štatutárneho orgánu, ani členom dozorných orgánov neboli v roku 2025 poskytnuté žiadne pôžičky, záruky, alebo iné formy zabezpečenia, ani finančné prostriedky alebo iné plnenia na súkromné účely členov, ktoré sa vyúčtovávajú.
+
+11
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+N. INFORMÁCIE O EKONOMICKÝCH VZŤAHOCH ÚČTOVNEJ JEDNOTKY A SPRIAZNENÝCH OSÔB
+
+Spoločnosť uskutočnila v priebehu účtovného obdobia nasledujúce transakcie so spriaznenými osobami:
+
+Spriaznená osoba
+
+Hodnotové vyjadre nie obchodu
+
+2025
+
+2024
+
+Podnik s podielovou účasťou: Náklady na služby Záväzky z obchodného styku Dcérsky podnik: Výnosy z poskytnutia služieb Pohľadávky
+
+289 620 0
+293 000 602 600
+
+343 336 0
+327 000 315 000
+
+O. INFORMÁCIE O SKUTOČNOSTIACH, KTORÉ NASTALI PO DNI, KU KTORÉMU SA ZOSTAVUJE ÚČTOVNÁ ZÁVIERKA, DO DŇA ZOSTAVENIA ÚČTOVNEJ ZÁVIERKY
+V Slovenskej republike ako aj vo svete stále ovplyvňuje podnikanie pandémia Covid a v súčasnosti aj vojnový konflikt vyvolaný Ruskom na Ukrajine. Nakoľko sa situácia stále mení, nemožno v súčasnosti predvídať budúce účinky/dopady. Manažment bude pokračovať v monitorovaní potenciálneho dopadu a podnikne všetky možné kroky na zmiernenie akýchkoľvek negatívnych účinkov na spoločnosť a jej zamestnancov. Avšak momentálne nepredpokladá významné
+ohrozenie pokračovania v činnosti v roku 2026.
+
+P. INFORMÁCIE O VLASTNOM IMANÍ
+
+Prehľad o pohybe vlastného imania v priebehu účtovného obdobia je uvedený v nasledujúcej tabuľke:
+
+Položka vlastného imania
+a Základné imanie
+Základné imanie Pohľadávky za upísané vlastné imanie Emisné ážio Ostatné kapitálové fondy Zákonné rezervné fondy Zákonný rezervný fond (nedeliteľný fond) Ostatné fondy zo zisku Výsledok hospodárenia minulých rokov Nerozdelený zisk minulých rokov Neuhradená strata minulých rokov Výsledok hospodárenia bežného účtovného obdobia
+Spolu
+
+Stav ku dňu 1.1.2025 b 21 562 25 000 -3 438 0 5 938 108 230 108 230 0 0 0 0
+
+Účtovné obdobie (2025)
+
+Prírastky
+
+Úbytky
+
+Presuny
+
+c
+0
+0 0 1 1 0 0 0 0
+
+d 0 0 0 0 0 0 0 0 0 0 0
+
+e 0 0 0 0 0 0 0 0 0 0 0
+
+Stav k 31.12.2025
+f 21 562 25 000 -3 438
+0 5 938 108 231 108 231
+0 -1 572
+0 -1 572
+
+-1 572
+
+0
+
+0
+
+-3 161
+
+134 158
+
+1
+
+0
+
+0
+
+130 998
+
+Základné imanie bolo splatené v plnom rozsahu.
+
+12
+
+Poznámky Úč POD 3 - 01
+
+IČO
+
+47367610
+
+DIČ 2 0 2 3 8 7 1 7 5 1
+
+Prehľad o pohybe vlastného imania za predchádzajúce účtovné obdobie je uvedený v nasledujúcej tabuľke:
+
+Položka vlastného imania
+a Základné imanie
+Základné imanie Pohľadávky za upísané vlastné imanie Emisné ážio Ostatné kapitálové fondy Zákonné rezervné fondy Zákonný rezervný fond (nedeliteľný fond) Ostatné fondy zo zisku Výsledok hospodárenia minulých rokov Nerozdelený zisk minulých rokov Neuhradená strata minulých rokov Výsledok hospodárenia bežného účtovného obdobia
+Spolu
+
+Stav ku dňu 1.1.2024 b 21 562 25 000 -3 438 0 5 938 104 910 104 910 0 0 0 0
+
+Predchádzajúce účtovné obdobie (2024)
+
+Prírastky
+
+Úbytky
+
+Presuny
+
+c 0 0 0 0 0
+3 320 3 320
+0 0 0 0
+
+d 0 0 0 0 0 0 0 0 0 0 0
+
+e 0 0 0 0 0 0 0 0 0 0 0
+
+Stav k 31.12.2024
+f 21 562 25 000 -3 438
+0 5 938 108 230 104 910
+0 0 0 0
+
+3 321 126 472
+
+3 320
+
+4 893 4 893
+
+-1 572
+
+0
+
+134 158
+
+Základné imanie Spoločnosti vo výške 25 000 EUR (31. decembra 2025: 25 000 EUR) tvorí:
+ 200 kusov kmeňových akcií s menovitou hodnotou 125 EUR, akcia znie na meno a má podobu listinného cenného
+papiera (k 31. decembru 2025: 200 kusov kmeňových akcií s menovitou hodnotou 125 EUR).
+Všetky akcie boli riadne splatené.
+Držitelia akcií majú nárok na dividendy podľa rozhodnutia valného zhromaždenia a majú právo hlasovať, pričom každá jedna akcia predstavuje jeden hlas.
+Účtovná strata za rok 2024 bol vysporiadaná nasledovne:
+
+Názov položky Účtovná strata
+
+2024 1 572
+
+Vysporiadanie účtovného zisku Prevod na účet nerozdelenej straty Zákonný prídel do rezervného fondu
+
+2024 1 572 0
+
+Spolu
+
+1 572
+
+13
+
+

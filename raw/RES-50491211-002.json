@@ -1,0 +1,18 @@
+{
+  "updated": "2026-10-08",
+  "institutions": [
+    {
+      "id": "50491211",
+      "name": "CEE Capital Management, a. s.",
+      "address": "Holubyho 1, 81103 Bratislava - mestská časť Staré Mesto",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný správca alternatívnych investičných fondov",
+          "licenses": [],
+          "valid_from": "2019-03-13"
+        }
+      ]
+    }
+  ]
+}

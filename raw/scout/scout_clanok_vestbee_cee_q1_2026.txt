@@ -1,0 +1,308 @@
+URL: https://www.vestbee.com/insights/articles/vc-funding-in-cee-report-q1-2026
+FINAL_URL: https://www.vestbee.com/insights/articles/vc-funding-in-cee-report-q1-2026
+HTTP: 200
+FETCHED_AT: 2026-10-09T19:03:29
+TITLE: VC funding in CEE report — Q1 2026 | Vestbee
+DATES: ['2026-05-19T07:22:32.866Z', '2026-05-19T07:22:32.886Z'] []
+
+ 
+ VC funding in CEE report — Q1 2026 | Vestbee 
+ Join here Join Vestbee
+ The leading platform for startups, VCs, accelerators and corporates in Europe
+ Join here Join here 
+ News 
+ Insights 
+ Sectors 
+ Newsletter Events Platform 
+ News 
+ Insights 
+ Sectors 
+ Newsletter Events Vestbee Platform 
+ May 19, 2026 · 27 min read 
+ Lisa Palchynska & Konrad Koncerewicz
+ Vestbee
+ VC funding in CEE report — Q1 2026
+ Key takeaways for Q1 2026 
+ CEE isn’t recovering yet — it’s finding a floor 
+ The region saw €821 million across 138 rounds in Q1 2026 — basically a carbon copy of Q4 2025 (€860 million), but with fewer deals closing. The real story, though, is capital concentration. Nearly half of that funding went to just two companies:  Mews and Preply . 
+ Strip those deals out, and the market falls to €435 million across 136 rounds. That’s the reality of the ecosystem right now — a flatline that’s lasted nearly three years. Investors aren't just cautious — they're incredibly picky.
+ Ukraine reads better as a cohort than as a number  
+ Ukraine is the perfect example of why aggregate data is misleading. On paper, it’s a massive €228.9 million quarter for the country’s startup ecosystem. In reality, Preply accounted for more than half of that total. 
+ Looking beyond the big check , there’s a genuine trend emerging: companies like  Uforce, HOLYWATER, Haiqu, and Buntar are increasingly attracting international syndicates. That shift in the investor base is a much more important signal for the region than the headline funding total.
+ Exits, not deployment, will define this vintage  
+ The burning question for this vintage isn't about deployment — it’s exits. CEE funding has remained below the €1 billion quarterly mark for most of the past three years, and the IPO window in Europe is still barely open.  
+ For investors putting money to work today, the exit path is almost exclusively M&A or secondaries. Public markets are unlikely to be part of the conversation anytime soon.
+ Defence tech is the right thesis with more complicated math than the narrative suggests  
+ NATO Innovation Fund’s (NIF) over €1 billion mandate and growing European procurement budgets provide durable support for firms like Frankenburg, Orqa, Uforce, and SkySelect. But procurement-grade companies tend to scale more like industrial businesses than venture-backed startups.  
+ That may support capital preservation, but whether the category can generate venture-scale returns for heavily exposed funds remains unclear.
+ Global VC in Q1 2026: a record quarter 
+ Global VC hit around $300 billion in Q1 — up 150% QoQ vs. Q4 2025 and 150% YoY vs. Q1 2025, the largest quarter ever.  Crunchbase puts it at ~70% of all VC deployed in 2025. The recovery is now a new, narrow cycle. 
+ The frontier-lab phenomenon 
+ OpenAI ($122 round), Anthropic ($30 billion), xAI ($20 billion), and Waymo ($16 billion) raised $188 billion altogether, marking 65% of global VC. Four of the five largest rounds ever recorded closed in 90 days. These were not traditional growth rounds, but industrial-scale financings tied to multi-year compute, energy, and talent demands. Aggregate AI funding reached around $242 billion — nearly 80% of global VC activity, up from 55% a year earlier.
+ Vestbee view:  the frontier cluster is becoming structurally distorted, and the optimistic case depends on markets that do not exist yet — from chip supply and energy availability to application-layer unit economics. Frontier computers will likely keep absorbing capital from sovereign and strategic balance sheets.  
+ For traditional VC LPs, the implication is increasingly clear —  the asset class effectively ends where the next $50 billion round begins. 
+ Stages and geography 
+ Late-stage funding reached $246.6 billion across 584 deals — three years ago, that would have represented a full year of activity. Early-stage funding totalled $41.3 billion across roughly 1,800 rounds. Seed and pre-seed held up in absolute terms, but became compressed relative to the rest of the market. The gap between mega-rounds and the rest of the market keeps widening. 
+ The US share of global VC rose to 83% — around $250 billion — up from 71% a year ago. The IPO window is reopening slowly, but the real exit story is hyperscaler M&A, with Microsoft, Google, Amazon, and Meta accelerating acquisitions of AI talent, models, and applications.
+ Vestbee view:  four companies absorbed roughly two-thirds of global VC in 90 days. The frontier cluster has its own economics — sovereign-LP capital, hyperscaler strategics, perpetual dilution paths — and operates increasingly outside what traditional venture funds can underwrite at fund-level returns.  
+ The implication for everyone outside the cluster is that the rest of the venture market is materially smaller, harder, and pickier than the headline numbers suggest. The impact this may have on aggregate fund returns by 2028–2030 deserves attention. 
+ Europe vs US: a record quarter masks an ownership problem 
+ European VC reached $17.6 billion in Q1, up to 30% YoY and marking the second consecutive quarter of growth, according to  Crunchbase . AI funding surpassed 50% of regional capital for the first time, reaching $9.2 billion. Mistral AI's €1.7 billion Series C is the largest European AI venture round ever; Helsing closed €600 million Series D at €12B post; Yann LeCun's Paris-based AMI raised the largest European seed on record at $1 billion.
+ Viewed in a global context, Europe’s $17.6 billion represented just 5.9% of the roughly $300 billion invested globally in Q1 — the region’s lowest share since the post-2021 cycle began. In the same quarter, the US absorbed around $250 billion, more than 14 times Europe’s total. The gap isn't narrowing; it's widening at the pace the US is scaling AI infrastructure.
+ Geography and sectors 
+ The UK captured $7.4 billion, anchored by AI infrastructure, fintech, and life sciences. France followed with $2.9 billion, led by Mistral AI and the sovereign-AI thesis (private + Bpifrance). Germany raised $1.9 billion, remaining flat YoY and trailing both. markets Beyond AI, the strongest sectors included defence and dual-use (Helsing, ARX Robotics), climate infrastructure, and vertical AI for healthcare, legal, and financial services. US fund participation in European late-stage projects hit a record. That last point is the one that should worry European LPs.
+ Stages 
+ Deal volume fell ~40% YoY — seed rounds declined 44%, early-stage fell 30%, while late-stage activity remained broadly flat. Europe is doing fewer deals overall, but each one is materially larger and more AI-driven. 
+ Vestbee view:  much of the UK's $7.4 billion was priced and led by US funds, and most of the eventual exits will be M&A by US strategics. Mistral is European in passport; in cap-table terms, it is increasingly a US asset. Until Europe builds growth funds at scale — not just seed — the continent will keep functioning as a sourcing region for American DPI.  
+ CEE's counterintuitive advantage is that this dynamic hasn't fully reached it yet: entry valuations are still local, engineering capacity is highly competitive on a cost-adjusted basis, and a defense-tech demand wave that Western European capital is slow to underwrite is sitting on its eastern border. 
+ VC investment trends in CEE 
+ Reading Q1 2026 in cycle terms 
+ CEE quarterly deployment has remained in a €400–900 million range across the past nine quarters, well below the €1–2.5 billion/quarter baseline that defined 2021–H1 2022. Q1 2026's €821 million sits in the upper end of this lower end, broadly in line with Q4 2025 (€860 million across  176 rounds, compared to 138 fully disclosed in Q1 2026 vs around 160 in Q4 2025). The recovery narrative needs to be calibrated against this baseline. What 2026 is delivering, so far, is stabilisation, not a return to peak. Whether this represents a structural reset or a longer-than-usual down cycle will become clearer through 2027.
+ Three things defined the quarter: 
+ CEE-rooted scaleups operating from international hubs crossed category-leadership thresholds: Mews (Czechia → Amsterdam) and Preply (Ukraine → US) both closed nine-figure rounds. 
+ Defence and dual-use established itself as a structural CEE category: Frankenburg (€30 million Series A), Buntar (€8.98 million), Orqa (€10.9 million Series A), SkySelect ($9 million), and a long tail of Polish players raised >€60 million of disclosed capital. 
+ Ukraine emerged as the second market by capital raised, with €228.9M across 16 rounds , including four of the top eleven deals: Preply, Uforce, HOLYWATER, Haiqu.
+ One external milestone also matters for how CEE is interpreted globally. ElevenLabs closed a $500 million Series D at a $11 billion valuation in February, led by Sequoia. The company was founded by Poles in London, which excludes it from CEE totals under the HQ-based methodology. The methodology itself is correct, but the counterfactual matters: if counted as Polish, the round would have lifted Poland from €72 million to roughly €500 million, making it the largest CEE country by capital raised. The structural reality that the methodology cannot fully capture is that ElevenLabs represents the externalisation of Polish AI talent, not its absence.
+ Startup investment rounds in CEE in Q1 2026 
+ Number of funding rounds: 138 (fully disclosed across the quarter).
+ The biggest disclosed rounds: Mews — $300M Series D (€256.8M, Czechia-founded, NL-based), Preply — $150M Series D (€128.4M, Ukraine-founded, US-based), Uforce — $50M seed (€43.2M, Ukraine-founded, US-based), Frankenburg Technologies — €30M Series A (Estonia), GA Drilling — $24.7M Late VC (€21.4M, Slovakia), Turbine AI — €21.2M Series B (Hungary), HOLYWATER — $22M Series A (€18.8M, Ukraine), Saltz App — $20M Series A (€17.28M, Lithuania).
+ Total value of funding closed in CEE: approximately €821M.
+ Countries with the highest number of rounds: Poland — 46, Czech Republic — 16, Ukraine — 16, Estonia — 15, Lithuania — 11.
+ Countries with the highest total capital raised: Czech Republic — €294.3M, Ukraine — €228.9M, Poland — €72M, Estonia — €61M, Slovakia — €48.1M.
+ Most active VC funds: Coinvest Capital, SmartCap, FIRSTPICK, Hard2Beat (3 deals each); EBRD, Cogito Capital Partners, Horizon Capital, Day One Capital, Plug and Play, Inovo VC, J&T Ventures, Rockaway Ventures, Simpact VC, Change Ventures (2 deals each).
+ Most popular industries: AI, defence tech, fintech, healthtech, spacetech, deeptech, energy & climate tech.
+ Excluded from CEE totals (referenced for context): ElevenLabs — $500M Series D at $11B (Polish-founded, London-based).
+ What shaped the CEE ecosystem in Q1 2026 
+ The regional funding picture was heavily shaped by capital concentration 
+ The Czech Republic ranked first by capital raised (€294.3 million), but  87%  of that came from Mews. Ukraine ranked second (€228.9M), but 56% of the total was driven by Preply. Excluding Preply,  Ukraine still raised approximately €100 million across 15 rounds, including deals like Uforce, HOLYWATER, Haiqu, and Buntar. The signal that should drive allocation decisions is not the headline funding total, but the growing strategic depth of the ecosystem.
+ Poland remains the structural outlier within CEE: 46 rounds but only €72 million of capital. The mismatch isn't a one-off — it reflects the local market's early-stage bias and the absence of a domestic Series B/C base. ElevenLabs is the clearest example of that gap: Polish AI talent operating at a global scale, but financed and headquartered abroad.
+ Estonia (15 rounds, €61 million) and Lithuania (11 rounds, €37.4 million) continued to punch above their weight per capita. Slovakia reached €48.1 million in funding, driven almost entirely by GA Drilling.
+ Defence and dual-use kept consolidating 
+ Frankenburg, Buntar, Orqa, SkySelect, React UAV, and FlyFocus secured over €60 million in disclosed capital. The underlying activity is materially larger, since several smaller defence-related rounds fall outside the top-deal threshold. The pattern already visible in Q4 2025 — European procurement budgets directing capital toward sovereign suppliers — accelerated further in Q1. Defence and dual-use are becoming one of the more institutionally backed theses in the region on a five-year horizon.
+ The institutional anchor is now the NIF, with over €1 billion in mandate and active CEE deployment. That includes the €15 million Series A it led into Kelluu (autonomous surveillance airships for NATO's eastern flank). The fund’s growing footprint signals a broader convergence between Western defense procurement and venture capital. Operationally validated companies — including Frankenburg in air defense, Orqa in FPV systems, Uforce in battlefield software, and SkySelect in defense logistics — are increasingly backed by a mix of the NATO Innovation Fund, SmartCap, NCBR, European Investment Fund, and tier-one international VC firms.
+ AI in CEE has bifurcated 
+ At the top end of the market, mature applied-AI scaleups such as Mews, Turbine AI, and BottleCap continue to attract larger growth rounds. Beneath them, a fast-growing pipeline of vertical AI seed and pre-seed startups — including Sapience, Theorema, Surveily, Demoboost, Ludus AI, and ValkaAI — is emerging across the region. By deal count, vertical AI activity in CEE now outpaces much of the broader European market.
+ CEE's strongest companies are backed by tier-one international capital from day one 
+ Mews: Atomico, Battery, EQT, Kinnevik, Tiger Global. 
+ Preply: EBRD, WestCap, Horizon Capital. 
+ SkySelect: Lux Capital, Bain Capital Ventures. 
+ Seed-stage funding in CEE continues to rely heavily on local investors — from Coinvest Capital (Lithuania) and SmartCap (Estonia) to FIRSTPICK (Baltics) and Hard2Beat (Poland) — while larger institutional capital is increasingly appearing at later stages, including through EBRD-backed rounds in Ukraine. 
+ Two structural gaps 
+ Growth capital – Series B+ for CEE companies still routes through London or NY by default. 
+ Exits —no sustained cadence of IPOs, strategic acquisitions, or secondaries. The €821 million deployed in Q1 is real; what matters is the DPI it returns by 2030.
+ CEE in 2026 is best framed as a talent-arbitrage market. Engineering, founder ambition, and execution capacity are world-class on a global benchmark, but the financing infrastructure needed to convert them into liquid value isn't yet built locally. The arbitrage is that gap. The key question for allocators is how long it will remain open.
+ Vestbee view:  three forces are increasingly shaping the CEE at the same time: defence and dual-use (Frankenburg, Orqa, Buntar, SkySelect, FlyFocus, React UAV), vertical AI (Theorema, ValkaAI, Sapience, Surveily, Demoboost, BottleCap), and Ukraine-linked innovation (Preply, Uforce, HOLYWATER, Haiqu, Buntar).  
+ Each theme alone is significant. Together, they say more about how the region should be priced than any single megadeal in the quarter. 
+ New VC funds investing in CEE and Europe in Q1 2026 
+ Q1 2026 was an unusually strong quarter for European fund formation. The mix — large-cap deeptech growth funds in Western Europe alongside a steady cadence of CEE-anchored seed and early-stage vehicles — reinforces the thesis already visible in the deal flow: capital is reorienting toward deeptech, defence, climate, and applied AI.
+ Seaya  (Spain) launched Growth Tech Fund I, a €1B fund focused on applied AI and deeptech — one of the largest growth vehicles in Europe this quarter.
+ Kembara  raised a €750M first close toward a €1B target, becoming Europe's largest dedicated deeptech growth fund — investing at Series B and C.
+ UVC Partners  (Germany) expanded its latest fund to €400M for B2B tech across Europe, seed to Series B — focus on deeptech, climate, mobility, and AI.
+ DTCP  raised €300M for its new defence-focused fund, with a €500M final-close target.
+ Quantonation  closed €220M for early-stage quantum and physics-based startups.
+ 2150  launched Fund II at €210M for urban decarbonisation and climate transformation.
+ Provectus Capital Partners  (Croatia) reached a €162.5M first close of PCP SEE Fund II (€250M target by Q2/Q3 2026) for tech-enabled growth in Southeast Europe.
+ e2vc  (Turkey) closed a €100M Fund III for early-stage CEE and Baltic startups.
+ Credo Ventures  (Czechia) launched its fifth $88M fund — up to 30 pre-seed checks across CEE and diaspora founders.
+ Balnord  exceeded its €70M Fund I target and is on track to €100M by mid-2026 — frontier and dual-use across the Baltic Sea Region.
+ Montis VC  (Warsaw) raised a €50M first close for early-stage European energy and industrial transition tech.
+ FIRSTPICK  raised €25M for overlooked Baltic founders at pre-seed.
+ Angel One  (Ukraine) closed a $3M second fund to back 12 seed-stage Ukrainian startups in 2026 — split evenly between civilian and defence tech.
+ Interested in other new VC funds investing in CEE and Europe? Check out the full list . 
+ Now to the month-by-month read. As always, the review is based on fully disclosed rounds (startup name, closing date, round size, participating investors).
+ Investment rounds in January 2026 
+ Number of funding rounds: 31
+ The biggest investment rounds: Mews — €256.8M Series D, Preply — €128.4M Series D, HOLYWATER — €18.8M Series A, Haiqu — €9.4M Seed, Nomagic — €8.56M Series B
+ Total value of funding secured in CEE: approximately €494.9M
+ Countries with the most rounds: Czech Republic — 8, Estonia — 4, Poland — 4, Ukraine — 4
+ Most active VC funds: Cogito Capital Partners, Horizon Capital, EBRD, Day One Capital, Coinvest Capital
+ Most funded industries: hospitality, SaaS, edtech, AI, fintech, Quantum Computing, defence tech
+ January was the most capital-intensive single month CEE has recorded in years. Two cross-border mega-rounds dominated the month:
+ Mews raised $300 million in Series D from Atomico, Battery, EQT, Kinnevik, and Tiger Global, cementing its position as a global category leader in hospitality PMS software. 
+ Preply followed with $150 million Series D backed by EBRD, Indico, Cogito Capital Partners, WestCap, and Horizon Capital.
+ Beneath the headlines rounds, a strong mid-sized cluster emerged: 
+ HOLYWATER ($22 million Series A — Horizon Capital, Endeavor Catalyst), 
+ Haiqu ($11 million seed — Primary Venture Partners, Collaborative Fund, Toyota Ventures, MaC Venture Capital), 
+ Nomagic ($10M Series B — Cogito Capital Partners), Sapience AI ($8.8 million— Society Pass), ABZ Innovation (€7 million — Day One Capital, Vsquared), 
+ BottleCap AI ($7.5 million seed — angel syndicate), 
+ Rainbow Weather ($5.5 million), Rollo Robotics (€3.7 million), 
+ Mos Health (€920,000 — Movens, Smok Ventures, operator-angels).
+ The Czech Republic led on both deal count and capital — 8 rounds totalling roughly €280 million, driven almost entirely by Mews. Ukraine ranked second by capital raised — Preply, HOLYWATER, Haiqu. 
+ Cogito Capital Partners was the month's most active investor (Preply + Nomagic) — the first time a CEE-anchored fund has co-led a regional category leader at a late stage in this cycle.
+ Find out more:   Top CEE funding rounds closed in January .
+ Investment rounds in February 2026 
+ Number of funding rounds: 32
+ The biggest investment rounds: Frankenburg Technologies — €30M Series A, Turbine AI — €21.2M Series B, ValkaAI — €12M pre-seed, Farsight Vision — €7.2M Series A, Allonic — €6.08M, Farseer — €6.08M Series A
+ Total value of funding secured in CEE: approximately €109.75M
+ Countries with the most rounds: Czech Republic — 6, Poland — 5, Estonia — 4, Hungary — 4, Ukraine — 4, Lithuania — 3
+ Most active VC funds: SmartCap, Day One Capital, Coinvest Capital, FIRSTPICK, Plug and Play, Rockaway Ventures, J&T Ventures, Simpact VC
+ Most funded industries: defence tech, AI / deeptech, healthtech / biotech, fintech, robotics
+ February normalised the cadence, with 32 rounds totalling €109.75 million. The standout deal came from: 
+ Frankenburg Technologies, which closed a €30 million round from SmartCap and Plural to scale missile interception and counter-drone systems. The deal cements Estonia as Europe's leading air-defence hub and SmartCap as the Baltics' most consequential public-backed defence allocator. 
+ Hungarian biotech Turbine AI followed with €21.2 million Series B backed by Accel, Mercia, Beiersdorf, MSD Global Health Innovation Fund, and Interactive Venture Partners — one of Europe's largest AI-driven oncology rounds in Q1.
+ CEE-headquartered deal flow also ran deep: 
+ ValkaAI raised €12 million pre-seed from Rockaway Ventures, J&T Ventures, and Tensor Ventures— among the largest pre-seed rounds in CEE history. 
+ Farsight Vision raised €7.2 million in Series A from SmartCap, Axon, Anker Capital, Radix Ventures, and Darkstar. 
+ Allonic raised €6.08 million for 3D tissue braiding from Day One Capital, Visionaries Club, and Prototype Capital. 
+ Farseer raised $7.2 million in Series A funding from SQ Capital and AYMO Ventures for AI FP&A. 
+ Copla and Axiology each closed €5–6 million across IoT and tokenised securities. 
+ React UAV raised €4.5M for Polish defense; Romania's Kinderpedia closed €2.2 million round backed by Simpact VC, Early Game Ventures, ROCA X.
+ The Czech Republic led by deal count, with six rounds concentrated around AI and pre-seed activity in Prague and Brno. Estonia and Hungary punched above their weight in total capital thanks to Frankenburg and Turbine AI.
+ SmartCap emerged as the most active investor of the month with participation in two major deals.
+ Find out more:   Top CEE funding rounds closed in February .
+ Investment rounds in March 2026 
+ Number of funding rounds: 40
+ The biggest investment rounds: Uforce — €43.2M seed, GA Drilling — €21.4M Late VC, Saltz App — €17.28M Series A, Orqa — €10.9M Series A, Buntar Aerospace — €8.98M, Giraffe360 — €8.64M Series B, SkySelect — €7.78M, Choice — €6M
+ Total value of funding secured in CEE: approximately €172M
+ Countries with the most rounds: Ukraine — 8, Estonia — 7, Lithuania — 6, Romania — 4, Croatia — 3
+ Most active VC funds: SmartCap, Hard2Beat, FIRSTPICK, Lifeline Ventures, Lightspeed Venture Partners, Founders Fund, Lakestar, Change Ventures, Inovo VC, J&T Ventures
+ Most funded industries: defence tech, energy & climate tech, AI, fintech, mobility, deeptech
+ March produced the highest deal count of the quarter, with 40 rounds totalling around €172 million, and showed a marked tilt toward defence, energy, and Ukrainian-rooted companies. 
+ Uforce raised a $50 million seed round from Lakestar, Shield Capital, and Ballistic Ventures. It was one of the largest seed rounds ever closed by a CEE-founded defence company. 
+ GA Drilling closed $24.7 million in late-stage funding from Nabors Industries, TomEnterprise AB, and Underground Ventures for plasma geothermal drilling. Lithuania's Saltz App raised $20 million Series A led by Lifeline Ventures, with participation from Inovo VC, EBRD, and Change Ventures.
+ March was the most defence-heavy month of the quarter. 
+ Orqa raised $12.7 million Series A from Lightspeed, Taiwania Capital, Radius Capital, and AYMO Ventures for the FPV drones. 
+ Buntar raised $10.4 million from Axon for autonomous reconnaissance; SkySelect raised $9 million from SmartCap, Lux Capital, Bain Capital Ventures, Rock Creek Group, for defence aerospace logistics. 
+ Defence and dual-use are now attracting the highest-quality international capital in the region. Outside defence, March ran deep across vertical AI, fintech, and biotech. 
+ Giraffe360 raised $10 million in Series B funding. Investors are Cipio Partners, Hoxton Ventures, LAUNCHub Ventures, Founders Fund, and Change Ventures. 
+ Choice raised €6 million from J&T Ventures, Reflex Capital, and Presto Ventures. 
+ Theorema closed €2.9 million seed rounds backed by Credo Ventures, KAYA VC, and i&i Biotech Fund for AI molecular discovery; Surveily raised €2.5 million for AI occupational safety. 
+ WhiteBridge closed €2.5 million Series A from Plug & Play, BADideas.fund, FIRSTPICK, ScaleWolf.
+ Ukraine led by deal count for the first time since Q4 2024, with 8 rounds totalling roughly €55.7 million. Estonia and Lithuania combined for 13 rounds, once again forming the most consistently active early-stage cluster in CEE. 
+ SmartCap topped the list of the most-active investors, participating in three major deals across the month.
+ Find out more:  Top CEE funding rounds closed in March .
+ Now, a closer look at the most interesting CEE startups that closed rounds between January and March 2026.
+ Top CEE startups that closed funding rounds in Q1 2026 
+ Mews 
+ Czech-founded hospitality software company Mews raised a $300 million in Series D funding to further scale its global hotel operations platform across payments, property management, and hospitality infrastructure. 
+ Preply 
+ Ukrainian-founded edtech platform Preply secured a $150 million Series D to deepen its AI-powered tutoring and corporate learning products. The company operates across more than 175 countries and works with over 50,000 tutors globally.
+ Uforce 
+ Ukrainian-founded, US-based defense software startup Uforce raised a $50 million seed round to develop AI-powered battlefield coordination and command-and-control systems shaped by direct front-line operational experience.
+ Frankenburg Technologies 
+ Estonian defense deeptech startup Frankenburg Technologies secured €30 million to build mass-producible missile interception and counter-drone systems for European defense procurement programs, reinforcing Estonia’s growing role within NATO-aligned defense innovation.
+ GA Drilling 
+ Slovak deeptech company GA Drilling raised $24.7 million to commercialise plasma drilling technology designed for ultra-deep geothermal energy, underground storage, and oil and gas applications. 
+ Turbine AI 
+ Budapest-based biotech startup Turbine AI secured a €21.2 million Series B to advance its AI-driven cancer biology simulation platform, which helps predict patient-level drug responses and accelerate pharmaceutical research workflows.
+ HOLYWATER 
+ Ukrainian AI-powered consumer media startup HOLYWATER raised $22 million in Series A funding to scale its personalised storytelling, audiobook, and short-form content products powered by generative AI technologies.
+ Saltz App 
+ Lithuanian fintech startup Saltz App secured $20 million in Series A funding to expand its AI-native personal finance platform across Central and Western Europe, positioning itself as a next-generation financial super app for consumers.
+ ValkaAI 
+ Czech AI and dual-use infrastructure startup ValkaAI raised €12 million in pre-seed funding to build large-model infrastructure for enterprise and defense applications, marking one of the largest pre-seed rounds recorded in the CEE region.
+ Orqa 
+ Croatian defense-tech company Orqa secured $12.7 million Series A financing to expand its FPV drone systems, tactical autonomy software, and battlefield hardware products already deployed with NATO-aligned forces.
+ Haiqu 
+ Ukrainian-founded quantum computing startup Haiqu raised an $11 million seed round to develop middleware and error-mitigation software for NISQ-era quantum hardware, positioning itself among the region’s most ambitious deeptech bets.
+ Buntar Aerospace 
+ Ukrainian autonomous aerial systems startup Buntar Aerospace secured $10.4 million to scale its reconnaissance and tactical drone technologies internationally, building on systems tested in real front-line environments.
+ Giraffe360 
+ Latvian-founded proptech company Giraffe360 raised $10 million in Series B funding to expand its AI-powered real estate imaging platform, combining 360° cameras and software tools for property marketing.
+ Nomagic 
+ Polish robotics startup Nomagic secured $10 million Series B funding to further develop AI-powered robotic arms for warehouse and logistics automation used by major European e-commerce operators.
+ SkySelect 
+ Estonian-founded aerospace logistics startup SkySelect raised $9 million to digitise procurement and supply-chain operations for mission-critical aviation and defense maintenance systems.
+ Sapience AI 
+ Slovak startup Sapience AI secured $8.8 million to expand its AI-powered energy trading and grid optimisation software across Central Europe, targeting increasingly complex electricity markets.
+ BottleCap AI 
+ Prague-based startup BottleCap AI raised $7.5 million in seed funding from a high-profile angel syndicate to build specialised AI models for consumer-facing intelligent applications.
+ Farsight Vision 
+ Estonian-founded autonomous systems company Farsight Vision secured €7.2 million Series A financing to accelerate deployment of its computer vision software for defense and unmanned platform applications.
+ Farseer 
+ Zagreb-based fintech startup Farseer raised $7.2 million in Series A funding to scale its AI-native financial planning and analysis software for finance teams across Europe and the US.
+ Allonic 
+ Hungarian biotech and robotics startup Allonic secured $7.2 million in seed funding to advance its 3D Tissue Braiding technology for regenerative medicine and tissue engineering applications.
+ ABZ Innovation 
+ Hungarian AgTech and robotics company ABZ Innovation raised €7 million to scale its precision agriculture technologies and robotic systems designed for high-value crop production.
+ Choice 
+ Czech B2B software startup Choice secured €6 million to expand its procurement and B2B commerce digitisation platform for mid-market and enterprise customers across the CEE region.
+ Copla 
+ Lithuanian deeptech and IoT startup Copla raised $6 million in seed funding to scale its product development and engineering capabilities.
+ Axiology 
+ Lithuanian capital markets infrastructure startup Axiology secured €5 million in seed funding to expand its regulated distributed-ledger platform for tokenised securities settlement within the European market.
+ Theorema 
+ Prague-based biotech startup Theorema raised €2.9 million in seed funding to accelerate AI-powered molecular discovery and drug development research.
+ Demoboost 
+ Polish B2B SaaS startup Demoboost secured €2.8 million to expand its interactive product demo platform designed to help sales teams automate product presentations and buyer onboarding.
+ Surveily 
+ Polish AI safety startup Surveily raised €2.5 million in Series A funding to scale its computer vision platform for detecting workplace safety risks in industrial environments.
+ WhiteBridge 
+ Lithuanian startup WhiteBridge secured €2.5 million Series A financing to expand its AI-powered people intelligence and identity verification platform into the US market.
+ Mos Health 
+ Polish digital health startup Mos Health raised €920K in seed funding to develop its AI-driven wellness app and personalised supplement protocols ahead of wider market rollout.
+ Outlook: what to expect for CEE in Q2 2026 
+ Q1 set a high bar. Underlying signals — late-stage pipeline, defence tech maturation, US/WE capital integration, fund-formation cadence — point to sustained strength rather than a spike, though two quarters do not yet make a trend. Composition will shift in Q2: Mews and Preply will not repeat at scale, and the headline will more closely track mid-market deal flow. That is a healthier read of the ecosystem anyway.
+ Five themes to watch in Q2 2026 
+ Defenсe-tech keeps consolidating.  The Frankenburg / Orqa / Buntar / SkySelect pattern is holding — operationally validated, NATO-aligned, dual-use companies rising from public-backed vehicles (SmartCap, NIF, EIF, NCBR) alongside tier-one international funds. We expect at least one €40 million+ CEE defence round in the coming quarters.
+ Ukraine's breakout continues, with the country ranking #2 by capital and #1 by deal count in March. Operational depth in defence AI, combined with a global diaspora and rising US conviction (Lakestar, Shield, Lux, Toyota), is now forming a structural pipeline. Q2 should add Ukraine-originated defence, AI infrastructure, and resilient-consumer rounds.
+ Vertical AI graduates to Series A.  The 2024–2025 seed cohort (Surveily, Demoboost, Theorema, WhiteBridge, ValkaAI, Choice, BottleCap) is ready to step up, and €5–15 million CEE Series A will accelerate, increasingly co-led by EU and US funds. Local pricing remains the window — one worth closing before US tourists arrive.
+ The decacorn effect.  Poland's first decacorn — excluded from the totals — has already shifted expectations, with downstream consequences visible in alumni fund formation, more aggressive US recruiting of CEE founders, and a higher willingness to back CEE-rooted AI at headier valuations.
+ Fund-formation tailwind.  Fund formation is providing a tailwind. Q1 closes (Balnord, Credo V, Montis, e2vc III, FIRSTPICK, Angel One II) translates into materially more dry powder for CEE seed and Series A, and Q2 deal count should expand as a result, widening the CEE lead-count momentum.
+ Liquidity outlook 
+ The exit market for CEE in 2026–2028 will likely route through three main channels:
+ M&A is expected to dominate, with Western strategics — particularly hyperscalers buying AI talent — as the most active acquirers.
+ Secondaries will keep growing; the European direct-secondaries market is now estimated at around $47.5 billion as funds look for distributions outside IPOs. 
+ The IPO window will remain narrow, opening selectively for AI-native or defence-aligned growth equity, but is unlikely to absorb the broader CEE cohort at scale. 
+ The practical implication: capital deployed between 2024 and 2026 needs to generate DPI through M&A and secondaries. The 'first CEE IPO wave' is more realistically a post-2028 story than a 2026 one.
+ Where returns will be generated in CEE 
+ DPI generation in CEE through 2026–2030 will come from three layers operating differently: 
+ Seed and Series A vintages of 2024–2026 represent the better-priced entry cohort, but exits will likely not materialise until 2030 or later, given the IPO drought — creating a longer-than-usual holding cycle. 
+ Mid-stage CEE companies generating around €20–50 million in revenue are the most likely M&A targets through 2027–2028, primarily acquired by Western strategics buying AI talent or vertical category fit. 
+ Growth-stage capital comes overwhelmingly from US and UK funds. As a result, the largest distributions from CEE-rooted companies are likely to accrue to non-CEE investors — the ownership problem extending from financing into exit dynamics. 
+ The implication for regional GPs: top-quartile DPI this cycle will run through M&A and secondaries, not IPOs. For LPs, the best-positioned managers will combine disciplined entry pricing, syndicate quality — particularly US co-leads at Series B and beyond —, and active secondary networks capable of managing portfolio liquidity.
+ Risks and downside scenarios 
+ Three risks could reset the trajectory:
+ Late-stage capital re-tightens — frontier-AI compression forces global funds to pull back, reducing the cross-border participation that drove Q1's headline rounds. 
+ Geopolitics. A deterioration on the eastern flank simultaneously accelerates defense demand and compresses consumer-facing valuations. 
+ Concentration risk. Without a headline cross-border deal of Mews/Preply scale, any future quarter will look materially smaller in aggregate.
+ Vestbee view:  the key variable in Q2 is whether the vertical AI seed cohort can graduate into Series A velocity. If even half of these companies raise follow-on in 2026 — several already appear ready — CEE will have its first proper applied-AI bench: ten to fifteen €5–15 million Series A rounds, rooted in CEE seed ecosystems but led by US and Western European growth-stage investors. That outcome would matter more than any single megadeal headline. 
+ If you have insights about the report, drop us a line! 
+ Want a more detailed view of the CEE startup & VC ecosystem in Q1 2026? Discover our monthly, quarterly, and yearly reports:
+ VC Funding in CEE in Q4 2025 
+ List of new VC funds launched in Q1 2026 to invest in Europe 
+ Top CEE funding rounds closed in January 2026 
+ Top CEE funding rounds closed in February 2026 
+ Top CEE funding rounds closed in March 2026 
+ Disclaimer: This report features VC rounds publicly disclosed before publication or shared by our VC and startup community. Grants, debt funding, and transactions below €50,000 were not considered. While we value all startups operating in CEE, our focus is on companies that originate from the region, self-identify as CEE companies, or have a significant presence of CEE founders.
+ Sources: Vestbee VC & startup community, startup press releases, open data from web & social media sources, DaaS platforms such as Crunchbase and Dealroom.
+ Reports #CEE #Funding May 19, 2026 
+ Latest news
+ Oct 09 UK neurotech chip developer MintNeuro raises $5M. Czech JSK Investments joined the round Oct 09 OllyGarden lands $4M to improve telemetry quality for AI agents and engineers Oct 08 Golbriak Space raises €4M to scale laser communications for satellite constellations Oct 08 Verso raises $6M to scale AI-powered consumer intelligence platform Oct 08 PSV Tech secures €56M Fund II to back early-stage Nordic startups Explore more 
+ Editor's pick
+ Top CEE funding rounds closed in September 2026 Europe’s defence and dual-use investors The US loves longevity. Can Europe turn it into venture category How many of Europe's unicorns are still worth $1B? How CEE venture funding is changing in 2026 
+ Newsletter 
+ Subscribe 
+ I agree my personal data will be stored and processed for online communication read more read more 
+ Related posts
+ Explore more 
+ VC funding in CEE report — Q2 2026
+ Take a look at VC funding in CEE report Q2 2026, our quarterly overview of VC transactions in CEE.
+ VC funding in CEE report — Q4 2025
+ Take a look at VC funding in CEE report Q4 2025, our quarterly overview of VC transactions in CEE.
+ VC funding in CEE report — Q3 2025 
+ Take a look at the VC funding in CEE report Q3 2025, our quarterly overview of VC transactions in CEE.
+ Latest news
+ Explore more 
+ UK neurotech chip developer MintNeuro raises $5M. Czech JSK Investments joined the round 
+ The $5 million round was led by Odyssey Ventures, with participation from JSK Investments, 33East, and Alumni Ventures.
+ OllyGarden lands $4M to improve telemetry quality for AI agents and engineers
+ The round was backed by Next Frontier Capital, Grand Ventures, and ACTAI Ventures.
+ Golbriak Space raises €4M to scale laser communications for satellite constellations
+ The round was co-led by Join Capital and PhotonVentures, with participation from Takeoff.
+ Subscribe to our newsletter
+ Subscribe 
+ I agree my personal data will be stored and processed for online communication read more 
+ Join Vestbee
+ Join the leading matchmaking platform for startups, VC funds, angels, accelerators and corporates
+ Join Now 
+ Platform Startups VC Funds Accelerators Service Providers Angels Community CEE VC Summit 
+ Resources Insights VC List LP List Events List CEE SaaS Index Perfect Pitch E-book 
+ Company Careers Terms Of Service Privacy Policy Cookies Policy 
+ Subscribe newsletter 
+ I agree my personal data will be stored and processed for online communication. Read more 
+ Follow us Linkedin 
+ office@vestbee.com media@vestbee.com 
+ © 2026 Vestbee. All rights reserved. 
+ The material presented via this website is for informational purposes only. Nothing in this website constitutes a solicitation for the purchase or sale of any financial product or service. Material presented on this website does not constitute a public offering of securities or investment management services in any jurisdiction. Investing in startup and early stage companies involves risks, including loss of capital, illiquidity, lack of dividends and dilution, and it should be done only as part of a diversified portfolio. The Investments presented in this website are suitable only for investors who are sufficiently sophisticated to understand these risks and make their own investment decisions. 
+ 

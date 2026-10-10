@@ -1,0 +1,38 @@
+ZDROJ: https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/12593664
+Dokument: "VS - Výročná správa.PDF" – Fond inovácií a technológií, a.s. (IČO 47051981), Výročná správa za rok 2025. RÚZ výročná správa id 6898383 (https://www.registeruz.sk/cruz-public/api/vyrocna-sprava?id=6898383): datumPodania 2026-05-29, príloha 12593664, 38 strán.
+Stiahnuté: 2026-10-09T19:35:06Z. PDF je sken bez textovej vrstvy. Strany 1, 3 a 7 som vykreslil (Windows.Data.Pdf) a prečítal ako obrázok. Nasleduje doslovný ručný prepis týchto strán (na s. 1 bez obsahu a telefónu); bunky tabuľky sú oddelené znakom " | ". Podpisy na s. 7 sú ručné, prepisujem iba mená a funkcie pod nimi.
+
+=== Strana 1 (titulná) ===
+Fond inovácií a technológií, a.s.
+Trnavská cesta 100
+Bratislava 821 01
+IČO: 47 051 981
+VÝROČNÁ SPRÁVA
+za rok 2025
+Bratislava, 20.05.2026
+
+=== Strana 3 ===
+B. Informácia o vývoji účtovnej jednotky, o stave, v ktorom sa nachádza a o významných rizikách a neistotách
+Spoločnosť bola založená za účelom realizácie podpory malého a stredného podnikania v rámci programu rizikového kapitálu realizovaného prostredníctvom Slovak Business Agency (SBA) s investormi.
+Spoločnosť ku dňu 31.12.2025 vlastnila podiely v spoločnostiach s nasledovnými podielmi na základom imaní:
+názov spoločnosti | podiel v % k 31.12.2025
+NEUROCONSAN a.s. | 32
+ELEARN.AERO a.s. | 27
+Futureplastix a.s. | 34
+Trigen a.s. | 40
+People2People, s. r. o. – v likvidácii | 2,7788
+Cognexa s.r.o. v likvidácii | 14,999
+Účtovná závierka spoločnosti k 31. decembru 2025 bola zostavená ako riadna účtovná závierka podľa § 17 ods. 6 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov, za účtovné obdobie hospodárskeho roku od 1. januára 2025 do 31.decembra 2025 v zmysle § 3 zákona č. 431/2002 Z.z. o účtovníctve v znení neskorších predpisov.
+Účtovná závierka spoločnosti bude overená audítorom.
+Výsledkom hospodárenia spoločnosti k 31.12.2025 bola strata vo výške 1.727 313,80 EUR.
+Podrobnejšie údaje z účtovnej závierky sú uvedené v tabuľke súvahy a výkazu ziskov a strát.
+
+=== Strana 7 ===
+L. Správa o podnikateľskej činnosti a o stave a vývoji majetku Spoločnosti
+Spoločnosť v roku 2025 nepodpísala investičné zmluvy na nové cieľové spoločnosti, ale pokračovala v investíciách na základe investičných zmlúv podpísaných v minulom období, resp. kombinovala ekvitné investície s kvázi-ekvitnými investíciami.
+Stav a zmeny majetku Spoločnosti sú podrobne zachytené v súvahe a výkaze peňažných tokov.
+V súlade s ustanovením §20 Zákona o účtovníctve súčasťou tejto Výročnej správy je aj Správa audítora o overení ročnej účtovnej závierky spoločnosti Fond inovácií a technológií, a.s., ktorej prílohu tvorí kompletná účtovná závierka k 31. 12. 2025.
+Ing. Marián Hvizdoš, predseda predstavenstva, Fond inovácií a technológií, a.s.
+Mgr. Martin Holák, PhD., podpredseda predstavenstva, Fond inovácií a technológií, a.s.
+Mgr. Ľuboš Halák, člen predstavenstva, Fond inovácií a technológií, a.s.
+doc. Ing. Ladislav Hudec, CSc., člen predstavenstva, Fond inovácií a technológií, a.s.

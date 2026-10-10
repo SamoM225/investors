@@ -1,0 +1,163 @@
+Eterus Capital – Private equity: Investujeme do vášho rastu
+Skip to content
+Hľadám investora
+Private equity
+Portfólio
+V médiách
+Kontakt
+Slovenčina
+English
+&times;
+Hľadám investora
+Private equity
+Portfólio
+V médiách
+Kontakt
+Slovenčina
+English
+Investujeme do vášho rastu
+Do inovácií sme formou private equity investovali už viac než 40 mil. EUR.
+Hľadám investora
+Warning: Array to string conversion in /data/4/e/4ecb0daf-8df8-42af-81ff-1e32c093f192/eterus.sk/web/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 108
+Warning: Array to string conversion in /data/4/e/4ecb0daf-8df8-42af-81ff-1e32c093f192/eterus.sk/web/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 124
+499, 499, mtbiker, mtbiker.png, 7586, https://eterus.sk/wp-content/uploads/2023/06/mtbiker.png, https://eterus.sk/?attachment_id=499, mtbiker, 1, , , mtbiker-2, inherit, 497, 2023-06-04 09:19:14, 2023-06-04 09:19:24, 0, image/png, image, png, https://eterus.sk/wp-includes/images/media/default.png, 350, 87, Array" />
+Tomáš Červenka, CEO
+„Eterus Capital sme oslovili koncom roku 2021 a oceňujeme korektnú a promptnú komunikáciu v celom procese transakcie, fér...ový prístup (najmä s ohľadom na radikálnu zmenu makroekonomického prostredia počas prípravy investície) a long-term pohľad, ktorý je dôležitý v rýchlo sa meniacom svete. Našu biznisovú spoluprácu začíname s dobrými vzťahmi a v partnerskom duchu, čo nie je pri podobných transakciach samozrejmosťou.”
+Zobraziť viac
+Warning: Array to string conversion in /data/4/e/4ecb0daf-8df8-42af-81ff-1e32c093f192/eterus.sk/web/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 108
+Warning: Array to string conversion in /data/4/e/4ecb0daf-8df8-42af-81ff-1e32c093f192/eterus.sk/web/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 124
+691, 691, sygic, sygic.png, 1879, https://eterus.sk/wp-content/uploads/2023/06/sygic.png, https://eterus.sk/?attachment_id=691, sygic, 1, , , sygic, inherit, 689, 2023-06-08 21:40:49, 2023-06-08 21:40:55, 0, image/png, image, png, https://eterus.sk/wp-includes/images/media/default.png, 135, 51, Array" />
+Michal Štencl
+„Moje skúsenosti s Eterus Capital sú nadštandardné. Eterus bol pre nás vždy korektným partnerom a za spoločnú histór...iu od roku 2011 si nespomeniem na jeden moment, v ktorom by sme boli v nezhode, čo je v prípade iných privátnych fondov skôr výnimkou. Mal som tú česť osobne spoznať Michala Staroňa a Borisa Kostíka, ktorí v našej firme figurujú/figurovali na rôznych pozíciách v predstavenstve / dozornej rade a vždy sme u nich našli podporu, ktorú sme potrebovali na ďalší rast našej spoločnosti.”
+Zobraziť viac
+Warning: Array to string conversion in /data/4/e/4ecb0daf-8df8-42af-81ff-1e32c093f192/eterus.sk/web/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 108
+Warning: Array to string conversion in /data/4/e/4ecb0daf-8df8-42af-81ff-1e32c093f192/eterus.sk/web/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 124
+695, 695, hopin, hopin.png, 2579, https://eterus.sk/wp-content/uploads/2023/06/hopin.png, https://eterus.sk/?attachment_id=695, hopin, 1, , , hopin, inherit, 693, 2023-06-08 21:49:55, 2023-06-08 21:50:00, 0, image/png, image, png, https://eterus.sk/wp-includes/images/media/default.png, 152, 40, Array" />
+Martin Winkler
+„Eterus Capital vystupoval počas našich rokovaní ako zodpovedný a férový partner a som rád, že sme nakoniec dosiahli k...onsenzus a budeme spoločne podnikať ako partneri. Samotnú transakciu sme vedeli uzatvoriť veľmi rýchlo, bez zbytočných komplikácií a „korporátnych“ zdržovaní, taktík a vo veľmi korektnom duchu. Verím, že spoločná budúcnosť nám, navzdory množstvu podnikateľských výziev, prinesie veľa dobrého a vo finále bude profitovať Hopin, zákazníci, zamestnanci aj spoločníci.”
+Zobraziť viac
+Warning: Array to string conversion in /data/4/e/4ecb0daf-8df8-42af-81ff-1e32c093f192/eterus.sk/web/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 108
+Warning: Array to string conversion in /data/4/e/4ecb0daf-8df8-42af-81ff-1e32c093f192/eterus.sk/web/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 124
+699, 699, saneca, saneca.png, 5799, https://eterus.sk/wp-content/uploads/2023/06/saneca.png, https://eterus.sk/?attachment_id=699, saneca, 1, , , saneca-3, inherit, 697, 2023-06-08 21:54:40, 2023-06-08 21:54:45, 0, image/png, image, png, https://eterus.sk/wp-includes/images/media/default.png, 166, 48, Array" />
+Matúš Kutný
+„Eterus Capital ako jeden z akcionárov spoločnosti Saneca Pharmaceuticals bol za každých okolností férovým partnerom, k...torý sa aj prostredníctvom svojich zástupcov v orgánoch spoločnosti pravidelne a aktívne zúčastňuje na podnikaní spoločnosti. Spoločnými silami sa snažíme spraviť maximum pre stabilizáciu a rozvoj spoločnosti. Eterus taktiež poskytuje finančné investície do výrobnej základne a technológie firmy.”
+Zobraziť viac
+Čo ponúkame?
+Rastový kapitál
+Eterus je partner pre financovanie spoločností vo fáze rastu, so schopným managementom a overeným konceptom.
+Minoritná pozícia fondu
+Fond vstupuje do spoločností ako minoritný akcionár, manažérska kontrola zostáva v rukách pôvodných akcionárov.
+Equity investície
+Sme kapitálovým fondom investujúcim do akcií a iných nástrojov vlastného imania spoločností s domicilom na Slovensku. Neponúkame dlhové financovanie.
+Investičné možnosti a horizont
+Zameriavame sa na investície v rozmedzí 2 - 2,5 mil. EUR, pričom preferovaná dĺžka investície predstavuje 5-7 rokov.
+€ 40 mil
+Investície Eterus Capital
+€ 2 - 2.5 mil
+Preferovaná investícia
+5 - 7 rokov
+Preferovaná dĺžka investície
+Ako fungujeme a čo vieme priniesť po vstupe?
+Transparentný a efektívny proces vstupu
+01
+Manažment transakcie je v kompetencii lokálneho tímu, čo zabezpečuje rýchle a efektívne riadenie procesu a jasné podmienky obchodu od začiatku diskusií po podpis zmluvnej dokumentácie.
+Po uskutočnení nevyhnutnej analýzy príležitosti a due diligence cieľovej spoločnosti je rozhodnutie investičného výboru realizovateľné vo veľmi krátkom čase.
+Fond ako partner
+02
+Eterus má záujem stať sa partnerom portfóliovej spoločnosti a spolupodieľať sa na rozvoji podnikania zdieľaním svojich skúseností nielen vo finančnej oblasti.
+Rozhodovacie právomoci zostávajú v rukách pôvodných spoločníkov, zástupcovia Eterus nezasahujú do operatívy a každodennej prevádzky podieľajú sa však na strategickom riadení.
+Zvýšenie kredibility podnikania
+03
+Posilnením kapitálovej štruktúry spoločnosti fond pomáha ďalšiemu rastu podnikania a otvára nové možnosti financovania.
+Prítomnosť finančného investora v akcionárskej štruktúre vo všeobecnosti zvyšuje kredibilitu tak pred financujúcimi inštitúciami ako aj pred potenciálnymi budúcimi strategickými partnermi a investormi.
+Post-transakčná podpora
+04
+Zástupcovia Eterus sú schopní pomôcť vo finančnej a strategickej oblasti podnikania a pridať hodnotu v rokovaniach o dlhovom financovaní, hľadaní optimálnych riešení pre nové štruktúry projektového financovania alebo vo finančnej reštrukturalizácii.
+Častokrát zástupcovia fondu pôsobia ako poradcovia generálnemu riaditeľovi/partnerovi a ponúkajú nezávislý názor na strategické témy spoločnosti.
+Fond vie taktiež identifikovať potenciálne akvizičné ciele, viesť rokovania s týmito spoločnosťami s cieľom ich akvizície ako aj rokovania ohľadom financovania týchto príležitostí a zabezpečiť tak skokový rast spoločnosti ako konsolidátora trhu.
+01
+Transparentný a efektívny proces vstupu
+02
+Fond ako partner
+03
+Zvýšenie kredibility podnikania
+04
+Post-transakčná podpora
+Portfólio
+Celé portfólio
+Dr. Martin Zubná klinika
+Konsolidačná platforma pre zubné ordinácie na Slovensku.
+EC Pharmacies
+Konsolidačná platforma pre lekárne na Slovensku.
+MTBIKER
+Najväčší cyklistický portál na Slovensku, ktorý trvalo rastie už od roku 1998 a obsluhuje komunitu vyše 200-tisíc používateľov.
+GroupSolver
+Vývoj technológií výskumu trhu založených na strojovom učení s cieľom odhaľovania skrytých vzťahov a informácií.
+VIRTUAL REALITY MEDIA
+Vývojár simulačných technológií a výrobca simulátorov.
+CTI GROUP
+Výrobca injekčných striekačiek, lanciet, chirurgických šijacích materiálov a iných zdravotníckych pomôcok.
+Eyerim
+Líder v e-commerce s okuliarmi, zameriavajúci sa na predaj slnečných okuliarov a na segment dioptrických okuliarov, vrátane rámov, šošoviek aj vlastnej kolekcie.
+Ecocapsule
+Výrobca inteligentných, sebestačných mikrodomov, ktoré využívajú slnečnú a veternú energiu.
+HOPIN
+Developer aplikácie na sprostredkovanie jazdy, ktorá umožňuje používateľom objednať si taxíky a luxusné limuzíny.
+EEI
+Developer a prevádzkovateľ parkovacích systémov.
+Náš tím
+Boris Kostík
+Investment Director
+|
+Andrej Zsoldos
+Senior Investment Manager
+Radovan Sukup
+Senior Investment Manager
+Matej Hodek
+Senior Investment Manager
+Miroslav Hilčík
+Senior Investment Manager
+Richard Lelák
+Senior Investment Manager
+V médiach
+Viac
+Private Equity je partnerstvo v dobrom aj zlom na niekoľko rokov
+„Snažíme sa s manažmentom spoločností, do ktorých vstupujeme, nájsť možnosti, ako ďalej
+Pandémia odhalila nutnosť mať zdravotnícku výrobu „doma“ pod kontrolou
+Intuitívne by sa dalo očakávať, že pandémia mala na výrobu liekov a zdravotníckeho materiál
+Firma z východu Slovenska dobýja svet marketingového prieskumu
+ESET, Sygic, či Slido - to je len niekoľko príkladov slovenských značiek, ktoré sa presadili v
+Šéf HOPINu: Cena 2,50 eur za jazdu nedáva zmysel vodičovi ani zákazníkovi
+V HOPINe pôsobí od júna tohto roku. Vedenie firmy prebral po jej zakladateľovi Martinovi Baranov
+Najazdil 40 miliónov kilometrov. Dnes HOPIN spája dopravu a mieri do zahraničia
+Keď v roku 2012 Martin Baran obiehal bratislavské čerpacie stanice a nahováral taxikárov na pou
+Príbeh legendárnej Indulony: Poklad zo socializmu má vyše 70 rokov, svoj recept nezmenil ani raz
+Vvznikla ešte v roku 1948 ako reakcia na industrializáciu v Československu. V priemyselnom štát
+Slovensko-americký startup je svetovou špičkou v prieskume trhu. Veria mu aj investori
+„Naša technológia je ďaleko pred konkurenciou. Možno až príliš ďaleko, aby ju konzervatív
+Rasťo zo Spišskej vyvíja umelú inteligenciu v Kalifornii. Slovenská AI chce lepšie pochopiť ľudské názory
+V praxi to funguje tak, že sofistikovaná umelá inteligencia spovedá stovky či tisícky responde
+MTBIKER získal silného partnera. Eterus Capital investuje do jeho rozvoja
+Jeden z najväčších a najnavštevovanejších cyklistických portálov v strednej Európe MTBIKER
+Kostík z Eterus Capital: Pri debate s firmami sme v roli diablovho advokáta
+Od roku 2008 poskytol Eterus Capital slovenským firmám kapitál vo výške viac ako 40 miliónov e
+Vybudujme spoluniečo unikátne
+Ak máte otázky alebo sa chcete pustiť do realizácie vašich expanzných plánov, kontaktujte nás.
+Meno*
+Web spoločnosti*
+E-mail*
+Názov spoločnosti*
+Súhlasím s tým, že ma prostredníctvom uvedených kontaktných údajov oslovíte s ponukou spolupráce. Informácie o spracovaní osobných údajov nájdete tu.
+ODOSLAŤ
+Ďakujeme, v najbližšej dobe vás budeme kontaktovať.
+E-mail
+investicie@eterus.sk
+Adresa
+Gorkého 4, Bratislava
+Made by Studio Echt
+✕
+Upozorňujeme, že sme zaznamenali prípady neoprávneného
+vydávania sa za spoločnosť Eterus Capital. Pred prijatím
+investičnej ponuky si vždy overte identitu spoločnosti a
+komunikujte výhradne prostredníctvom oficiálnych
+kontaktných údajov uvedených na našej webovej stránke.

@@ -1,0 +1,41 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":9,
+    "params":{
+      "q":"ae_entityName:Occam*",
+      "rows":"50",
+      "wt":"json"}},
+  "response":{"numFound":1,"start":0,"numFoundExact":true,"docs":[
+      {
+        "id":"ae48769",
+        "ae_entityTypeCode":"EVC",
+        "ae_lastUpdate":"2025-07-04T00:00:00Z",
+        "ae_lastUpdateStr":"04/07/2025",
+        "ae_lei":"097900CAKA0000144796",
+        "ae_headOfficeLei":"",
+        "ae_entityName":"Occam Investments s. r. o.",
+        "collectorParent":["Occam Investments s. r. o."],
+        "ae_officeType":"Head office",
+        "ae_competentAuthority":"National Bank of Slovakia (NBS)",
+        "ae_homeMemberState":"SLOVAKIA",
+        "ae_hostMemberState":"",
+        "ae_headOfficeAddress":"Digital Park I, Einsteinova 21, 851 01 Bratislava",
+        "ae_branchAddress":"",
+        "ae_comment":"",
+        "ae_status":"Active",
+        "ae_authorisationNotificationDate":"2024-06-20T00:00:00Z",
+        "ae_authorisationNotificationDateStr":"20/06/2024",
+        "ae_authorisationWithdrawalEndDateStr":"",
+        "entity_type":"ae",
+        "type_s":"parent",
+        "ae_entityTypeLabel":"EVC",
+        "_root_":"ae48769",
+        "ae_dbId":48769,
+        "ae_website":"https://www.usegforce.com",
+        "ae_commercialName":"",
+        "ae_legalform":"company with limited liability",
+        "timestamp":"2026-04-09T13:50:33.466Z",
+        "no_of_funds":"2",
+        "_version_":1878528970222206976}]
+  }}

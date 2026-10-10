@@ -1,0 +1,15 @@
+SOURCE: raw/sih_homepage_2026-10-09.txt (copy of https://www.sih.sk/, Playwright, accessed 2026-10-09T15:58:57Z)
+EXTRACT: sentences containing "investorom vo fonde" and SIH IČO line
+
+Slovak Investment Holding je investorom vo fonde spravovanom spoločnosťou CB Investment Management, ktorá je plne zodpovedná za jeho riadenie a realizáciu investičnej stratégie.
+Slovak Investment Holding je investorom vo fonde spravovanom spoločnosťou Vision Ventures, ktorá nesie plnú zodpovednosť za jeho riadenie a realizáciu investičnej stratégie.
+Slovak Investment Holding je investorom vo fonde spravovanom spoločnosťou Zero Gravity Capital, ktorá je plne zodpovedná za jeho riadenie a realizáciu investičnej stratégie.
+Slovak Investment Holding bol investorom vo fonde spravovanom spoločnosťou Limerock Investment Holding (predtým Limerock Fund Manager), ktorá bola zodpovedná za jeho riadenie a realizáciu investičnej stratégie.
+Slovak Investment Holding je investorom vo fonde so sídlom v Luxemburgu spravovanom spoločnosťou Neulogy Ventures, ktorá je plne zodpovedná za jeho riadenie a realizáciu investičnej stratégie.
+Slovak Investment Holding je investorom vo fonde spravovanom spoločnosťou CB ESPRI, ktorá je plne zodpovedná za jeho riadenie a realizáciu investičnej stratégie.
+Slovak Investment Holding je investorom vo fonde spravovanom spoločnosťou Sociálni Inovátori Impact Capital, ktorá je plne zodpovedná za jeho riadenie a implementáciu investičnej stratégie.
+Slovak Investment Holding je investorom vo fonde spravovanom spoločnosťou Wasteland Investment Management, ktorá je plne zodpovedná za jeho riadenie a realizáciu investičnej stratégie.
+Slovak Investment Holding je investorom vo fonde spravovanom spoločnosťou CEE Capital Management, ktorá je plne zodpovedná za jeho riadenie a implementáciu investičnej stratégie.
+Slovak Investment Holding je investorom vo fonde spravovanom spoločnosťou IPM Avanea Eco Management, ktorá je plne zodpovedná za jeho riadenie a napĺňanie investičnej stratégie.
+Slovak Investment Holding, a.s., IČO: 47 759 097
+Slovak Investment Holding podporuje podniky aj formou priamych investícií.

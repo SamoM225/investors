@@ -1,0 +1,154 @@
+URL: https://definic.ai/privacy
+ACCESSED: 2026-10-09T19:02:10.581Z
+STATUS: 200
+
+Privacy Policy – AI Vendor Intelligence Platform • Definic 
+Solution
+About
+Legal
+For Vendors
+Careers
+Book an Intro
+Privacy Policy 
+Privacy Policy 
+Privacy Policy 
+Committed to GDPR and your digital rights. 
+Committed to GDPR and your digital rights. 
+Committed to GDPR and your digital rights. 
+For legal inquiries contact us:
+[email protected] 
+[email protected] 
+Interpretation and Definitions
+At Definic, we value your privacy. This Privacy Policy (the Policy ) explains how we collect, process, retain, and protect your personal data in compliance with the European Union General Data Protection Regulation (the GDPR ) at IO s. r. o. , registered seat at Starozagorská 1385/2, 040 23 Košice – mestská časť Sídlisko KVP, ID no. 52 230 384, registered with the Commercial Register of City Court Košice, Section Sro, Insert No. 45695/V (hereinafter referred to as Definic , we , us or our ).
+Definic is a Slovak-based startup founded in 2020 that helps enterprises efficiently source, manage, and benchmark IT vendors to ensure project success and optimize procurement (the Service ) through its AI- powered platform, Definic.ai (the Platform ).
+For the purposes of the GDPR, Definic acts as the controller of your personal data.
+This Policy applies to you as a natural person if you use, have used, or have registered for our Services; if you are an employee or representative of a company that uses or has used our Services and your personal data has been shared with us; or if you have contacted us by email or mail.
+You may contact us regarding any questions or concerns related to how we process your personal data at [email protected] or by mail at our registered seat address above.
+PERSONAL DATA PROCESSING
+1.1 Where we obtain your personal data
+We obtain personal data directly from you, or indirectly from your employer if they provide us with information in connection with a contractual relationship. We may also process publicly available personal data, particularly contact details, which may include references or links to specific individuals. In addition, Definic may generate certain data about you while providing the Services, which may constitute personal data, and we may use and store such data accordingly. In some cases, we may also receive your personal data from public authorities in connection with regulatory requests, investigations, or legal obligations.
+1.2 Categories of personal data processed by Definic
+Unless a particular situation requires otherwise, the personal data processed by us may include:
+(a) identification and descriptive data : title, first name, last name, employer details, job position; (b) contact data : country of residence, address, (business) telephone number, (business) email address; (c) work-related data : professional qualifications, employment history, years of experience, highest attained education and field of study, and summaries of previous projects involving the data subject; to the extent practicable or appropriate, we may also process other data stated on your curriculum vitae provided to us for the purposes of the Services by you or your employer; (d) automatically collected / usage data : IP address, browser type and version, device information (operating system and device type), diagnostic data, network information (internet service provider, approximate geolocation); and (e) cookies and tracking data : session cookies, analytics cookies, marketing cookies.
+If you provide other categories of personal data, we will carefully assess whether such data is necessary for the intended purposes of processing. We will not process personal data that is not relevant or necessary.
+1.3 The purpose and legal grounds of processing your personal data
+Under GDPR, personal data may only be processed based on an appropriate legal basis. Definic processes personal data on the following legal grounds:
+(a) compliance with legal obligations – processing is necessary for to meet our legal obligations, including providing personal data to public authorities and other public law entities; (b) our legitimate interests – in some cases, Definic processes your personal data because we have a legitimate interest in doing so. Where processing is based on the Company’s legitimate interests, the Company has carefully assessed the circumstances and concluded that your interests or fundamental rights and freedoms requiring personal data protection do not override the Company’s legitimate interests. (c) consent of the data subject - where required (e.g., for marketing emails or cookies). To better illustrate the type of processing operations, their purpose, and reasons, please refer to Annex 1 to this Privacy Policy. Kindly note that to the extent a client account is opened for legal person (e.g., your employer or other legal entity associated with you), the activities of the client in the account are not associated to any natural person and therefore are not relevant for you. Kindly note that the examples in Annex 1 are illustrative only and shall not be treated as exhaustive list. Definic keep records or all processing operations as and if required by the GDPR. If you are interested in more details, please do not hesitate and contact us at the contact details stated in this Privacy Policy. 
+Types of Data Collected
+Types of Data Collected
+1.4 How long will your personal data be processed?
+Definic will not retain or process your personal data longer than necessary to achieve the purpose of processing or longer than required or permitted by applicable law. As a general rule, once the purpose of processing is fulfilled, we will stop processing such data for that purpose. If the personal data is not relevant for any other purpose, it will be deleted as soon as possible. To better illustrate the retain periods of data collected for the specific purposes, please refer to Annex 1 to this Privacy Policy. Definic will process your personal data for the duration listed in table in Annex 1 in the “Retention period” column. Where possible, personal data used for statistical purposes will be anonymized.
+1.5 Automated Decision-Making and Profiling
+We may use automated processing, including profiling, in connection with our Services. Profiling : our Platform may analyse usage patterns, preferences, and project-related data to provide tailored recommendations (e.g., vendor matching, project insights). Such profiling helps us improve the relevance and efficiency of our Services. Automated decision-making : we do not make decisions based solely on automated processing, including profiling, that produce legal effects concerning you or similarly significantly affect you within the meaning of Article 22 GDPR. 
+Where automated processing is used to support decisions, a human review is always involved before any binding outcome. Automated processing and profiling for service improvement and recommendations are based on our legitimate interest (Art. 6(1)(f) GDPR) to provide efficient and tailored services. If we use profiling for marketing purposes, it will be based on your consent (Art. 6(1)(a) GDPR). You have the right to object at any time to automated decision-making and profiling carried out on the basis of our legitimate interests. If in the future we implement automated decision-making that has legal or similarly significant effects, we will inform you in advance and ensure that you have the right to request human intervention, to express your point of view, and to contest the decision. 
+COOKIE POLICY
+We use cookies and similar technologies (such as pixels, tags, and scripts) on our Platform to make it work properly, to improve functionality, and to measure performance.
+2.1 Types of cookies we use:
+(i) Strictly necessary cookies – enable core functions such as login, account authentication, and fraud prevention. These do not require your consent. (ii) Preference / functionality cookies – remember your choices (e.g. language, region, login details) and improve your experience. (iii) Analytics cookies – to help us understand how our Platform is used so we can improve its performance and security. (iv) Marketing cookies – track your activity across websites to deliver relevant advertising and measure campaign effectiveness.
+2.2 Legal basis
+Strictly necessary cookies are used based on our legitimate interest (Art. 6(1)(f) GDPR). All other cookies are used only with your consent (Art. 6(1)(a) GDPR), which you may give via the cookie banner on our website definic.ai. No non-essential cookies will be placed on your device until you have provided your consent via our cookie banner.
+2.3 Retention
+We use both "Persistent" and "Session" Cookies. Session Cookies are deleted as soon as you close your web browser. Persistent cookies remain on your device for the period specified in your browser or until you delete them. In general, analytics cookies are kept for up to 24 months, and marketing cookies for up to 12 months.
+2.4 Managing cookies
+You may withdraw your consent at any time via our cookie banner or by adjusting your browser settings. If you disable certain cookies, some parts of the Platform may not function properly.
+2.5 International transfers
+Some cookies are provided by third-party vendors (e.g., Google, LinkedIn) located outside the EU/EEA (as defined in section 4.2 of this Policy). In such cases, we apply the safeguards described in section 4 of this Policy.
+YOUR RIGHTS
+We use cookies and similar technologies (such as pixels, tags, and scripts) on our Platform to make it work properly, to improve functionality, and to measure performance.
+3.1 How we protect your personal data
+Definic ensures strict compliance with the principles of personal data protection under applicable laws. Specifically, we ensure that (i) only personal data necessary for the purpose is processed, (ii) personal data is processed only for the purpose for which it was collected (or, where permitted by law, for compatible purposes), and (iii) personal data is processed only for as long as necessary. Personal data will be processed both manually and automatically using electronic systems. We have adopted appropriate technical, administrative, physical, and organizational measures to protect personal data during use and storage, preventing misuse, unauthorized access, disclosure, alteration, or destruction. These include: (a) Technical measures : use of firewalls, antivirus software, encryption tools, password-protected access, system and application monitoring. (b) Physical measures : use of lockable doors and cabinets, access control to Definic’ premises. (c) Organizational measures : training and awareness programs to ensure employees understand the importance of data protection and mandatory use of security tools; adoption of policies and procedures defining how personal data is processed.
+3.2 What are your rights regarding the processing of personal data?
+Under applicable data protection laws, you have following rights: (a) Right to be informed – you have the right to clear, transparent, and easily understandable information about how we process your personal data; (b) Right of access – you have the right to obtain confirmation of whether we process your personal data, and, if so, access to that personal data and related information; (c) Right to rectification – you have the right to request correction of inaccurate personal data and completion of incomplete personal data; (d) Right to erasure ( “right to be forgotten” ) – in certain cases (for example, if your personal data is no longer necessary for the purposes for which it was collected, or if you withdraw consent), you may request the deletion of your personal data; (e) Right to restriction of processing – you have the right to request that we restrict the processing of your personal data in specific situations (e.g., while we are verifying the accuracy of your personal data or the grounds for processing);
+(f) Right to object – where we process your personal data based on our legitimate interests or for direct marketing, you may object such processing at any time; (g) Right to data portability – where processing is based on your consent or a contract and carried out by automated means, you have the right to receive your personal data in a structured, commonly used, machine-readable format and to request its transfer to another controller, where technically feasible; (h) Right to withdraw consent – where processing is based on your consent, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal; and (i) Right to lodge a complaint – you have the right to file a complaint with the competent supervisory authority if you believe that your rights have been violated.
+3.3 How can you exercise your rights or file a complaint?
+You may exercise your rights by contacting us using the contact details provided in above of this Policy. Before responding to your request, we may need to verify your identity to protect your personal data from unauthorized access. We will respond to your request without undue delay and, in any event, within one month, in accordance with Article 12 GDPR. If you wish to file a complaint about the way Definic processes your personal data, you may: (a) contact us directly – we encourage you to reach out first, as we are committed to handling all concerns promptly and transparently; or (b) contact the supervisory authority – you have the right to lodge a complaint with the competent authority: Office for Personal Data Protection of the Slovak Republic Address: Park one building, Námestie 1. Mája 18, 811 06 Bratislava, Slovak Republic Tel.: +421 2 32 31 32 14 Fax: +421 2 32 31 32 49 Email: [email protected] Website: https://dataprotection.gov.sk/uoou While you are free to contact the supervisory authority directly, we encourage you to approach us first as we are committed to handling all such matters in compliance with applicable data protection laws, so we may resolve your concerns more quickly and effectively.
+RECIPIENTS. THIRD PARTIES. DATA TRANSFERS.
+We use cookies and similar technologies (such as pixels, tags, and scripts) on our Platform to make it work properly, to improve functionality, and to measure performance.
+4.1 Who has access to your personal data?
+Access to your personal data is granted to those persons who need it for performance of their duties and provision of our Services. The following categories of persons may have access to the personal data processed: (a) Definic’ staff and authorized personnel : your personal data may be processed by our staff and authorized contractors who are bound by confidentiality obligations and have received appropriate training in personal data protection. Access is always granted on a strict “need-to-know” basis. (b) External service providers ( processors ): we engage carefully selected third-party service providers (e.g., IT hosting providers, cloud infrastructure providers, communication tools, and professional advisors) to process personal data on our behalf. Such providers act only under our instructions and are bound by written data processing agreements in compliance with Article 28 GDPR, ensuring adequate security and confidentiality measures. (c) Third parties acting as controllers : In some cases, your personal data may be disclosed to third parties that process personal data for their own purposes, including (A) public authorities or government bodies (e.g., tax, supervisory, or law enforcement authorities), where required by law; (B) professional advisors or auditors , where necessary for legal, compliance, or accounting purposes; and (C) customers using the Platform for IT services procurement , who are interested in your employer’s services. We do not sell, rent, or otherwise commercially share your personal data with third parties.
+4.2 To which countries will your personal data be transferred?
+Your personal data is primarily processed within the European Union (the EU ), the European Economic Area (the EEA ), and Switzerland, where GDPR or personal data protection standards equivalent to the GDPR apply. In certain cases, we may transfer your personal data (including statistical or pseudonymized data derived from it) to countries outside the EU/EEA (the Third Countries). Such transfers may include, for example, the use of service providers or group companies located outside the EU/EEA. Whenever we transfer personal data to a Third Country, we ensure that appropriate safeguards are in place to protect your personal data in accordance with Chapter V of the GDPR. These safeguards may include: (a) Adequacy decisions – transfers to countries officially recognized by the European Commission as providing an adequate level of personal data protection (e.g., the United Kingdom, Switzerland, or the United States under the EU–US Data Privacy Framework, where applicable); and (b) Standard Contractual Clauses ( SCCs ) – for transfers to countries without an adequacy decision, we rely on the most recent European Commission SCCs (2021/914/EU), supplemented where necessary by additional technical and organizational measures to ensure an essentially equivalent level of protection. We assess the legal environment of the destination country, as required by the GDPR and the guidance of the European Data Protection Board, and implement supplementary measures where necessary to protect your personal data. For further details about the safeguards we apply, or to request a copy of the relevant transfer mechanisms, please contact us at [email protected] 
+4.3 Processing of personal data of minors
+Our Services are not directed at or intended for children under the age of 16 . We do not knowingly collect personal data from minors. If you are under the applicable minimum age, please do not register for or use our Services, and do not provide us with any personal data. If we become aware that we have collected personal data from a minor, we will take steps to delete such personal data without undue delay. Parents or legal guardians who believe that their child has provided us with personal data are encouraged to contact us at [email protected] , so we can investigate and take appropriate action. If, in rare cases, we must process the personal data of minors, we will ensure that such processing complies with Article 8 GDPR and applicable national laws, including obtaining verifiable parental or guardian consent where required.
+MISCELLANEOUS
+We use cookies and similar technologies (such as pixels, tags, and scripts) on our Platform to make it work properly, to improve functionality, and to measure performance.
+5.1 Changes in the policy
+We may update this Policy from time to time to ensure ongoing compliance with applicable personal data protection laws, regulatory guidance, or to reflect changes in our processing activities. The updated version will always be published on our website definic.ai/privacy . Where changes are material, we will notify you through appropriate communication channels (e.g., email or pop-up on the Platform) before the changes take effect.
+5.2 Reporting inconsistencies
+If you identify any inconsistency between this Policy and our actual processing of your personal data, please contact us immediately at the contact details above. We will investigate and take appropriate corrective action to ensure compliance.
+5.3 Accuracy of your personal data
+To ensure that your personal data remains accurate and up to date, please inform us promptly of any changes (e.g., change of employer, role, or contact details). This allows us to maintain secure and effective processing.
+5.4 Duties of contractual partners
+If you are a contractual partner of Definic and you provide us with personal data of your employees or other representatives, you are responsible for ensuring that such individuals are duly informed about this Policy and about the essential aspects of processing their personal data. If you are unable to provide this information, you must immediately notify us so that we can fulfil our direct information obligations toward the data subjects.
+5.5 Governing law and supervisory authority
+This Policy is governed by the laws of the Slovak Republic and the GDPR. Questions, disputes, or claims relating to this Policy shall be handled under the jurisdiction of the competent Slovak supervisory authority (see Section 3.3), without prejudice to your right to lodge a complaint with your local supervisory authority within the EU/EEA.
+Effectiveness of the privacy policy: 17.11.2025
+By
+© 2026,
+All Rights Reserved
+Menu
+Solution
+For Vendors
+About
+Blog
+Contact
+Social media
+Linkedin
+Instagram
+Legal
+Privacy Policy
+Terms of Service
+Let's talk
+[email protected] 
+[email protected] 
+Careers
+VAT EU
+SK 2120939194 
+16:22:15 
+Kosice, SLOVAKIA
+By
+Let's talk
+[email protected] 
+[email protected] 
+Careers
+Menu
+Solution
+For Vendors
+About
+Blog
+Contact
+Social media
+Linkedin
+Instagram
+VAT EU
+SK 2120939194
+Legal
+Privacy Policy
+Terms of Service
+16:22:15 
+Kosice, SLOVAKIA
+© 2026
+All Rights Reserved
+By
+Let's talk
+[email protected] 
+[email protected] 
+Careers
+Menu
+Solution
+For Vendors
+About
+Blog
+Contact
+Social media
+Linkedin
+Instagram
+VAT EU
+SK 2120939194
+Legal
+Privacy Policy
+Terms of Service
+16:22:15 
+Kosice, SLOVAKIA
+© 2026,
+All Rights Reserved

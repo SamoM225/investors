@@ -1,0 +1,96 @@
+Investing in Climate: Learnings from G-Force Fund I - Founders Factory
+Founders
+Venture Studio
+Accelerator
+Venture Funds
+Partners
+Focus areas
+Fintech
+Industrials
+Health
+Deep Tech
+Portfolio
+Careers
+Company
+About us
+Team
+Our partners
+Stories & Insights
+Apply
+Investing in Climate: Learnings from G-Force Fund I Recap on G-Force Sustainability Seed Programme Testing the hypothesis Highlights from G-Force Fund I Scalability, revenue, talent—what have we learned so far Looking ahead to G-Force Fund II Share
+In September 2021, we announced the launch of the G-Force Sustainability Seed Programme, created with the belief that entrepreneurs will play an important role in building solutions to address the global climate crisis.
+Investment trends continue to corroborate this sentiment: in 2022, over a quarter of VC money was directed into climate tech startups.
+We designed G-Force to offer scientists and technologists far more than capital, however - assembling a platform of deep operational support, and a route to Europe’s rich ecosystem of public innovation support, climate-focused VCs, and some of the world’s most forward-thinking policymakers.
+Ahead of the launch of our second fund, we've reflected back on G-Force Fund I — sharing our highlights and learnings from our first investments.
+Recap on G-Force Sustainability Seed Programme
+Pre-seed/seed fund for climate startups
+€250k capital invested
+Dedicated operational support offered by Founders Factory, as well as access to global network and follow-on funding to help entrepreneurs make a global impact
+Access to grant funding advice
+Testing the hypothesis
+In setting out our first G-Force Fund, we aspired to build a differentiated investment platform, one that was attractive to founders and could help them build strong foundations from which to grow sustainably, especially in the tough early years. We designed a three-pillared package made up of pre-seed capital, hands on expert operational support and non-dilutive grant support and we started to offer this package to the best climate tech founders we could find.
+We decided to focus on two high level ideas. First of all, we invest in themes, not regions. Our operations may be mostly Europe based (Founders Factory largely in the UK, Italy, and Germany; G-Force in Slovakia and Hungary), but we never wanted geography to constrain us. Rather, we’ve been led by finding and supporting companies across five key investment themes—decarbonising the grid, fixing food and agriculture, electrifying transportation, cleaning up industry & buildings, and protecting nature & removing carbon—which could be located anywhere in the world. Secondly, size—investing purely at the pre-seed stage.
+Like most funds, we were investing capital—€150k in pre-seed investment. But on top of this, we had two additional features that distinguished us. Firstly, a six month programme of bespoke, hands-on operational support from Founders Factory’s team of experienced operators. Over the past seven years, they’ve built and invested in over 300 businesses, sharpening their process for what startups need across different stages and industries. And secondly, grant support, working with our dedicated public funding team to find and secure non-dilutive capital from EU and UK innovation support schemes.
+We believed this investment package set us apart from the crowd. Ultimately, founders can accept capital from anyone, but it’s the hands-on support that differentiates us. So was this something the highest quality climate tech founders were looking for? Ultimately, this was the hypothesis we set out to test with Fund I.
+Highlights from G-Force Fund I
+After reviewing over 1000 startups, we invested in eight. These spanned the full spectrum of climate tech and the themes we’d selected to invest in. Our first portfolio includes:
+Solivus —residential and commercial solar energy products and solutions to enable buildings to decarbonise
+Metalchemy —patented nano-particle solution focused on preserving food for longer, addressing the 8% GHG emissions that global food waste emits
+Materials Nexus —AI modelling platform designing new materials and accelerating green materials research and development
+Quiron —AI platform using satellite data to monitor forest threats (can predict forest fires within a 10 metre radius and 10 days before they happen)
+Manna Insect —turning bio-waste into high quality insect protein for animal feed, using a container based, self-assembly, IoT AI system (The Manna Mind)
+Rebel Tech —building dark factories for electronic repair to become the world leader in repair automation
+Powerex —AI-powered energy trading platform enabling virtual power plant customers to capitalise on “behind-the-metre” energy market
+Climate Karma —Fitbit for personal carbon footprint to measure, reduce and offset your carbon footprint
+Scalability, revenue, talent—what have we learned so far
+One thing we’ve been astonished by is the quality of talent working in the space, and planning to work in the space. We are seeing a generation of purpose led innovators who are committing their careers to helping our planet - one of the most encouraging signals given the scale of the challenge ahead.
+We also appreciate the global scale of climate change, but also the fact that global problems mean global demand for solutions—every startup’s ‘great problem to have.’ Take our portfolio company Quiron for example, using satellite imagery and environmental data to predict forest fires within 10 days and 10 metres radius. Their solution is deployed across much of South America, Portugal and they are now entering Australia, California and Southern Africa. Global problems need globally deployable solutions, fast: a huge advantage for founders building solutions.
+Climate founders have to be smart about hardware and software as a combination. We know that atoms are harder than bits, but they can work together very well when building scalable businesses. The modern tech themes of hyperconnectivity (5G/IoT), new data lakes and processing algorithms (AI) coupled with advances in processing power bring atoms and bits ever closer together. Take Materials Nexus for example, an AI platform (bits) designing better rare earth materials (atoms). Or Manna Insect, with its ‘Manna Mind’, an IoT enabled control unit, helping farmers around the globe use their own biowaste to grow insect protein onsite, replacing the need to buy expensive and environmentally unfriendly soy based feed for their chickens (£300bn market.).
+Revenue is another point of interest for us, especially in a difficult funding market: seven out of our eight businesses are already generating revenue. So while VC is typically deployed in businesses that aren’t yet revenue generating, something we are typically happy to do, we’ve realised that generating revenue early is a strong proxy for many other strengths. This includes product market fit, the founder’s ability to sell, and market need. It’s also a positive signal from your most important investor: customers. This is especially important for climate businesses, who seek assurances they are solving the right problems.
+Looking ahead to G-Force Fund II
+We’re excited to announce that we’re doubling down on our commitment to support climate tech founders, with a new €20 million fund to invest in 35 startups over the next few years.
+We don’t want to rewrite a winning formula, but we are making a few small tweaks. We will now be investing €250k (up from €150k) into each business, ensuring that our founders have all the resources and enough firepower to help them excel at this crucial early stage. Also we’ve simplified  our investment criteria. We are investing in pre and seed startups, from around the globe, that meet these three criteria:
+Do they solve a large and clear problem in a unique and compelling way?
+Do they have the potential to scale effectively across borders?
+Will they have a clear impact in lowering greenhouse gases?
+If you are a pre or seed stage founder who is meeting these criteria, please get in touch.
+One of the biggest challenges to overcome in solving climate change is awareness and education for everyone. Our shared climate challenge is a community one, so the more people who understand the problems and solutions, and how to make a difference, the better for all of us. We believe a great way to become educated is through investing in it and meeting the innovators leading the charge. And so we are offering friends, family, founders and investors the opportunity to join us in G-Force Fund II, to be able to learn, contribute and be part of this opportunity.
+Subscribe to the newsletter
+Monthly insights and news across venture building, investment, market trends and technology
+Subscribe →
+Interested in finding out more about investing in G-Force Fund II?
+Check out our Seedrs page here
+Find out more →
+About Louis
+Louis Warner  is General Partner at G-Force. Prior to this, Louis was COO at Founders Factory for over 6 years. He was also CEO at Contentive, a Media & Intelligence business and is an experienced operator, investor, and board member.
+About Marian
+Marian Gazdik is the Founding Partner at G-Force. Prior to this, he was a Director at Startup Grind, helping set up its London base. He previously co-founded IPM Growth, a growth VC with a focus on Central and Eastern Europe.
+Words by Louis Warner
+Share Copy link LinkedIn X Email
+Newsletter Startup Bulletin
+Receive insights & learnings from top founders and operators every month, plus news from the Founders Factory ecosystem.
+Subscribe on Substack → Subscribe on LinkedIn → Free. Unsubscribe anytime.
+Founders
+Venture Studio
+Accelerator
+Venture Funds
+Partners
+Partner with us
+Focus areas
+Fintech
+Industrials
+Health
+Deep Tech
+Portfolio
+Our companies
+Company
+About us
+Team
+Our partners
+Careers
+Stories & insights
+Subscribe to our newsletter
+Monthly stories and insights from leading founders, investors and our team.
+Sign up
+© 2026 Founders Factory Ltd. All rights reserved
+Code of conduct

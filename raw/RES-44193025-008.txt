@@ -1,0 +1,1868 @@
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 1 DIČ: 2022654788
+Poznámky k účtovnej závierke
+zostavenej k 31. decembru 2025
+A. ZÁKLADNÉ INFORMÁCIE
+1. Obchodné meno a sídlo
+Eterus Capital, a.s.
+Gorkého 4, 811 01 Bratislava, Slovenská republika
+Spoločnosť Eterus Capital, a.s., (ďalej len „Spoločnosť“) bola založená 13. mája 2008 a do Obchodného
+registra bola zapísaná 11. júna 2008 (Obchodný register Okresného súdu Bratislava III v Bratislave, oddiel
+Sa, vložka č. 4495/B).
+2. Hlavné činnosti Spoločnosti podľa výpisu z Obchodného registra
+- činnosť podnikateľských, organizačných a ekonomických poradcov
+- sprostredkovateľská činnosť v oblasti obchodu
+- prieskum trhu a verejnej mienky
+- reklamné a marketingové služby
+- prenájom hnuteľných vecí
+- prenájom nehnuteľností s poskytovaním iných než základných služieb spojených s prenájmom
+- obstarávateľská činnosť spojená so správou nehnuteľností
+- kúpa tovaru na účely jeho predaja konečnému spotrebiteľovi (maloobchod) alebo iným prevádzkovate-
+ľom živnosti (veľkoobchod)
+Cieľom Spoločnosti je nadobúdanie obchodných podielov a poskytovanie príspevku do vlastného imania
+úspešných slovenských spoločností a projektov, ktoré poskytujú primeraný profil výnosnosti a rizika.
+Spoločnosť investuje výlučne na území Slovenskej republiky a bola založená za účelom dosiahnutia
+strednodobého až dlhodobého kapitálového zhodnotenia zverených investičných prostriedkov.
+3. Neobmedzené ručenie
+Spoločnosť nie je neobmedzene ručiacim spoločníkom v iných účtovných jednotkách.
+4. Počet zamestnancov
+Názov položky Stav k 31.12.2025 Stav k 31.12.2024
+Priemerný prepočítaný počet zamestnancov 0 0
+Stav zamestnancov ku dňu, ku ktorému sa zostavuje úč-
+tovná závierka, z toho: 0 0
+počet vedúcich zamestnancov 0 0
+5. Právny dôvod na zostavenie účtovnej závierky
+Účtovná závierka Spoločnosti k 31. decembru 2025 je zostavená ako riadna účtovná závierka podľa § 17
+ods. 6 zákona NR SR č. 431/2002 Z.z. o účtovníctve v znení neskorších predpisov (ďalej len „zákon
+o účtovníctve“) za účtovné obdobie od 1. januára 2025 do 31. decembra 2025.
+6. Dátum schválenia účtovnej závierky za predchádzajúce účtovné obdobie
+Valné zhromaždenie schválilo dňa 14. októbra 2025 účtovnú závierku Spoločnosti za predchádzajúce
+účtovné obdobie.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 2 DIČ: 2022654788
+B. ORGÁNY A AKCIONÁRI SPOLOČNOSTI
+1. Orgány Spoločnosti
+Orgán Funkcia Stav k 31.12.2025 Stav k 31.12.2024
+Predstavenstvo: predseda
+podpredseda
+člen
+člen
+Ing. Martin Šmigura
+Mgr. Martin Holák , PhD.
+Ing. Miroslav Dunajčin
+Mgr. Michal Staroň
+Ing. Martin Šmigura
+Mgr. Martin Holák , PhD.
+Ing. Miroslav Dunajčin
+Mgr. Michal Staroň
+Dozorná rada: predseda
+člen
+člen
+Mgr. Ingrid Škriňová
+Mgr. Radovan Sukup
+Ján Palenčár
+Mgr. Radovan Sukup
+Investičný výbor predseda
+člen
+člen
+Mgr. Martin Holák, PhD.
+Ing. Boris Kostík
+Mgr. Ľuboš Halák
+Mgr. Martin Holák, PhD.
+Ing. Boris Kostík
+Mgr. Ľuboš Halák
+Preseda dozornej rady k 31.12.2025 nebol nominovaný.
+2. Akcionári Spoločnosti
+Štruktúra akcionárov Spoločnosti k 31. decembru 2025 :
+Spoločník, akcionár
+Výška podielu na základnom imaní
+Podiel na hlaso-
+vacích právach v
+%
+Iný podiel na os-
+tatných polož-
+kách VI ako na ZI
+v %
+absolútne v %
+a b c d e
+Národný holdingový fond s. r. o. 1 746 700 82,94% 82,94% 82,94%
+Wood & Company Group S.A., 359 370 17,06% 17,06% 17,06%
+Spolu 2 106 070 100,00% 100,00% 100,00%
+C. KONSOLIDOVANÝ CELOK
+Spoločnosť sa nezahrňuje do konsolidovanej účtovnej závierky materskej spoločnosti Národný holdingový
+fond s. r. o., nakoľko materská účtovná jednotka podľa § 22, ods. 10 zákona o účtovníctve nemá povinnosť
+zostaviť konsolidovanú účtovnú závierku.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 3 DIČ: 2022654788
+D. ÚČTOVNÉ METÓDY A VŠEOBECNÉ ÚČTOVNÉ ZÁSADY
+a) Východiská pre zostavenie účtovnej závierky
+Účtovná závierka Spoločnosti bola zostavená za predpokladu nepretržitého trvania jej činnosti v súlade so
+zákonom o účtovníctve platným v Slovenskej republike a nadväzujúcimi postupmi účtovania.
+Účtovníctvo Spoločnosť vedie na základe dodržania časovej a vecnej súvislosti nákladov a výnosov.
+Za základ sa berú všetky náklady a výnosy, ktoré sa vzťahujú na účtovné obdobie bez ohľadu na dátum
+ich platenia.
+Peňažné údaje v účtovnej závierke sú uvedené v celých EUR, pokiaľ nie je určené inak.
+Účtovné metódy a všeobecné účtovné zásady Spoločnosť aplikovala konzistentne s predchádzajúcim
+účtovným obdobím.
+b) Dlhodobý nehmotný a dlhodobý hmotný majetok
+Dlhodobý majetok nakupovaný sa oceňuje obstarávacou cenou, ktorá zahrňuje cenu, za ktorú sa majetok
+obstaral, a náklady súvisiace s obstaraním (clo, prepravu, montáž, poistné a pod.).
+Dlhodobý nehmotný majetok sa odpisuje podľa odpisového plánu, ktorý bol zostavený na základe
+predpokladanej doby jeho používania zodpovedajúcej spotrebe budúcich ekonomických úžitkov z majetku.
+Odpisovať sa začína prvým dňom mesiaca nasledujúceho po uvedení majetku do používania. Nehmotný
+majetok, ktorého obstarávacia cena (resp. vlastné náklady) neprevýši 2 400 EUR, sa nezaraďuje na účty
+dlhodobého majetku a odpisuje sa jednorazovo pri uvedení do používania.
+Dlhodobý hmotný majetok sa odpisuje podľa odpisového plánu, ktorý bol zostavený na základe
+predpokladanej doby jeho používania zodpovedajúcej spotrebe budúcich ekonomických úžitkov z majetku.
+Odpisovať sa začína prvým dňom mesiaca nasledujúceho po uvedení majetku do používania. Hmotný
+majetok, ktorého obstarávacia cena (resp. vlastné náklady) neprevýši 1 700 EUR, sa nezaraďuje na účty
+dlhodobého majetku a odpisuje sa jednorazovo pri uvedení do používania.
+V prípade prechodného zníženia úžitkovej hodnoty dlhodobého majetku, ktorá bola zistená pri
+inventarizácii a je výrazne nižšia ako jeho ocenenie v účtovníctve po odpočítaní oprávok, je vytvorená
+opravná položka na úroveň jeho zistenej úžitkovej hodnoty.
+Spoločnosť v roku 2025 vo svojom účtovníctve neevidovala žiadny dlhodobý hmotný a nehmotný majetok.
+c) Cenné papiere a podiely
+Cenné papiere a podiely sa oceňujú pri nadobudnutí obstarávacími cenami. Ku dňu, ku ktorému sa
+zostavuje účtovná závierka, sa ocenenie cenných papierov a podielov prehodnocuje. Spoločnosť tvorí
+opravné položky ku podielom v portfóliových spoločnostiach, v ktorých má majetkovú účasť, z dôvodu
+prechodného zníženia hodnoty, ktoré je indikované vedením Spoločnosti. Výška opravných položiek sa
+stanovuje na základe internej finančnej analýzy.
+d) Zásoby
+Zásoby nakupované sa oceňujú obstarávacou cenou, ktorá zahrňuje cenu, za ktorú sa majetok obstaral,
+a náklady súvisiace s obstaraním (clo, prepravu, poistné, provízie a pod.) znížené o zľavy z ceny.
+Spoločnosť v roku 2025 vo svojom účtovníctve neevidovala žiadne zásoby.
+e) Zákazková výroba
+Spoločnosť v roku 2025 vo svojom účtovníctve neúčtovala o zákazkovej výrobe.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 4 DIČ: 2022654788
+f) Pohľadávky
+Pohľadávky sa pri ich vzniku oceňujú ich menovitou hodnotou. Opravná položka sa vytvára k pohľadávkam
+na základe posúdenia ich rizikovosti, na základe rozhodnutia vedenia Spoločnosti
+g) Finančné účty
+Finančné účty tvorí peňažná hotovosť a zostatky na bankových účtoch, pričom riziko zmeny hodnoty tohto
+majetku je zanedbateľne nízke.
+h) Náklady budúcich období a príjmy budúcich období
+Náklady budúcich období a príjmy budúcich období sú vykázané vo výške, ktorá je potrebná na dodržanie
+zásady vecnej a časovej súvislosti s účtovným obdobím.
+i) Opravné položky
+Opravné položky sa tvoria na základe zásady opatrnosti, ak je opodstatnené predpokladať, že došlo
+k zníženiu hodnoty majetku oproti jeho oceneniu v účtovníctve. Opravná položka sa účtuje v sume
+opodstatneného predpokladu zníženia hodnoty majetku oproti jeho oceneniu v účtovníctve.
+j) Rezervy
+Rezerva je záväzok predstavujúci existujúcu povinnosť Spoločnosti, ktorá vznikla z minulých udalostí a je
+pravdepodobné, že v budúcnosti zníži jej ekonomické úžitky. Rezervy sú záväzky s neurčitým časovým
+vymedzením alebo výškou a oceňujú sa odhadom v sume potrebnej na splnenie existujúcej povinnosti ku
+dňu, ku ktorému sa zostavuje účtovná závierka.
+Tvorba rezervy sa účtuje na vecne príslušný nákladový alebo majetkový účet, ku ktorému záväzok
+prislúcha. Použitie rezervy sa účtuje na ťarchu vecne príslušného účtu rezerv so súvzťažným zápisom
+v prospech vecne príslušného účtu záväzkov. Rozpustenie nepotrebnej rezervy alebo jej časti sa účtuje
+opačným účtovným zápisom ako sa účtovala tvorba rezervy.
+Rezerva na bonusy, rabaty, skontá a vrátenie kúpnej ceny pri reklamácii sa tvorí ako zníženie pôvodne
+dosiahnutých výnosov so súvzťažným zápisom v prospech účtu rezerv.
+Spoločnosť vytvorila rezervy na audit účtovnej závierky podľa zákona o dani z príjmov a vypracovanie
+daňového priznania.
+k) Záväzky
+Záväzky pri ich vzniku sa oceňujú menovitou hodnotou. Záväzky pri ich prevzatí sa oceňujú obstarávacou
+cenou. Ak sa pri inventarizácii zistí, že suma záväzkov je iná ako ich výška v účtovníctve, uvedú sa záväzky
+v účtovníctve a v účtovnej závierke v tomto zistenom ocenení.
+l) Zamestnanecké požitky
+Platy, mzdy, príspevky do štátnych dôchodkových a poistných fondov, platená ročná dovolenka a platená
+zdravotná dovolenka, bonusy a ostatné nepeňažné požitky (napr. zdravotná starostlivosť) sa účtujú
+v účtovnom období, s ktorým vecne a časovo súvisia.
+m) Splatná daň z príjmu
+Daň z príjmov sa účtuje do nákladov Spoločnosti v období vzniku daňovej povinnosti a v priloženom výkaze
+ziskov a strát Spoločnosti je vypočítaná zo základu vyplývajúceho z hospodárskeho výsledku pred
+zdanením, ktorý bol upravený o pripočítateľné a odpočítateľné položky z titulu trvalých a dočasných úprav
+daňového základu a umorenia straty. Daňový záväzok je uvedený po znížení o preddavky na daň z
+príjmov, ktoré Spoločnosť uhradila v priebehu roka. V prípade, že uhradené preddavky na daň z príjmu v
+priebehu roka sú vyššie ako daňová povinnosť za tento rok, Spoločnosť vykazuje výslednú daňovú
+pohľadávku.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 5 DIČ: 2022654788
+n) Odložená daň z príjmu
+Odložená daň z príjmu vyplýva z:
+a) rozdielov medzi účtovnou hodnotou majetku a účtovnou hodnotou záväzkov vykázanou v súvahe
+a ich daňovou základňou,
+b) možnosti umorovať daňovú stratu v budúcnosti, pod ktorou sa rozumie možnosť odpočítať daňovú
+stratu od základu dane v budúcnosti,
+c) možnosti previesť nevyužité daňové odpočty a iné daňové nároky do budúcich období.
+Odložená daňová pohľadávka sa účtuje iba do takej výšky, do akej je pravdepodobné, že bude možné
+dočasné rozdiely vyrovnať voči budúcemu základu dane.
+Pri výpočte odloženej dane sa použije sadzba dane z príjmov, o ktorej sa predpokladá, že bude platiť
+v čase vyrovnania odloženej dane.
+Spoločnosť v roku 2025 vo svojom účtovníctve neúčtovala o odloženej dani.
+o) Výdavky budúcich období a výnosy budúcich období
+Výdavky budúcich období a výnosy budúcich období sú vykázané vo výške, ktorá je potrebná na dodržanie
+zásady vecnej a časovej súvislosti s účtovným obdobím.
+p) Leasing (Spoločnosť je nájomca)
+Finančný leasing. Finančný leasing je obstaranie dlhodobého hmotného majetku na základe nájomnej
+zmluvy s dojednaným právom kúpy prenajatej veci za dohodnuté platby počas dohodnutej doby nájmu
+tohto majetku. Súčasťou dohodnutých platieb je aj kúpna cena, za ktorú na konci dohodnutej doby
+prechádza vlastnícke právo k prenajatému majetku z prenajímateľa na nájomcu. Dohodnutá doba nájmu
+je najmenej 60% doby odpisovania podľa daňových predpisov, nie však menej ako 3 roky. V prípade nájmu
+pozemku je doba nájmu najmenej 60% doby odpisovania hmotného majetku zaradeného do odpisovej
+skupiny 4. Každá platba nájomného je alokovaná medzi splátku istiny a finančné náklady, ktoré sú
+vypočítané metódou efektívnej úrokovej miery. Finančné náklady sa vykazujú ako úroky.
+Finančný leasing sa aktivuje v účtovníctve nájomcu v deň prijatia majetku na príslušný účet majetku so
+súvzťažným zápisom v prospech záväzkov z nájmu v ocenení, ktoré sa rovná celkovej výške dohodnutých
+platieb znížených o nerealizované finančné náklady. Majetok obstaraný formou finančného prenájmu sa
+odpisuje v účtovníctve nájomcu.
+Operatívny leasing. Prenájom majetku formou operatívneho leasingu sa účtuje do nákladov priebežne
+počas doby trvania leasingovej zmluvy.
+q) Deriváty
+Deriváty sa pri nadobudnutí oceňujú cenou obstarania a ku dňu, ku ktorému sa zostavuje účtovná
+závierka, reálnou hodnotou.
+r) Cudzia mena
+Majetok a záväzky vyjadrené v cudzej mene (okrem preddavkov prijatých a poskytnutých) sa
+prepočítavajú na eurá referenčným výmenným kurzom určeným a vyhláseným Európskou centrálnou
+bankou alebo Národnou banku Slovenska v deň predchádzajúci dňu uskutočnenia účtovného prípadu
+alebo v deň, ku ktorému sa zostavuje účtovná závierka. Vzniknuté kurzové rozdiely sa účtujú s vplyvom
+na výsledok hospodárenia.
+s) Vykazovanie výnosov
+Výnosy z predaja výrobkov sa vykazujú v momente prenosu rizika a vlastníctva výrobku, obvykle po
+dodávke. Ak sa Spoločnosť zaviaže dopraviť výrobky na určité miesto, výnosy sa vykazujú v momente
+doručenia výrobku do cieľového miesta.
+Výnosy z predaja služieb sa vykazujú v účtovnom období, v ktorom boli služby poskytnuté s ohľadom na
+stav rozpracovanosti danej služby. Tento je zistený na základe skutočne poskytnutých služieb ako
+pomernej časti k celkovému rozsahu dohodnutých služieb.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 6 DIČ: 2022654788
+Výnosy sa vykazujú po odpočítaní dane z pridanej hodnoty, zliav a zrážok (rabaty, bonusy, skontá,
+dobropisy a pod.). Výnosové úroky sa účtujú rovnomerne v účtovných obdobiach, ktorých sa vecne
+a časovo týkajú. Výnosy z dividend sa zaúčtujú v čase vzniku práva Spoločnosti na prijatie platby.
+Výnosy Spoločnosti tvoria najmä výnosové úroky plynúce z voľných peňažných prostriedkov uložených na
+bankovom účte, úrokové výnosy z poskytnutia pôžičky, výnosy z derivátových operácií a dividendové
+výnosy.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 7 DIČ: 2022654788
+E. AKTÍVA
+1. Dlhodobý nehmotný majetok
+Prehľad pohybu dlhodobého nehmotného majetku za bežné a predchádzajúce účtovné obdobie je uvedený nižšie:
+Dlhodobý nehmotný majetok
+Aktivované
+náklady
+na vývoj Softvér
+Oceniteľné
+práva Goodwill
+Ostatný
+DNM
+Obstarávaný
+DNM
+Poskytnuté
+preddavky
+na DNM Spolu
+a b c d e f g h i
+Prvotné ocenenie
+Stav k 1.1.2025 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0
+Presuny 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 0 0 0 0 0 0 0 0
+Oprávky
+Stav k 1.1.2025 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 0 0 0 0 0 0 0 0
+Opravné položky
+Stav k 1.1.2025 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 0 0 0 0 0 0 0 0
+Zostatková hodnota
+Stav k 1.1.2025 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 0 0 0 0 0 0 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 8 DIČ: 2022654788
+Dlhodobý nehmotný majetok
+Aktivované
+náklady
+na vývoj Softvér
+Oceniteľné
+práva Goodwill
+Ostatný
+DNM
+Obstarávaný
+DNM
+Poskytnuté
+preddavky
+na DNM Spolu
+a b c d e f g h i
+Prvotné ocenenie
+Stav k 1.1.2024 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0
+Presuny 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 0 0 0 0 0 0 0 0
+Oprávky
+Stav k 1.1.2024 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 0 0 0 0 0 0 0 0
+Opravné položky
+Stav k 1.1.2024 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 0 0 0 0 0 0 0 0
+Zostatková hodnota
+Stav k 1.1.2024 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 0 0 0 0 0 0 0 0
+Dlhodobý nehmotný majetok Hodnota k 31.12.2025
+Dlhodobý nehmotný majetok, na ktorý je zriadené záložné právo 0
+Dlhodobý nehmotný majetok, pri ktorom má účtovná jednotka obmedzené
+právo s ním nakladať 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 9 DIČ: 2022654788
+Náklady na výskum a vývoj Stav k 31.12.2025 Stav k 31.12.2024
+Náklady na výskum - -
+Náklady na vývoj, neaktivované - -
+Náklady na vývoj, aktivované - -
+Spolu - -
+2. Dlhodobý hmotný majetok
+Prehľad pohybu dlhodobého hmotného majetku za bežné a predchádzajúce účtovné obdobie je uvedený nižšie:
+Dlhodobý hmotný majetok Pozemky Stavby
+Samostatné
+hnuteľné
+veci a sú-
+bory hnuteľ-
+ných vecí
+Pestovateľské
+celky trvalých
+porastov
+Základné
+stádo a
+ťažné zvie-
+ratá
+Ostatný
+DHM
+Obstarávaný
+DHM
+Poskytnuté
+preddavky
+na DHM Spolu
+a b c d e f g h i j
+Prvotné ocenenie
+Stav k 1.1.2025 0 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0 0
+Presuny 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 0 0 0 0 0 0 0 0 0
+Oprávky
+Stav k 1.1.2025 0 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 0 0 0 0 0 0 0 0 0
+Opravné položky
+Stav k 1.1.2025 0 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 0 0 0 0 0 0 0 0 0
+Zostatková hodnota
+Stav k 1.1.2025 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 0 0 0 0 0 0 0 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 10 DIČ: 2022654788
+Dlhodobý hmotný majetok Pozemky Stavby
+Samostatné
+hnuteľné
+veci a sú-
+bory hnuteľ-
+ných vecí
+Pestovateľské
+celky trvalých
+porastov
+Základné
+stádo a
+ťažné zvie-
+ratá
+Ostatný
+DHM
+Obstarávaný
+DHM
+Poskytnuté
+preddavky
+na DHM Spolu
+a b c d e f g h i j
+Prvotné ocenenie
+Stav k 1.1.2024 0 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0 0
+Presuny 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 0 0 0 0 0 0 0 0 0
+Oprávky
+Stav k 1.1.2024 0 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 0 0 0 0 0 0 0 0 0
+Opravné položky
+Stav k 1.1.2024 0 0 0 0 0 0 0 0 0
+Prírastky 0 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 0 0 0 0 0 0 0 0 0
+Zostatková hodnota
+Stav k 1.1.2024 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 0 0 0 0 0 0 0 0 0
+Dlhodobý hmotný majetok Hodnota k 31.12.2025
+Dlhodobý hmotný majetok, na ktorý je zriadené záložné právo 0
+Dlhodobý hmotný majetok, pri ktorom má účtovná jednotka obmedzené
+právo s ním nakladať 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 11 DIČ: 2022654788
+3. Dlhodobý finančný majetok
+Prehľad pohybu dlhodobého finančného majetku za bežné a predchádzajúce účtovné obdobie je uvedený nižšie:
+Dlhodobý fi-
+nančný majetok
+Podielové
+CP a podiely
+v DÚJ
+Podielové CP a
+podiely v spo-
+ločnosti s pod-
+statným vply-
+vom
+Ostatné dlho-
+dobé CP a po-
+diely
+Pôžičky ÚJ v
+kons. Celku
+Ostatný DFM
+Pôžičky s
+dobou splat-
+nosti najviac
+jeden rok
+Obstarávaný
+DFM
+Poskytnuté
+preddavky
+na DFM
+Spolu
+a b c d e f g h i j
+Prvotné ocenenie
+Stav k 1.1.2025 11 312 644 5 917 932 12 250 761 2 007 356 100 010 0 0 0 31 588 703
+Prírastky 384 600 0 0 769 200 0 0 0 0 1 153 800
+Úbytky 0 0 0 0 0 0 0 0 0
+Presuny 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 11 697 244 5 917 932 12 250 761 2 776 556 100 010 0 0 0 32 742 503
+Opravné položky
+Stav k 1.1.2025 1 422 500 4 480 903 0 0 0 0 0 0 5 903 403
+Prírastky 0 0 0 0 0 0 0 0 0
+Úbytky 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2025 0 4 480 903 0 0 0 0 0 0 5 903 403
+Účtovná hodnota
+Stav k 1.1.2025 9 890 144 1 437 029 12 250 761 2 007 356 100 010 0 0 0 25 685 300
+Stav k 31.12.2025 10 274 744 1 437 029 12 250 761 2 776 556 100 010 0 0 0 26 839 100
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 12 DIČ: 2022654788
+Dlhodobý finančný majetok
+Podielové
+CP a podiely
+v DÚJ
+Podielové
+CP a podiely
+v spoloč-
+nosti s pod-
+statným
+vplyvom
+Ostatné dl-
+hodobé CP
+a podiely
+Pôžičky ÚJ
+v kons.
+Celku
+Ostatný
+DFM
+Pôžičky s
+dobou splat-
+nosti najviac
+jeden rok
+Obstarávaný
+DFM
+Poskytnuté
+preddavky
+na DFM Spolu
+a b c d e f g h i j
+Prvotné ocenenie
+Stav k 1.1.2024 7 087 644 7 333 002 12 250 011 2 007 356 100 010 0 0 0 28 778 023
+Prírastky 4 225 000 84 930 750 0 0 0 0 0 4 310 680
+Úbytky 0 1 500 000 0 0 0 0 0 0 1 500 000
+Presuny 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 11 312 644 5 917 932 12 250 761 2 007 356 100 010 0 0 0 31 588 703
+Opravné položky
+Stav k 1.1.2024 0 4 480 903 0 0 0 0 0 0 4 480 903
+Prírastky 1 422 500 0 0 0 0 0 0 0 1 422 500
+Úbytky 0 0 0 0 0 0 0 0 0
+Stav k 31.12.2024 1 422 500 4 480 903 0 0 0 0 0 0 5 903 403
+Účtovná hodnota
+Stav k 1.1.2024 7 087 644 2 852 099 12 250 011 2 007 356 100 010 0 0 0 24 297 120
+Stav k 31.12.2024 9 890 144 1 437 029 12 250 761 2 007 356 100 010 0 0 0 25 685 300
+Dlhodobý finančný majetok Hodnota k 31.12.2025
+Dlhodobý finančný majetok, na ktorý je zriadené záložné právo 0
+Dlhodobý finančný majetok, pri ktorom má účtovná jednotka obmedzené
+právo s ním nakladať 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 13 DIČ: 2022654788
+Výška vlastného imania k 31. decembru 2025 a výsledok hospodárenia jednotlivých spoločností za bežné
+účtovné obdobie je uvedená v nasledujúcej tabuľke:
+Obchodné meno a sídlo spoloč-
+nosti, v ktorej má ÚJ umiestnený
+DFM
+Podiel ÚJ
+na ZI v %
+Podiel ÚJ
+na hlasova-
+cích právach
+v %
+Hodnota
+vlastného
+imania ÚJ, v
+ktorej má ÚJ
+umiestnený
+DFM
+Výsledok hos-
+podárenia ÚJ,
+v ktorej má ÚJ
+umiestnený
+DFM
+Účtovná
+hod-
+nota DFM
+a b c d e f
+Dcérske účtovné jednotky
+ASC Retail Holding, s.r.o. 2 973 871 -19 273
+GS One, s.r.o. 2 720 038 -1 626
+EC Pharmacies 3 364 092 -364 329
+EC DENTAL 3 739 730 -14 611
+Účtovné jednotky s podstatným vplyvom
+CHS-GEO Servis, a.s. x x
+EEI, s.r.o. 806 107 155 563
+HOPIN s.r.o. 102 265 40 656
+Ostatné realizovateľné CP a podiely
+CHIRANA T.Injecta, a. s. 20 881 968 -641 382
+CB ECO j.s.a. x x
+Virtual Reality Media, a.s. 6 395 855 1 163 852
+eyerim s.r.o. -571 554 70 591
+MTBIKER.group a.s.
+5 616 390 94
+Výsledok hospodárenia spoločností
+CB ECO j.s.a. a CHS-GEO Servis,
+a.s. neboli k dátumu zostavenia zá-
+vierky aktuálne.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 14 DIČ: 2022654788
+Informácie o dlhových CP držaných do splatnosti:
+Dlhové CP držané do
+splatnosti Druh CP
+Stav k
+1.1.2025
+Zvýšenie
+hodnoty
+Zníženie
+hodnoty
+Vyradenie dl-
+hového CP z
+účtovníctva v
+účtovnom ob-
+dobí
+Stav k
+31.12.2025
+a b c d e f g
+Do splatnosti viac ako
+päť rokov 0 0 0 0 0
+Do splatnosti od troch
+rokov do piatich rokov
+vrátane 0 0 0 0 0
+Do splatnosti od jed-
+ného roka do troch ro-
+kov vrátane 0 0 0 0 0
+Do splatnosti do jed-
+ného roka vrátane 0 0 0 0 0
+Dlhové CP držané do
+splatnosti spolu x 0 0 0 0 0
+Informácie o poskytnutých dlhodobých pôžičkách:
+Dlhodobé pôžičky
+Stav k
+1.1.2025
+Zvýšenie
+hodnoty
+Zníženie
+hodnoty
+Vyradenie pôžičky z úč-
+tovníctva v účtovnom ob-
+dobí
+Stav k
+31.12.2025
+a b c D e f
+Do splatnosti viac ako
+päť rokov
+0 0 0 0 0
+Do splatnosti od jed-
+ného roka do troch
+rokov vrátane
+0 0 0 0 0
+Do splatnosti do jed-
+ného roka vrátane
+0 0 0 0 0
+Dlhodobé pôžičky
+spolu
+0 0 0 0 0
+4. Zásoby
+Vývoj opravnej položky v priebehu účtovného obdobia je uvedený v nasledujúcej tabuľke:
+Zásoby
+Stav k
+1.1.2025 Tvorba OP
+Zúčtovanie OP
+z dôvodu zá-
+niku opodstat-
+nenosti
+Zúčtovanie OP
+z dôvodu vyra-
+denia majetku
+z účtovníctva
+Stav k
+31.12.2025
+a b c d e f
+Materiál 0 0 0 0 0
+Nedokončená výroba a po-
+lotovary vlastnej výroby 0 0 0 0 0
+Výrobky 0 0 0 0 0
+Zvieratá 0 0 0 0 0
+Tovar 0 0 0 0 0
+Nehnuteľnosť na predaj 0 0 0 0 0
+Poskytnuté preddavky na
+zásoby 0 0 0 0 0
+Zásoby spolu 0 0 0 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 15 DIČ: 2022654788
+Zásoby Hodnota k 31.12.2025
+Zásoby, na ktoré je zriadené záložné právo 0
+Zásoby, pri ktorých má účtovná jednotka obmedzené právo s nimi nakladať 0
+Informácie k nehnuteľnostiam na predaj sú uvedené nižšie:
+Nehnuteľnosť na predaj Hodnota
+Náklady na obstarávanie nehnuteľnosti na predaj za účtovné obdobie 0
+Náklady na obstaranie nehnuteľnosti na predaj od začiatku obstarávania 0
+5. Zákazková výroba a zákazková výstavba nehnuteľnosti určenej na predaj
+Informácie o zákazkovej výrobe a o zákazkovej výstavbe nehnuteľnosti určenej na predaj sú uvedené
+v nasledujúcich tabuľkách:
+Názov položky 2025 2024
+Sumár od začiatku zá-
+kazkovej výroby až do
+konca bežného účtov-
+ného obdobia
+a b c d
+Výnosy zo zákazkovej výroby 0 0 0
+Náklady na zákazkovú výrobu 0 0 0
+Hrubý zisk / hrubá strata 0 0 0
+Hodnota zákazkovej výroby Stav k 31.12.2025
+Sumár od začiatku zákazkovej
+výroby až do konca bežného
+účtovného obdobia
+a b c
+Vyfakturované nároky za vykonanú prácu
+na zákazkovej výrobe 0 0
+Úprava nárokov podľa stupňa dokončenia
+alebo metódou nulového zisku 0 0
+Suma prijatých preddavkov 0 0
+Suma zadržanej platby 0 0
+Názov položky 2025 2024
+Sumár od začiatku zá-
+kazkovej výstavby ne-
+hnuteľnosti určenej na
+predaj až do konca bež-
+ného účtovného obdo-
+bia
+a b c d
+Výnosy zo zákazkovej výstavby
+nehnuteľnosti určenej na predaj 0 0 0
+Náklady na zákazkovú vý-
+stavbu nehnuteľnosti určenej na
+predaj 0 0 0
+Hrubý zisk / hrubá strata 0 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 16 DIČ: 2022654788
+Hodnota zákazkovej výstavby nehnuteľ-
+nosti určenej na predaj Stav k 31.12.2025
+Sumár od začiatku zákazkovej
+výstavby nehnuteľnosti urče-
+nej na predaj až do konca bež-
+ného účtovného obdobia
+a b c
+Vyfakturované nároky za vykonanú prácu
+na zákazkovej výstavbe nehnuteľnosti urče-
+nej na predaj 0 0
+Úprava nárokov podľa stupňa dokončenia
+alebo metódou nulového zisku 0 0
+Suma prijatých preddavkov 0 0
+Suma zadržanej platby 0 0
+6. Pohľadávky
+Vývoj opravnej položky v priebehu účtovného obdobia je zobrazený v nasledujúcej tabuľke:
+Pohľadávky
+Stav k
+1.1.2025 Tvorba OP
+Zúčtovanie OP
+z dôvodu zá-
+niku opodstat-
+nenosti
+Zúčtovanie OP
+z dôvodu vyra-
+denia majetku
+z účtovníctva
+Stav k
+31.12.2025
+a b c d e f
+Pohľadávky z obchod-
+ného styku 0 0 0 0 0
+Pohľadávky voči dcér-
+skej účtovnej jednotke
+a materskej účtovnej
+jednotke 0 0 0 0 0
+Ostatné pohľadávky
+v rámci kons. celku 50 958 0 0 0 50 958
+Pohľadávky voči spo-
+ločníkom, členom
+a združeniu 0 0 0 0 0
+Daňové pohľadávky 0 0 0 0 0
+Pohľ.z derivátových op. 0 0 0 0 0
+Pohľadávky spolu 50 958 0 0 0 50 958
+Veková štruktúra dlhodobých a krátkodobých pohľadávok k 31. decembru 2025 je uvedená v nasledujú-
+cej tabuľke:
+Názov položky V lehote splatnosti Po lehote splatnosti Pohľadávky spolu
+a b c d
+Dlhodobé pohľadávky
+Pohľadávky z obchodného styku
+0 0 0
+Pohľadávky voči dcérskej účtov-
+nej jednotke a materskej účtovnej
+jednotke
+0 0 0
+Ostatné pohľadávky v rámci kon-
+solidovaného celku
+0 0 0
+Pohľadávky voči spoločníkom,
+členom a združeniu
+0 0 0
+Iné pohľadávky 77 998 0 77 998
+Dlhodobé pohľadávky spolu 77 998 0 77 998
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 17 DIČ: 2022654788
+Názov položky V lehote splatnosti Po lehote splatnosti Pohľadávky spolu
+a b c d
+Krátkodobé pohľadávky
+Pohľadávky z obchodného styku 58 0 58
+Pohľadávky voči dcérskej účtov-
+nej jednotke a materskej účtovnej
+jednotke
+0 0 0
+Ostatné pohľadávky v rámci kon-
+solidovaného celku
+213 592 0 213 592
+Pohľadávky voči spoločníkom,
+členom a združeniu
+0 0 0
+Sociálne poistenie 0 0 0
+Daňové pohľadávky a dotácie 0 0 0
+Iné pohľadávky 1 502 365 0 1 502 365
+Krátkodobé pohľadávky spolu 1 716 015 0 1 716 015
+Pohľadávky podľa zostatkovej doby
+splatnosti Stav k 31.12.2025 Stav k 31.12.2024
+a b c
+Pohľadávky po lehote splatnosti 0 0
+Pohľadávky so zostatkovou dobou
+splatnosti do jedného roka
+1 716 015 2 687 847
+Krátkodobé pohľadávky spolu 1 716 015 2 687 847
+Pohľadávky so zostatkovou dobou
+splatnosti jeden rok až päť rokov
+0 0
+Pohľadávky so zostatkovou dobou
+splatnosti dlhšou ako päť rokov
+0 0
+Dlhodobé pohľadávky spolu 0 0
+Informácie o záložnom práve príp. obmedzenom práve disponovať s pohľadávkami:
+Opis predmetu záložného práva Hodnota predmetu Hodnota pohľadávky
+Pohľadávky kryté záložným právom
+alebo inou formou zabezpečenia 0 0
+Hodnota pohľadávok, na ktoré sa zria-
+dilo záložné právo x 0
+Hodnota pohľadávok, pri ktorých je
+obmedzené právo s nimi nakladať x 0
+7. Pôžičky poskytnuté spriazneným stranám
+Prehľad pôžičiek poskytnutých spriazneným stranám je uvedený v nasledujúcej tabuľke:
+Názov položky Mena
+Úrok p. a.
+v %
+Dátum
+splatnosti
+Suma istiny v
+EUR k 31.12.2025
+Suma istiny v EUR
+k 31.12.2024
+a b c d e f
+Dlhodobé pôžičky, z toho:
+HOPIN s.r.o. EUR 2% - 77 998 77 998
+ASC Retai lHolding, s.r.o. EUR 3,5% - 2 007 356 2 007 356
+EC Dental s.r.o. EUR 15% 769 200 0
+Krátkodobé pôžičky, z toho: 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 18 DIČ: 2022654788
+8. Odložená daňová pohľadávka
+Výpočet odloženej daňovej pohľadávky je uvedený v nasledujúcej tabuľke:
+Názov položky Stav k 31.12.2025 Stav k 31.12.2024
+Dočasné rozdiely medzi účtovnou hodnotou
+majetku a daňovou základňou, z toho: 0 0
+odpočítateľné 0 0
+zdaniteľné 0 0
+Dočasné rozdiely medzi účtovnou hodnotou
+záväzkov a daňovou základňou, z toho: 0 0
+odpočítateľné 0 0
+zdaniteľné 0 0
+Možnosť umorovať daňovú stratu v budúc-
+nosti 0 0
+Možnosť previesť nevyužité daňové odpočty 0 0
+Sadzba dane z príjmov ( v %) 21% 21%
+Odložená daňová pohľadávka vypočítaná 0 0
+Uplatnená daňová pohľadávka zaúčtovaná 0 0
+Zaúčtovaná ako zníženie nákladov 0 0
+Zaúčtovaná do vlastného imania 0 0
+Odložený daňový záväzok 0 0
+Zmena odloženého daňového záväzku 0 0
+Zaúčtovaná ako náklad 0 0
+Zaúčtovaná do vlastného imania 0 0
+9. Finančné účty
+Informácie o finančných účtoch okrem krátkodobého finančného majetku sú uvedené nižšie:
+Názov položky Stav k 31.12.2025 Stav k 31.12.2024
+Pokladnica, ceniny 480 528
+Bežné bankové účty 9 633 116 965
+Bankové účty termínované 6 460 000 7 618 000
+Peniaze na ceste 0 0
+Spolu 6 470 113 7 735 493
+Účtami v bankách môže Spoločnosť voľne disponovať.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 19 DIČ: 2022654788
+Informácie o krátkodobom finančnom majetku sú uvedené nižšie:
+Krátkodobý finančný majetok Stav k 1.1.2025 Prírastky Úbytky
+Stav k
+31.12.2025
+a b c d e
+Majetkové CP na obchodovanie 0 0 0 0
+Dlhové CP na obchodovanie 0 0 0 0
+Emisné kvóty 0 0 0 0
+Dlhové CP so splatnosťou do jed-
+ného roka držané do splatnosti 0 0 0 0
+Ostatné realizovateľné CP 0 0 0 0
+Obstarávanie krátkodobého finanč-
+ného majetku 0 0 0 0
+Krátkodobý finančný majetok
+spolu 0 0 0 0
+Krátkodobý finančný majetok
+Stav k
+1.1.2025 Tvorba OP
+Zúčtovanie OP
+z dôvodu zá-
+niku opodstat-
+nenosti
+Zúčtovanie
+OP z dôvodu
+vyradenia
+majetku z úč-
+tovníctva
+Stav k
+31.12.2025
+a b c d e f
+Ostatné realizovateľné CP 0 0 0 0 0
+Obstarávanie krátkodobého fi-
+nančného majetku 0 0 0 0 0
+Krátkodobý finančný majetok
+spolu 0 0 0 0 0
+Názov položky Hodnota k 31.12.2024
+Krátkodobý finančný majetok, na ktorý bolo zriadené záložné právo 0
+Krátkodobý finančný majetok, pri ktorom je obmedzené právo s ním nakladať 0
+Krátkodobý finančný majetok
+Zvýšenie/ zníženie
+hodnoty (+/-)
+Vplyv ocenenia na vý-
+sledok hospodáre-
+nia bežného účtovného
+obdobia
+Vplyv ocenenia
+na vlastné imanie
+a b c d
+Majetkové CP na obchodovanie 0 0 0
+Dlhové CP na obchodovanie 0 0 0
+Emisné kvóty (komodity) 0 0 0
+Ostatné realizovateľné CP 0 0 0
+Krátkodobý finančný majetok
+spolu 0 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 20 DIČ: 2022654788
+10. Časové rozlíšenie
+Jednotlivé položky časového rozlíšenia sú uvedené v nasledujúcej tabuľke:
+Opis položky časového rozlíšenia Stav k 31.12.2025 Stav k 31.12.2024
+Náklady budúcich období dlhodobé, z toho: 0 0
+0 0
+0 0
+0 0
+0 0
+Náklady budúcich období krátkodobé,
+z toho:
+904 19
+Náklady na webstránku 154 19
+Členský poplatok 750 0
+0 0
+0 0
+Príjmy budúcich období dlhodobé, z toho: 0 0
+0 0
+0 0
+0 0
+0 0
+Príjmy budúcich období krátkodobé, z toho: 48 640 105 327
+Prijaté úroky v budúcom roku 48 640 105 327
+0 19
+0 0
+0 0
+11. Pohľadávky z finančného prenájmu (u prenajímateľa)
+Informácie o pohľadávkach z finančného prenájmu sú uvedené nižšie:
+Názov položky
+Stav k 31.12.2025 Stav k 31.12.2024
+Splatnosť Splatnosť
+do jedného
+roka vrátane
+od jedného
+roka do pia-
+tich rokov
+vrátane
+viac ako päť
+rokov
+do jedného
+roka vrátane
+od jedného
+roka do pia-
+tich rokov
+vrátane
+viac ako päť
+rokov
+a b c d e f g
+Istina 0 0 0 0 0 0
+Finančný výnos 0 0 0 0 0 0
+Spolu 0 0 0 0 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 21 DIČ: 2022654788
+F. PASÍVA
+1. Vlastné imanie
+Prehľad pohybu vlastného imania v priebehu bežného a predchádzajúceho účtovného obdobia je uvedený
+v nasledujúcich tabuľkách:
+Položka vlastného imania
+Stav k
+1.1.2025 Prírastky Úbytky Presuny
+Stav k
+31.12.2025
+a b c d e f
+Základné imanie 2 106 070 0 0 0 2 106 070
+Vlastné akcie a vlastné ob-
+chodné podiely 0 0 0 0 0
+Zmena základného imania 0 0 0 0 0
+Pohľadávky za upísané
+vlastné imanie 0 0 0 0 0
+Emisné ážio 36 391 151 0 0 0 36 391 151
+Ostatné kapitálové fondy 0 0 0 0 0
+Zákonný rezervný fond (ne-
+deliteľný fond) z kapitálo-
+vých vkladov 109 528 0 0 0 109 528
+Oceňovacie rozdiely z pre-
+cenenia majetku a záväzkov 0 0 0 0 0
+Oceňovacie rozdiely z kapi-
+tálových účastín 0 0 0 0 0
+Oceňovacie rozdiely z pre-
+cenenia pri zlúčení, splynutí
+a rozdelení 0 0 0 0 0
+Zákonný rezervný fond 274 486 0 0 274 486
+Nedeliteľný fond 0 0 0 0 0
+Štatutárne fondy a ostatné
+fondy 0 0 0 0 0
+Nerozdelený zisk minulých
+rokov 5 212 169 0 0 0 5 212 169
+Neuhradená strata minulých
+rokov -7 890 960 0 0 -362 039 -8 252 999
+Výsledok hospodáre-
+nia bežného účtovného ob-
+dobia -362 039 -1 137 694 0 362 039 -1 137 694
+Vyplatené dividendy 0 0 0 0 0
+Ostatné položky vlastného
+imania 0 0 0 0 0
+Účet 491 - Vlastné imanie
+fyzickej osoby - podnikateľa 0 0 0 0 0
+Vlastné imanie spolu 35 840 405 -1 137 694 0 0 34 702 711
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 22 DIČ: 2022654788
+Položka vlastného imania
+Stav k
+1.1.2024 Prírastky Úbytky Presuny
+Stav k
+31.12.2024
+a b c d e f
+Základné imanie 2 106 070 0 0 0 2 106 070
+Vlastné akcie a vlastné ob-
+chodné podiely 0 0 0 0 0
+Zmena základného imania 0 0 0 0 0
+Pohľadávky za upísané
+vlastné imanie 0 0 0 0 0
+Emisné ážio 36 391 151 0 0 0 36 391 151
+Ostatné kapitálové fondy 0 0 0 0 0
+Zákonný rezervný fond (ne-
+deliteľný fond) z kapitálo-
+vých vkladov 121 395 0 0 -11 867 109 528
+Oceňovacie rozdiely z pre-
+cenenia majetku a záväzkov 0 0 0 0 0
+Oceňovacie rozdiely z kapi-
+tálových účastín 0 0 0 0 0
+Oceňovacie rozdiely z pre-
+cenenia pri zlúčení, splynutí
+a rozdelení 0 0 0 0 0
+Zákonný rezervný fond 262 619 0 11 867 274 486
+Nedeliteľný fond 0 0 0 0 0
+Štatutárne fondy a ostatné
+fondy 0 0 0 0 0
+Nerozdelený zisk minulých
+rokov 5 212 169 0 0 0 5 212 169
+Neuhradená strata minulých
+rokov -5 766 719 0 0 -2 124 241 -7 890 960
+Výsledok hospodáre-
+nia bežného účtovného ob-
+dobia -2 124 241 -362 039 0 2 124 241 -362 039
+Vyplatené dividendy 0 0 0 0 0
+Ostatné položky vlastného
+imania 0 0 0 0 0
+Účet 491 - Vlastné imanie
+fyzickej osoby - podnikateľa 0 0 0 0 0
+Vlastné imanie spolu 36 202 444 -362 039 0 0 35 840 405
+Základné imanie Spoločnosti tvorí 33 000 akcií v nominálnej hodnote 33,19 EUR/ks, 2 200 akcií
+v nominálnej hodnote 34,00 EUR/ks, 30 akcií v nominálnej hodnote 25 000,00 EUR/ks, 10 akcií
+v nominálnej hodnote 18 500,00 EUR/ks a 1 akcia v nominálnej hodnote 1 000,00 EUR/ks.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 23 DIČ: 2022654788
+Prehľad ziskov a strát, ktoré boli účtovné priamo na účty vlastného imania:
+Oceňovacie rozdiely z precenenia majetku a záväzkov:
+- precenenie podielových cenných papierov použitím metódy vlastného imania -
+- zmena reálnej hodnoty zabezpečovacích derivátov -
+- zmena reálnej hodnoty derivátov obchodovaných na neverejnom trhu -
+Oceňovacie rozdiely z kapitálových účastín -
+Spolu -
+Účtovná strata za rok 2024 vo výške -362 039 EUR bola vysporiadaná nasledovne:
+Názov položky
+Účtovná strata
+Vysporiadanie účtovnej straty
+Zo základného imania 0
+Z rezervného fondu 0
+Z fondu tvoreného zo zisku 0
+Z ostatných fondov 0
+Z nerozdeleného zisku minulých rokov 0
+Prevod do nevysporiadaného výsledku hospodárenia minulých rokov -362 039
+Iné 0
+Spolu -362 039
+Štatutárny orgán navrhuje stratu za rok 2025 ponechať na neuhradenej strate za minulé roky.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 24 DIČ: 2022654788
+2. Rezervy
+Prehľad rezerv je uvedený v nasledujúcej tabuľke:
+Názov položky
+Stav k
+1.1.2025 Tvorba Použitie Zrušenie
+Stav k
+31.12.2025
+a b c d e f
+Dlhodobé rezervy, z toho: 0 0 0 0 0
+Zákonné dlhodobé rezervy, z
+toho:
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+Ostatné dlhodobé rezervy, z
+toho:
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+Krátkodobé rezervy, z toho: 5 344 6 150 5 344 0 6 150
+Zákonné krátkodobé rezervy, z
+toho:
+0 0 0 0 0
+Audit účtovnej závierky 0 0 0 0 0
+Ostatné 0 0 0 0 0
+Ostatné krátkodobé rezervy, z
+toho:
+5 344 6 150 5 344 0 6 150
+Audit účtovnej závierky 5 344 6 150 5 344 0 6 150
+Ostatné 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+Rezervy spolu 5 344 6 150 5 344 0 6 150
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 25 DIČ: 2022654788
+Názov položky
+Stav k
+1.1.2024 Tvorba Použitie Zrušenie
+Stav k
+31.12.2024
+a b c d e f
+Dlhodobé rezervy, z toho:
+0 0 0 0 0
+Zákonné dlhodobé rezervy, z
+toho:
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+Ostatné dlhodobé rezervy, z
+toho:
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+Krátkodobé rezervy, z toho:
+5 214 5 344 5 214 0 5 344
+Zákonné krátkodobé rezervy,
+z toho:
+0 0 0 0 0
+Audit účtovnej závierky 0 0 0 0 0
+Ostatné 0 0 0 0 0
+Ostatné krátkodobé rezervy,
+z toho:
+5 214 5 344 5 214 0 5 344
+Audit účtovnej závierky 5 214 5 344 5 214 0 5 344
+Ostatné 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+Rezervy spolu 5 214 5 344 5 214 0 5 344
+3. Záväzky
+Štruktúra záväzkov (okrem bankových úverov) podľa zostatkovej doby splatnosti je uvedená
+v nasledujúcej tabuľke:
+Názov položky Stav k 31.12.2025 Stav k 31.12.2024
+Záväzky po lehote splatnosti 0 0
+Záväzky so zostatkovou dobou splatnosti do jed-
+ného roka vrátane
+392 892 395 217
+Krátkodobé záväzky spolu 392 892 395 217
+Záväzky so zostatkovou dobou splatnosti jeden
+rok až päť rokov
+0 0
+Záväzky so zostatkovou dobou splatnosti nad
+päť rokov
+0 0
+Dlhodobé záväzky spolu 0 0
+Záväzky nie sú kryté záložným právom. K 31. decembru 2025 nie je založený žiaden majetok.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 26 DIČ: 2022654788
+4. Sociálny fond
+Tvorba a čerpanie sociálneho fondu v priebehu účtovného obdobia sú uvedené v nasledujúcej tabuľke:
+Názov položky 2025 2024
+Začiatočný stav sociálneho fondu 0 0
+Tvorba sociálneho fondu na ťarchu nákladov 60 60
+Tvorba sociálneho fondu zo zisku 0 0
+Ostatná tvorba sociálneho fondu 0 0
+Tvorba sociálneho fondu spolu 60 60
+Čerpanie sociálneho fondu 0 0
+Konečný zostatok sociálneho fondu 60 60
+5. Bankové úvery a vydané dlhopisy
+Prehľad bankových úverov je uvedený v nasledujúcej tabuľke:
+Názov položky Mena
+Úrok p. a.
+v %
+Dátum
+splatnosti
+Suma istiny v
+EUR k 31.12.2025
+Suma istiny v EUR
+k 31.12.2024
+a b c d e f
+Dlhodobé bankové úvery, z toho: 0 0
+0 0
+0 0
+0 0
+0 0
+Krátkodobé bankové úvery, z toho: 0 0
+0 0
+0 0
+0 0
+0 0
+Spolu 0 0
+Informácia o vydaných dlhopisoch k 31. decembru 2025:
+Názov vydaného dlhopisu
+Menovitá hod-
+nota Počet
+Emisný
+kurz Úrok Splatnosť
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 27 DIČ: 2022654788
+6. Pôžičky prijaté od spriaznených strán
+Prehľad pôžičiek prijatých od spriaznených strán strán je uvedený v nasledujúcej tabuľke:
+Názov položky Mena
+Úrok p. a.
+v %
+Dátum
+splatnosti
+Suma istiny v
+EUR k 31.12.2025
+Suma istiny v EUR
+k 31.12.2024
+a b c d e f
+Dlhodobé pôžičky, z toho: 0 0
+0 0
+0 0
+0 0
+Krátkodobé pôžičky, z toho: 0 0
+0 0
+0 0
+0 0
+Krátkodobé finančné výpomoci,, z
+toho: 0 0
+0 0
+0 0
+0 0
+0 0
+Spolu 0 0
+7. Časové rozlíšenie
+Štruktúra časového rozlíšenia je uvedená v nasledujúcej tabuľke:
+Názov položky Stav k 31.12.2025 Stav k 31.12.2024
+Výdavky budúcich období dlhodobé, z toho: 0 0
+0 0
+0 0
+0 0
+0 0
+Výdavky budúcich období krátkodobé,
+z toho: 0 0
+0 0
+0 0
+0 0
+0 0
+Výnosy budúcich období dlhodobé, z toho: 0 0
+0 0
+0 0
+0 0
+0 0
+Výnosy budúcich období krátkodobé, z toho: 0 0
+0 0
+0 0
+0 0
+0 0
+Spolu 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 28 DIČ: 2022654788
+8. Záväzky príp. pohľadávky z derivátových obchodov za bežné účtovné obdobie
+Účtovná hodnota Dohodnutá cena
+podkladového
+nástroja
+Názov položky pohľadávky záväzku
+a b c d
+Deriváty určené na obchodovanie, z toho: 0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+Zabezpečovacie deriváty, z toho: 0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+Názov položky
+Stav k 31.12.2025 Stav k 31.12.2024
+Zmena reálnej hodnoty (+/-)
+s vplyvom na
+Zmena reálnej hodnoty (+/-)
+s vplyvom na
+výsledok hos-
+podárenia
+vlastné ima-
+nie
+výsledok
+hospodárenia
+vlastné ima-
+nie
+a b c d e
+Deriváty určené na obchodovanie, z toho: 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+Zabezpečovacie deriváty, z toho: 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+Informácie o položkách zabezpečených derivátmi:
+Reálna hodnota
+Zabezpečovaná položka Stav k 31.12.2025 Stav k 31.12.2024
+a b c
+Majetok vykázaný v súvahe 0 0
+Záväzok vykázaný v súvahe 0 0
+Zmluvy, ktoré sa neúčtujú na súvahových účtoch 0 0
+Očakávané budúce obchody dosiaľ zmluvne ne-
+zabezpečené 0 0
+Spolu 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 29 DIČ: 2022654788
+9. Záväzky z finančného prenájmu (u nájomcu)
+Záväzky z finančného prenájmu sú uvedené v nasledujúcej tabuľke:
+Stav k 31.12.2025 Stav k 31.12.2024
+Splatnosť Splatnosť
+Názov položky
+do jedného
+roka vrátane
+od jedného
+roka do pia-
+tich rokov
+vrátane
+viac ako päť
+rokov
+do jedného
+roka vrátane
+od jedného
+roka do pia-
+tich rokov
+vrátane
+viac ako päť
+rokov
+a b c d e f g
+Istina 0 0 0 0 0 0
+Finančný náklad 0 0 0 0 0 0
+Spolu 0 0 0 0 0 0
+G. VÝNOSY
+1. Tržby za vlastné výkony a tovar
+Tržby za vlastné výkony a tovar podľa jednotlivých segmentov, t.j. podľa typov výrobkov a služieb, a podľa
+hlavných teritórií sú uvedené v nasledujúcej tabuľke:
+Typ výrobkov, tovarov, slu-
+žieb (napríklad A)
+Typ výrobkov, tovarov, slu-
+žieb (napríklad B)
+Typ výrobkov, tovarov, slu-
+žieb (napríklad C)
+Oblasť odbytu 2025 2024 2025 2024 2025 2024
+a b c d e f g
+Slovensko 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+Spolu 0 0 0 0 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 30 DIČ: 2022654788
+2. Zmena stavu zásob vlastnej výroby
+Spoločnosť neúčtuje o zmene stavu zásob vlastnej výroby vo výkaze ziskov a strát.
+Zmena stavu vnútroorgani-
+začných zásob
+Názov položky
+Stav k
+31.12.2025
+Stav k
+31.12.2024
+Stav k
+1.1.2025 2025 2024
+a b c d e f
+Nedokončená výroba a polotovary
+vlastnej výroby 0 0 0 0 0
+Výrobky 0 0 0 0 0
+Zvieratá 0 0 0 0 0
+Spolu 0 0 0 0 0
+Manká a škody x x x 0 0
+Reprezentačné x x x 0 0
+Dary x x x 0 0
+Iné x x x 0 0
+Zmena stavu vnútroorganizač-
+ných zásob vo výkaze zis-
+kov a strát x x x 0 0
+3. Ostatné výnosy z hospodárskej, finančnej a mimoriadnej činnosti
+Informácie o výnosoch pri aktivácii nákladov a o výnosoch z hospodárskej činnosti, finančnej činnosti a
+mimoriadnej činnosti sú uvedené nižšie:
+Názov položky 2025 2024
+Významné položky pri aktivácii nákladov, z toho: 0 0
+Dlhodobý hmotný majetok vytvorený vlastnou činnosťou 0 0
+Obstaranie zásob vlastnou dopravou 0 0
+Ostatná aktivácia 0 0
+Ostatné významné položky výnosov z hospodárskej činnosti,
+z toho:
+0 0
+Predaj materiálu 0 0
+Prebytky na majetku zistené pri inventarizácii 0 0
+Výnosy z predaja dlhodobého hmotného a nehmotného majetku 0 0
+Výnosy z dotácií 0 0
+Ostatné 0 0
+Finančné výnosy, z toho: 515 193 4 126 834
+Kurzové zisky, z toho: 0 0
+kurzové zisky ku dňu, ku ktorému sa zostavuje účtovná závierka 0 0
+Ostatné významné položky finančných výnosov, z toho:
+Výnosové úroky z bankových vkladov 0 0
+Výnosové úroky z poskytnutých úverov 397 024 644 977
+Výnosové úroky v súvislosti s put opciou 0 0
+Výnosy z cenných papierov a podielov v spoločnosti s podstatným
+vplyvom
+118 169 346 335
+Predané cenné papiere a podiely 0 3 135 522
+Mimoriadne výnosy, z toho: 0 0
+Výnosy z predaja podniku alebo jeho časti 0 0
+Ostatné 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 31 DIČ: 2022654788
+4. Čistý obrat
+Informácie o čistom obrate Spoločnosti sú uvedené nižšie:
+Názov položky 2025 2024
+Tržby za vlastné výrobky 0 0
+Tržby z predaja služieb 0 0
+Tržby za tovar 0 0
+Výnosy zo zákazky 0 0
+Výnosy z nehnuteľnosti na predaj 0 0
+Iné výnosy súvisiace s bežnou činnosťou 515 193 4 126 834
+Čistý obrat celkom 515 193 4 126 834
+H. NÁKLADY
+Prehľad nákladov Spoločnosti je uvedený v nasledujúcej tabuľke:
+Názov položky 2025 2024
+Náklady za poskytnuté služby, z toho: 1 572 530 1 522 074
+Náklady voči audítorovi, audítorskej spoločnosti, z toho: 6 150 5 344
+náklady za overenie individuálnej účtovnej závierky 6 150 5 344
+iné uisťovacie audítorské služby 0 0
+súvisiace audítorské služby 0 0
+daňové poradenstvo 0 0
+ostatné neaudítorské služby 0 0
+Ostatné významné položky nákladov za poskytnuté služby, z toho: 1 566 380 1 516 730
+Právne, ekonomické a iné poradenstvo 1 566 380 1 516 730
+Ostatné významné položky nákladov z hospodárskej činnosti,
+z toho:
+53 167 37 721
+Osobné náklady 52 049 36 941
+Dane a poplatky 368 0
+Pokuty a penále 0 30
+Opravné položky k pohľadávkam 0 0
+Ostatné náklady- členské poplatky 750 750
+Finančné náklady, z toho: 355 2 925 238
+Kurzové straty, z toho: 0 0
+kurzové straty ku dňu, ku ktorému sa zostavuje účtovná závierka 0 0
+Ostatné významné položky finančných nákladov, z toho: 0 2 925 238
+Opravné položky k dlhodobému finančnému majetku 0 1 422 500
+Bankové poplatky 355 2 738
+Predané cenné papiere a podiely 0 1 500 000
+Nákladové úroky 0 0
+Mimoriadne náklady, z toho: 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 32 DIČ: 2022654788
+I. DANE Z PRÍJMOV
+Názov položky Stav k 31.12.2025 Stav k 31.12.2024
+Suma odloženej daňovej pohľadávky účtovanej ako náklad alebo vý-
+nos vyplývajúca zo zmeny sadzby dane z príjmov 0 0
+Suma odloženého daňového záväzku účtovaného ako náklad alebo
+výnos vyplývajúci zo zmeny sadzby dane z príjmov 0 0
+Suma odloženej daňovej pohľadávky týkajúca sa umorenia daňovej
+straty, nevyužitých daňových odpočtov a iných nárokov, ako aj dočas-
+ných rozdielov predchádzajúcich účtovných období, ku ktorým
+sa v predchádzajúcich účtovných obdobiach odložená daňová pohľa-
+dávka neúčtovala 0 0
+Suma odloženého daňového záväzku, ktorý vznikol z dôvodu neúčto-
+vania tej časti odloženej daňovej pohľadávky v bežnom účtovnom ob-
+dobí, o ktorej sa účtovalo v predchádzajúcich účtovných obdobiach 0 0
+Suma neuplatneného umorenia daňovej straty, nevyužitých daňových
+odpočtov a iných nárokov a odpočítateľných dočasných rozdielov, ku
+ktorým nebola účtovaná odložená daňová pohľadávka 0 0
+Suma odloženej dani z príjmov, ktorá sa vzťahuje na položky účtované
+priamo na účty vlastného imania bez účtovania na účty nákladov a vý-
+nosov 0 0
+Prechod od teoretickej k vykázanej dani z príjmov je uvedený v nasledujúcej tabuľke:
+2025 2024
+Názov položky Základ dane Daň Daň v % Základ dane Daň Daň v %
+a b c d e f g
+Výsledok hospodáre-
+nia pred zdanením, z toho: -1 110 859 -358 199
+teoretická daň -233 280 21 -75 222 21
+Daňovo neuznané náklady 393 991 82 896 1 809 357 379 965
+Výnosy nepodliehajúce dani -636 130 -133 587 916 692 -192 505
+Umorenie daňovej straty 534 466 -112 238
+Zmena sadzby dane 0 0 0 0
+Iné – daňová licencia 0 1 920 0 3 840
+Spolu 1 920 3 840
+Splatná daň z príjmov 1 920 3 840
+Odložená daň z príjmov 0 0
+Celková daň z príjmov 1 920 3 840
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 33 DIČ: 2022654788
+J. ÚDAJE NA PODSÚVAHOVÝCH ÚČTOCH
+Názov položky Stav k 31.12.2025 Stav k 31.12.2024
+Prenajatý majetok 0 0
+Majetok v nájme (operatívny prenájom) 0 0
+Majetok prijatý do úschovy 0 0
+Pohľadávky z derivátov 0 0
+Záväzky z opcií derivátov 0 0
+Odpísané pohľadávky 0 0
+Pohľadávky z leasingu 0 0
+Záväzky z leasingu 0 0
+Iné položky 0 0
+K. INÉ AKTÍVA A PASÍVA
+Informácie o podmienených záväzkoch a majetku:
+Stav k 31.12.2025
+Druh podmieneného záväzku Hodnota celkom
+Hodnota voči spriazneným
+osobám
+Zo súdnych rozhodnutí 0 0
+Z poskytnutých záruk 0 0
+Zo všeobecne záväzných právnych predpisov 0 0
+Zo zmluvy o podriadenom záväzku 0 0
+Z ručenia 0 0
+Iné podmienené záväzky 0 0
+Stav k 31.12.2024
+Druh podmieneného záväzku Hodnota celkom
+Hodnota voči spriazneným
+osobám
+Zo súdnych rozhodnutí 0 0
+Z poskytnutých záruk 0 0
+Zo všeobecne záväzných právnych predpisov 0 0
+Zo zmluvy o podriadenom záväzku 0 0
+Z ručenia 0 0
+Iné podmienené záväzky 0 0
+Druh podmieneného majetku Stav k 31.12.2025 Stav k 31.12.2024
+Práva zo servisných zmlúv 0 0
+Práva z poistných zmlúv 0 0
+Práva z koncesionárskych zmlúv 0 0
+Práva z licenčných zmlúv 0 0
+Práva z investovania prostriedkov získaných
+oslobodením od dane z príjmov 0 0
+Práva z privatizácie 0 0
+Práva zo súdnych sporov 0 0
+Iné práva 0 0
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 34 DIČ: 2022654788
+Vzhľadom na to, že viaceré oblasti slovenského daňového práva (napr. legislatíva ohľadom transferového
+oceňovania) doteraz neboli dostatočne overené praxou, existuje neistota v tom, ako ich budú daňové
+orgány aplikovať. Mieru tejto neistoty nie je možné kvantifikovať a zanikne až potom, keď budú k dispozícii
+právne precedensy príp. oficiálne interpretácie príslušných orgánov. Vedenie Spoločnosti si nie je vedomé
+žiadnych okolností, v dôsledku ktorých by jej vznikol v budúcnosti významný náklad.
+L. PRÍJMY A VÝHODY ČLENOV ŠTATUTÁRNYCH, DOZORNÝCH A INÝCH ORGÁNOV SPOLOČNOSTI
+Hodnota príjmu, výhody súčasných čle-
+nov orgánov
+Hodnota príjmu, výhody bývalých čle-
+nov orgánov
+štatutárnych dozorných iných štatutárnych dozorných iných
+Druh príjmu, výhody Časť 1 – 2025 Časť 1 – 2025
+a Časť 2 – 2024 Časť 2 - 2024
+Peňažné príjmy
+37 132 0 0 0 0 0
+27 298 0 0 0 0 0
+Nepeňažné príjmy
+0 0 0 0 0 0
+0 0 0 0 0 0
+Peňažné preddavky
+0 0 0 0 0 0
+0 0 0 0 0 0
+Nepeňažné preddavky
+0 0 0 0 0 0
+0 0 0 0 0 0
+Poskytnuté úvery
+0 0 0 0 0 0
+0 0 0 0 0 0
+Poskytnuté záruky
+0 0 0 0 0 0
+0 0 0 0 0 0
+Iné
+0 0 0 0 0 0
+0 0 0 0 0 0
+M. EKONOMICKÉ VZŤAHY SPOLOČNOSTI A SPRIAZNENÝCH OSÔB
+Transakcie so spriaznenými osobami (okrem materskej spoločnosti a dcérskych spoločností) sú uvedené
+v nasledujúcej tabuľke:
+Kód druhu ob-
+chodu
+Hodnotové vyjadrenie obchodu
+Spriaznená osoba 2025 2024
+a b c d
+HOPIN s.r.o. 8 1 560 3 120
+Virtual Reality Media a.s. 8 18 012 37 500
+EC Dental, s.r.o. 8 81 423 0
+* Úrokový výnos
+** Dividendový výnos
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 35 DIČ: 2022654788
+Transakcie s materskou spoločnosťou a dcérskymi spoločnosťami sú uvedené v nasledujúcej tabuľke:
+Kód druhu
+obchodu
+Hodnotové vyjadrenie obchodu
+Dcérska účtovná jednotka/Materská úč-
+tovná jednotka 2025 2024
+a b c d
+ASC Retai lHolding, s.r.o.* 8 114 487 71 412
+ASC Retai lHolding, s.r.o.** 11 118 169 346 335
+Vysvetlivky:
+Kód druhu obchodu Druh obchodu:
+01 kúpa
+02 predaj
+03 poskytnutie služby
+04 obchodné zastúpenie
+05 licencia
+06 transfer
+07 know -how
+08 úver, pôžička
+09 výpomoc
+10 záruka
+11 iný obchod
+Vybrané aktíva a pasíva vyplývajúce z transakcií so spriaznenými osobami sú uvedené v nasledujúcej
+tabuľke (v EUR):
+Stav k 31.12.2025 Stav k 31.12.2024
+Pohľadávky z obchodného styku 0 0
+Ostatné pohľadávky v rámci konsolidovaného
+celku
+0 0
+Príjmy budúcich období 0 0
+Náklady budúcich období 0 0
+Poskytnuté pôžičky* 291 590 909 283
+Aktíva spolu 291 590 909 283
+Záväzky z obchodného styku 0 0
+Ostatné záväzky v rámci konsolidovaného celku
+0 0
+Nevyfakturované dodávky 0 0
+Rezervy 0 0
+Výnosy budúcich období 0 0
+Výdavky budúcich období 0 0
+Prijaté pôžičky 0 0
+Pasíva spolu 0 0
+* Pôžičky vrátane akruovaného úroku
+N. SKUTOČNOSTI, KTORÉ NASTALI PO DNI, KU KTORÉMU SA ZOSTAVUJE ÚČTOVNÁ ZÁVIERKA,
+DO DŇA JEJ ZOSTAVENIA
+V roku 2024 vojnový konflikt na Ukrajine a jeho negatívny vplyv na podnikateľské prostredie pokračovalo.
+V čase zverejnenia tejto účtovnej závierky si vedenie spoločnosti nemyslí, že je možné poskytnúť
+kvantitatívne odhady potenciálneho vplyvu súčasnej situácie na účtovnú jednotku, pretože sa situácia
+stále vyvíja a nemožno predvídať budúce dopady.
+Manažment bude pokračovať v monitorovaní potenciálneho dopadu a podnikne všetky možné kroky na
+zmiernenie akýchkoľvek negatívnych účinkov na spoločnosť. Akékoľvek negatívny vplyvy resp. straty
+zahrnie spoločnosť do účtovníctva a účtovnej závierky v roku 2025.
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 36 DIČ: 2022654788
+O. PREHĽAD PEŇAŽNÝCH TOKOV
+Ozna-
+čenie
+OBSAH POLOŽKY
+Skutočnosť v EUR
+Bežné úč-
+tovné ob-
+dobie
+Minulé úč-
+tovné ob-
+dobie
+A. Peňažné toky z prevádzkovej činnosti (vykázané nepriamou metódou)
+Z / S Výsledok hospodárenia pred zdanením daňou z príjmov (+/-) -1 110 859 -358 199
+A.1. Úpravy o nepeňažné operácie (súčet A. 1. 1. až A. 1. 13.) (+/-) -459 391 -1 215 006
+A.1.1. Odpisy a zníženia hodnoty dlhodobého nehmotného a hmotného majetku (+)
+A.1.2.
+Zostatková hodnota dlhodobého nehmotného majetku a dlhodobého hmotného majetku účtovaná
+pri vyradení tohto majetku do nákladov na bežnú činnosť, s výnimkou jeho predaja (+)
+A.1.3. Odpis opravnej položky k nadobudnutému majetku (+/-)
+A.1.4. Zmena stavu dlhodobých rezerv (+/-)
+A.1.5. Zmena stavu opravných položiek (+/-) 1 422 500
+A.1.6. Zmena stavu položiek časového rozlíšenia nákladov a výnosov (+/-) 55 802 -10 671
+A.1.7. Dividendy a iné podiely na zisku účtované do výnosov (-) -118 169 -346 335
+A.1.8. Úroky účtované do nákladov (+) 0 0
+A.1.9. Úroky účtované do výnosov (-) -397 024 -644 977
+A.1.10.
+Kurzový zisk vyčíslený k peňažným prostriedkom a peňažným ekvivalentom ku dňu, ku ktorému
+sa zostavuje účtovná závierka (-)
+A.1.11.
+Kurzová strata vyčíslená k peňažným prostriedkom a peňažným ekvivalentom ku dňu, ku kto-
+rému sa zostavuje účtovná závierka (+)
+A.1.12.
+Výsledok z predaja dlhodobého majetku, s výnimkou majetku, ktorý sa považuje za peňažný ek-
+vivalent (+/-) -1 635 523
+A.1.13.
+Ostatné položky nepeňažného charakteru, ktoré ovplyvňujú výsledok hospodárenia z bežnej čin-
+nosti, s výnimkou tých, ktoré sa uvádzajú osobitne v iných častiach prehľadu peňažných tokov
+(+/-)
+A.2.
+Vplyv zmien stavu pracovného kapitálu (rozdiel medzi obežným majetkom a krátkodobými zá-
+väzkami s výnimkou položiek peňažných prostriedkov a peňažných ekvivalentov) na výsledok
+hospodárenia z bežnej činnosti (súčet A. 2. 1. až A. 2. 4.)
+972 232 2 141 141
+A.2.1. Zmena stavu pohľadávok z prevádzkovej činnosti (-/+) 971 831 2 478 747
+A.2.2. Zmena stavu záväzkov z prevádzkovej činnosti (+/-) 401 -337 606
+A.2.3. Zmena stavu zásob (-/+)
+A.2.4.
+Zmena stavu krátkodobého finančného majetku, s výnimkou majetku, ktorý je súčasťou peňaž-
+ných prostriedkov a peňažných ekvivalentov (-/+)
+A*
+Peňažné toky z prevádzkovej činnosti s výnimkou príjmov a výdavkov, ktoré sa uvádzajú oso-
+bitne v iných častiach prehľadu peňažných tokov (+/-), (súčet Z/S + A1 + A 2)
+-598 018 567 936
+A.3. Prijaté úroky, s výnimkou tých, ktoré sa začleňujú do investičných činností (+) 397 024 644 977
+A.4. Výdavky na zaplatené úroky, s výnimkou tých, ktoré sa začleňujú do finančných činností (-)
+A.5.
+Príjmy z dividend a iných podielov na zisku, s výnimkou tých, ktoré sa začleňujú do investičných
+činností (+) 118 169 346 335
+A.6.
+Výdavky na vyplatené dividendy a iné podiely na zisku, s výnimkou tých, ktoré sa začleňujú do
+finančných činností (-)
+A** Peňažné toky z prevádzkovej činnosti (+/-), (súčet A.1. až A. 6.) 1 028 034 1 917 447
+A.7.
+Výdavky na daň z príjmov účtovnej jednotky, s výnimkou tých, ktoré sa začleňujú do investič-
+ných činností alebo finančných činností (-/+)
+-28 755
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 37 DIČ: 2022654788
+A.8. Príjmy výnimočného charakteru vzťahujúce sa na prevádzkovú činnosť (+)
+A.9. Výdavky výnimočného charakteru vzťahujúce sa na prevádzkovú činnosť (-)
+A*** Čisté peňažné toky z prevádzkovej činnosti (súčet Z/S + A.1. až A. 9.) -111 580 1 559 248
+B. Peňažné toky z investičnej činnosti
+B. 1. Výdavky na obstaranie dlhodobého nehmotného majetku (-)
+B. 2. Výdavky na obstaranie dlhodobého hmotného majetku (-)
+B. 3.
+Výdavky na obstaranie dlhodobých cenných papierov a podielov v iných účtovných jednotkách, s
+výnimkou cenných papierov, ktoré sa považujú za peňažné ekvivalenty a cenných papierov urče-
+ných na predaj alebo na obchodovanie (-)
+-384 600 -4 310 680
+B. 4. Príjmy z predaja dlhodobého nehmotného majetku (+)
+B. 5. Príjmy z predaja dlhodobého hmotného majetku (+)
+B. 6.
+Príjmy z predaja dlhodobých cenných papierov a podielov v iných účtovných jednotkách, s vý-
+nimkou cenných papierov, ktoré sa považujú za peňažné ekvivalenty a cenných papierov urče-
+ných na predaj alebo na obchodovanie (+)
+3 135 523
+B. 7.
+Výdavky na dlhodobé pôžičky poskytnuté účtovnou jednotkou inej účtovnej jednotke, ktorá je sú-
+časťou konsolidovaného celku (-)
+-769 200
+B. 8.
+Príjmy zo splácania dlhodobých pôžičiek poskytnutých účtovnou jednotkou inej účtovnej jed-
+notke, ktorá je súčasťou konsolidovaného celku (+)
+B. 9.
+Výdavky na dlhodobé pôžičky poskytnuté účtovnou jednotkou tretím osobám s výnimkou dlho-
+dobých pôžičiek poskytnutých účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (-
+)
+B. 10. Príjmy zo splácania pôžičiek poskytnutých účtovnou jednotkou tretím osobám, s výnimkou pô-
+žičiek poskytnutých účtovnej jednotke, ktorá je súčasťou konsolidovaného celku (+)
+B. 11. Príjmy z finančného prenájmu (+)
+B. 12. Prijaté úroky, s výnimkou tých, ktoré sa začleňujú do prevádzkových činností (+)
+B. 13.
+Príjmy z dividend a iných podielov na zisku, s výnimkou tých, ktoré sa začleňujú do prevádzko-
+vých činností (+)
+B. 14. Výdavky súvisiace s derivátmi s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo
+ak sa tieto výdavky považujú za peňažné toky z finančnej činnosti (-)
+B. 15. Príjmy súvisiace s derivátmi s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo ak
+sa tieto výdavky považujú za peňažné toky z finančnej činnosti (+)
+B. 16. Výdavky na daň z príjmov účtovnej jednotky, ak je ju možné začleniť do investičných činností (-)
+B. 17. Príjmy výnimočného charakteru vzťahujúce sa na investičnú činnosť (+)
+B. 18. Výdavky výnimočného charakteru vzťahujúce sa na investičnú činnosť (-)
+B. 19. Ostatné príjmy vzťahujúce sa na investičnú činnosť (+)
+B. 20. Ostatné výdavky vzťahujúce sa na investičnú činnosť (-)
+B*** Čisté peňažné toky z investičnej činnosti (súčet B. 1. až B.20.) -1 153 800 -1 175 157
+C. Peňažné toky z finančnej činnosti
+C.1. Peňažné toky vo vlastnom imaní (súčet C. 1. 1. až C. 1. 8.)
+C.1.1. Príjmy z upísaných akcií a obchodných podielov (+)
+C.1.2.
+Príjmy z ďalších vkladov do vlastného imania spoločníkmi alebo fyzickou osobou, ktorá je účtov-
+nou jednotkou (+)
+C.1.3. Prijaté peňažné dary (+)
+C.1.4. Príjmy z úhrady straty spoločníkmi (+)
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 38 DIČ: 2022654788
+C.1.5.
+Výdavky na obstaranie alebo spätné odkúpenie vlastných akcií a vlastných obchodných podielov
+(-)
+C.1.6. Výdavky spojené so znížením fondov vytvorených účtovnou jednotkou(-)
+C.1.7.
+Výdavky na vyplatenie podielu na vlastnom imaní spoločníkmi účtovnej jednotky a fyzickou oso-
+bou, ktorá je účtovnou jednotkou (-)
+C.1.8. Výdavky z iných dôvodov, ktoré súvisia so znížením vlastného imania (-)
+C.2.
+Peňažné toky vznikajúce z dlhodobých záväzkov a krátkodobých záväzkov z finančnej činnosti
+(súčet C. 2. 1. až C. 2. 10.)
+C.2.1. Príjmy z emisie dlhových cenných papierov (+)
+C.2.2. Výdavky na úhradu záväzkov z dlhových cenných papierov (-)
+C.2.3.
+Príjmy z úverov, ktoré účtovnej jednotke poskytla banka alebo pobočka zahraničnej banky, s vý-
+nimkou úverov, ktoré boli poskytnuté na zabezpečenie hlavného predmetu činnosti (+)
+C.2.4.
+Výdavky na splácanie úverov, ktoré účtovnej jednotke poskytla banka alebo pobočka zahraničnej
+banky, s výnimkou úverov, ktoré boli poskytnuté na zabezpečenie hlavného predmetu činnosti (-
+)
+C.2.5. Príjmy z prijatých pôžičiek (+)
+C.2.6. Výdavky na splácanie pôžičiek (-)
+C.2.7.
+Výdavky na úhradu záväzkov z používania majetku, ktorý je predmetom zmluvy o kúpe prenajatej
+veci (-)
+C.2.8.
+Výdavky na úhradu záväzkov za prenájom súboru hnuteľného majetku a nehnuteľného majetku
+používaného a odpisovaného nájomcom (-)
+C.2.9.
+Príjmy z ostatných dlhodobých záväzkov a krátkodobých záväzkov vyplývajúcich z finančnej čin-
+nosti účtovnej jednotky, s výnimkou tých, ktoré sa uvádzajú osobitne v inej časti prehľadu peňaž-
+ných tokov (+)
+C.2.10.
+Výdavky na splácanie ostatných dlhodobých záväzkov a krátkodobých záväzkov vyplývajúcich z
+finančnej činnosti účtovnej jednotky, s výnimkou tých, ktoré sa uvádzajú osobitne v inej časti pre-
+hľadu peňažných tokov (-)
+C. 3.
+Výdavky na zaplatené úroky, s výnimkou tých, ktoré sa začleňujú do prevádzkových činností (-)
+C. 4.
+Výdavky na vyplatené dividendy a iné podiely na zisku, s výnimkou tých, ktoré sa začleňujú do
+prevádzkových činností (-)
+C. 5.
+Výdavky súvisiace s derivátmi, s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo
+ak sa považujú za peňažné toky z investičnej činnosti (-)
+C. 6.
+Príjmy súvisiace s derivátmi, s výnimkou, ak sú určené na predaj alebo na obchodovanie, alebo ak
+sa považujú za peňažné toky z investičnej činnosti (+)
+C. 7.
+Výdavky na daň z príjmov účtovnej jednotky, ak ich možno začleniť do finančných činností (-)
+C. 8. Príjmy výnimočného charakteru vzťahujúce sa na finančnú činnosť (+)
+C. 9. Výdavky výnimočného charakteru vzťahujúce sa na finančnú činnosť (-)
+C*** Čisté peňažné toky z finančnej činnosti (súčet C. 1. až C. 9.)
+D. Čisté zvýšenie alebo čisté zníženie peňažných prostriedkov (+/-)(súčet A+B+C) -1 265 380 384 091
+E.
+Stav peňažných prostriedkov a peňažných ekvivalentov na začiatku účtovného obdobia
+(+/-)
+7 735 493 7 351 402
+F.
+Stav peňažných prostriedkov a peňažných ekvivalentov na konci účtovného obdobia
+pred zohľadnením kurzových rozdielov vyčíslených ku dňu, ku ktorému sa zostavuje úč-
+tovná závierka (+/-)
+6 470 113 7 735 493
+G. Kurzové rozdiely vyčíslené k peňažným prostriedkom a peňažným ekvivalentom ku
+dňu, ku ktorému sa zostavuje účtovná závierka (+/-)
+H.
+Zostatok peňažných prostriedkov a peňažných ekvivalentov na konci účtovného obdo-
+bia, upravený o kurzové rozdiely vyčíslené ku dňu, ku ktorému sa zostavuje účtovná zá-
+vierka (+/-).
+6 470 113 7 735 493
+Poznámky Úč POD 3-01 IČO: 44193025
+Eterus Capital, a. s. 39 DIČ: 2022654788
+Peňažné prostriedky
+Peňažnými prostriedkami (angl. cash) sa rozumejú peňažné hotovosti, ekvivalenty peňažných hotovostí,
+peňažné prostriedky na bežných účtoch v bankách, kontokorentný účet a peniaze na ceste.
+Peňažné ekvivalenty
+Peňažnými ekvivalentmi (angl. cash equivalents) sa rozumie krátkodobý finančný majetok, ktorý je
+zameniteľný za vopred známu sumu peňažných prostriedkov, pri ktorom nie je riziko výraznej zmeny jeho
+hodnoty v najbližších troch mesiacoch ku dňu zostavenia účtovnej závierky, napríklad termínované vklady
+na bankových účtoch, ktoré sú uložené najviac na trojmesačnú výpovednú lehotu, likvidné cenné papiere
+určené na obchodovanie, prioritné akcie obstarané účtovnou jednotkou, ktoré sú splatné do troch
+mesiacov odo dňa, ku ktorému sa zostavuje účtovná závierka.
+

@@ -1,0 +1,20 @@
+{
+  "updated": "2026-10-08",
+  "institutions": [
+    {
+      "id": "52196151",
+      "name": "Fond WTEP, s. r. o.",
+      "address": "Dunajská 15/A, 81108 Bratislava - mestská časť Staré Mesto",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2019-03-13",
+          "parent_entity_id": "50491211",
+          "parent_entity_name": "CEE Capital Management, a. s."
+        }
+      ]
+    }
+  ]
+}

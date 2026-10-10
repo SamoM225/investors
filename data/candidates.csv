@@ -1,0 +1,51 @@
+candidate_id,name,discovery_source,discovery_url,found_at,ico_hint
+C001,CB Investment Management,sih,https://www.sih.sk/,2026-10-09T19:05:06,
+C002,Vision Ventures,sih,https://www.sih.sk/,2026-10-09T19:05:06,
+C003,Zero Gravity Capital,sih,https://www.sih.sk/,2026-10-09T19:05:06,
+C005,Neulogy Ventures,sih,https://www.sih.sk/,2026-10-09T19:05:06,
+C006,CB ESPRI,sih,https://www.sih.sk/,2026-10-09T19:05:06,
+C007,Sociálni Inovátori Impact Capital,sih,https://www.sih.sk/,2026-10-09T19:05:06,
+C009,CEE Capital Management,sih,https://www.sih.sk/,2026-10-09T19:05:06,
+C010,IPM Avanea Eco Management,sih,https://www.sih.sk/,2026-10-09T19:05:06,
+C011,"Slovak Investment Holding, a.s.",sih,https://www.sih.sk/,2026-10-09T19:05:06,47759097
+C006,CB ESPRI s. r. o.,nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,54486343
+C001,CB Investment Management s. r. o.,nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,52524531
+C009,"CEE Capital Management, a. s.",nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,50491211
+C030,"G-Force, s.r.o.",nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,53527798
+C010,IPM Avanea Eco Management a.s.,nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,52204634
+C036,Occam Investments s. r. o.,nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,55387845
+C007,"Sociálni Inovátori Impact Capital, s.r.o.",nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,54184339
+C002,"Vision Ventures, s.r.o.",nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,52568288
+C003,Zero Gravity Capital s.r.o.,nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,52651894
+C070,"Venture to Future Fund, a.s.",nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,52380483
+C083,CB ESPRI Impact One s. r. o.,nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,54546702
+C084,CB Growth ONE s. r. o.,nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,52656136
+C085,Ethernum Capital s. r. o.,nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,55356907
+C090,IPM Avanea Eco s.r.o.,nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,52261948
+C102,"Vision Ventures Growth I, s. r. o.",nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,52656438
+C105,"ZGC Fund I., s.r.o.",nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,52768058
+C111,"Fond inovácií a technológií, a.s.",nbs,https://subjekty.nbs.sk/api/json,2026-10-09T18:49:29,47051981
+C030,"G-Force, s. r. o.",esma,https://registers.esma.europa.eu/solr/esma_registers_upreg/select?q=ae_entityTypeCode:EVC&rows=1000&wt=json,2026-10-09T18:49:37,
+C036,Occam Investments s. r. o.,esma,https://registers.esma.europa.eu/solr/esma_registers_upreg/select?q=ae_entityTypeCode:EVC&rows=1000&wt=json,2026-10-09T18:49:37,
+C005,"Neulogy Ventures, a. s.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Ventures&onlyActive=true&establishmentAfter=1950-01-01&establishmentBefore=2026-12-31,2026-10-09T18:51:35,47367610
+C002,"Vision Ventures, s.r.o.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Ventures&onlyActive=true&establishmentAfter=1950-01-01&establishmentBefore=2026-12-31,2026-10-09T18:51:35,52568288
+C102,"Vision Ventures Growth I, s. r. o.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Ventures&onlyActive=true&establishmentAfter=1950-01-01&establishmentBefore=2026-12-31,2026-10-09T18:51:35,52656438
+C070,"Venture to Future Fund, a.s.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Venture&onlyActive=true&establishmentAfter=1950-01-01&establishmentBefore=2026-12-31,2026-10-09T18:51:40,52380483
+C583,"Eterus Capital, a. s.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Capital&onlyActive=true&establishmentAfter=2007-10-01&establishmentBefore=2017-05-17,2026-10-09T18:52:24,44193025
+C009,"CEE Capital Management, a. s.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Capital&onlyActive=true&establishmentAfter=2007-10-01&establishmentBefore=2017-05-17,2026-10-09T18:52:24,50491211
+C003,Zero Gravity Capital s.r.o.,rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Capital&onlyActive=true&establishmentAfter=2017-05-16&establishmentBefore=2022-03-10,2026-10-09T18:52:24,52651894
+C007,"Sociálni Inovátori Impact Capital, s.r.o.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Capital&onlyActive=true&establishmentAfter=2017-05-16&establishmentBefore=2022-03-10,2026-10-09T18:52:24,54184339
+C085,Ethernum Capital s. r. o.,rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Capital&onlyActive=true&establishmentAfter=2022-03-09&establishmentBefore=2026-12-31,2026-10-09T18:52:24,55356907
+C1192,"National Development Fund II., a.s.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Fund&onlyActive=true&establishmentAfter=1950-01-01&establishmentBefore=2026-12-31,2026-10-09T18:52:30,47759224
+C105,"ZGC Fund I., s.r.o.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Fund&onlyActive=true&establishmentAfter=1950-01-01&establishmentBefore=2026-12-31,2026-10-09T18:52:30,52768058
+C111,"Fond inovácií a technológií, a.s.",rpo_nazov,https://api.statistics.sk/rpo/v1/search?fullName=Fond&onlyActive=true&establishmentAfter=1950-01-01&establishmentBefore=2026-12-31,2026-10-09T18:52:35,47051981
+C011,Slovenský investičný holding,clanok,https://www.forbes.sk/inobat-uzavrel-tretie-investicne-kolo-vyrobca-baterii-v-nom-ziskal-sto-milionov-eur/,2026-10-09T18:59:40,47759097
+C003,Zero Gravity Capital,clanok,https://www.forbes.sk/slovaci-investuju-do-ceskej-aplikacie-wewell-viac-ako-milion-eur-rozoznava-nevhodnu-kozmetiku/,2026-10-09T18:59:49,
+C070,Venture to Future Fund,clanok,https://www.forbes.sk/cesky-startup-ziskal-milionovu-investiciu-zo-slovenska-vyvija-apku-pre-osobne-financie/,2026-10-09T19:01:28,
+C002,Vision Ventures,clanok,https://www.vestbee.com/insights/articles/sloneek-secures-3-6-m,2026-10-09T19:01:36,
+C005,Neulogy Ventures,clanok,https://www.vestbee.com/insights/articles/top-vc-funds-in-slovakia-to-finance-your-startup,2026-10-09T19:01:34,
+C1331,365.fintech,clanok,https://www.vestbee.com/insights/articles/top-vc-funds-in-slovakia-to-finance-your-startup,2026-10-09T19:01:34,
+C001,CB Investment Management,clanok,https://www.vestbee.com/insights/articles/top-vc-funds-in-slovakia-to-finance-your-startup,2026-10-09T19:01:34,
+C583,Eterus Capital,clanok,https://www.vestbee.com/insights/articles/top-vc-funds-in-slovakia-to-finance-your-startup,2026-10-09T19:01:34,
+C005,Neulogy Ventures,saia,https://cdn0.erstegroup.com/content/dam/sk/slsp/www_slsp_sk/Aktuality/startup-report-slovensko-2025.pdf,2026-10-09T19:02:18,
+C002,Vision Ventures,saia,https://sapie.sk/generalmembers1,2026-10-09T19:02:51,

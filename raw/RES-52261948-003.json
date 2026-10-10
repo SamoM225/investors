@@ -1,0 +1,33 @@
+{
+ "updated": "2026-10-08",
+ "institutions": [
+  {
+   "id": "52204634",
+   "name": "IPM Avanea Eco Management a.s.",
+   "address": "Mostová 2, 81102 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2019-03-05"
+    }
+   ]
+  },
+  {
+   "id": "52261948",
+   "name": "IPM Avanea Eco s.r.o.",
+   "address": "Mostová 2, 81102 Bratislava- Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-03-05",
+     "parent_entity_id": "52204634",
+     "parent_entity_name": "IPM Avanea Eco Management a.s."
+    }
+   ]
+  }
+ ]
+}

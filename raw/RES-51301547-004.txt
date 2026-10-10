@@ -1,0 +1,486 @@
+SOURCE 1 (API JSON, presná odpoveď): https://www.registeruz.sk/cruz-public/api/uctovny-vykaz?id=9380732
+ACCESSED_AT: 2026-10-09T19:15:59.953Z
+
+{"prilohy":[{"id":11287419,"meno":"Účtovná závierka PODindiv..PDF","pocetStran":0,"jazyk":"SK","velkostPrilohy":118164,"digest":"b0cf9431b45ac6f5c43cd3009e1193555c1866f505b5579e339534942821c97d","mimeType":"application/pdf"},{"id":11287420,"meno":"POD_2120108276_IR_2024_4149018_5491695.pdf","pocetStran":12,"jazyk":"SLK","velkostPrilohy":446239,"digest":"f6742ccdc83785f47c09648f0d5342e9309f3d1568e9d7fbc5002c5dae15be68","mimeType":"application/pdf"}],"id":9380732,"idUctovnejZavierky":6211333,"obsah":{"tabulky":[{"nazov":{"sk":"Strana aktív","en":"Assets"},"data":["777597","230915","546682","528127","475173","230915","244258","265514","447387","203701","243686","264051","","","","","447387","203701","243686","264051","","","","","","","","","","","","","","","","","","","","","27786","27214","572","1463","","","","","","","","","27786","27214","572","1463","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","301131","","301131","264796","21057","","21057","7522","","","","","","","","","","","","","","","","","21057","","21057","7522","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","186685","","186685","94147","177703","","177703","89714","","","","","","","","","177703","","177703","89714","","","","","","","","","","","","","","","","4440","","","","82","9071","","9071","","","","","","-89","","-89","-89","","","","","","","","","","","","","","","","","","","","","93389","","93389","163127","220","","220","260","93169","","93169","162867","1293","","1293","-2183","","","","","1293","","1293","23","","","","","","","","-2206"]},{"nazov":{"sk":"Strana pasív","en":"Liabilities and equity"},"data":["546682","528127","-2723905","-2554199","5750","5750","6500","6500","-750","-750","","","","","304500","304500","","","","","","","","","","","","","","","","","","","","","-2883789","-2813646","","","-2883789","-2813646","-150366","-50803","3161833","2974192","759862","663928","","","","","","","","","","","","","","","756690","660690","","","","","","","3172","3238","","","","","","","","","","","","","","","2398532","2310264","71271","63503","","","","","71271","63503","","","","","","","","","4346","-191","3124","","4885","2086","","","2314906","2244866","3439","","3439","","","","","","","","108754","108134","","","","","","","108754","108134"]},{"nazov":{"sk":"Výkaz ziskov a strát","en":"Income statement"},"data":["602043","","649432","655371","101079","64569","","","500964","588392","","","47016","","","","373","2410","631110","540558","57236","","2517","","","","463618","465090","39655","11334","28737","8144","","","10402","3148","516","42","53","","67954","63407","67954","63407","","","","","","","77","727","18322","114813","125688","187871","9","139","","","","","","","","","","","","","","","","","","","","","","","","","9","139","","","","","164857","165755","","","","","","","164326","165274","","","164326","165274","340","201","","","191","280","-164848","-165616","-146526","-50803","3840","","3840","","","","","","-150366","-50803"]}],"titulnaStrana":{"nazovUctovnejJednotky":"Pygmalios, s. r. o.","ico":"48234702","dic":"2120108276","typUctovnejJednotky":"malá","adresa":{"ulica":"JAKUBOVO NÁMESTIE","cislo":"19","psc":"81109","mesto":"BRATISLAVA - MESTSKÁ ČASŤ STARÉ MESTO"},"skNace":"62020","typZavierky":"Riadna","obdobieOd":"2024-01","obdobieDo":"2024-12","predchadzajuceObdobieOd":"2023-01","predchadzajuceObdobieDo":"2023-12","datumSchvalenia":"2025-02-13","datumZostavenia":"2025-02-13","oznacenieObchodnehoRegistra":"Spo. je zap. v reg. Mestský súd BA III, reg. č. Sro/105260/B"}},"pristupnostDat":"Verejné","datumPoslednejUpravy":"2025-02-23","zdrojDat":"FRSR","idSablony":699,"kodDanovehoUradu":"100"}
+
+----
+SOURCE 2 (PDF príloha – poznámky k závierke 2024, pdftotext -raw): https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/11287419
+ACCESSED_AT: 2026-10-09T19:16:00.050Z
+
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Čl. I Všeobecné informácie o účtovnej jednotke
+Čl. I (1) (5) Všeobecné informácie
+Čl. I (1)
+Obchodné meno účtovnej jednotky: Pygmalios, s. r. o.
+Sídlo účtovnej jednotky: Jakubovo námestie 19, 81109, Bratislava - mestská časť Staré Mesto
+Opis hospodárskej činnosti v nadväznosti na predmet podnikania
+Čl. I (5)
+Priemerný počet zamestnancov počas účtovného obdobia
+Názov položky Bežné účtovné obdobie
+Bezprostredne
+predchádzajúce účtovné
+obdobie
+Priemerný prepočítaný počet zamestnancov 4
+Stav zamestnancov ku dňu, ku ktorému sa zostavuje účtovná závierka, z toho: 4 2
+Počet vedúcich zamestnancov
+Čl. I (2) (3) Dátum schválenia účtovnej závierky a právny dôvod
+Čl. I (2) Dátum schválenia účtovnej závierky za predchádzajúce obdobie: 14.05.2024
+Čl. I (3) Právny dôvod na zostavenie účtovnej závierky
+riadna mimoriadna priebežná
+Čl. I (4) Údaje o skupine
+(4) a) Obchodné meno a sídlo účtovnej jednotky, ktorá zostavuje konsolidovanú účtovnú závierku za najväčšiu skupinu, ktorej súčasťou je účtovná jednotka ako dcérska
+účtovná jednotka:
+(4) b) Obchodné meno a sídlo účtovnej jednotky, ktorá zostavuje konsolidovanú účtovnú závierku za najmenšiu skupinu, ktorej súčasťou je účtovná jednotka ako dcérska
+účtovná jednotka a ktorá je tiež začlenená do skupiny účtovných jednotiek uvedených v písmene a):
+(4) c) Adresa, kde sa môže vyžiadať kópia konsolidovaných účtovných závierok uvedených v písmenách a) a b):
+(4) d) Účtovná jednotka je materskou účtovnou jednotkou
+Áno Nie
+Účtovná jednotka je oslobodená od povinnosti zostaviť konsolidovanú účtovnú závierku a konsolidovanú výročnú správu podľa § 22
+Áno Nie
+Čl. II Informácie o orgánoch spoločnosti
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 1
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Čl. II a) Výška jednotlivých druhov záruk alebo iných zabezpečení poskytnutých pre členov
+orgánov spoločnosti
+Čl. II a) Výška jednotlivých druhov záruk alebo iných zabezpečení poskytnutých pre členov orgánov spoločnosti
+Druh záruky / iné zabezpečenie
+Hodnota záruky členov
+štatutárnych orgánov
+(BO)
+Hodnota záruky členov
+dozorných orgánov (BO)
+Hodnota záruky členov
+iných orgánov (BO)
+Hodnota záruky členov
+štatutárných orgánov
+(PO)
+Hodnota záruky členov
+dozorných orgánov (PO)
+Hodnota záruky členov
+iných orgánov (PO)
+Čl. II b) Informácie o pôžičkách poskytnutých členom orgánov spoločnosti k poslednému dňu
+účtovného obdobia
+Čl. II b) Informácie o pôžičkách poskytnutých členom orgánov spoločnosti k poslednému dňu účtovného obdobia
+Druh pôžičky
+Hodnota pôžičky členov
+štatutárnych orgánov
+(BO)
+Hodnota pôžičky členov
+dozorných orgánov (BO)
+Hodnota pôžičky členov
+iných orgánov (BO)
+Hodnota pôžičky členov
+štatutárnych orgánov
+(PO)
+Hodnota pôžičky členov
+dozorných orgánov (PO)
+Hodnota pôžičky členov
+iných orgánov (PO)
+Celková suma poskytnutých pôžičiek
+Celková suma splatených pôžičiek
+Celkova suma odpustených pôžičiek
+Celková suma odpísaných pôžičiek
+Čl. II c) Hlavné podmienky, na základe ktorých boli členom orgánov spoločnosti záruky alebo iné
+zabezpečenia a pôžičky poskytnuté
+Čl. II c) Hlavné podmienky, na základe ktorých boli členom orgánov spoločnosti poskytnuté záruky alebo iné zabezpečenia a pôžičky
+Záruky, iné zabezpečenia a pôžičky poskytnuté členom orgánov spoločnosti Hlavné podmienky (BO) Hlavné podmienky (PO)
+Čl. II d) Informácie o celkovej sume použitých finančných prostriedkov alebo iného plnenia na
+súkromné účely členmi orgánov spoločnosti, ktoré je potrebné vyúčtovať
+Čl. II d) Celková suma použitých finančných prostriedkov alebo iného plnenia na súkromné účely členmi štatutárneho, dozorného a iného orgánu účtovnej jednotky, ktoré je
+potrebné vyúčtovať
+Názov položky Hodnota (BO) Hodnota (PO)
+Čl. III Informácie o prijatých postupoch
+Čl. III (1) Nepretržité pokračovanie účtovnej jednotky
+Čl. III (1) Účtovná jednotka bude nepretržite pokračovať vo svojej činnosti:
+Áno Nie
+Čl. III (2) Účtovné zásady a metódy, zmeny účtovných zásad a metód
+Čl. III (2) Aplikované účtovné zásady a metódy, ktoré sú dôležité na posúdenie majetku, záväzkov, finančnej situácie, výsledku hospodárenia a zmeny zásad a metód
+Položka súvahy Aplikované zásady a metódy
+Druh zmeny zásady alebo
+metódy
+Dôvod zmeny
+Hodnota vplyvu na prísl.
+položku súvahy
+Čl. III (3) Transakcie, ktoré sa neuvádzajú v súvahe a ich finančný vplyv
+Čl. III (3) Informácie o transakciách, ktoré sa neuvádzajú v súvahe a ich finančný vplyv
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 2
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Transakcia Charakter transakcie Účel transakcie Finančný vplyv
+Čl. III (4) Spôsob a určenie ocenenia majetku a záväzkov
+Čl. III (4) a) Spôsob oceňovania majetku a záväzkov - obstarávacia cena, vlastné náklady,
+menovitá hodnota
+Čl. III (4) a) Spôsob oceňovania majetku a záväzkov - obstarávacia cena, vlastné náklady, menovitá hodnota
+Ocenenie majetku a záväzkov ÚJ má náplň (x) Poznámka k oceneniu
+Obstarávacou cenou
+Hmotný majetok s výnimkou hmotného majetku vytvoreného vlastnou činnosťou x
+Zásoby s výnimkou zásob vytvorených vlastnou činnosťou x
+Podiely na základnom imaní obchodných spoločností, deriváty a cenné papiere
+Pohľadávky pri odplatnom nadobudnutí alebo pohľadávky nadobudnuté vkladom do ZI
+Nehmotný majetok s výnimkou nehmotného majetku vytvoreného vlastnou činnosťou
+Záväzky pri ich prevzatí
+Vlastnými nákladmi
+Hmotný majetok vytvorený vlastnou činnosťou
+Zásoby vytvorené vlastnou činnosťou
+Nehmotný majetok vytvorený vlastnou činnosťou x
+Príchovky a prírastky zvierat
+Menovitou hodnotou
+Peňažné prostriedky a ceniny x
+Pohľadávky pri ich vzniku x
+Záväzky pri ich vzniku x
+Čl. III (4) a) Spôsob oceňovania majetku a záväzkov - reálna hodnota, hodnota zistená metódou
+vlastného imania, iné
+Čl. III (4) a) Spôsob oceňovania majetku a záväzkov - reálna hodnota, hodnota zistená metódou vlastného imania, iné
+Ocenenie majetku a záväzkov ÚJ má náplň (x) Poznámka k oceneniu
+Reálnou hodnotou
+Majetok nadobudnutý bezodplatne
+Hmotný a nehmotný majetok novozistený pri inventarizácií (v účtovníctve doteraz
+nezachytený)
+Majetok preradený z osobného vlastníctva do podnikania
+Majetok a záväzky nadobudnuté kúpou podniku alebo jeho časti
+Majetok a záväzky nadobudnuté vkladom podniku alebo jeho časti
+Záväzky nadobudnuté zámenou s výnimkou ÚJ účtujúcej v jednoduchom účtovníctve
+Cenné papiere a deriváty a podiely na základnom imaní
+Drahé kovy v majetku fondu
+Hodnotou zistenou metódou vlastného imania
+Iné
+Prenajatý majetok a majetok obstaraný na základe zmluvy o kúpe prenajatej veci
+Daň z príjmov - splatná
+Čl. III (4) a) Spôsob oceňovania majetku a záväzkov - vážený aritmetický priemer, FIFO metóda
+Čl. III (4) a) Spôsob oceňovania majetku a záväzkov - vážený aritmetický priemer, FIFO metóda
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 3
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Pri účtovaní zásob postupovala účtovná jednotka podľa § 43 postupov účtovania v PÚ:
+spôsobom A účtovania zásob
+spôsobom B účtovania zásob
+Úbytok zásob rovnakého druhu účtovná jednotka oceňovala:
+váženým aritmetickým priemerom z obstarávacích cien alebo vlastných nákladov
+metódou FIFO (1. cena na ocenenie prírastku zásob sa použila ako 1. cena na ocenenie úbytku zásob)
+iným spôsobom:
+Čl. III (4) b) Odhad zníženia hodnoty majetku, tvorba opravnej položky - bežné obdobie
+Čl. III (4) b) Odhad zníženia hodnoty majetku, tvorba opravnej položky - bežné obdobie
+Druh majetku Odhad zníženia hodnoty
+Stav OP na začiatku
+účtovného obdobia
+Tvorba OP Zúčtovanie OP
+Stav OP na konci účtovného
+obdobia
+Čl. III (4) b) Odhad zníženia hodnoty majetku, tvorba opravnej položky - predchádzajúce obdobie
+Čl. III (4) b) Odhad zníženia hodnoty majetku, tvorba opravnej položky - predchádzajúce obdobie
+Druh majetku Odhad zníženia hodnoty
+Stav OP na začiatku
+účtovného obdobia
+Tvorba OP Zúčtovanie OP
+Stav OP na konci účtovného
+obdobia
+Čl. III (4) c) Určenie ocenenia záväzkov, odhad ocenenia rezerv
+Čl. III (4) c) Určenie ocenenia záväzkov, odhad ocenenia rezerv
+Čl. III (4) d) Finančné nástroje alebo majetok, ktorý nie je finančným nástrojom pri oceňovaní
+reálnou hodnotou
+Čl. III (4) d) 1. - 2. Určenie ocenenia finančných nástrojov alebo majetku, ktorý nie je finančným
+nástrojom pri oceňovaní reálnou hodnotou
+Čl. III (4) d) 1. Určenie ocenenia reálnou hodnotou a aplikácia reálnej hodnoty podľa zákona
+Čl. III (4) d) 2. Reálna hodnota pre každú kategóriu finančných nástrojov alebo majetku, ktorý nie je finančným nástrojom
+Finančný nástroj/majetok, ktorý nie je finančným
+nástrojom
+Reálna hodnota
+Suma zmeny reálnej hodnoty
+zahrnutá do výkazu ziskov a strát
+Suma zmeny reálnej hodnoty
+zahrnutá do vlastného imania ako
+oceňovací rozdiel
+Čl. III (4) d) 3. Derivátové finančné nástroje pri oceňovaní reálnou hodnotou
+Čl. III (4) d) 3. Rozsah a podstata derivátových finančných nástrojov, vrátane hlavných podmienok a okolností, ktoré môžu ovplyvniť sumu, časový priebeh a mieru istoty
+budúcich peňažných tokov
+Druh derivátového finančného nástroja Rozsah a podstata derivátového fin. nástroja
+Hlavné podmienky a okolnosti ovplyvňujúce budúce
+peňažné toky
+Čl. III (4) e) Finančné nástroje alebo majetok, ktorý nie je finančným nástrojom pri oceňovaní
+obstarávacou cenou, vlastnými nákladmi
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 4
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Čl. III (4) e) 1. Derivátové finančné nástroje pri oceňovaní obstarávacou cenou, vlastnými
+nákladmi
+Čl. III (4) e) 1. Finančné nástroje alebo majetok, ktorý nie je finančným nástrojom pri oceňovaní obstarávacou cenou, vlastnými nákladmi
+Druh derivátového finančného nástroja Reálna hodnota určená ako trhová cena Rozsah a charakter finančného nástroja
+Čl. III (4) e) 2. Informácie o dlhodobom finančnom majetku, ktorý sa vykazuje vo vyššej hodnote
+ako je jeho reálna hodnota
+Čl. III (4) e) 2. Informácie o dlhodobom finančnom majetku, ktorý sa vykazuje vo vyššej hodnote ako je jeho reálna hodnota
+Dlhodobý finančný majetok Účtovná hodnota Reálna hodnota
+Dôvod pre nezníženie účtovnej hodnoty vrátane
+povahy dôkazov pre predpoklad, že sa účtovná
+hodnota opätovne dosiahne
+Čl. III (4) f) Stanovenie metódy vlastného imania
+Čl. III (4) f) Stanovenie metódy vlastného imania
+Čl. III (4) g) Tvorba odpisového plánu
+Čl. III (4) g) Tvorba odpisového plánu
+Dlhodobý nehmotný majetok odpisový plán účtovných odpisov vychádzal z požiadavky zákona č. 431/2002 o účtovníctve. Majetok sa odpisoval počas
+predpokladanej doby používania zodpovedajúcej spotrebe budúcich ekonomických úžitkov z majetku. Odpisové sadzby pre
+účtovné a daňové odpisy dlhodobého nehmotného majetku sa rovnajú.
+Dlhodobý hmotný majetok: odpisový plán účtovných odpisov sa zostavil interným predpisom, v ktorom sa vychádzalo z predpokladaného opotrebenia
+zaraďovaného majetku zodpovedajúceho bežným podmienkam jeho používania. Účtovné a daňové odpisy sa nerovnajú.
+Dlhodobý hmotný majetok: odpisový plán účtovných odpisov sa zostavil interným predpisom, v ktorom sa vychádzalo z metód používaných pri vyčíslovaní
+daňových odpisov. Účtovné a daňové odpisy sa rovnajú.
+Odpisový plán bol ovplyvnený týmito skutočnosťami
+Spôsob zostavenia odpisového plánu pre jednotlivé druhy dlhodobého hmotného a nehmotného majetku
+Druh majetku Doba odpisovania Sadzba odpisov Odpisová metóda
+softver 7 rokov 1/7 rovnomerne
+pocitac 4 roky 1/4 rovnomerne
+Čl. III (4) h) Poskytnuté dotácie
+Čl. III (4) h) Poskytnuté dotácie, vrátane dotácií na obstaranie majetku
+Dotácia/Majetok Ocenenie Výška dotácie (BO) Výška dotácie (PO)
+Čl. III (5) Oprava významných chýb minulých účtovných období účtovaných v bežnom období
+Čl. III (5) Oprava významných chýb minulých účtovných období účtovaných v bežnom účtovnom období
+Popis významnej chyby Vplyv na nerozdelený zisk minulých rokov Vplyv na neuhradenú stratu minulých rokov
+Čl. III (5) Oprava nevýznamných chýb minulých účtovných období účtovaných v bežnom období
+Čl. III (5) Oprava nevýznamných chýb minulých účtovných období účtovaných v bežnom účtovnom období
+Popis nevýznamnej chyby Vplyv na výsledok hospodárenia (BO)
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 5
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Čl. IV Informácie, ktoré vysvetľujú a dopĺňajú súvahu a výkaz ziskov a strát
+Čl. IV (1) Charakteristika goodwillu alebo záporného goodwillu
+Čl. IV (1) Charakteristika goodwillu alebo záporného goodwillu
+Dôvod vzniku goodwillu/záporného goodwillu Hodnota (BO)
+Spôsob výpočtu hodnoty
+(BO)
+Hodnota (PO)
+Spôsob výpočtu hodnoty
+(PO)
+Čl. IV (2) Informácie o významných položkách derivátov
+Čl. IV (2) Informácie o významných položkách derivátov
+Názov položky
+Účtovná hodnota
+pohľadávky
+Účtovná hodnota
+záväzku
+Dohodnutá cena
+podkladového
+nástroja
+Rozsah a povaha
+derivátov
+Hlavné podmienky
+ovplyvňujúce budúce
+peňažné toky
+Deriváty určené na obchodovanie, z toho:
+Zabezpečovacie deriváty, z toho:
+Čl. IV (2) Pohyby v oceňovacích rozdieloch derivátov z ocenenia reálnou hodnotou počas
+účtovného obdobia
+Čl. IV (2) Pohyby v oceňovacích rozdieloch derivátov z ocenenia reálnou hodnotou počas účtovného obdobia
+Názov položky
+Zmena reálnej
+hodnoty (+/-) s
+vplyvom na výsledok
+hospodárenia (BO)
+Zmena reálnej
+hodnoty (+/-) s
+vplyvom na vlastné
+imanie (BO)
+Zmena reálnej
+hodnoty (+/-) s
+vplyvom na výsledok
+hospodárenia (PO)
+Zmena reálnej
+hodnoty (+/-) s
+vplyvom na vlastné
+imanie (PO)
+Deriváty určené na obchodovanie, z toho:
+Zabezpečovacie deriváty, z toho:
+Čl. IV (2) Informácie o majetku a záväzkoch zabezpečených derivátmi
+Čl. IV (2) Informácie o majetku a záväzkoch zabezpečených derivátmi
+Zabezpečovaná položka Forma zabezpečenia Reálna hodnota BO Reálna hodnota PO
+Majetok vykázaný v súvahe
+Záväzok vykázaný v súvahe
+Zmluvy, ktoré sa neúčtujú na súvahových účtoch
+Očakávané budúce obchody dosiať zmluvne nezabezpečené
+Spolu x
+Čl. IV (3) Informácie o záväzkoch
+Čl. IV (3) a) Celková suma záväzkov so zostatkovou dobou splatnosti dlhšou ako päť rokov
+Čl. IV (3) a) Celková suma záväzkov so zostatkovou dobou splatnosti dlhšou ako päť rokov
+Záväzky Hodnota (BO) Hodnota (PO)
+Čl. IV (3) b) Informácie o zabezpečených záväzkoch
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 6
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Čl. IV (3) b) Celková suma zabezpečených záväzkov, opis a spôsoby zabezpečenia záväzkov
+Spôsoby zabezpečenia záväzkov
+Opis zabezpečenia
+záväzkov
+Celková suma
+zabezpečených záväzkov
+(BO)
+Celková suma
+zabezpečených záväzkov
+(PO)
+Záložným právom
+Zmluvné pokuty
+Iné formy zabezpečenia
+Čl. IV (4) Informácie o vlastných akciách
+Čl. IV (4) a) Dôvod nadobudnutia vlastných akcií počas účtovného obdobia
+Dôvod nadobudnutia vlastných akcií počas účtovného obdobia
+Čl. IV (4) b) 1. Počet a menovitá hodnota nadobudnutých vlastných akcií počas účtovného
+obdobia
+Čl. IV (4) b) 1. Počet a menovitá hodnota nadobudnutých vlastných akcií počas účtovného obdobia
+Nadobudnuté vlastné akcie Počet Menovitá hodnota
+% hodnota na upísanom
+základnom imaní
+Čl. IV (4) b) 1. Počet a menovitá hodnota prevedených vlastných akcií počas účtovného obdobia
+Čl. IV (4) b) 1. Počet a menovitá hodnota prevedených vlastných akcií počas účtovného obdobia
+Prevedené vlastné akcie Počet Menovitá hodnota
+% hodnota na upísanom
+základnom imaní
+Čl. IV (4) b) 2. Počet a protihodnota, za ktorú sa vlastné akcie počas účtovného obdobia
+nadobudli
+Čl. IV (4) b) 2. Počet a protihodnota, za ktorú sa vlastné akcie počas účtovného obdobia nadobudli
+Nadobudnuté vlastné akcie Počet Protihodnota
+Čl. IV (4) b) 2. Počet a protihodnota, za ktorú sa vlastné akcie počas účtovného obdobia
+previedli na inú osobu
+Čl. IV (4) b) 2. Počet a protihodnota, za ktorú sa vlastné akcie počas účtovného obdobia previedli na inú osobu
+Prevedené vlastné akcie Počet Protihodnota
+Čl. IV (4) c) Počet, menovitá hodnota a protihodnota, za ktorú sa vlastné akcie nadobudli a ktoré
+účtovná jednotka má v držbe k poslednému dňu účtovného obdobia
+Čl. IV (4) c) Počet, menovitá hodnota a protihodnota, za ktorú sa vlastné akcie nadobudli a ktoré účtovná jednotka má v držbe k poslednému dňu účtovného obdobia
+Nadobudnuté vlastné akcie Počet Menovitá hodnota Protihodnota
+% podiel na upísanom
+základnom imaní
+Čl. IV (5) Informácie o vytvorení kapitálového fondu z príspevkov
+Čl. IV (5) Informácie, či účtovná jednotka vytvorila kapitálový fond z príspevkov podľa § 123 ods. 2 a § 217a Obchodného zákonníka
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 7
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Čl. IV (6) Informácie o sume a dôvodoch vzniku položiek nákladov a výnosov, ktoré majú
+výnimočný rozsah alebo výskyt
+Čl. IV (6) Informácie o sume a dôvodoch vzniku položiek nákladov a výnosov, ktoré majú výnimočný rozsah alebo výskyt
+Názov položky Dôvod vzniku Hodnota (BO) Hodnota (PO)
+Výnosy, ktoré majú výnimočný rozsah alebo výskyt, z toho:
+Náklady, ktoré majú výnimočný rozsah alebo výskyt, z toho:
+Čl. V Informácie o iných aktívach a iných pasívach
+Čl. V (1) Informácie k iným aktívam a iným pasívam
+Čl. V (1) a) Opis a hodnota podmieneného majetku
+Čl. V (1) a) Opis a hodnota podmieneného majetku
+Druh podmieneného majetku Hodnota (BO) Hodnota (PO)
+Práva zo servisných zmlúv
+Práva z poistných zmlúv
+Práva z koncesionárskych zmlúv
+Práva z licenčných zmlúv
+Práva z investovania prostriedkov získaných oslobodením od dane z príjmov
+Práva z privatízácie
+Práva zo súdnych sporov
+Iné práva
+Čl. V (1) b) Opis a hodnota podmienených záväzkov
+Čl. V (1) b) Opis a hodnota podmienených záväzkov
+Druh podmieneného záväzku Hodnota celkom (BO)
+Hodnota voči
+spriazneným osobám
+(BO)
+Hodnota celkom (PO)
+Hodnota voči
+spriazneným osobám
+(PO)
+Zo súdnych rozhodnutí
+Z poskytnutých záruk
+Zo všeobecne záväzných právnych predpisov
+Z ručenia
+Iné podmienené záväzky
+Čl. V (2) Významné položky ostatných finančných povinností nevykázaných v súvahe
+Čl. V (2) Významné položky ostatných finančných povinností nevykázaných v súvahe
+Významná finančná povinnosť Hodnota (BO) Hodnota (PO)
+Zákonná povinnosť odobrať určité množstvo produktu
+Zmluvná povinnosť odobrať určité množstvo produktu
+Uskutočnené investície
+Veľké opravy
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 8
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Čl. V (3) Informácie k údajom sledovaných na podsúvahových účtoch
+Čl. V (3) Informácie k údajom sledovaných na podsúvahových účtoch
+Názov položky Hodnota (BO) Hodnota (PO)
+Prenajatý majetok
+Majetok v nájme (operatívny prenájom)
+Majetok prijatý do úschovy
+Pohľadávky z derivátov
+Záväzky z opcií derivátov
+Odpísané pohľadávky
+Pohľadávky z lízingu
+Záväzky z lízingu
+Iné položky
+Čl. VI Informácie, ktoré nastali po dni, ku ktorému sa zostavuje účtovná závierka do dňa
+zostavenia účtovnej závierky
+Čl. VI Informácie, ktoré nastali po dni, ku ktorému sa zostavuje účtovná závierka do dňa zostavenia účtovnej závierky
+Zoznam udalostí Dôvod Hodnota (BO) Hodnota (PO)
+a) Pokles alebo zvýšenie trhovej ceny finančného majetku ako dôsledku okolností, ktoré
+nastali po dni, ku ktorému sa zostavuje účtovná závierka do dňa zostavenia účtovnej
+závierky
+b) Zmena výšky rezerv a opravných položiek, ktoré nastali v dôsledku udalosti po dni, ku
+ktorému sa zostavuje účtovná závierka do dňa zostavenia účtovnej závierky
+c) Zmena spoločníkov účtovnej jednotky
+d) Prijatie rozhodnutia o predaji účtovnej jednotky alebo jej časti
+e) Zmeny významných položiek dlhodobého finančného majetku
+f) Začatie alebo ukončenie činnosti časti účtovnej jednotky (napr. prevádzkarne)
+g) Vydanie dlhopisov a iných cenných papierov
+h) Zlúčenie, splynutie, rozdelenie a zmena právnej formy
+i) Mimoriadne udalosti - živelné pohromy
+j) Získanie alebo odobratie licencie alebo iného povolenia významného pre činnosť
+Čl. VII Ostatné informácie
+Čl. VII (1) Informácie o udelení výlučného práva alebo osobitného práva, ktorým sa udelilo právo
+poskytovať služby vo verejnom záujme a iných zároveň vykonávajúcich činnostiach
+Čl. VII (1) Informácie o udelení výlučného práva alebo osobitného práva, ktorým sa udelilo právo poskytovať služby vo verejnom záujme, pričom sa uvádza aj náhrada za túto
+činnosť v akejkoľvek forme:
+Účtovná jednotka zároveň vykonáva aj iné činnosti
+Áno Nie
+Čl. VII (2) Ostatné informácie o účtovnej jednotke, na ktorú sa vzťahuje § 23d ods. 6 zákona,
+ktorej činnosť je zaradená do kategórie priemyselnej výroby a ktorej čistý obrat bol väčší ako
+250 000 000 eur
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 9
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Čl. VII (2) a) Zloženie a výška základného imania pripadajúceho na orgány verejnej moci a iné
+osoby
+Čl. VII (2) a) Zloženie a výška základného imania pripadajúceho na orgány verejnej moci a iné osoby
+Čl. VII (2) b) Cenné papiere vo vlastníctve orgánov verejnej moci a iných osôb
+Čl. VII (2) b) Cenné papiere vo vlastníctve orgánov verejnej moci a iných osôb, v ktorých má orgán verejnej moci väčšinový podiel na hlasovacích právach, s ktorými je
+spojené právo na výmenu za akcie, napríklad konvertibilné dlhopisy
+Druh cenného papiera Počet (BO) Hodnota (BO) Počet (PO) Hodnota (PO)
+Konvertibilné dlhopisy
+Iné cenné papiere
+Čl. VII (2) c) Výška dotácií a návratných finančných výpomocí
+Čl. VII (2) c) Výška dotácií a návratných finančných výpomocí
+Názov položky Hodnota (BO) Hodnota (PO)
+Čl. VII (2) d) Informácie o prijatých úveroch, poskytnutých prečerpaniach úverov, prijatých
+kapitálových príspevkoch, podmienky poskytnutia úveru a zárukách poskytnutých účtovnou
+jednotkou
+Čl. VII (2) d) Informácie o prijatých úveroch, poskytnutých prečerpaniach úverov, prijatých kapitálových príspevkoch, podmienky poskytnutia úveru a zárukách poskytnutých
+účtovnou jednotkou
+Názov položky Hodnota (BO) Hodnota (PO)
+Čl. VII (2) e) Záruky poskytnuté orgánom verejnej moci a záruky poskytnuté inou účtovnou
+jednotkou, podmienky poskytnutia a náklady na získanie
+Čl. VII (2) e) Záruky poskytnuté orgánom verejnej moci a záruky poskytnuté inou účtovnou jednotkou, podmienky poskytnutia a náklady na získanie
+Informácie o zárukách Podmienky poskytnutia Hodnota
+Hodnota nákladov na
+získanie
+Čl. VII (2) f) Informácie o vyplatených dividendách a výške nerozdeleného zisku
+Čl. VII (2) f) Informácie o vyplatených dividendách a výške nerozdeleného zisku
+Názov položky Hodnota (BO) Hodnota (PO)
+Čl. VII (2) g) Informácie o iných formách prijatej štátnej pomoci
+Čl. VII (2) g) Informácie o iných formách prijatej štátnej pomoci
+Názov položky Hodnota (BO) Hodnota (PO)
+Čl. VII (3) Informácie o finančných vzťahoch medzi orgánom verejnej moci a účtovnou jednotkou
+Čl. VII (3) Informácie o finančných vzťahoch medzi orgánom verejnej moci a účtovnou jednotkou, na ktorú sa vzťahuje § 23d ods. 6 zákona
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 10
+Poznámky Úč PODV 3-01 IČO 4 8 2 3 4 7 0 2 DIČ 2 1 2 0 1 0 8 2 7 6
+Opis položky Hodnota (BO) Hodnota (PO)
+Náhrady strát z hospodárskej činnosti účtovnej jednotky
+Peňažné a nepeňažné vklady
+Nenávratné finančné príspevky alebo pôžičky za zvýhodnených podmienok
+Finančné výhody (napr. nevymáhanie pohľadávky voči ÚJ)
+Vzdanie sa dividend a podielov na zisku
+Poskytnuté náhrady za finančné povinnosti uložené orgánom verejnej moci
+Miesto pre ďalšie záznamy
+Miesto pre ďalšie záznamy
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega
+Strana: 11
+

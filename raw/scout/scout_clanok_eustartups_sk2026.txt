@@ -1,0 +1,260 @@
+URL: https://www.eu-startups.com/2026/03/slovakias-rising-tech-scene-10-of-the-most-promising-startups-shaping-the-country-in-2026/
+FINAL_URL: https://www.eu-startups.com/2026/03/slovakias-rising-tech-scene-10-of-the-most-promising-startups-shaping-the-country-in-2026/
+HTTP: 200
+FETCHED_AT: 2026-10-09T19:03:34
+TITLE: Slovakia’s rising tech scene: Some of the most promising startups shaping the country in 2026 | EU-Startups
+DATES: ['2026-03-05T11:00:26+00:00', '2026-03-06T08:24:40+00:00', '2026-03-05T11:00:26+00:00'] ['2026-03-05T11:00:26+00:00']
+
+ 
+ Slovakia’s rising tech scene: Some of the most promising startups shaping the country in 2026 | EU-Startups 
+ Sign in 
+ Magazine 
+ Interviews 
+ Re-/Launch 
+ Funding 
+ Acquisitions 
+ Other Stuff 
+ Know-How 
+ Summit 
+ Event Overview 
+ Agenda 
+ Get Tickets 
+ Job Board 
+ Job Board 
+ Post a Job 
+ Insights 
+ Startup Sourcing 
+ Premium Reports 
+ Podcast 
+ Database 
+ Startup Database 
+ Investor Database 
+ About us 
+ Mission / Team 
+ Advertising 
+ Our Newsletter 
+ – CLUB – 
+ Register Now 
+ Log In 
+ CLUB Benefits 
+ Sign in
+ Welcome! Log into your account
+ your username 
+ your password 
+ Forgot your password? 
+ Password recovery
+ Recover your password
+ your email 
+ Search 
+ Magazine
+ Interviews
+ Re-/Launch
+ Funding
+ Acquisitions
+ Other Stuff
+ Know-How
+ Summit
+ Event Overview
+ Agenda
+ Get Tickets
+ Job Board
+ Job Board
+ Post a Job
+ Insights
+ Startup Sourcing
+ Premium Reports
+ Podcast
+ Database
+ Startup Database
+ Investor Database
+ About us
+ Mission / Team
+ Advertising
+ Our Newsletter
+ – CLUB – 
+ Register Now
+ Log In
+ CLUB Benefits
+ Search 
+ Magazine
+ Interviews
+ Re-/Launch
+ Funding
+ Acquisitions
+ Other Stuff
+ Know-How
+ Summit
+ Event Overview
+ Agenda
+ Get Tickets
+ Job Board
+ Job Board
+ Post a Job
+ Insights
+ Startup Sourcing
+ Premium Reports
+ Podcast
+ Database
+ Startup Database
+ Investor Database
+ About us
+ Mission / Team
+ Advertising
+ Our Newsletter
+ – CLUB – 
+ Register Now
+ Log In
+ CLUB Benefits
+ Search 
+ Home Other Stuff Slovakia’s rising tech scene: Some of the most promising startups shaping the... 
+ Other Stuff Slovakia-Startups 
+ Slovakia’s rising tech scene: Some of the most promising startups shaping the country in 2026
+ By Antonio L. Escárzaga 
+ March 5, 2026 
+ Share
+ Facebook
+ Twitter
+ WhatsApp
+ Linkedin
+ Continuing with our series highlighting the most promising startups across Europe, it’s time to turn our eye to Slovakia, a Central European country steadily strengthening its position within the region’s innovation landscape. Known for its strong industrial base and growing pool of technical talent, Slovakia is increasingly producing startups that combine engineering depth with international ambition.
+ From Bratislava to emerging regional hubs, founders are building solutions across AI, SaaS, crypto infrastructure, healthtech and advanced manufacturing. Here are 10 of the most promising Slovak startups founded since 2021 that we recommend keeping an eye on in 2026 and beyond.
+ Founded in 2022 and headquartered in Komárno, AUGLIO is a SaaS company developing augmented reality virtual try-on solutions for e-commerce and retail. The platform enables customers to try products using their cameras before purchase, helping brands increase conversions and reduce return rates.
+ Designed for industries including eyewear, cosmetics, jewellery, wigs and headwear, AUGLIO integrates with major e-commerce platforms and requires only a 2D product image to generate AR-enabled try-on experiences. The company also offers features such as automatic PD measurement, head measurement, face shape detection and 360° product visualisation. AUGLIO has secured €1.6 million in funding to date.
+ Founded in 2023 and based in Bratislava, BiteBerry develops AI-powered voice ordering solutions for the food industry. The platform automates phone-based order taking, allowing restaurants and food operators to reduce missed calls, improve order accuracy, and streamline kitchen workflows.
+ Designed to integrate with existing POS systems without additional hardware, BiteBerry’s solution helps businesses reduce labour costs and reliance on third-party delivery platforms. By automating call handling and order management, the company aims to improve operational efficiency while enhancing the customer experience. BiteBerry has secured €750K in funding to date.
+ Founded in 2021 and headquartered in Bratislava, Blockmate is a crypto-as-a-service platform enabling banks and fintech companies to integrate digital asset functionality in a compliant and scalable way. The company provides ready-to-use, white-labelled crypto infrastructure designed to simplify digital asset access while ensuring AML and MiCA compliance.
+ Its product suite includes crypto portfolio aggregation, payment plugins, transaction monitoring and risk assessment tools, as well as on-ramp services for buying, selling and holding digital assets. Designed for financial institutions seeking secure crypto integration without building infrastructure in-house, Blockmate focuses on regulatory alignment, speed of deployment and seamless user experience. The company has secured €3.5 million in funding to date, with its latest round completed in 2023.
+ Founded in 2022 and based in Prešov, Cequence is an AI-powered contract lifecycle management platform designed to streamline how organisations create, manage and analyse contracts. The company provides a centralised repository that replaces spreadsheets and manual processes with automated workflows, AI search, and real-time collaboration tools.
+ Its platform enables teams to extract and analyse key contract data automatically, generate summaries, track obligations, and manage approvals from draft to signature. Built with ISO 27001-certified security and designed to support regulatory compliance, Cequence serves enterprises and mid-sized businesses seeking greater visibility and efficiency across procurement, legal and sales functions. Cequence raised its latest funding round in 2025 and has secured over €3 million to date.
+ Founded in 2022 and headquartered in Bratislava, CloseRocket is an AI-driven sales platform combining automation with human sales workflows. The company helps businesses identify, warm and convert qualified leads through multi-channel outreach, CRM integration and real-time sales intelligence.
+ Its product suite includes Lead Agent for automated prospect identification, Reach Engine for outbound and inbound engagement, Klara AI for automated CRM data capture, and Sales Intelligence tools for pipeline visibility and performance tracking. CloseRocket also operates a marketplace enabling companies to access vetted sales professionals globally. With its latest funding round being in 2025, they have secured a totalof €1.1 million.
+ Founded in 2021 and headquartered in Bratislava, CulturePulse develops AI-powered behavioural modelling technology designed to simulate how groups think, shift and respond to ideas over time. The platform enables governments and businesses to anticipate changes in public sentiment, misinformation dynamics and audience behaviour before making strategic decisions.
+ Using cultural analytics and digital twin modelling, CulturePulse helps organisations test messaging, assess policy impact, and predict likely behavioural outcomes in complex environments. The technology is applied across public sector strategy, conflict mediation, brand positioning and commercial decision-making. CulturePulse raised its latest funding round in 2025 and has secured over €2 million in funding to date.
+ Founded in 2022 and headquartered in Bratislava, EHOSS develops equipment and technology solutions for sustainable equestrian practices and animal care. The company focuses on improving forage preparation, manure management and stable monitoring through modular, integrated systems.
+ Its product ecosystem includes platforms for hay cutting, cleaning and portioning, manure recycling technologies, stall and trailer monitoring systems, and modular stable infrastructure. Designed to improve efficiency, animal health and operational sustainability, EHOSS combines hardware development with quality-certified manufacturing standards, including ISO 9001 certification. The company has secured €2 million in funding to date, with its latest funding round completed in 2023.
+ Founded in 2022 and headquartered in Bratislava, elv.ai develops AI-powered social media moderation solutions designed to protect brands’ trust and reputation online. The platform automatically detects and hides harmful, offensive or misleading comments before they escalate, combining artificial intelligence with human oversight to improve accuracy.
+ Operating 24/7, elv.ai monitors social media activity, filters unwanted content, flags lower-confidence cases for review, and provides analytics to help brands understand audience sentiment and engagement trends. The company aims to reduce moderation workload while combating misinformation and protecting digital communities. elv.ai raised its latest funding round in 2024 and has secured €500K in funding to date.
+ Founded in 2022 and based in Trnava, Seerlinq develops AI-powered, non-invasive telemonitoring solutions for patients with heart failure. Its technology enables remote monitoring of cardiac filling pressures using photoplethysmographic signal analysis, allowing clinicians to detect early signs of deterioration before hospitalisation becomes necessary.
+ The company’s Seerlinq HeartCore system is a certified Class IIb medical device under EU MDR 2017/745 and operates through a nationwide telemedicine programme in Slovakia. Designed to support predictive, personalised and preventive cardiology, the platform combines AI-driven analysis with specialist medical oversight, helping optimise treatment while reducing avoidable hospital admissions. Seerlinq raised its latest funding round in 2023 and has secured a total of €900K to date.
+ By the way :  If you’re a corporate or investor looking for exciting startups in a specific market for a potential investment or acquisition, check out our  Startup Sourcing Service! 
+ Tags 
+ auglio 
+ BiteBerry 
+ blockmate 
+ Bratislava 
+ Cequence 
+ closerocket 
+ CulturePulse 
+ ehoss 
+ elv.ai 
+ Galanta 
+ Komárno 
+ Prešov 
+ seerlinq 
+ Trnava 
+ Share
+ Facebook
+ Twitter
+ WhatsApp
+ Linkedin
+ Previous article Antwerp-based Vectrix raises €1.15 million to build the automation layer for transport operations 
+ Next article The EU-Startups Podcast | Interview with Philipp Heltewig, Chief AI Officer at NiCE and General Manager of NiCE Cognigy 
+ Antonio L. Escárzaga https://www.eu-startups.com Antonio Escárzaga is the Head of Content at EU-Startups, with a background in Digital Marketing, Antonio drives his passion for effective communication and entrepreneurship. He firmly believes in communication’s transformative power and strives to harness it to foster growth and innovation.
+ RELATED ARTICLES 
+ Other Stuff 
+ Emerging Innovators: 10 promising startups based in Slovakia to keep an eye on in 2025 
+ February 26, 2025 
+ Know-How 
+ 10 Slovakian startups to watch in 2024 and beyond! 
+ March 19, 2024 
+ Funding 
+ Bratislava-based CloudTalk raised €26 million Series B to lead the new era of AI-powered voice communication 
+ January 17, 2024 
+ Acquisitions 
+ Bratislava-based Luigi’s Box acquires Prague-based Persoo to become a search optimization powerhouse 
+ January 8, 2024 
+ Other Stuff 
+ 10 Slovakian startups to keep an eye on in 2023 and beyond 
+ May 18, 2023 
+ Funding 
+ Bratislava-based startup Minit raises €7 million in Series A round led by Target Global 
+ October 16, 2019 
+ Slovakia-Startups 
+ 10 Slovak startups to watch out for in 2019 
+ March 22, 2019 
+ Austria-Startups 
+ Regional winners of the 5th Central European Startup Awards announced 
+ October 24, 2018 
+ Other Stuff 
+ The 10 best coworking spaces in Bratislava 
+ September 17, 2018 
+ STARTUP NEWS – By Country 
+ Austria 
+ Belgium 
+ Bulgaria 
+ Croatia 
+ Cyprus 
+ Czechia 
+ Denmark 
+ Estonia 
+ Finland 
+ France 
+ Germany 
+ Greece 
+ Hungary 
+ Ireland 
+ Italy 
+ Latvia 
+ Lithuania 
+ Luxembourg 
+ Malta 
+ Netherlands 
+ Norway 
+ Poland 
+ Portugal 
+ Romania 
+ Slovakia 
+ Slovenia 
+ Spain 
+ Sweden 
+ Switzerland 
+ UK 
+ Receive our weekly Newsletter 
+ Newsletter Form (#1) 
+ Newsletter 
+ First Name 
+ Email 
+ Subscribe Now 
+ Our Channels 
+ Latest Jobs 
+ RWA Tokenization Under MiFID II: When Does a Token Become a Financial Instrument? 
+ Madurai, India 
+ Graphic Designer 
+ Houston, United States of America 
+ SEO Specialist Wanted for Connections Game 
+ Ln Hayes, United States of America 
+ Staff Accountant 
+ new york, United Kingdom 
+ Full Time/Internship Vacancies 
+ Amsterdam, Netherlands 
+ View All 
+ Advertising 
+ Most Popular 
+ Stirling-based iGii secures €26.5 million to commercialise its proprietary carbon nanomaterial 
+ September 16, 2026 
+ HumanX 2026: Europe’s AI moment moves from hype to execution (Sponsored) 
+ September 16, 2026 
+ Bucharest-based Veridion raises €17.5 million to scale its real-time map of the world’s businesses 
+ September 16, 2026 
+ From EdTech to “HumanOS”: Brighteye Ventures announces €62.4 million Fund III first close 
+ September 16, 2026 
+ ABOUT US
+ EU-Startups.com is the leading online magazine about startups in Europe. Learn more about us and our advertising options .
+ FOLLOW US
+ Facebook 
+ Instagram 
+ Linkedin 
+ RSS 
+ Twitter 
+ © Menlo Media S.L. - All rights reserved.
+ 

@@ -1,0 +1,30 @@
+Scout run 2026-10-09 – WebSearch queries used only to DISCOVER article URLs (search-engine summaries are NOT evidence;
+candidates were taken only from the text of articles actually opened and saved as scout_clanok_*.txt).
+
+Queries:
+1. slovenský startup získal investíciu investičné kolo fond 2025
+2. startup investičné kolo seed investori Forbes.sk 2024
+3. slovenský startup pre-seed kolo miliónov eur fond 2026
+4. Slovak startup raises seed round led by venture fund 2025
+5. therecursive biggest funding rounds Slovak startups 2025
+6. Slovak startups funding rounds 2024 list investors therecursive
+7. startitup.sk investícia startup fond Zero Gravity Capital OR "Vision Ventures" OR "Neulogy" 2025
+8. trend.sk startup získal investíciu fond konvertibilná pôžička 2025
+9. [forbes.sk] startup investícia fond kolo 2025
+10. [startitup.sk] startup získal investíciu fond 2025
+11. [trend.sk, hnonline.sk, index.sme.sk] -> tool error: trend.sk / hnonline.sk not accessible to search tool
+12. [ecommercebridge.sk] investícia startup fond kolo
+13. [forbes.sk, startitup.sk, index.sme.sk, sme.sk, touchit.sk] najväčšie investície do slovenských startupov 2025 prehľad fondy
+14. [same] startup investícia Crowdberry OR "Seed Starter" OR "Venture to Future" OR "Zero Gravity" 2024
+15. [same] slovenský startup investičné kolo viedol fond 2026
+16. [sk media] slovenský investičný fond investoval do startupu podiel 2024
+17. startup seed kolo slovenský fond Neulogy OR "Gerulata" OR "Nation 1" OR "Lighthouse Ventures" OR "Crowdberry" investícia 2025
+18. [therecursive, vestbee, eu-startups, siliconcanals, tech.eu] Slovak venture capital fund invests startup 2024 Bratislava fund led round
+19. SAIA Slovak Alliance for Innovation Economy startup ecosystem report VC funds Slovakia
+20. Startup Report Slovensko 2025 SASK Seed Starter investori fondy
+21. [sapie.sk] report startup ecosystem Slovakia investors venture capital funds list
+22. [sk media + vestbee + therecursive] slovenský startup investícia 2026 fond Crowdberry OR "Zero One Hundred" OR "Neulogy" OR "IPM" OR "Look AI Ventures"
+23. [vestbee, therecursive, eu-startups, tech.eu] Slovak startup raises 2026 investors include Slovak fund
+
+Note: aktuality.sk, trend.sk, hnonline.sk refused by the search tool (domain not accessible to its user agent).
+Names seen only in search summaries (not in saved article text, e.g. "Look AI Ventures", "WEM Private Fund" via Moneyhoon 2023-03) were NOT recorded as clanok candidates.

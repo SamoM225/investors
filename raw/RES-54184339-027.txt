@@ -1,0 +1,934 @@
+                                        SÚVAHA
+                                        k 31.12.2025
+
+                                          v eurách
+
+Oz                                 Bežné účtovné obdobie Predchá
+
+na-        POLOŽKA                                         dzajúce
+
+če                                                         účtovné
+
+nie                                                        obdobie
+
+                                   Brutto     Korekcia     Netto
+
+     a                 b                   1            2           3
+
+     x             Aktíva                  x            x           x  x
+
+I.      Obežný majetok (súčet           1 594 715          1 594 715 1 595 549
+
+        položiek 1 až 9)
+
+1.      Peňažné prostriedky a           1 594 715          1 594 715 1 595 549
+
+        ekvivalenty peňažných
+
+        prostriedkov
+
+2.      Vklady v bankách
+
+        s výpovednou lehotou kratšou
+
+        ako 15 dní a termínované
+
+        vklady v bankách so
+
+        splatnosťou do 14 dní
+
+3.      Pohľadávky z obchodného
+
+        styku voči dlžníkom,
+
+a)      s ktorými účtovná jednotka nie
+
+        je prepojená, ani s nimi nemá
+
+        vzťah podielovej účasti
+
+b)      s ktorými je účtovná jednotka
+
+        prepojená
+
+c)      s ktorými má účtovná jednotka
+
+        vzťah podielovej účasti
+
+4.      Cenné papiere na
+
+        obchodovanie
+
+5.      Deriváty s aktívnym zostatkom
+
+        z
+
+a)      ﬁnančných nástrojov
+
+b)      komodít
+
+c)      drahých kovov
+
+6.      Drahé kovy a komodity
+
+7.      Pohľadávky z obrátených
+
+        repoobchodov
+
+a)      voči bankám
+
+b)      voči iným podnikom
+
+8.      Majetok na predaj
+
+a)      dlhodobý ﬁnančný majetok
+
+b)      vlastné akcie a podiely
+
+c)      dlhodobý hmotný majetok
+
+        a dlhodobý nehmotný majetok
+
+9.      Náklady a príjmy budúcich
+
+        období
+
+10. Daňové pohľadávky
+
+II.     Neobežný majetok (súčet         18 876 563         18 876 563 19 273 950
+
+        položiek 10 až 24)
+
+A. Investície (súčet položiek 10
+
+        až 18)
+
+11. Krátkodobé vklady v bankách
+12. Krátkodobé dlhopisy
+
+13. Krátkodobé úvery
+
+14. Dlhodobé vklady v bankách
+
+15. Dlhodobé dlhopisy
+
+16. Dlhodobé úvery
+
+a)  bežného typu
+
+b)  z ﬁnančného prenájmu
+
+    nehnuteľností
+
+c)  z ﬁnančného prenájmu iného
+
+    majetku
+
+17. Prenajaté nehnuteľnosti
+
+18. Akcie
+
+19. Podielové listy
+
+B. Dlhodobý majetok (súčet           18 877 382    18 877 382 19 273 950
+
+    položiek 19 a 22)
+
+20. Dlhodobý ﬁnančný majetok         18 877 382    18 877 382 19 273 950
+
+a)  p o d i e l y v p r e p o j e n ý c h 149 008  149 008  516 066
+
+    podnikoch
+
+b)  pohľadávky voči prepojeným 18 728 374          18 728 374 18 757 884
+
+    podnikom
+
+c)  podielové účasti
+
+c).1 s podstatným vplyvom
+
+c).2 ostatné
+
+d)  pohľadávky voči podnikom,
+
+    s ktorými má účtovná jednotka
+
+    vzťah podielovej účasti
+
+21. Nehmotný majetok
+
+a)  koncesie, patenty, licencie
+
+    a podobné práva
+
+b)  goodwill
+
+c)  obstaranie nehmotného
+
+    majetku
+
+22. Hmotný majetok
+
+a)  neodpisovaný
+
+a).1 pozemky
+
+a).2 ostatný
+
+b)  odpisovaný
+
+b).1 budovy
+
+b).2 p r í s l u š e n s t v o ,
+
+    nástroje, prístroje a vybavenie
+
+c)  obstaranie hmotného majetku
+
+23. Odložené daňové pohľadávky
+
+              Aktíva spolu           20 472 097    20 472 097 20 869 499
+Ozna-              POLOŽKA                  Bežné účtovné   Predchádzajúce
+čenie                                           obdobie     účtovné obdobie
+
+    a                     b                          1                 2
+                                                                       x
+    x                 Pasíva                         x     120 699
+                                                           120 699
+I.     Záväzky (súčet položiek 1 až 14)     118 779        116 859
+                                                           116 859
+A.     Krátkodobé záväzky (súčet položiek 116 859
+                                                           3 840
+       1 až 8)
+
+1.     Záväzky voči bankám splatné na
+
+       požiadanie
+
+2.     Záväzky z obchodného styku           116 859
+
+a)     s ktorými účtovná jednotka nie je
+
+       prepojená, ani s nimi nemá vzťah
+
+       podielovej účasti
+
+b)     s ktorými je účtovná jednotka 116 859
+
+       prepojená
+
+c)     s ktorými má účtovná jednotka vzťah
+
+       podielovej účasti
+
+3.     Ostatné krátkodobé záväzky voči
+
+       bankám
+
+a)     z repoobchodov
+
+b)     ostatné krátkodobé
+
+4.     Záväzky z ﬁnančných nástrojov
+
+       predaných na krátko
+
+5.     Záväzky z drahých kovov a komodít
+
+       predaných na krátko
+
+6.     Deriváty s pasívnym zostatkom
+
+a)     ﬁnančných nástrojov
+
+b)     komodít
+
+c)     drahých kovov
+
+7.     Krátkodobé záväzky z úverov a z
+
+       repoobchodov
+
+a)     z repoobchodov
+
+b)     ostatné krátkodobé úvery
+
+8.     Výnosy a výdavky budúcich období
+
+9.     Splatná daň z príjmov                1 920
+
+B.     Dlhodobé záväzky (súčet položiek 9
+
+       až 14)
+
+10.    Dlhodobé záväzky voči
+
+a)     bankám
+
+b)     nebankovým veriteľom
+
+11.    Dlhodobé záväzky z emisie cenných
+
+       papierov
+
+12.    Dlhodobé záväzky voči podnikom,
+
+       s ktorými je účtovná jednotka
+
+       prepojená
+13.  Dlhodobé záväzky voči podnikom, v
+
+     ktorých má účtovná jednotka alebo
+
+     ktoré majú na účtovnej jednotke
+
+     podielovú účasť
+
+14.  Rezervy
+
+15.  Odložené daňové záväzky
+
+II.  Vlastné imanie (súčet položiek 16 až 20 353 318     20 748 800
+                                                         75 750
+     21)                                                 75 750
+
+16.  Základné imanie, z toho              75 750         20 837 329
+
+a)   upísané základné imanie              75 750         20 837 329
+                                                         -197 225
+b)   pohľadávky voči spoločníkom (x)                     32 946
+                                                         20 869 499
+17.  Emisné ážio
+
+18.  Fondy z oceňovacích rozdielov x/(x)
+
+19.  Rezervné fondy                       20 445 271
+
+a)   zákonný rezervný fond
+
+b)   rezervný fond na vlastné akcie
+
+c)   iné rezervné fondy                   20 445 271
+
+20.  Nerozdelený zisk alebo neuhradená - 164 278
+
+     strata z minulých rokov x/(x)
+
+21.  Zisk alebo strata bežného účtovného -        3 425
+
+     obdobia x/(x)
+
+              Pasíva spolu                20 472 097
+
+                      VÝKAZ ZISKOV A STRÁT
+                                   v eurách
+         za mesiace 01 – 12 roku 2025
+
+ Ozna-   POLOŽKA                                    Bežné účtovné   Bezprostredne
+ čenie                                                  obdobie    predchádzajúce
+                                                                   účtovné obdobie
+    a                              b                           1
+1.       Výnosy z úrokov a podobné výnosy           15 152                    2
+1.1.     Úroky a podobné výnosy                     15 152         41 926
+1.2./a.  Výsledok zaistenia                                        41 926
+         Zníženie hodnoty/zrušenie zníženia         331
+1.3./b.  hodnoty majetku                            14 821         217
+         Výnosy z podielových listov                463 625        41 709
+2.       Výnosy z dividend a z iných podielov na                   464 895
+         zisku                                      463 625
+3.       Zisk/strata z realizácie cenných papierov                 464 895
+         a podielov                                 450 178
+4./c.    Zisk/strata z operácií s devízami                         467 938
+         Zisk/strata z derivátov
+5./d.    Zisk/strata z realizácie drahých kovov a
+6./e.    komodít
+         Zisk/strata z realizácie iného
+7./f.    investičného majetku
+         Transakčné náklady, bankové odplaty
+8./g.    a iné odplaty a poplatky
+         Dane
+h.       Hrubý zisk alebo strata
+         Administratívne náklady
+i.       personálne náklady
+I.       mzdové a sociálne náklady
+j.       ostatné personálne náklady
+j.1.     náklady na záväzky a na rezervy
+j.1.a.   odpisy
+j.1.b.   odpisy hmotného majetku
+j.2.     odpisy nehmotného majetku
+j.3.     zníženie hodnoty majetku
+j.3.a.   zníženie hodnoty hmotného majetku
+j.3.b.   zníženie hodnoty nehmotného majetku
+j.4.     odplaty za správu majetku
+j.4.a.   náklady na odplaty za služby depozitára
+j.4.b.   náklady na audit účtovnej závierky
+j.5.     ostatné prevádzkové náklady
+j.6.     Ostatné prevádzkové výnosy
+j.7.     Výnosy z podielových účastí
+j.8.     v podnikoch do 20% ich základného
+9.       imania vrátane
+10.      v prepojených podnikoch
+         Výnosy z úverov poskytnutých
+10.1.    prepojeným podnikom
+         Náklady ﬁnancovania
+10.2.    náklady na úroky neprepojeným
+         podnikom
+11.      náklady na úroky prepojeným podnikom
+         zisky/straty zo zaistenia úrokov
+k.       náklady na dane a poplatky
+
+k.1.a.
+
+k.1.b.
+k.2.
+k.3.
+l.    Daň z prímov                          4 799   11 806
+                                                    11 806
+l.1.  splatná daň z príjmov                 4 799
+                                                    32 946
+l.2.  odložená daň z príjmov
+
+II.   Zisk alebo strata za účtovné obdobie  -3 425
+      po zdanení
+
+ P
+ O
+ Z
+ N
+ Á
+ M
+ K
+ Y
+
+                                                účtovnej
+                                  závierky zostavenej
+
+                                  k 31.12.2025
+                                                                  v
+
+                                               eurách
+
+A. Všeobecné informácie o subjekte kolektívneho investovania s právnou subjektivitou
+1. Názov subjektu kolektívneho investovania s právnou subjektivitou a predpokladaná doba
+jeho trvania, popis činnosti subjektu kolektívneho investovania s právnou subjektivitou, jeho
+investičnej stratégie a určenie zemepisných oblastí, v ktorých subjekt kolektívneho
+investovania s právnou subjektivitou investuje.
+2. Obchodné meno správcovskej spoločnosti, ktorá spravuje majetok subjektu kolektívneho
+investovania s právnou subjektivitou, priamej materskej spoločnosti správcovskej spoločnosti
+a obchodné meno materskej spoločnosti celej skupiny.
+B. Použité účtovné zásady a účtovné metódy
+1. Informácia o tom, či účtovná závierka bola zostavená na základe predpokladu ďalšieho
+nepretržitého trvania subjektu kolektívneho investovania s právnou subjektivitou. Ak nebola
+zostavená na základe tohto predpokladu, ktoré skutočnosti k tomu subjekt kolektívneho
+investovania s právnou subjektivitou viedli. Ak bola účtovná závierka zostavená na základe
+predpokladu ďalšieho nepretržitého trvania, ale subjekt kolektívneho investovania s právnou
+subjektivitou je vystavený významným neistotám v súvislosti s jeho investíciami a
+investovaním, a to takým neistotám, že má významné pochybnosti o schopnosti subjektu
+kolektívneho investovania s právnou subjektivitou naďalej nepretržite trvať, tieto neistoty sa
+uvedú.
+2. Účtovné zásady a účtovné metódy použité pri zostavovaní účtovnej závierky.
+3. Informácia o tom, či subjekt kolektívneho investovania s právnou subjektivitou používa
+usporiadacie účty.
+4. Informácie o použití nových účtovných zásad a nových účtovných metód v porovnaní s
+
+   predchádzajúcim účtovným obdobím a o dôvodoch ich uplatnenia a vplyve na výsledok
+   hospodárenia a čistý majetok subjektu kolektívneho investovania s právnou subjektivitou.
+5. Popis spôsobov oceňovania majetku a záväzkov, metód použitých pri určení reálnych
+   hodnôt majetku a záväzkov, cudzích mien a kurzov použitých na prepočet cudzej meny na
+   eurá.
+6. Určenie dňa uskutočnenia účtovného prípadu.
+7. Stratégia a zásady zaisťovania.
+8. Zásady a postupy identiﬁkácie majetku so zníženou hodnotou.
+9. Zásady a postupy výpočtu výšky zníženia hodnoty majetku a rezerv.
+10. Informácia o predpokladoch a východiskách, z ktorých vychádzajú oceňovacie modely
+a techniky pre určenie reálnej hodnoty.
+
+Ozn   C. Prehľad o peňažných tokoch                  Bežné účtovné Bezprostredne
+a-
+čeni                                                 obdobie  predchádzajúce
+e
+                                                              účtovné obdobie
+
+x Peňažný tok z prevádzkovej činnosti                x        x
+                                                              0
+1. Zvýšenie/zníženie istín poskytnutých úverov 0
+                                                              360 672
+      a vkladov (-/+)
+                                                              -217
+2. Uhradené pohľadávky za úroky, odplaty 454 689
+
+      a provízie (+)
+
+3. Uhradené záväzky z odplát a provízií (-)          -96
+
+4. Uhradené pohľadávky za dividendy (+)
+
+5. Uhradené pohľadávky za predané cenné
+
+      papiere, drahé kovy, komodity a nehnuteľnosti
+
+      (+)
+6. Uhradené záväzky na zaplatenie kúpnej ceny
+
+       cenných papierov, drahých kovov, komodít a
+
+       nehnuteľností (-)
+
+7. Uhradené pohľadávky z derivátov (+)
+
+8. Uhradené záväzky z derivátov (-)
+
+9. Uhradené pohľadávky z obchodného styku (+)
+
+10. Uhradené záväzky z obchodného styku (-)            - 463 625    -348 036
+                                                                    -7 966
+11. Uhradené mzdy a iné sociálne náklady (-)                        4453
+                                                                    x
+12. Uhradené dane (-)                                  - 6840
+                                                                    41 926
+I.     Čistý peňažný tok z prevádzkovej činnosti          - 15 872
+                                                                    41 926
+    x Peňažný tok z investičnej činnosti               x            x
+
+13. Uhradené záväzky z obstarania ﬁnančných                         -100
+                                                                    -100
+       investícií, hmotného majetku a nehmotného                    0
+                                                                    46 279
+       majetku (-)
+                                                                    1 549 269
+14. Uhradené pohľadávky z predaja ﬁnančných 15 152                  1 595 549
+
+       investícií, hmotného majetku a nehmotného
+
+       majetku (+)
+
+15. Uhradené pohľadávky na podiely na zisku z
+
+       ﬁnančných investícií (+)
+
+16. Zníženie/ zvýšenie poskytnutých úverov (+/-)
+
+II. Čistý peňažný tok z investičnej činnosti           15 152
+
+    x Peňažný tok z ﬁnančnej činnosti                  x
+
+17. Splatené upísané základné imanie (+)
+
+18.    Uhradené záväzky na vrátenie splatenej časti
+       podielov, ktoré neboli včas úplne splatené (-)
+
+19. Uhradené záväzky na vyplatenie zisku (-)
+
+20. Zvýšenie/zníženie prijatých úverov (+/-)           -115
+
+III. Čistý peňažný tok z ﬁnančnej činnosti             -115
+
+IV.    Účinok zmien vo výmenných kurzoch na 0
+       peňažné prostriedky v cudzej mene
+
+       Č i s t ý v z r a s t / p o k l e s p e ň a ž n ý c h -834
+
+V. prostriedkov a ich ekvivalentov I.+II.+III.
+
+       +IV.
+
+VI.    Peňažné prostriedky a ich ekvivalenty na 1 595 549
+       začiatku účtovného obdobia
+
+VII. Peňažné prostriedky a ich ekvivalenty na 1 594 715
+
+       konci účtovného obdobia VI.+V.
+
+Vysvetlivky k prehľadu o peňažných tokoch:
+V položke 16 sa uvádzajú len úvery prepojeným podnikom, alebo s ktorými má subjekt kolektívneho
+investovania s právnou subjektivitou vzťah podielovej účasti. Podnikom prepojeným s vykazujúcim
+podnikom je jeho materský podnik a dcérske podniky tohto materského podniku.
+
+Ozna-  D. Prehľad o zmenách vo vlastnom imaní                      Bežné účtovné  Bezprostredne
+čenie  subjektu kolektívneho investovania s                        obdobie        predchádzajúc
+       právnou subjektivitou                                                      e účtovné
+a                                                                  1              obdobie
+I.     b                                                           20 748 800
+a)     Vlastné imanie na začiatku obdobia                                         2
+       Základné imanie (-/+)                                                      23 504 607
+a).1 Upísané podiely/prevody z iných zložiek vlastného
+
+        imania (+)
+
+a).2 Pohľadávky voči spoločníkom/členom (-/+)
+
+a).3 Vlastné akcie/podiely (-/+)
+
+a).4 Zníženie základného imania (-)
+
+b)      Ážiový fond (-/+)
+
+c)      Fondy z precenenia (-/+)                          - 392 058   -2 788 753
+
+d)      Rezervné fondy (-/+)
+
+e)      Iné fondy (-/+)
+
+f)      Nerozdelené zisky/neuhradené straty minulých 32 947           -43 937
+
+        období (-/+)
+
+g)      Účet ziskov a strát                               - 36 371 76 883
+
+II.     Nárast/pokles vlastného imania                    - 395 483   - 2 755 807
+
+A.      Vlastné imanie na konci obdobia (I. + II.)        20 353 318  20 748 800
+
+a)      počet podielov
+
+b)      hodnota jedného podielu
+
+V položkách časti II. sa uvádza len obrat príslušných položiek za príslušné účtovné obdobie.
+
+E. Poznámky k položkám súvahy a k položkám výkazu ziskov a strát
+Súvaha
+
+Aktíva
+
+Číslo   1. Peňažné prostriedky     Bežné účtovné obdobie     Bezprostredne
+riadku  a ekvivalenty peňažných    1 594 715                 predchádzajúce účtovné
+1.      prostriedkov                                         obdobie
+2.      Bežné účty                 1 594 715                 1 595 549
+        Poskytnuté úvery splatné   1 594 715
+3.      na požiadanie a do 24                                1 595 549
+        hodín a vklady splatné do                            1 595 549
+4.      24 hodín
+        Pohľadávky na peňažné
+x       prostriedky v rámci
+5.      spotových operácií
+        Cenné papiere peňažného
+        trhu s dohodnutou dobou
+        splatnosti najviac tri
+        mesiace
+        Medzisúčet - súvaha
+        Úverové linky na okamžité
+        čerpanie peňažných
+        prostriedkov
+        Spolu
+
+Číslo   14.I. Dlhodobé vklady v    Bežné účtovné obdobie     Bezprostredne
+riadku  bankách podľa dohodnutej                             predchádzajúce účtovné
+        doby splatnosti                                      obdobie
+1.      Do dvoch rokov
+2.      Do piatich rokov
+3.      Nad päť rokov
+        Spolu
+
+Číslo   14.II. Dlhodobé vklady  Bežné účtovné obdobie  Bezprostredne
+riadku  v bankách podľa                                predchádzajúce účtovné
+        zostatkovej doby                               obdobie
+1.      splatnosti
+2.      Do jedného mesiaca
+3.      Do troch mesiacov
+4.      Do šiestich mesiacov
+5.      Do jedného roku
+6.      Do dvoch rokov
+7.      Do piatich rokov
+        Nad päť rokov
+        Spolu
+
+Číslo   16.I. Dlhodobé úvery    Bežné účtovné obdobie  Bezprostredne
+riadku  podľa dohodnutej doby                          predchádzajúce účtovné
+        splatnosti                                     obdobie
+1.      Do dvoch rokov
+2.      Do piatich rokov                               Bezprostredne
+3.      Nad päť rokov                                  predchádzajúce účtovné
+        Spolu                                          obdobie
+
+Číslo                           Bežné účtovné obdobie
+riadku
+        16.II. Dlhodobé úvery
+1.      podľa zostatkovej doby
+2.      splatnosti
+3.      Do jedného mesiaca
+4.      Do troch mesiacov
+5.      Do šiestich mesiacov
+6.      Do jedného roku
+7.      Do dvoch rokov
+        Do piatich rokov
+        Nad päť rokov
+        Spolu
+Číslo                                B e ž n é ú č t o v n é Bezprostredne predchádzajúce
+
+riadku 20.b). Pohľadávky voči        obdobie                účtovné obdobie
+
+        prepojeným podnikom podľa
+
+        zostatkovej doby splatnosti
+
+1.      Do jedného mesiaca           51 316                 102 576
+
+2.      Do troch mesiacov                                   1 451
+
+3.      Do šiestich mesiacov
+
+4.      Do jedného roku
+
+        Krátkodobé spolu
+
+5.      Do dvoch rokov
+
+6.      Do piatich rokov             63 488                 40 287
+
+7.      Nad päť rokov
+
+        Dlhodobé spolu
+
+        Spolu
+
+Ak má účtovná jednotka pohľadávky voči prepojeným podnikom v cudzej mene, vypracujú sa tabuľky
+
+k riadku 20. aktív aj podľa jednotlivých mien, ktoré sa označia označením tabuľky s pripojením
+
+označenia meny, napríklad 20.USD.
+
+Číslo                                Bežné účtovné obdobie  Bezprostredne
+riadku                                                      predchádzajúce účtovné
+        20.d). Pohľadávky voči                              obdobie
+1.      podnikom, v ktorých má
+2.      účtovná jednotka
+3.      podielovú účasť podľa
+4.      zostatkovej doby
+        splatnosti
+5.      Do jedného mesiaca
+6.      Do troch mesiacov
+7.      Do šiestich mesiacov
+        Do jedného roku
+        Krátkodobé spolu
+        Do dvoch rokov
+        Do piatich rokov
+        Nad päť rokov
+        Dlhodobé spolu
+        Spolu
+
+PASÍVA
+
+Číslo   12. Záväzky voči prepojeným  B e ž n é ú č t o v n é Bezprostredne predchádzajúce
+riadku  podnikom podľa zostatkovej
+        doby splatnosti              obdobie                účtovné obdobie
+1.      Do jedného mesiaca
+2.      Do troch mesiacov
+3.      Do šiestich mesiacov
+4.      Do jedného roku
+        Krátkodobé spolu
+5.      Do dvoch rokov
+6.      Do piatich rokov
+7.      Nad päť rokov
+
+        Dlhodobé spolu
+
+        Spolu
+
+Číslo   13. Záväzky voči            Bežné účtovné obdobie        Bezprostredne
+riadku  podnikom, v ktorých má                                   predchádzajúce účtovné
+        účtovná jednotka alebo                                   obdobie
+1.      ktoré majú na účtovnej
+2.      jednotke podielovú účasť                                 Bezprostredne
+3.      podľa zostatkovej doby                                   predchádzajúce účtovné
+4.      splatnosti                                               obdobie
+        Do jedného mesiaca                                       41 926
+5.      Do troch mesiacov
+6.      Do šiestich mesiacov                                     Bezprostredne
+7.      Do jedného roku                                          predchádzajúce účtovné
+        Krátkodobé spolu                                         obdobie
+        Do dvoch rokov
+        Do piatich rokov
+        Nad päť rokov
+        Dlhodobé spolu
+        Spolu
+
+Výkaz ziskov a strát
+
+Číslo   1.      1.1.    Úroky       Bežné účtovné obdobie
+riadku                              15 152
+            a podobné výnosy
+1.
+2.          z
+3.
+4.      bežných účtov
+
+5.      reverzných repoobchodov
+6.
+7.      vkladov v bankách
+
+        dlhových cenných
+
+        papierov
+
+        úverov
+
+        ﬁnančného prenájmu
+
+        nájomné z operatívneho
+
+        prenájmu
+
+        Spolu
+
+Číslo   1.3./b. Zníženie hodnoty /  Bežné účtovné obdobie
+riadku  zrušenie zníženia hodnoty
+        majetku
+1.      Istina
+2.      Úroky
+        Spolu
+
+G. Ostatné poznámky
+
+    a.      1.        Údaje o vzťahoch so spriaznenými osobami.
+Číslo   a). Podiely spriaznených osôb    Bežné účtovné obdobie  Bezprostredne
+riadku  na základom imaní účtovnej       75 750                 predchádzajúce účtovné
+        jednotky a jej dcérskych úč. j.                         obdobie
+1.      a pridružených úč. j.
+2.      Podiely na základnom imaní                              75 750
+        Podiely na základnom imaní
+3.      dcérskych úč. j.
+        Podiely na základnom imaní
+        pridružených úč. j.
+
+Číslo b). Finančné vzťahy so      Bežné účtovné obdobie         Bezprostredne
+riadku spriaznenými osobami                                     predchádzajúce účtovné
+                                                                obdobie
+1.      Krátkodobé pohľadávky
+                                                                116 859
+2.      Dlhodobé pohľadávky
+
+3.      Krátkodobé záväzky        116 859
+
+4.      Dlhodobé záväzky
+
+5.      Úverové prísľuby
+
+        a nečerpané časti úverov
+
+Číslo c). Vydané záruky za        Bežné účtovné obdobie         Bezprostredne
+riadku spriaznené osoby                                         predchádzajúce účtovné
+                                                                obdobie
+
+1.      Dcérske účtovné jednotky
+
+2.      Pridružené účtovné
+
+        jednotky
+
+3.      Ostatné spriaznené osoby
+
+        Spolu
+
+Číslo d). Prijaté záruky od       Bežné účtovné obdobie         Bezprostredne
+riadku spriaznených osôb                                        predchádzajúce účtovné
+                                                                obdobie
+
+1.      Dcérske účtovné jednotky
+
+2.      Pridružené účtovné
+
+        jednotky
+
+3.      Ostatné spriaznené osoby
+
+        Spolu
+
+2. Uvedú sa údaje o udalostiach, ktoré nastali medzi dňom, ku ktorému sa zostavuje účtovná závierka
+a dňom zostavenia účtovnej závierky.
+3. Uvedú sa opravy chýb minulých účtovných období, ktoré majú taký podstatný vplyv na účtovnú
+závierku jedného alebo viacerých predchádzajúcich účtovných období, že by tieto účtovné závierky
+nepodávali verný a pravdivý obraz o predmete účtovníctva účtovnej jednotky, pričom sa uvádza
+vplyv týchto zmien na vlastné imanie ku dňu, ku ktorému sa zostavuje účtovná závierka.
+4. Uvedie sa návrh na rozdelenie zisku bežného účtovného obdobia.
+5. Uvedie sa priemerný počet zamestnancov v účtovnom období, pričom priemerný počet
+zamestnancov sa vypočíta ako priemer koncových stavov v jednotlivých štvrťrokoch v účtovnom
+období; počet členov štatutárnych orgánov, riadiacich orgánov, dozorných orgánov, prípadne iných
+orgánov.
+6. Uvedú sa náklady alebo výnosy, ktoré majú vplyv na splatnú daň z príjmov za prechádzajúce
+účtovné obdobie.
+7. Uvedú sa údaje o zamestnaneckých požitkoch, na základe ktorých majú zamestnanci nárok na
+ﬁnančné nástroje vydané účtovnou jednotkou viazané na vlastné imanie alebo podľa ktorých výška
+záväzkov účtovnej jednotky voči zamestnancom je závislá na budúcej cene ﬁnančných nástrojov,
+napríklad účtovnou jednotkou vydané akcie alebo opcie na akcie.
+8. Uvedie sa výnos na akciu.
+9. Uvedú sa údaje o úverovom riziku, a to:
+
+    a) o použitých spôsoboch a postupoch úverového hodnotenia dlžníka vrátane vysvetlenia obsahu
+jednotlivých hodnotiacich stupňov,
+
+    b) popis pohľadávok, ktorých ocenenie sa upravuje skupinovo,
+    c) popis spôsobov a nástrojov znižovania úverového rizika,
+    d) popis významných koncentrácií úverového rizika a popis spôsobov a postupov používaných pre
+zabezpečenie účtovnou jednotkou akceptovanej koncentrácie úverového rizika,
+10. Uvedú sa údaje o trhovom riziku, a to:
+
+a) o používaní nových ﬁnančných nástrojov,
+b) o spôsoboch a postupoch používaných na meranie, sledovanie a riadenie trhového rizika,
+c) o spôsoboch zabezpečenia sa proti nepriaznivému vplyvu zmien trhových úrokových mier,
+d) o citlivosti majetku a záväzkov na zmeny úrokových mier,
+e) o spôsoboch a postupoch merania úrokového rizika,
+
+    f) rozpis majetku a záväzkov podľa dátumu zmluvnej zmeny úrokovej miery alebo dátumu
+zostatkovej doby splatnosti v členení do jedného mesiaca, od jedného mesiaca do troch mesiacov, od
+troch mesiacov do jedného roka, od jedného roka do päť rokov a nad päť rokov.
+11. Uvedú sa údaje o ostatných druhoch rizík, a to o spôsoboch a postupoch:
+
+    a) identiﬁkácie rizík, ktorým je účtovná jednotka vystavená a
+    b) merania, sledovania a riadenia týchto rizík.
+
+Číslo   12.Náklady účtovnej          Bežné účtovné obdobie  Bezprostredne
+riadku  jednotky voči audítorovi za                         predchádzajúce účtovné
+        účtovné obdobie                                     obdobie
+
+1.      Overenie účtovnej závierky
+
+2.      Uisťovacie audítorské
+
+        služby
+
+3.      Súvisiace audítorské
+
+        služby
+
+4.      Daňové poradenstvo
+
+5.      Ostatné audítorské služby
+
+        Spolu
+
+Istiny dlhodobých pôžičiek (kvázi equity) sú v zmysle podpísaných zmlúv splatné v prípade jedného
+subjektu do 30.4.2030, resp. v priebehu 1Q2031 a 2Q2031 individuálne podľa jednotlivých subjektov.
+V rovnakých termínoch sú splatné aj výkonnostné odmeny počítané majetkovou/výnosovou metódou
+spravidla podľa výsledkov do 31.12.2030, alebo ako násobok investície, resp. násobok tržieb.
+
+V Ocenovacej sprave za 2025 je na str. 3 popisana zmena v pristupe k ocenovaniu, resp. vykazovaniu, hodnoty
+aktiv nasledovne: "Equity ﬂoor: ak reziduálna hodnota equity po odpočítaní čistého dlhu vychádza záporná (EV <
+net debt), equity komponent pre point estimate nastavujeme na 0 (obmedzená zodpovednosť).
+Vysvetlivky:
+Výraz „subjekt kolektívneho investovania s právnou subjektivitou“ použitý na prvej strane
+prílohy v kolónkach „Obchodné meno“, „Sídlo správcovskej spoločnosti“ a „Sídlo“ znamená
+všetky druhy subjektov kolektívneho investovania s právnou subjektivitou, vrátane akciovej
+spoločnosti s premenlivým základným imaním (§ 26d odsek 1 zákona č. 203/2011 Z. z.
+o kolektívnom investovaní v znení neskorších predpisov) označovanej ako Investičný fond s
+premenlivým základným imaním.
+
+Určenia časového obdobia v tabuľkách, napríklad slová „do jedného mesiaca“, znamenajú
+vrátane posledného dňa obdobia.
+
+Použité skratky:
+Dt – strana „má dať“ účtu
+Cr – strana „dal“ účtu
+Úč. o. – účtovné obdobie
+PL – podielový list
+FN – ﬁnančný nástroj
+úč. j. – účtovná jednotka/účtovné jednotky
+LEI – alfanumerický kód podľa štandardu ISO 17442 prideľovaný prevádzkovou
+jednotkou Global Legal Entity Identiﬁer System, ktorou je v Slovenskej republike Centrálny
+depozitár cenných papierov SR, a.s.
+SK NACE – označenie podtriedy ekonomickej činnosti prípadne hierarchicky vyššie členenie
+ekonomických činností ak subjekt kolektívneho investovania s právnou subjektivitou
+vykonáva viac podtried ekonomických činností podľa prílohy k vyhláške Štatistického úradu
+Slovenskej republiky č. 306/2007 Z.z., ktorou sa vydáva Štatistická klasiﬁkácia
+ekonomických činností
+

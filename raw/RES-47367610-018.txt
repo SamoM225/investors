@@ -1,0 +1,35 @@
+Stratifai
+News Contact Careers
+Home
+StratifAI raises €1.5M in pre-seed funding to advance AI-based precision oncology
+Investment round from leading VCs and strategic partners to accelerate development of innovative digital oncology platform
+September 2, 2024
+Investors of StratifAI
+StratifAI, a pioneering provider of AI-powered digital oncology solutions, today announced it has raised €1.5 million in pre-seed funding. The round was co-led by Neulogy Ventures and MultiplexDX , with participation from Debiopharm Innovation Fund , Arve Capital , as well as angel investor Christoph Haarburger .
+‍
+This pre-seed funding will be instrumental in furthering the development of StratifAI’s cutting-edge technology, expanding its team of experts, and accelerating the market readiness of its digital oncology platform. The investment underscores the potential of StratifAI’s AI-driven approach to revolutionize cancer prognostication.
+“We are thrilled to have the support of such a diverse and experienced group of investors in the pharmaceutical, biotech and precision oncology space”, said Omar El Nahhas, CEO and co-founder of StratifAI.
+“This funding is a pivotal step in our mission to develop the next generation of AI-based biomarkers which improve cancer patient outcomes. With our investors’ backing, we’re well-positioned to bring our innovative solutions to oncologists and patients alike.”
+Founded in 2023, StratifAI is at the forefront of digital innovation in the field of precision oncology. The company’s mission is to harness the power of AI to transform cancer prognosis, delivering accurate, actionable insights to oncologists that improve patient outcomes.
+"We firmly believe that advances in artificial intelligence have the potential to significantly improve outcomes for cancer patients and substantially decrease the cost of cancer treatment. The team behind StratifAI has been instrumental in laying the groundwork for computational pathology and is perfectly positioned to leverage this deep domain expertise to build efficient companion diagnostics (CDx) products. Starting with a breast cancer prognostication test, the StratifAI pipeline has the potential to scale across various indications and biomarkers. Neulogy Ventures is very proud to have the opportunity to support StratifAI as a pre-seed investor."
+Jaroslav Luptak
+Partner at Neulogy Ventures
+As cancer rates continue to rise globally, and treatment options become increasingly complex, there’s an urgent need for more efficient and accurate prognostic tools. StratifAI’s technology addresses this challenge by providing oncologists with AI-assisted analysis of tissue samples which brings an additional dimension of spatial biology that is otherwise lost.
+With this pre-seed funding, StratifAI plans to finalize its product development, initiate pilot studies with key partners, and prepare for market entry through CE-IVDR certification. The company aims to establish itself as a leader in AI-powered digital oncology solutions.
+This investment marks a significant milestone for StratifAI and reflects growing confidence in the potential of AI to transform healthcare. As the company progresses from pre-seed stage to product launch, it remains committed to its goal of improving cancer prognosis and, ultimately, patient outcomes.
+‍
+Since this announcement, StratifAI has continued to grow, read about the companys €12.5 million funding round to accelerate clinical validation of Polaris™.
+"Investing in StratifAI offers the opportunity to be part of groundbreaking advancements in AI technology, particularly in revolutionizing cancer diagnostics. This is well aligned with our mission at MultiplexDX in enabling oncologists to make evidence-based decisions and prescribe treatment quickly, directly and more accurately. By supporting StratifAI, we are contributing to a future where personalized medicine becomes the norm, transforming healthcare outcomes globally."
+Pavol Cekan
+CEO at MultiplexDX
+Contact information
+For media inquiries, please contact:
+The StratifAI Team
+press@stratifai.com
+About StratifAI
+StratifAI is a precision oncology company developing the next generation of biomarkers to advance cancer diagnostics. Its discovery platform, Polaris™ , applies multimodal AI to clinical data, identifying prognostic and predictive biomarkers that enable more equitable and individualized treatment strategies across solid-tumor cancers.
+Polaris™ Breast , the company’s first diagnostic, assesses metastatic risk in early breast cancer directly from digitized histology slides, helping refine adjuvant treatment options. Retrospectively validated on thousands of patients from Phase III trials and in real-world clinical settings, Polaris™ Breast is available for research-use only and is undergoing regulatory approval in the EU and US.
+‍
+For more information, visit www.stratifai.com
+Careers Contact
+Imprint Privacy Notice Terms & Conditions

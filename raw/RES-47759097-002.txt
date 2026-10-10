@@ -1,0 +1,1781 @@
+URL: https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/11611015
+ACCESSED: 2026-10-09T19:01:35Z
+METHOD: pdftotext -enc UTF-8 -layout (PDF priloha uctovnej zavierky 2024, RUZ zavierka id 6383309, vykaz 9581199)
+
+   Slovak Investment Holding, a. s.
+            Účtovná závierka
+
+za rok končiaci sa 31. decembra 2024
+
+  zostavená podľa Medzinárodných štandardov
+    finančného výkazníctva v znení prijatom
+
+Európskou úniou a správa nezávislého audítora
+
+                    Február 2025
+Obsah
+
+Správa audítora                             3
+
+Individuálny výkaz o finančnej situácii     5
+
+Individuálny výkaz ziskov a strát a ostatných súčastí komplexného výsledku 6
+
+Individuálny výkaz zmien vo vlastnom imaní  7
+
+Individuálny výkaz peňažných tokov          9
+
+Poznámky k individuálnej účtovnej závierke  10
+Slovak Investment Holding, a. s.
+Individuálny výkaz ziskov a strát a ostatných súčastí komplexného výsledku za rok,
+ktorý sa skončil 31. decembra 2024
+
+                                          Poznámky    2024                                       2023
+                                                    tis. eur                                  tis. Eur
+
+Čisté výnosy z poplatkov a provízií       16        8 224                                     9 655
+
+Čisté kurzové zisky /(náklady)                                                             -  -
+Čisté ostatné výnosy
+                                          18        126                                       42
+
+Prevádzkové výnosy                                  8 350                                     10 134
+
+Osobné náklady                            19        (2 974)                                   (2 765)
+Odpisy hmotného a nehmotného majetku
+Odpisy aktíva s právom používania         8         (8)                                       (16)
+Všeobecné administratívne náklady
+                                                    (93)                                      (94)
+Prevádzkové náklady
+                                          20        (513)                                     (654)
+Čisté úrokové výnosy
+                                                    (3 588)                                   (3 536)
+Zisk/Strata pred zdanením
+                                          17        488                                       430
+
+                                                    5 250                                     6 598
+
+Náklady na daň z príjmov                  21        (1 079)                                   (1 380)
+Zisk/(Strata) po zdanení
+Ostatné súčasti komplexného výsledku                4 171                                     5 218
+Celkový komplexný výsledok za obdobie
+Základná strata/zisk na akciu (EUR)                                                        -  -
+
+                                                    4 171                                     5 218
+
+                                          14        13 903                                    17 393
+
+Poznámky uvedené na stranách 10 až 36 sú neoddeliteľnou súčasťou tejto účtovnej závierky.
+
+                                       6
+Slovak Investment Holding, a. s.
+Individuálny výkaz zmien vo vlastnom imaní k 31. decembru 2024
+
+                                     Zákonný Ostatné                Zisk za
+                                                                    účtovné
+                             Základné rezervný kapitálo- Nerozde-   obdobie
+
+                             imanie  fond vé fondy lený zisk                                       Celkom
+
+                             tis. eur tis. eur tis. eur tis. eur tis. eur tis. eur
+
+K 1. januáru 2024            300        60  1 500 17 712                                   - 19 572
+
+zaokrúhlenie                                                    -1                                          -1
+
+Celkový komplexný výsledok   -          -   -                   -                          -       -
+  za rok
+                             -          -   -                   -                          4 171   4 171
+Zisk za rok 2024
+                             -          -   -                   -                          -       -
+Ostatné súčasti komplexného
+  výsledku                   -          -   -                   -                          -       -
+
+Celkový komplexný výsledok   -          - -1 500                -                          - -1 500
+  za rok 2024
+                                                      -340                                         -340
+Transakcie s vlastníkmi
+  zaznamenávané priamo do                             -87                                  -       -87
+  vlastného imania
+                             -          -   -                   -                               -         -
+Vyplatenie ostatných                                                                       4 171   21 815
+  kapitálových fondov 2024   300        60  - 17 284
+
+Vyplatenie dividend 2024
+Vyplatenie tantiém
+
+Celkové transakcie
+  s vlastníkmi
+
+K 31. decembru 2024
+
+Poznámky uvedené na stranách 10 až 36 sú neoddeliteľnou súčasťou tejto účtovnej závierky.
+
+                                     7
+Slovak Investment Holding, a. s.
+Individuálny výkaz zmien vo vlastnom imaní k 31. decembru 2023
+
+                                  Zákonný Ostatné Nerozdelený        Zisk za
+                                                                     účtovné
+                          Základné rezervný kapitálové  zisk         obdobie Celkom
+
+                          imanie  fond  fondy
+
+                          tis. eur tis. eur tis. eur    tis. eur tis. eur tis. eur
+
+K 1. januáru 2023         300     60    1 500           12 900                             - 14 760
+
+Celkový komplexný         -          -  -                       -                          -  -
+  výsledok za rok
+                          -          -  -                       -                          5 218 5 218
+Zisk za rok 2023
+                          -          -  -                       -                          -  -
+Ostatné súčasti
+  komplexného výsledku    -          -  -                       -                          -  -
+
+Celkový komplexný         -          -  -                       -                          -  -
+  výsledok za rok 2023
+                                                        -330                                  -330
+Transakcie s vlastníkmi
+  zaznamenávané priamo                                          -76                        -  -76
+  do vlastného imania
+                          -          -  -                       -                          -  -
+Vklad do zákonného
+  rezervného fondu        300     60    1 500           12 494                             5 218 19 572
+
+Vyplatenie dividend 2023
+Vyplatenie tantiém
+
+Celkové transakcie
+  s vlastníkmi
+
+K 31. decembru 2023
+
+Poznámky uvedené na stranách 10 až 36 sú neoddeliteľnou súčasťou tejto účtovnej závierky.
+
+                                  8
+Slovak Investment Holding, a. s.
+Individuálny výkaz peňažných tokov za rok, ktorý sa skončil 31. decembra 2024
+
+Peňažné toky z prevádzkových činností              Poznámka    2024                             2023
+Zisk/Strata pred zdanením                          7          tis. eur                        tis. Eur
+Úpravy o nepeňažné operácie:                                                                    6 598
+Odpisy                                                         5 250
+Úrok účtovaný do výnosov                                                                          110
+Úrok účtovaný do nákladov                                        101                            (437)
+Nepeňažné operácie spolu                                       (488)
+Zmeny v pracovnom kapitále                                                                           7
+Zmena stavu záväzkov z obchodného styku                             4                           (320)
+a ostatných záväzkov                                           (383)
+Zmena stavu pohľadávok a ostatného majetku                                                   (4 193)
+Zmeny v pracovnom kapitále spolu                                 239                          1 078
+Osobitne vykázané položky                                    (4 231)                          (3 115)
+Prijaté úroky                                                (3 992)
+Zaplatené úroky                                                                                   437
+Zaplatená daň z príjmu                                           488                               (7)
+                                                                  (4)                         (1 507)
+Čisté peňažné toky z prevádzkových činností                  (1 520)                            2 086
+
+                                                               (161)                               (2)
+                                                                                              27 880
+Peňažné toky z investičných činnosti                              (47)                        (6 752)
+                                                                  101                        440 833
+Nákup hmotného a nehmotného majetku                                                        (440 833)
+                                                             (14 932)
+Hodnota prijatých zverených prostriedkov od MF                                                       -
+Hodnota investovaných zverených prostriedkov do                51 303                              (5)
+fondu VFF a CEFOF                                                                             21 121
+Hodnota prijatých zverených prostriedkov od                   (5 000)
+riadiacich orgánov                                                                              (330)
+Hodnota investovaných zverených prostriedkov do              (46 303)                            (76)
+fondu National Development Fund II.                                   -
+Hodnota investovaných zverených prostriedkov do                                                 (406)
+fondu National Development Fund III
+                                                                                              22 801
+Hodnota investícií do dcérskych spoločností                                                   24 153
+
+Čisté peňažné toky použité na investičné činnosti            (14 878)                         46 954
+
+Peňažné toky z finančných aktivít                              (340)
+Vklad do vlastného imania                                       (87)
+Vyplatené dividendy akcionárom
+Tantiémy                                                     (1 500)
+Zníženie ostatných kapitálových fondov
+
+Čisté peňažné toky z finančných činností                     (1 927)
+
+Čistá zmena peňažných prostriedkov a ich
+
+ekvivalentov                                                 (16 966)
+                                                               46 954
+Peňažné prostriedky a ich ekvivalenty na začiatku
+
+roka                                                  6
+
+Peňažné prostriedky a ich ekvivalenty na konci
+
+roka                                                  6      29 988
+
+Výkaz peňažných tokov bol vypracovaný nepriamou metódou.
+
+Poznámky uvedené na stranách 10 až 36 sú neoddeliteľnou súčasťou tejto účtovnej závierky.
+
+                                                   9
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+1. Všeobecné informácie
+
+Slovak Investment Holding, a. s. („Spoločnosť“) bola založená v Slovenskej republike zakladateľskou zmluvou
+zo dňa 7. apríla 2014 a je zapísaná v Obchodnom registri Mestského súdu Bratislava III oddiel: Sa, vložka číslo
+5949/B. Zápis do Obchodného registra bol vykonaný dňa 1. mája 2014.
+
+Identifikačné číslo („IČO“), daňové identifikačné číslo („DIČ“) sú:
+
+Identifikačné číslo:         47 759 097
+Daňové identifikačné číslo:  2024091784
+
+Spoločnosť je registrovaná ako platiteľ DPH.
+Sídlo Spoločnosti je: Grösslingová 44, 811 09 Bratislava.
+Štruktúra akcionárov k 31. decembru 2024 a 31. decembru 2023 bola nasledujúca:
+
+Slovenská záručná a rozvojová banka, a.s.                            Hlasovacie           Podiel na
+                                                                     právo v %        zákl. imaní v
+
+                                                                            100%                   %
+
+                                                                                               100%
+
+Spolu                                                                           100%  100%
+
+Konečným vlastníkom celej skupiny je Ministerstvo financií Slovenskej republiky.
+Sídlo Ministerstva financií Slovenskej republiky je Štefanovičova 2968/5, 811 04 Bratislava.
+
+Účtovná závierka Spoločnosti je zahrnutá do konsolidovanej účtovnej závierky Slovenskej záručnej a rozvojovej
+banky, a.s., ktorá je priama materská spoločnosť zapísaná v Obchodnom registri Mestského súdu Bratislava III,
+oddiel: Sa, vložka číslo 3010/B, so sídlom Štefánikova 27, 814 99 Bratislava a je dostupná v jej sídle.
+
+Predstavenstvo je zložené z týchto osôb:
+
+Ing. Peter Fröhlich – predseda predstavenstva (od 01.07.2021)
+Ing. Peter Dittrich, PhD. – podpredseda predstavenstva (od 17.01.2017)
+Ing. Miloš Ješko – člen predstavenstva (od 15.03.2021)
+
+Dozorná rada je zložená z týchto osôb:
+Ing. Radko Kuruc , PhD.- predseda dozornej rady (od 31. 01.2024)
+Ing. Alexander Cirák – člen dozornej rady (od 31. 01.2024)
+Mgr. Veronika Cibulková , LL.M.– člen dozornej rady (od 31. 01.2024)
+
+Účtovná závierka Spoločnosti za predchádzajúce účtovné obdobie, ktoré sa skončilo 31. decembra 2023, bola
+schválená 30. apríla 2024 valným zhromaždením.
+
+Aktivity
+
+Hlavnými aktivitami Spoločnosti je spravovanie prevažne štátom zverených aktív v samostatných obchodných
+spoločnostiach. Spoločnosť dňa 21.4.2021 požiadala Národnú banku Slovenska aby zrušila jej registráciu správcu
+alternatívnych investičných fondov zapísaných v Registri správcov vedenom Národnou bankou Slovenska na
+základe §31a a §31b v zmysle Zákona o kolektívnom investovaní. Národná banka Slovenska žiadosti vyhovela
+a zrušila zápis v registri správcov alternatívnych investičných fondov.
+
+Spoločnosť drží obchodný podiel (99,99643%) v spoločnosti National Development Fund I., s. r. o. (do 23.7.2018
+Slovenský záručný a rozvojový fond, s.r.o., akcie (99,9916%) v spoločnosti National Development Fund II., a.s.
+(do 23.7.2018 Slovak Investment Holding, a.s.), obchodný podiel (100%) v spoločnosti National Development
+Fund III., s. r. o. a akcie (61,88%) v spoločnosti Venture to Future Fund, a.s. vo svojom mene na účet Slovenskej
+republiky zastúpenej jednotlivými ministerstvami. Spoločnosť nezostavuje konsolidovanú účtovnú závierku,
+keďže nemá kontrolu nad týmito spoločnosťami. Kontrolu nad spravovanými aktívami zabezpečujú jednotlivé
+ministerstvá. Spravované aktíva vchádzajú do konsolidácie týchto organizácií, Hodnota aktív v správe je vykázaná
+v podsúvahe.
+
+Spoločnosť nie je neobmedzene ručiacim spoločníkom v iných účtovných jednotkách.
+
+                                           10
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+Dňa 5. mája 2015 Spoločnosť podpísala Zmluvu o správe fondu so National Development Fund II (v tom čase
+Slovak Investment Holding, a.s.), na základe ktorej Spoločnosť vykonáva správu tohto fondu, za čo jej prináleží
+odplata, dohodnutá v jednotlivých Zmluvách o financovaní a Zmluvách s investormi.
+
+Dňa 1. januára 2016 Spoločnosť podpísala so spoločnosťou National Development Fund I (v tom čase Slovenský
+záručný a rozvojový fond, s.r.o.) Zmluva o Holdingovom fonde. Na základe tejto zmluvy sa Spoločnosť stala
+správcom holdingového fondu JEREMIE.
+Dňa 11. augusta 2017 Spoločnosť podpísala s Ministerstvom Financií SR Zmluva o financovaní Stredoeurópskeho
+fondu fondov. Na základe tejto zmluvy Spoločnosť zastupuje MF SR v Stredoeurópskom fonde fondov.
+
+Dňa 19. decembra 2018 Spoločnosť podpísala s Ministerstvom Financií SR Zmluva o financovaní Venture to
+Future Fund. Na základe tejto zmluvy Spoločnosť zastupuje MF SR v Venture to Future Fund.
+
+Spoločnosť drží 100% obchodný podiel v spoločnosti Slovak Asset Management, správ. spol., a. s.. vo vlastnom
+mene a na vlastný účet.
+
+Spoločnosť drží 0,00357% obchodný podiel v spoločnosti National Development Fund I., s. r. o. (do 23.7.2018
+Slovenský záručný a rozvojový fond, s.r.o. vo vlastnom mene a na vlastný účet.
+
+Spoločnosť drží 0,00952% obchodný podiel v spoločnosti National Development Fund II., a.s. (do 23.7.2018
+Slovak Investment Holding, a.s.) vo vlastnom mene a na vlastný účet.
+
+Spoločnosť drží 100% obchodný podiel v spoločnosti National Development Fund III., s.r.o. vo vlastnom mene
+a na vlastný účet.
+
+Slovak Investment Holding, a. s. nezostavuje konsolidovanú účtovnú závierku z dôvodu nevykonávania kontroly
+nad spoločnosťami National Development Fund I., s. r. o., National Development Fund II., a.s., National
+Development Fund III., s. r. o. a v prípade Slovak Asset Management, správ. spol., a. s.. nesplnenie veľkostných
+kritérií podľa § 22 odsek (10) zákona č. 431/2002 o účtovníctve v znení neskorších predpisov. Detailnejšie
+informácie sú uvedené v poznámke č. 25 Podsúvahové položky.
+
+2. Základ pre zostavenie účtovnej závierky
+
+(a) Vyhlásenie o súlade
+
+Riadna individuálna účtovná závierka bola zostavená v súlade s Medzinárodnými štandardmi finančného
+výkazníctva („IFRS“) v znení prijatom Európskou úniou.
+
+Účtovná závierka bola zostavená ako účtovná závierka podľa § 17(a) zákona č. 431/2002 o účtovníctve v znení
+neskorších predpisov. Táto účtovná závierka bola zostavená na základe predpokladu nepretržitého trvania
+spoločnosti.
+
+Účtovná závierka je zostavená na všeobecné použitie. Informácie v nej uvedené nie je možné použiť na účely
+akéhokoľvek špecifického používateľa alebo na posúdenie jednotlivých transakcií. Používatelia účtovnej závierky
+by sa pri rozhodovaní nemali spoliehať na túto účtovnú závierku ako jediný zdroj informácií.
+
+(b) Základ pre oceňovanie
+
+Účtovná závierka bola vypracovaná na základe historických cien.
+
+(c) Funkčná mena a mena prezentácie
+
+Táto účtovná závierka je zostavená v eurách (€), ktoré sú funkčnou menou Spoločnosti.
+
+Sumy v eurách sú vyjadrené v tisícoch a zaokrúhlené, okrem tých, pri ktorých je uvedené inak.
+
+                                                                          11
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+3. Významné účtovné zásady a účtovné metódy
+
+(d) Použitie odhadov a úsudkov
+
+Zostavenie účtovnej závierky si vyžaduje, aby vedenie vykonalo úsudky, odhady a predpoklady, ktoré ovplyvňujú
+aplikáciu účtovných zásad a účtovných metód a výšku vykázaného majetku, záväzkov, výnosov a nákladov.
+Skutočné výsledky sa môžu líšiť od týchto odhadov.
+Odhady a súvisiace predpoklady sú priebežne hodnotené. Úpravy účtovných odhadov sú vykázané v období,
+v ktorom je odhad korigovaný a vo všetkých budúcich ovplyvnených obdobiach.
+Informácie o významných oblastiach neistoty odhadov a významných úsudkoch v použitých účtovných zásadách
+a účtovných metódach, ktoré majú najvýznamnejší vplyv na sumy vykázané v účtovnej závierke, sú opísané
+v bodoch 3 a 4 poznámok.
+
+(a) Cudzia mena
+
+Transakcie v cudzej mene sú prepočítané na euro výmenným kurzom platným v deň uskutočnenia danej transakcie.
+Peňažný majetok a záväzky v cudzej mene sú prepočítané kurzom platným ku obdobiu, ku ktorému sa zostavuje
+účtovná závierka.
+
+(b) Poplatky a provízie
+
+Výnosy a náklady z poplatkov, vrátane poplatkov za správu aktív v zmysle platných štatútov, sú vykazované vtedy,
+keď je v zmysle štatútu nárok na tento poplatok a to v príslušnom účtovnom období, na ktoré sa vzťahujú.
+
+(c) Úrokové výnosy a úrokové náklady
+
+Úrokové výnosy a náklady sú vykazované vo výkaze ziskov a strát použitím efektívnej úrokovej miery. Efektívna
+úroková miera je sadzba, ktorá presne diskontuje odhadované budúce peňažné platby a príjmy počas životnosti
+finančného majetku alebo záväzku (prípadne, ak je to vhodné, obdobia kratšieho) na účtovnú hodnotu finančného
+majetku alebo záväzku. Efektívna úroková miera sa stanovuje pri prvotnom vykázaní finančného majetku
+a záväzku a neskôr sa nereviduje.
+
+Výpočet efektívnej úrokovej miery zahŕňa všetky zaplatené poplatky a bázické body alebo prijaté transakčné
+náklady a diskonty alebo prémie, ktoré sú neoddeliteľnou súčasťou efektívnej úrokovej miery. Transakčné náklady
+sú prírastkové náklady, ktoré sa dajú priamo priradiť nadobudnutiu, vydaniu alebo vyradeniu finančného majetku
+alebo záväzku.
+
+Úrokové výnosy a náklady z majetku a záväzkov v reálnej hodnote cez výkaz ziskov a strát sa vykazujú v rámci
+úrokových výnosov a nákladov, zmeny reálnych hodnôt sa vykazujú v čistom zisku z finančných operácií.
+
+Úrokové výnosy a náklady z majetku a záväzkov na obchodovanie sú považované v obchodných operáciách
+za príležitostné a sú vykazované v čistom zisku z finančných operácií spolu so všetkými ostatnými zmenami
+reálnych hodnôt majetku a záväzkov na obchodovanie.
+
+(d) Dividendy
+
+Príjem z dividend sa vykáže, keď vznikne právo na získanie výnosu. Obvykle je to deň po schválení výplaty
+dividend v súvislosti s majetkovými cennými papiermi.
+
+(e) Lízingy
+
+Pri vzniku zmluvy spoločnosť posudzuje, či je zmluva lízingom alebo či obsahuje lízing podľa IFRS 16. Zmluva
+je lízingom alebo obsahuje lízing, ak sa zmluvou postupuje právo riadiť užívanie identifikovaného aktíva na nejaké
+časové obdobie výmenou za protihodnotu. V prípade zmluvy, ktorá je lízingom alebo ktorá obsahuje lízing,
+spoločnosť účtuje každú lízingovú zložku v rámci zmluvy ako lízing oddelene od nelízingových zložiek zmluvy.
+
+Spoločnosť ako nájomca k dátumu začiatku vykazuje aktívum s právom na užívanie a lízingový záväzok. Aktívum
+s právom na užívanie je ocenené obstarávacou cenou, ktorá predstavuje sumu prvotného ocenenia lízingového
+záväzku. Spoločnosť k dátumu začiatku oceňuje lízingový záväzok súčasnou hodnotou lízingových splátok počas
+doby lízingu, ktoré k tomuto dátumu nie sú uhradené. Doba lízingu predstavuje nevypovedateľné obdobie lízingu
+spolu s obdobiami, na ktoré sa vzťahuje opcia na predĺženie lízingu, ak je dostatočne isté, že nájomca túto opciu
+uplatní a obdobiami, na ktoré sa vzťahuj opcia na ukončenie lízingu, ak je dostatočne isté, že nájomca túto opciu
+neuplatní.
+
+                                                                          12
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+3. Významné účtovné zásady a účtovné metódy pokračovanie
+
+Lízingové splátky sa diskontujú použitím kapitálovej prirážky. V spoločnosti predstavuje aktívum s právom na
+užívanie prenájom priestorov Spoločnosti. .
+Každá platba nájomného je alokovaná medzi splátku istiny a finančné náklady, ktoré sú vypočítané metódou
+efektívnej úrokovej miery. Finančné náklady sa vykazujú ako úroky.
+
+V prípade krátkodobého lízingu sú uhradené platby v operatívnom lízingu rovnomerne vykazované vo výkaze
+ziskov a strát počas trvania lízingovej zmluvy.
+
+(f) Daň z príjmu
+Daň z príjmu zahŕňa splatnú a odloženú daň. Daň z príjmu sa vykazuje vo výkaze ziskov a strát okrem položiek,
+ktoré sa vykazujú priamo vo vlastnom imaní alebo vo výkaze komplexného výsledku.
+
+Splatná daň je očakávaný daňový záväzok vychádzajúci zo zdaniteľných príjmov za rok prepočítaný platnou
+sadzbou dane ku dňu, ku ktorému sa zostavuje účtovná závierka, upravený o sumy súvisiace s minulými
+obdobiami.
+
+Odložená daň sa vypočíta použitím súvahovej metódy, pri ktorej vzniká dočasný rozdiel medzi účtovnou hodnotou
+majetku a záväzkov pre účely výkazníctva a ich hodnotami pre daňové účely. Odložená daň je počítaná pomocou
+daňových sadzieb, pri ktorých sa očakáva, že sa použijú na dočasné rozdiely v čase ich zúčtovania na základe
+zákonov, ktoré boli platné alebo dodatočne uzákonené v deň, ku ktorému sa zostavuje účtovná závierka.
+
+Odložená daňová pohľadávka je vykázaná iba do tej miery, do akej je pravdepodobné, že v budúcnosti budú
+dosiahnuté zdaniteľné zisky, voči ktorým sa dá pohľadávka uplatniť. Odložené daňové pohľadávky sú
+prehodnotené ku dňu, ku ktorému sa zostavuje účtovná závierka a znížené v rozsahu, pre ktorý je
+nepravdepodobné, že bude možné daňový úžitok, ktorý sa ich týka, realizovať.
+
+(g) Investície v dcérskych podnikoch
+
+Investície v dcérskych podnikoch predstavujú investície Spoločnosti do spoločností, ktoré sú vyššie ako 50 %
+základného imania spoločností a/alebo podiel vyšší ako 50 % na hlasovacích právach spoločností. Investície
+v dcérskych podnikoch sa vykazujú v cene obstarania zníženej o opravné položky.
+
+Straty zo znehodnotenia sa vykazujú cez výkaz komplexného výsledku v položke „Čisté zisky/(straty)
+z finančného majetku“. Výška opravnej položky je určená ako rozdiel medzi hodnotou investície spoločnosti a
+hodnotou vlastného imania dcérskeho podniku po zohľadnení realizovateľnej hodnoty investície.
+
+Výnosy z dividend sa vykazujú vo výkaze komplexného výsledku v položke „Čisté zisky/(straty) z finančného
+majetku“ v čase, keď Spoločnosti vzniká právo na príjem dividendy.
+
+(h) Finančný majetok a záväzky
+
+(i) Dátum prvotného vykázania
+Nákup alebo predaj finančného majetku, pri ktorom dôjde k majetkovému a finančnému vysporiadaniu v časovom
+rámci určenom všeobecným predpisom alebo v časovom rámci obvyklom na danom trhu, sa vykazuje k dátumu
+finančného vysporiadania obchodu okrem cenných papierov, ktoré sa vykazujú k dátumu dohodnutia obchodu.
+
+(ii) Klasifikácia a meranie finančných aktív podľa IFRS 9
+
+IFRS 9 má tri kategórie na klasifikáciu dlhových nástrojov podľa toho, či sa následne oceňujú: v umorovanej
+hodnote (amortised cost ďalej len „CP AC“), v reálnej hodnote so zaevidovaním oceňovacích rozdielov do
+ostatného súhrnného zisku (fair value through other comprehensive income, v skratke „CP FVOCI“) alebo
+v reálnej hodnote so zaevidovaním oceňovacích rozdielov do výsledku hospodárenia (fair value through profit or
+loss, v skratke „FVPL“).
+Klasifikácia dlhových nástrojov podľa IFRS 9 vychádza z obchodného modelu, ktorý účtovná jednotka používa
+na riadenie finančného majetku, a z toho, či zmluvne dohodnuté peňažné toky predstavujú výhradne úhrady istiny
+a úrokov (Solely Payments of Principal and Interest, ďalej len „SPPI“). Obchodný model účtovnej jednotky
+vyjadruje to, ako riadi svoj finančný majetok, aby generovala peňažné toky a vytvárala hodnotu pre seba. Jej
+
+                                                                          13
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+3. Významné účtovné zásady a účtovné metódy pokračovanie
+
+obchodný model teda určuje, či peňažné toky budú plynúť z inkasovania zmluvne dohodnutých peňažných tokov,
+z predaja finančného majetku, alebo z oboch. Ak je dlhový nástroj držaný s cieľom inkasovať zmluvne dohodnuté
+peňažné toky, môže byť klasifikovaný v kategórii amortised cost, ak zároveň spĺňa požiadavku SPPI. Dlhové
+nástroje spĺňajúce požiadavku SPPI, ktoré sú držané v portfóliu, v ktorom účtovná jednotka drží finančný majetok,
+aby inkasovala z neho plynúce peňažné toky, a v ktorom finančný majetok predáva, môžu byť klasifikované ako
+FVOCI. Finančný majetok, ktorý negeneruje peňažné toky spĺňajúce SPPI, musia byť oceňované ako FVPL (napr.
+finančné deriváty).
+
+(iii) Klasifikácie a merania finančných aktív podľa IFRS 9 pre potreby dokumentácie obchodného modelu Spoločnosti.
+
+Poslaním Spoločnosti je vytváranie a spravovanie prevažne štátom zverených aktív v samostatných obchodných
+spoločnostiach.
+
+Spoločnosť má vypracovanú dlhodobú stratégiu rozvoja, na pravidelnej báze zostavuje a vyhodnocuje obchodný
+plán, finančný rozpočet. Tieto dokumenty sú zostavované a vyhodnocované na základe priorít a zodpovedností
+týkajúcich správy finančných nástrojov na podporu podnikateľskej sféry taktiež sú brané do úvahy aj celková
+ekonomická situácia na trhu, zámery hospodárskej politiky štátu.
+
+Spoločnosť pre potreby dokumentácie svojho obchodného modelu podľa IFRS 9 (obchodného modelu
+jednotlivých portfólií) vykonala nasledujúce aktivity:
+
+A: Členenie finančných aktív – jednotlivých identifikovaných portfólií spoločnosti podľa účtovného štandardu IAS 39 ako
+podklad pre vykonanie klasifikácie finančných aktív podľa IFRS 9;
+
+(iv) Členenie finančných aktív (podľa typu zmluvy) pre potreby SPPI testu podľa IFRS 9.
+
+Spoločnosť nerealizuje investície do finančných aktív, ktoré spĺňajú definíciu dlhových nástrojov (úverové
+pohľadávky a cenné papiere).
+
+(v) Finančné investície oceňované v amortizovanej hodnote CP AC
+
+Finančné investície držané do splatnosti sú tie finančné investície, ktoré prinášajú vopred stanovené alebo vopred
+určiteľné platby, majú fixne stanovenú splatnosť a Spoločnosť ich plánuje a má schopnosť držať do splatnosti.
+Po prvotnom vykázaní sa CP AC oceňujú v amortizovanej hodnote pomocou efektívnej úrokovej miery po
+zohľadnení opravnej položky na zníženie hodnoty. Amortizovaná hodnota sa vypočíta pri zohľadnení diskontov
+a prémií z obstarávacej ceny a poplatkov, ktoré predstavujú neoddeliteľnú súčasť efektívnej úrokovej miery.
+Amortizácia je zahrnutá v položke „Úrokové výnosy“ vo výkaze súhrnných ziskov a strát. Straty zo zníženia
+hodnoty takýchto investícií sa vykazujú v položke „Opravné položky“ výkazu súhrnných ziskov a strát.
+
+(vi) Pohľadávky voči bankám a pohľadávky voči klientom
+
+„Pohľadávky voči bankám“ a „Pohľadávky voči klientom“ predstavujú finančný majetok s vopred stanovenými
+alebo vopred určiteľnými platbami a fixnými splatnosťami, ktoré nie sú kótované na aktívnom trhu. Spoločnosť
+tieto obchody neuzatvárala s úmyslom okamžitého alebo krátkodobého následného predaja.. Po prvotnom
+vykázaní sa pohľadávky voči bankám a pohľadávky voči klientom následne oceňujú v amortizovanej hodnote
+pomocou efektívnej úrokovej miery po zohľadnení opravnej položky na zníženie hodnoty. Amortizácia je zahrnutá
+v položke „Úrokové výnosy“ vo výkaze súhrnných ziskov a strát. Straty zo zníženia hodnoty takýchto investícií
+sa vykazujú v položke výkazu súhrnných ziskov a strát „Opravné položky“.
+
+(vii) Finančné investície oceňované v reálnej hodnote so zaevidovaním oceňovacích rozdielov do ostatného súhrnného
+zisku.
+
+Sú to všetky investície, ktoré sa pri prvotnom vykázaní zatriedia do tohto portfólia. Taktiež sa do tohto portfólia
+zatriedia tie finančné investície, ktoré nespĺňajú podmienky na zatriedenie do jednej z kategórie: CP AC, alebo
+pohľadávky voči bankám a pohľadávky voči klientom. Patria sem akciové nástroje, investície do fondov a na
+peňažných trhoch a iné dlhové nástroje.
+
+Po prvotnom vykázaní sa CP FVOCI oceňujú v reálnej hodnote. Nerealizované zisky a straty sa účtujú v ostatnom
+súhrnnom výsledku a ich kumulovaná hodnota sa vykazuje ako oceňovací rozdiel vo vlastnom imaní. Keď sa
+príslušné finančné aktívum predá, kumulatívne zisky alebo straty predtým vykázané vo vlastnom imaní sa
+
+                                                                          14
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+3. Významné účtovné zásady a účtovné metódy pokračovanie
+
+preúčtujú z ostatného súhrnného výsledku do položiek zisku alebo strát a vykážu sa samostatne ak sú významné
+alebo v prípade ich nevýznamného vplyvu sa zahrnú do položiek „ Ostatné výnosy“ alebo „Všeobecné
+prevádzkové náklady“. Ak spoločnosť vlastní viac než jeden kus rovnakého finančného aktíva, pri účtovaní
+úbytku daných investícií sa predpokladá že sa predávajú na báze FIFO (first in - first out). Úrokové výnosy získané
+z držby CP FVOCI sa vykážu pomocou efektívnej úrokovej miery ako výnosové úroky vo výkaze súhrnných
+ziskov a strát v položke „Úrokové výnosy“. Dividendy získané z držby finančných investícií sa vykazujú vo
+výkaze súhrnných ziskov a strát v položke „Ostatné výnosy“ v momente vzniku práva na úhradu a ak je
+pravdepodobné, že dôjde k úhrade dividendy. Straty vyplývajúce zo zníženia hodnoty takýchto investícií sa
+vykazujú vo výkaze súhrnných ziskov a strát v položke „Opravné položky“, pričom sa zároveň preúčtujú
+z ostatných súhrnných výsledkov a znížia oceňovací rozdiel z precenenia cenných papierov vykazovaný vo
+vlastnom imaní.
+
+Spoločnosť v sledovanom účtovnom období nevykazuje vo svojom portfóliu finančné aktíva POCI.
+
+(i) Peňažné prostriedky a ich ekvivalenty
+
+Peňažné prostriedky a ich ekvivalenty zahŕňajú pokladničnú hotovosť, voľné prostriedky na účtoch a vysoko
+likvidný finančný majetok s pôvodnou dobou splatnosti do troch mesiacov, ktoré nepodliehajú významnému riziku
+v zmene ich reálnej hodnoty a sú používané Spoločnosťou v riadení krátkodobých záväzkov.
+
+Peňažné prostriedky a ich ekvivalenty sú vykazované vo výkaze o finančnej situácii v nominálnej hodnote.
+
+(k) Pohľadávky
+
+Pohľadávky sú nederivátovým finančným majetkom s pevnými alebo stanoviteľnými splátkami, ktorých cena nie
+je stanovená aktívnym trhom a Spoločnosť ich nezamýšľa predať teraz alebo v blízkej budúcnosti.
+Pohľadávky sa prvotne vykazujú v reálnej hodnote spolu s priamo súvisiacimi transakčnými nákladmi a následne
+oceňujú v ich umorovanej hodnote použitím metódy efektívnej úrokovej miery.
+
+(l) Hmotný majetok
+
+(i) Vykazovanie a oceňovanie
+Zložky hmotného majetku sú oceňované v obstarávacej cene zníženej o oprávky a o straty zo znehodnotenia.
+
+Obstarávacie ceny zahŕňajú náklady, ktoré je možné priamo priradiť k obstaraniu daného majetku. Zakúpený
+softvér, ktorý je neoddeliteľnou súčasťou úžitkovej hodnoty súvisiaceho majetku, je vykázaný ako súčasť daného
+majetku.
+
+V prípade, že jednotlivé súčasti položky majetku majú rozdielnu dobu použiteľnosti, sú účtované ako hlavné
+komponenty majetku.
+
+(ii) Následné náklady
+Náklady na výmenu položky hmotného majetku sú vykazované v účtovnej hodnote tejto položky, ak je
+pravdepodobné, že budúce ekonomické úžitky spojené s danou položkou majetku budú plynúť do Spoločnosti
+a náklady je možné spoľahlivo merať. Náklady spojené s bežnou údržbou hmotného majetku sú vykázané
+vo výsledku hospodárenia v čase ich vzniku.
+
+(iii) Odpisovanie
+Odpisy sú vykazované vo výsledku hospodárenia na rovnomernej báze počas odhadovanej doby použiteľnosti
+každej položky hmotného a nehmotného majetku. Prenajatý majetok je odpisovaný počas doby nájmu, resp. doby
+použiteľnosti, a to podľa toho, ktorá je kratšia. Pozemky sa neodpisujú.
+
+Odhadovaná doba použiteľnosti zariadení a vybavenia pre bežné a predchádzajúce účtovné obdobie je 4 roky.
+
+Metódy odpisovania, doba použiteľnosti a zostatkové hodnoty sú prehodnocované ku dňu, ku ktorému sa zostavuje
+účtovná závierka.
+
+                                                                          15
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+3. Významné účtovné zásady a účtovné metódy pokračovanie
+
+(m) Zníženie hodnoty nefinančného majetku
+
+Účtovná hodnota nefinančného majetku Spoločnosti, iného ako odložená daňová pohľadávka, je prehodnotená ku
+dňu, ku ktorému sa zostavuje účtovná závierka s cieľom zistiť, či existuje náznak zníženia hodnoty majetku. Ak
+je zistený náznak zníženia hodnoty majetku, následne je odhadnutá suma, ktorú je možné z daného majetku získať.
+
+Strata zo zníženia hodnoty je vykázaná vtedy, ak účtovná hodnota majetku alebo jednotky generujúcej peňažné
+prostriedky prevyšuje jeho návratnú hodnotu. Jednotka generujúca peňažné prostriedky je najmenšia
+identifikovateľná skupina majetku, ktorá generuje peňažné príjmy, ktoré sú do veľkej miery nezávislé od ostatného
+majetku alebo skupín majetku.
+
+Straty zo zníženia hodnoty sa vykazujú priamo vo výkaze ziskov a strát. Straty zo zníženia hodnoty vykázané
+v súvislosti s jednotkami generujúcimi peňažné prostriedky sa v prvom rade vykážu ako zníženie účtovnej hodnoty
+goodwillu pripadajúceho na tieto jednotky a potom sa vykážu ako zníženie účtovnej hodnoty ostatného majetku
+v jednotke (skupine jednotiek) na pomernej báze.
+
+Suma, ktorú možno z daného majetku alebo jednotky získať a ktorá generuje peňažné prostriedky, je buď čistá
+predajná cena, alebo hodnota v používaní (value in use) jednotky, podľa toho, ktorá je vyššia. Pri hodnote
+v používaní sa odhad budúcich peňažných tokov diskontuje na ich súčasnú hodnotu pomocou diskontnej sadzby
+pred zdanením, ktorá odráža súčasné trhové ohodnotenie časovej hodnoty peňazí a rizík špecifických pre daný
+majetok.
+
+Straty zo zníženia hodnoty vykázané v predchádzajúcich obdobiach sú prehodnotené ku dňu, ku ktorému sa
+zostavuje účtovná závierka, či existuje náznak zníženia straty alebo toho, že už strata neexistuje.
+
+Strata zo zníženia hodnoty je odúčtovaná, keď nastala zmena v odhade použitom pri určení sumy, ktorú je možné
+z daného majetku získať. Zníženie hodnoty je odúčtované len do tej výšky, pokiaľ účtovná hodnota majetku
+nepresiahne jeho účtovnú hodnotu, ktorá by mu prislúchala po úprave o odpisy, keby zníženie hodnoty nebolo
+vykázané.
+
+(n) Rezervy
+
+Rezerva sa tvorí v prípade, ak existuje pre Spoločnosť právna alebo vecná povinnosť splniť záväzok, ktorý vyplýva
+z minulej udalosti, a ktorej dopad môže byť spoľahlivo odhadnutý a je pravdepodobné, že záväzok bude splnený
+a vyžiada si úbytok ekonomických úžitkov Spoločnosti. Rezervy sú vypočítané a vykázané v odhadovanej výške
+záväzku.
+
+(o) Finančné záväzky
+
+Finančný záväzok sa odúčtuje, keď je povinnosť daná záväzkom splnená, resp. zrušená alebo bola ukončená.
+V prípadoch, keď súčasný finančný záväzok nahradí iný záväzok od toho istého veriteľa za výrazne odlišných
+podmienok, resp. podmienky existujúceho finančného záväzku sa výrazne zmenia, najprv sa odúčtuje pôvodný
+záväzok, a potom sa zaúčtuje nový záväzok a rozdiel v príslušných účtovných hodnotách sa vykáže ako súčasť
+ziskov a strát.
+
+(p) Zamestnanecké požitky
+
+Spoločnosť poskytovala okrem platov a odmien iné nepeňažné benefity pre svojich zamestnancov. Platy, odmeny
+a ostatné benefity pre zamestnancov sú účtované do nákladov v čase, keď je súvisiaca služba poskytnutá.
+
+(q) Vykazovanie zverených prostriedkov na investovanie a aktív, ktoré má spoločnosť v správe
+
+Spoločnosť ako právny akcionár pôsobí v postavení správcu finančného aktíva. Spoločnosť drží akcie alebo
+podiely spoločností vo svojom mene na účet Slovenskej republiky zastúpenej jednotlivými ministerstvami. Tieto
+investované zverené finančné prostriedky sú evidované v podsúvahovej evidencii.
+Zverené finančné prostriedky prijaté od riadiacich organov, ktoré neboli do zostavenia účtovnej závierky
+investované sú účtované ako Ostatné záväzky (Poznámka 12). Sumy sú vykázané v zostatkovej hodnote.
+
+                                                                          16
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+3. Významné účtovné zásady a účtovné metódy pokračovanie
+
+(r) Štandardy a interpretácie platné v bežnom období
+
+Spoločnosť prijala všetky nové a revidované štandardy a interpretácie, ktoré vydala Rada pre medzinárodné
+účtovné štandardy (International Accounting Standards Board - IASB) a Výbor pre interpretáciu medzinárodných
+štandardov pre finančné výkazníctvo (International Financial Reporting Interpretations Committee - IFRIC) pri
+IASB, ktoré boli schválené na použitie v Európskej únii (ďalej len „EÚ“), a ktoré sa vzťahujú na jej činnosti a sú
+platné pre účtovné obdobia so začiatkom 1. januára 2019. Nasledujúce dodatky k existujúcim štandardom, ktoré
+vydala Rada pre medzinárodné účtovné štandardy a schválila EÚ, sú platné pre bežné účtovné obdobie:
+
+Prvé uplatnenie nových dodatkov k existujúcim štandardom platných pre bežné účtovné obdobie
+
+Nasledujúce dodatky k existujúcim štandardom, ktoré vydala Rada pre medzinárodné účtovné štandardy (IASB)
+a prijala EÚ, sú platné pre bežné účtovné obdobie:
+
+• Dodatky k IAS 1 „Klasifikácia záväzkov ako krátkodobých alebo dlhodobých“ a „Dlhodobé záväzky s
+     kovenantmi“ - Dodatky spresňujú kritériá na klasifikáciu záväzkov ako krátkodobých alebo dlhodobých.
+     Dodatky ďalej spresňujú, že pri klasifikácii záväzkov ako krátkodobých alebo dlhodobých sa berie do úvahy
+     dodržanie kovenantov na konci vykazovaného obdobia
+
+• Dodatky k IAS 7 a IFRS 7 „Schémy financovania dodávateľov“ - Nové požiadavky vyžadujú dodatočné
+     zverejnenia o schémach financovania dodávateľov.
+
+• Dodatky k IFRS 16 „Záväzok z lízingu pri transakcii predaja a spätného lízingu“ - Dodatky objasňujú, že
+     pri transakcii predaja a spätného lízingu musí predávajúci - nájomca naďalej vykazovať lízingový záväzok len za
+     časť aktíva, ktorú si ponecháva na užívanie.
+
+Uplatnenie dodatkov k existujúcim štandardom neviedlo k žiadnym významným zmenám v účtovnej závierke
+spoločnosti.
+
+Štandardy a dodatky k existujúcim štandardom vydané IASB a prijaté EÚ, ktoré zatiaľ nenadobudli
+účinnosť
+
+• Dodatky k IAS 21 „Nedostatok vymeniteľnosti“ - Nové usmernenia stanovujú kritériá na posúdenie, kedy
+     mena nie je vymeniteľná, a vyžadujú dodatočné zverejnenia.
+
+Spoločnosť očakáva, že prijatie tohto dodatku k existujúcim štandardom nebude mať významný vplyv na účtovnú
+závierku spoločnosti v období prvého uplatnenia.
+
+Nové štandardy a dodatky k existujúcim štandardom vydané IASB, ktoré EÚ zatiaľ neprijala
+
+• IFRS 19 „Dcérske spoločnosti bez verejnej zodpovednosti: Zverejnenia“ - Nový štandard umožňuje
+     dcérskym spoločnostiam, ktoré nemajú verejnú zodpovednosť, uplatňovať IFRS s výrazne zjednodušenými
+     požiadavkami na zverejňovanie.
+
+•
+• IFRS 18 „Prezentácia a zverejňovanie vo finančných výkazoch“ - Nový štandard prináša nové požiadavky na
+
+     štruktúru a obsah finančných výkazov
+•
+• Dodatky k IFRS 7 a IFRS 9 „Dodatky k klasifikácii a oceňovaniu finančných nástrojov“ - Dodatky
+
+     upravujú klasifikáciu a oceňovanie finančných nástrojov
+•
+• Dodatky k IFRS 1, IFRS 7, IFRS 9 a IFRS 10 „Ročné zlepšenia, zväzok 11“ - Zväzok 11 ročných zlepšení
+
+     zahŕňa sériu technických zmien a upresnení naprieč rôznymi štandardmi IFRS
+
+Spoločnosť očakáva, že prijatie týchto štandardov a dodatkov k existujúcim štandardom nebude mať významný
+vplyv na účtovnú závierku spoločnosti v období prvého uplatnenia.
+
+                                                                          17
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+4. Použitie odhadov a úsudkov
+
+Tieto vyhlásenia dopĺňajú komentár k riadeniu finančného rizika.
+
+Kľúčové zdroje neistoty v odhadoch
+
+Majetok zaúčtovaný v umorovanej hodnote je ocenený v súvislosti s prípadným znížením hodnoty na základe
+účtovných postupov popísaných v bode 3.
+
+Opravné položky na zníženie hodnoty pohľadávok
+Vedenie Spoločnosti posudzuje pohľadávky v súvislosti so znížením hodnoty individuálne na základe najlepšieho
+odhadu súčasnej hodnoty peňažných tokov, ktoré Spoločnosť očakáva. Pri odhadovaní týchto peňažných tokov robí
+manažment úsudky o finančnej situácii zmluvnej strany a o čistej predajnej cene zabezpečenia.
+
+Klasifikáciu finančného majetku a záväzkov
+
+Účtovné zásady a účtovné metódy Spoločnosti poskytujú rámec pre vykázanie majetku a záväzkov pri ich vzniku
+v rôznych účtovných kategóriách za určitých podmienok:
+
+• Pri zatriedení finančného majetku alebo záväzkov „v reálnej hodnote cez výkaz ziskov a strát“ manažment
+
+     rozhoduje o tom, či Spoločnosť spĺňa opis majetku a záväzkov definovaných v účtovných zásadách
+     a účtovných metódach, bod 3 (h) poznámok.
+
+• Pri zatriedení finančného majetku ako majetku „držaného do splatnosti“ manažment rozhoduje o tom, či
+
+     existuje zámer a zároveň schopnosť udržať tento finančný majetok do splatnosti ako požadujú účtové zásady
+     a účtovné metódy, bod 3 (h) poznámok.
+
+Určenie reálnych hodnôt
+
+Pohľadávky a ostatné pohľadávky
+Reálna hodnota pohľadávok a ostatných pohľadávok sa odhaduje ako súčasná hodnota budúcich peňažných tokov
+diskontovaná trhovou mierou platnou ku dňu, ku ktorému sa zostavuje účtovná závierka.
+
+Majetok a záväzky na obchodovanie a investície
+
+Reálna hodnota majetku na obchodovanie a investícií sa určuje ako trhová cena z aktívneho trhu alebo pomocou
+oceňovacích modelov so vstupom údajov pozorovateľných na trhu.
+
+Spoločnosť používa na zistenie a zverejnenie reálnej hodnoty finančných nástrojov nasledovné hierarchie metód:
+
+Úroveň 1: Kótovaná trhová cena z aktívnych trhov pre identické finančné nástroje.
+
+Úroveň 2:  Oceňovacie techniky postavené na priamo alebo nepriamo pozorovateľných trhových vstupoch. Do
+           tejto kategórie zaraďujeme kótovanú cenu podobného finančného nástroja z aktívneho, prípadne menej
+           aktívneho trhu a iné oceňovacie techniky, pri ktorých možno všetky dôležité vstupy získať z údajov
+           dostupných na trhu.
+
+Úroveň 3:  Oceňovacie techniky do veľkej miery postavené na nepozorovateľných vstupoch. Do tejto kategórie
+           zaraďujeme všetky finančné nástroje, ktorých oceňovacie techniky sa nezakladajú na pozorovateľných
+           vstupoch, a súčasne trhovo nepozorovateľné vstupy majú značný vplyv na ocenenie daného finančného
+           nástroja. Zaraďujeme sem tiež finančné nástroje ocenené pomocou trhovej ceny podobného finančného
+           nástroja, pri ktorom je nevyhnutné zohľadnenie trhovo nepozorovateľného vplyvu.
+
+                         18
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+5. Riadenie finančných rizík
+
+Riadenie rizika
+Spoločnosť je vystavená a riadi niekoľko druhov rizika a to hlavne: trhové riziko, úverové riziko, devízové riziko,
+riziko likvidity, úrokové riziko a operačné riziko.
+
+Predstavenstvo nesie zodpovednosť za celkové riadenie rizík. Na elimináciu rizík slúži okrem zákonných
+predpisov aj súbor interných predpisov Spoločnosti a to najmä smernica Stratégia riadenia rizika Slovak
+Investment Holding, a.s. a smernica Systém vnútornej kontroly.
+
+Regulačné požiadavky
+Spoločnosť dobrovoľne dodržiava regulačné požiadavky NBS. Patria medzi nich limity a obmedzenia týkajúce
+sa primeranosti vlastných zdrojov. Tieto požiadavky sa uplatňujú na všetky správcovské spoločnosti na Slovensku.
+
+Sumár týchto požiadaviek je nasledovný :
+
+• Základné imanie správcovskej spoločnosti je aspoň 125 000 eur.
+
+• Správcovská spoločnosť je povinná dodržiavať primeranosť vlastných zdrojov. Vlastné zdroje správcovskej
+    spoločnosti sú primerané podľa tohto zákona, ak nie sú nižšie ako:
+    a) 125 000 eur plus 0,02 % z hodnoty majetku v podielových fondoch alebo európskych fondoch
+          spravovaných správcovskou spoločnosťou prevyšujúcej 250 000 000 eur; táto suma sa ďalej nezvyšuje,
+          ak dosiahne 10 000 000 eur.
+
+    b) Jedna štvrtina priemerných všeobecných prevádzkových nákladov správcovskej spoločnosti
+          za predchádzajúci kalendárny rok; ak správcovská spoločnosť vznikla pred menej ako jedným rokom,
+          jedna štvrtina hodnoty všeobecných prevádzkových nákladov uvedených v jej obchodnom pláne.
+
+    c) Správcovská spoločnosť nesmie do majetku v štandardných podielových fondoch, ktoré spravuje, alebo
+          do svojho majetku, ak koná v spojení s akýmikoľvek podielovými fondmi, ktoré spravuje, nadobudnúť
+          viac ako 10 % súčtu menovitých hodnôt akcií s hlasovacím právom vydaných jedným emitentom.
+
+    d) Správcovská spoločnosť, konajúca v spojení so štandardnými podielovými fondmi, ktoré spravuje,
+          nesmie nadobúdať do majetku v štandardných podielových fondoch žiadne akcie s hlasovacím právom,
+          ktoré by jej umožňovali vykonávať významný vplyv na riadenie emitenta so sídlom na území Slovenskej
+          republiky alebo v nečlenskom štáte.
+
+    e) Správcovská spoločnosť je povinná dodržiavať obmedzenia na získavanie významného vplyvu na riadení
+          emitenta so sídlom v členskom štáte ustanovené právnymi predpismi tohto členského štátu, pričom sa
+          zoberie do úvahy aj majetok v štandardných podielových fondoch, ktoré spravuje.
+
+    f) Správcovská spoločnosť musí zabezpečovať minimalizáciu rizika poškodenia záujmov podielnikov
+          podielového fondu alebo európskeho fondu alebo jej klientov konfliktom záujmov medzi správcovskou
+          spoločnosťou a jej klientmi, medzi dvoma jej klientmi navzájom, medzi jedným z jej klientov
+          a podielnikmi podielového fondu alebo podielnikmi alebo podielnikmi európskeho fondu alebo medzi
+          podielnikmi podielových fondov a európskych fondov navzájom.
+
+Primeranosť vlastných zdrojov
+Po posúdení všetkých potenciálnych vplyvov COVID-u 19 na aktivity spoločnosť vyhodnotila, že vzhľadom na
+špecifickú podobu financovania neexistuje negatívny vplyv na likviditu Spoločnosti.
+
+                                                                          19
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+5. Riadenie finančných rizík pokračovanie                           2024             2023
+                                                              Hodnota          Hodnota
+  Limit počiatočného kapitálu v tisícoch eur              ukazovateľa      ukazovateľa
+
+                                                                 tis. eur         tis. eur
+
+                                                                     125              125
+
+Splatené základné imanie                                     300              300
+Emisné ážio                                                      -                -
+Nerozdelená strata/zisk minulých rokov
+Položky znižujúce hodnotu vlastných zdrojov               21 455           17 712
+Rezervný fond a ostatné fondy
+                                                               60           1 560
+Počiatočný kapitál celkom
+                                                          21 815           19 572
+
+Údaj o splnení limitu primeranosti vlastných zdrojov      17 452           15 657
+  správcovskou spoločnosťou v %
+
+Limit primeranosti vlastných zdrojov spoločnosti bol splnený na 17 452% v dôsledku základného imania
+spoločnosti, rezervného fondu a nerozdeleného zisku minulých rokov.
+
+Trhové riziko
+Trhové riziko sa často spája s globálnymi ekonomickými, politickými i sociálnymi javmi, ktoré majú
+bezprostredný dopad na ceny jednotlivých druhov aktív v majetku Spoločnosti.
+
+Po nákupe investície je trhové riziko posudzované pravidelne pri vyhodnocovaní aktuálnej ceny majetku fondu
+cez model citlivosti.
+
+Úverové (kreditné) riziko
+Úverové riziko zohľadňuje riziko, že zmluvná strana nedodrží svoje zmluvné záväzky, v dôsledku čoho
+Spoločnosť utrpí stratu. Spoločnosť prijala zásadu, že bude obchodovať len s dôveryhodnými zmluvnými
+partnermi a že podľa potreby musí získať dostatočné zabezpečenie ako prostriedok na zmiernenie rizika finančnej
+straty v dôsledku nedodržania záväzkov. Peňažné transakcie sa vykonávajú len prostredníctvom renomovaných
+finančných inštitúcií. Spoločnosť neobmedzila výšku otvorenej pozície voči žiadnej finančnej inštitúcii.
+
+Majetok na obchodovanie
+Spoločnosť minimalizuje úverové riziko pri obchodovaní s cennými papiermi tým, že uzavieranie obchodov sa
+uskutočňuje v súlade so zákonom tak, aby bola prevádzaná protihodnota v prospech majetku Spoločnosti na
+princípe platby oproti dodávke v lehotách obvyklých na regulovanom trhu.
+
+Pohľadávky
+Spoločnosti nevzniká úverové riziko z úverov a pôžičiek, nakoľko podľa Zákona č. 203/2011 Z. z. o kolektívnom
+investovaní v znení neskorších predpisov Spoločnosť neposkytuje úvery ani peňažné pôžičky s výnimkou pôžičiek
+ad hoc poskytovaným realitným spoločnostiam nepodnikateľským spôsobom na dočasné vykrytie cash-flow
+v súvislosti s očakávaným vrátením nadmerných odpočtov DPH.
+
+Devízové riziko
+Devízové riziko spočíva v tom, že hodnota investície môže byť ovplyvnená zmenou výmenných kurzov cudzích
+mien.
+
+                                                      20
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+5. Riadenie finančných rizík pokračovanie
+
+Riziko likvidity
+Spoločnosť definuje riziko likvidity ako možnosť straty na výnosoch a vlastných zdrojoch vyplývajúca z
+neschopnosti splniť svoje záväzky v čase ich splatnosti bez spôsobenia zbytočných strát. Riziko likvidity je určené
+zákonom o kolektívnom investovaní.
+
+Zostatková doba splatnosti finančného majetku a záväzkov k 31. decembru 2024 je v nasledujúcej tabuľke, v ktorej
+sú uvedené nediskontované peňažné toky v nadväznosti na ich najskoršiu zmluvnú splatnosť. Peňažné toky
+očakávané Spoločnosťou sa významne neodlišujú od tejto analýzy.
+
+                                                    3       1-5       Viac                  Nedis-    Účtovná
+                                  Do 3 mesiace           rokov       ako 5             kontované      hodnota
+                             mesiacov až 1 rok                       rokov          peňažné toky
+                                                            tis.                                       tis. Eur
+                               tis. eur tis. eur           Eur          tis.                tis. eur
+                                                                        eur
+
+Majetok                      29 988                   -           -              -  29 988            29 988
+                                                                                       374               374
+Peňažné prostriedky a ich               -             -           -  374
+  ekvivalenty                                                                        4 359             4 359
+                             4 359                    -           -              -
+Investície                                                                          34 721            34 721
+Ostatný majetok
+
+                             34 347                   -           -  374
+
+                                                   3                 Viac           Nedis-
+                                           mesiace
+                                  Do 3                      1-5      ako 5 kontované                  Účtovná
+                             mesiacov          až 1      rokov                                        hodnota
+                                                rok                  rokov peňažné toky
+                                                            tis.                                       tis. Eur
+                             tis. eur tis. eur             Eur       tis. eur       tis. eur
+
+Záväzky                      36                -         -                    -     36                36
+
+Záväzky z obchodného styku   -             96            -                    -     96                96
+Súčasná hodnota lízingových
+záväzkov                     -                 -         -                    -     -                 -
+Splatný daňový záväzok
+Ostatné záväzky              13 354            -         -                    -     13 354            13 354
+
+                             13 390        96            -                    -     13 486            13 486
+
+Účtovná jednotka neeviduje k 31. decembru 2024 žiadne záväzky po splatnosti.
+
+                                           21
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+5. Riadenie finančných rizík pokračovanie
+
+Zostatková doba splatnosti finančného majetku a záväzkov k 31. decembru 2023 je v nasledujúcej tabuľke,
+
+v ktorej sú uvedené nediskontované peňažné toky v nadväznosti na ich najskoršiu zmluvnú splatnosť. Peňažné
+
+toky očakávané Spoločnosťou sa významne neodlišujú od tejto analýzy.
+
+                                                                                     Nedis-
+
+                                                   3                            Viac kontované
+
+                             Do 3 mesiace                      1-5       ako 5 peňažné Účtovná
+
+                             mesiacov až 1 rok rokov rokov                           toky hodnota
+
+                             tis. eur tis. eur tis. eur tis. eur tis. eur tis. Eur
+
+Majetok
+
+Peňažné prostriedky a ich    46 954                -                  -         - 46 954        46 954
+  ekvivalenty
+                                                                                374  374        374
+Investície
+Ostatný majetok              446                   -                  -         -    446        446
+
+                             47 400                -                  -         374 47 774      47 774
+
+                                                3                        Viac        Nedis-
+                                        mesiace
+                                  Do 3                   1-5             ako 5 kontované        Účtovná
+                             mesiacov       až 1      rokov                                     hodnota
+                                             rok                         rokov peňažné toky
+                                                         tis.                                    tis. Eur
+                             tis. eur tis. eur          Eur           tis. eur       tis. eur
+
+Záväzky                      61            -          -                  -           61         61
+
+Záväzky z obchodného styku   24            73         97                 -           194        189
+Súčasná hodnota lízingových
+záväzkov                     127           -          -                  -           127        127
+Splatný daňový záväzok
+Ostatné záväzky              28 144                   -                  -           28 144     28 144
+
+                             28 356        73         97                 -           28 526     28 521
+
+Účtovná jednotka neevidovala k 31. decembru 2023 žiadne záväzky po splatnosti.
+
+Úrokové riziko
+Úrokové riziko spočíva v negatívnom vplyve zmien úrokových sadzieb na finančnom trhu. Ak dôjde k zmene
+úrokových sadzieb na trhu, automaticky to má dopad i na ceny cenných papierov. V prípade rastu úrokových
+sadzieb ceny cenných papierov klesajú, naopak, v prípade poklesu úrokových sadzieb ceny cenných papierov
+stúpajú. Tieto zmeny majú značný vplyv tak na emitenta cenných papierov, ako aj na investora.
+
+Operačné riziko
+Operačné riziko je riziko priamej alebo nepriamej straty vyplývajúcej zo širokého radu príčin spojených s procesmi
+v Spoločnosti, pracovníkmi, technológiou a infraštruktúrou a z externých faktorov okrem úverového, trhového
+rizika a rizika likvidity, ako sú napríklad riziká vyplývajúce z právnych a regulačných požiadaviek a všeobecne
+akceptovaných štandardov firemného správania. Operačné riziko vyplýva zo všetkých operácií Spoločnosti a
+ovplyvňuje všetky podnikateľské aktivity. Je riadené a monitorované v rámci kontrolných Spoločnosti.
+
+Cieľom Spoločnosti je riadiť operačné riziko a dosiahnuť rovnováhu medzi vyhnutím sa finančným stratám
+a poškodeniu reputácie Spoločnosti a celkovou nákladovou efektívnosťou a vyhnutím sa kontrolným procedúram
+zabraňujúcim iniciatíve a kreativite.
+
+                                                                          22
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+5. Riadenie finančných rizík pokračovanie
+
+Základným cieľom riadenia operačného rizika v Spoločnosti je zmierňovať, resp. obmedziť vznik strát z titulu
+operačného rizika, a tým zmierňovať negatívny vplyv operačného rizika na výsledok hospodárenia a vlastné zdroje
+Spoločnosti.
+
+Vzhľadom na rozsah aktivít počas roka 2024 nebolo operačné riziko významné.
+
+Právne riziko
+Súčasťou operačného rizika je aj právne riziko – strata vyplývajúca najmä z nevymožiteľnosti zmlúv, hrozby
+neúspešných súdnych konaní alebo rozsudkov s negatívnym vplyvom na Spoločnosť. V prostredí Spoločnosti je
+možné pod týmto rizikom rozumieť aj riziko sankcií zo strany regulátorov, ktoré sa môže spájať s rizikom
+poškodenia reputácie.
+
+Riziko protistrany
+Riziko protistrany spočíva v riziku, že protistrana transakcie nesplní svoje záväzky pre ich konečným
+vysporiadaním. Predstavenstvo Spoločnosti schvaľuje konkrétne protistrany.
+
+6. Peňažné prostriedky a ich ekvivalenty              2024      2023
+                                                    tis. eur  tis. eur
+Bežné účty v bankách
+Pokladničná hotovosť a ceniny                       29 988    46 954
+                                                                     -
+                                                    29 988
+                                                              46 954
+
+Zostatky na bežných účtoch má spoločnosť vo Všeobecnej úverovej banke, a.s., Bratislava, SZRB, a.s. Bratislava
+a v Štátnej pokladnici.
+
+7. Aktíva s právom na užívanie a lízingové záväzky
+
+Spoločnosť má v podnájme kancelárske priestory na adrese Grösslingová 44, Bratislava. Pri výpočte počiatočnej
+hodnoty práv na užívanie aktív a tiež záväzku z leasingu, spoločnosť použila nasledovné predpoklady:
+
+     • Diskontná sadzba – 2,9 %;
+     • Doba nájmu – 3 roky (od 1.1.2023 do 31.12.2025)
+
+Obstarávacia cena                                             Kancelárske
+                                                                  priestory
+                                                                     tis. eur
+
+K 1. januáru 2024                                             280
+
+Prírastky                                                               -
+
+Presuny                                                                 -
+
+Úbytky                                                                  -
+
+K 31. decembru 2024                                           280
+
+Oprávky
+
+                                          23
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+K 1. januáru 2024                         (94)
+Prírastky                                 (93)
+Presuny
+Úbytky                                        -
+                                              -
+K 31. decembru 2024
+                                         (187)
+
+Účtovná hodnota k 31. decembru 2024      93
+
+Účtovná hodnota k 31. decembru 2023      187
+
+8. Hmotný a nehmotný majetok              Zariadenie
+                                         a vybavenie
+Obstarávacia cena
+                                              tis. Eur
+K 1. januáru 2024
+Prírastky                                           205
+Presuny                                               47
+Úbytky                                                  -
+                                                     -12
+K 31. decembru 2024
+                                                    240
+K 1. januáru 2023
+Prírastky                                           203
+Presuny                                                  2
+Úbytky                                                   -
+                                                         -
+K 31. decembru 2023
+                                                    205
+Oprávky
+                                                  (199)
+K 1. januáru 2024                                    (8)
+Prírastky                                               -
+Presuny                                               12
+Úbytky
+                                                  (195)
+K 31. decembru 2024
+                                                  (183)
+K 1. januáru 2023                                   (16)
+Prírastky                                               -
+Presuny                                                 -
+Úbytky
+                                                  (199)
+K 31. decembru 2023
+
+                                     24
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+Účtovná hodnota k 31. decembru 2024                                                            45
+
+Účtovná hodnota k 31. decembru 2023                                                                      5
+
+Hmotný majetok je poistený pre prípad škôd spôsobených krádežou a živelnou pohromou do výšky 78 tis. eur
+(2023: 78 tis. eur).
+
+9. Odložená daňová pohľadávka
+
+Odložená daňová pohľadávka k 31. decembru 2024 a k 31. decembru 2023 sa týka týchto položiek:
+
+                                                          2024                                   2023
+                                                        tis. eur                               tis. eur
+
+Neuhradené záväzky                                      1                                      6
+Daňová strata
+Rezervy                                                                                                  -
+
+                                                        145                                    121
+
+                                                        146                                    127
+
+Odložená daňová pohľadávka je vypočítaná použitím sadzby dane z príjmov vo výške 24 %. Spoločnosť vykázala
+odloženú daňovú pohľadávku nakoľko v budúcnosti očakáva dostatočné zdaniteľné zisky na uplatnenie odloženej
+daňovej pohľadávky
+
+10. Investície
+
+                                                          2024                                    2023
+                                                        tis. eur                               tis. Eur
+
+Slovak asset management, správ. spol., a. s. (SAM)      338                                    338
+National Development Fund I., s.r.o. (NDF I)
+National Development Fund II., a.s. (NDF II)            4                                      4
+National Development Fund III., s.r.o. (NDF III)
+                                                        27                                     27
+
+                                                        5                                      5
+
+                                                        374                                    374
+
+Investícia SAM, predstavuje vklad do spoločnosti Slovak asset management, správ. spol., a. s., ktorá vznikla
+poskytnutím licencie NBS a následným zápisom do OR SR dňa 21.7.2018. Vlastné imanie ku dňu zápisu
+predstavovalo hodnotu 137,5 tis. EUR.
+Dňa 22.5.2019 Valné zhromaždenie rozhodlo o peňažnom vklade do spoločnosti Slovak asset management, správ.
+spol., a. s. až do celkovej výšky 200 tis. EUR. Dňa 10.6.2019 bolo realizovaný vklad do spoločnosti Slovak asset
+management, správ. spol., a. s. v sume 95 tis. EUR. Dňa 17.4.2020 bolo realizovaný vklad do spoločnosti Slovak
+asset management, správ. spol., a. s. v sume 105 tis. EUR.
+
+Dňa 15. januára 2020 bola podpísaná Zmluva o prevode obchodného podielu National Development Fund I.,
+s. r.o., na základe ktorej Slovak Investment Holding, a.s získal od Slovenskej záručnej a rozvojovej banky, a.s.
+0,004% podiel, v sume 3 851 EUR.
+
+Dňa 15. januára 2020 bola podpísaná Zmluva o prevode akcií National Development Fund II., a.s., na základe
+ktorej Slovak Investment Holding, a.s získal od Slovenskej záručnej a rozvojovej banky, a.s. 25 ks akcií, v sume
+27 000 EUR. Menovitá hodnota jednej akcie je 1 000 EUR.
+
+Dňa 01. decembra 2023 Spoločnosť získala 100% obchodný podiel v spoločnosti National Development Fund III.,
+s. r.o..
+
+                                                    25
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+11. Ostatný majetok                                       2024       2023
+                                                        tis. eur   tis. eur
+Pohľadávky, nie sú po splatnosti ani znehodnotené:
+Pohľadávky z obchodného styku                             4 009        407
+Ostatné pohľadávky                                           46         39
+Medzisúčet:
+Príjmy budúcich období                                    4 055        446
+                                                            304
+
+Ostatný majetok                                         4 359      446
+
+Pohľadávky z obchodného styku v roku 2024 predstavujú pohľadávky voči spoločnosti National Development
+Fund I., s.r.o., National Development Fund II., a.s. a Slovak Asset Management, správ. spol., a. s.
+Pohľadávky z obchodného styku v roku 2023 predstavujú pohľadávky voči spoločnosti National Development
+Fund I., s.r.o..
+
+12. Rezervy
+
+Spoločnosť v rokoch 2024 a 2023 netvorila rezervy.
+
+13. Ostatné záväzky                                        2024      2023
+                                                        tis. Eur   tis. eur
+Záväzok zo Zmlúv o financovaní
+Záväzky voči zamestnancom a poisťovniam                   12 354    27 184
+Iné záväzky                                                  931        903
+Výnosy budúcich období                                         69        56
+Náklady budúcich období                                                    -
+                                                          13 354           -
+
+                                                                    28 144
+
+V roku 2024 zverené finančné prostriedky prijaté od riadiacich orgánov, ktoré neboli do zostavenia účtovnej
+závierky investované sú účtované ako ostatné záväzky a vykázané v sume „Záväzok zo Zmlúv o financovaní”.
+Z čiastky 12 354 tis. EUR predstavuje, 1 365 tis. EUR záväzok zo zmluvy o financovaní Stredoeurópskeho fondu
+fondov (CEFoF) s Ministerstvom financií SR, 5 558 tis. EUR záväzok zo zmluvy o financovaní Venture to Future
+Fund uzavretej s Ministerstvom financií SR a 5 431 tis. EUR záväzok zo zmluvy o financovaní Venture to Future
+Fund uzavretej s Úrad vlády zo zdrojov z plánu obnovy.
+
+V roku 2023 zverené finančné prostriedky prijaté od riadiacich orgánov, ktoré neboli do zostavenia účtovnej
+závierky investované sú účtované ako ostatné záväzky a vykázané v sume „Záväzok zo Zmlúv o financovaní”.
+Z čiastky 27 184 tis. EUR predstavuje, 1 676 tis. EUR záväzok zo zmluvy o financovaní Stredoeurópskeho fondu
+fondov (CEFoF) s Ministerstvom financií SR, 10 175 tis. EUR záväzok zo zmluvy o financovaní Venture to
+Future Fund uzavretej s Ministerstvom financií SR a 15 332 tis. EUR záväzok zo zmluvy o financovaní Venture
+to Future Fund uzavretej s Úrad vlády zo zdrojov z plánu obnovy.
+
+Na základe uznesenia vlády Slovenskej republiky č. 736/2013 zo dňa 18. decembra 2013 bol schválený Postup
+implementácie finančných zdrojov cez Slovak Investment Holding, a.s. v programovom období 2014 – 2020, do
+ktorého bude vyčlenená minimálna alokácie vo výške 3% z každého operačného programu, (s výnimkou
+operačných programov pre cieľ európske územnej spolupráce).
+
+                                                    26
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+Spoločnosť podpísala s Ministerstvom dopravy, výstavby a regionálneho rozvoja SR, s Ministerstvom životného
+prostredia SR, Ministerstvom práce, sociálnych vecí a rodiny SR, s Ministerstvom pôdohospodárstva a rozvoja
+vidieka SR, s Ministerstvom vnútra SR („Ministerstvá“) a so spoločnosťou National Development Fund II., a.s.
+(pôvodne Slovak Investment Holding, a.s.) Zmluvy o financovaní, na základe ktorých jej Ministerstvá zverili
+prostriedky, ktoré boli následne investované do spoločnosti National Development Fund II., a.s. (pôvodne Slovak
+Investment Holding, a.s.). Spoločnosť bola poverená ich správou a jej úlohou je zabezpečiť, aby boli použité
+výlučne v súlade s investičnou stratégiou za čo jej náleží odmena.
+
+Pohyby na účte sociálneho fondu boli počas roka nasledovné:    2024       2023
+                                                             tis. eur  tis. Eur
+K začiatku účtovného obdobia
+Tvorba                                                            10           9
+Čerpanie                                                          10           9
+K 31. decembru                                                     -9         -8
+
+                                                                  11         10
+
+14. Základné imanie                                            2024       2023
+                                                             tis. eur  tis. Eur
+ Základné imanie upísané a splatené v plnej výške:
+ K začiatku účtovného obdobia                                    300        300
+
+K 31. decembru                                               300                                       300
+
+Upísané a splatené základné imanie k 31. decembru 2024 pozostáva z 300 kmeňových akcií v nominálnej hodnote
+1 000 eur za akciu. Držitelia kmeňových akcií disponujú hlasovacím právom vo výške jedného hlasu na kmeňovú
+akciu.
+
+Základné imanie spoločnosti bolo dňa 1. mája 2014 zapísané do obchodného registra v sume 300 000 eur.
+
+                                                               2024       2023
+                                                             tis. eur  tis. Eur
+
+Zisk/Strata po zdanení                                       4 171                                     5 218
+Počet akcií                                                    300                                       300
+
+Základná/zriedená strata/zisk na akciu v eur                 13 903    17 393
+
+                                                    27
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+15. Rezervné fondy a nerozdelený zisk
+
+K 1. januáru 2024                         Zisk za      Zákonný                   Ostatné       Spolu
+Vyplatenie ostatných kapitálových fondov  účtovné      rezervný                kapitálov     tis. Eur
+Vyplatenie dividend + tantiémy            obdobie
+Zisk za rok 2024                           tis. eur         fond                 é fondy       19 272
+                                                         tis. eur                 tis. eur      -1 500
+                                             17 712
+                                                                 60                  1 500        -427
+                                               -427                                 -1 500      4 171
+                                              4 171
+
+K 31. decembru 2024                           21 456                       60            0   21 516
+
+                                          Zisk za      Zákonný                    Ostatné      Spolu
+                                          účtovné      rezervný                kapitálové    tis. Eur
+                                          obdobie
+                                                            fond                     fondy
+                                           tis. eur
+                                                         tis. eur                  tis. eur
+
+K 1. januáru 2023                             12 900                       60  1 500         14 460
+Vyplatenie dividend + tantiémy                   -406
+Zisk za rok 2023                                                                             -406
+                                               5 218
+K 31. decembru 2023                                                                          5 218
+                                              17 712
+                                                                           60  1 500         19 272
+
+Držitelia kmeňových akcií majú nárok na dividendy vtedy, ak sú vyhlásené.
+
+(a) Zákonný rezervný fond
+Zákonný rezervný fond bol vytvorený pri vzniku Spoločnosti vkladom akcionárov do výšky 10 % zo základného
+imania v zmysle Stanov Spoločnosti.
+
+Na základe rozhodnutia VZ bol zisk za účtovné obdobie roku 2023 rozdelený dňa 30.4.2024 nasledovne: vyplatená
+dividenda vo výške 340 tis. EUR a vyplatenie tantiém vo výške 87 tis. EUR. Suma 4 791 tis. EUR bola prevedená
+do Nerozdeleného zisku minulých období.
+
+Návrh na rozdelenie zisku za účtovné obdobie roku 2024 je nasledovný, vyplatenie dividendy vo výške
+3 390 tis. EUR a vyplatenie tantiém vo výške 90 tis. EUR. Suma 691 tis. EUR bude prevedená do Nerozdeleného
+zisku minulých období.
+
+16. Čisté výnosy z poplatkov a provízií
+
+Spoločnosť dosiahla poplatky zo správy spoločností National Development Fund II., a.s. (predtým Slovak
+Investment Holding, a.s.) a National Development Fund I., s. r. o. (predtým Slovenský záručný a rozvojový fond,
+s.r.o.) :
+
+                                                                                 2024           2023
+                                                                               tis. eur      tis. Eur
+
+National Development Fund III., s. r. o.                                         304               -
+National Development Fund II., a.s.                                            7 297         9 018
+National Development Fund I., s. r. o.
+                                                                                 623           637
+
+                                                                               8 224         9 655
+
+                                          28
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+17. Čisté výnosové úroky                 2024      2023
+                                      tis. Eur  tis. Eur
+Čisté výnosové úroky
+                                           488       437
+
+                                           488       437
+
+Čisté výnosové úroky predstavujú úroky z bežných účtov a termínovaných vkladov vo Všeobecnej úverovej
+banke, a.s., Bratislava, a v Štátnej pokladnici.
+.
+
+18. Ostatné výnosy
+
+                                         2024      2023
+                                      tis. Eur  tis. Eur
+
+Ostatné výnosy                        126       42
+
+                                      126       42
+
+Ostatné výnosy v roku 2024 predstavujú fakturované a preplatené náklady na due dilligence a externé poradenstvo,
+ktoré Spoločnosť vynaložila v procese realizácie „priamych“ ekvitných investícií v sume 72 tis. EUR a výnosy
+z poskutnutých služieb pre spoločnosť SAM v sume 54 tis. EUR.
+
+Ostatné výnosy v roku 2023 predstavujú výnosy z poskutnutých služieb pre spoločnosť SAM v sume 42 tis. EUR.
+
+19. Osobné náklady                      2024      2023
+                                      tis. eur  tis. eur
+Mzdové náklady (vrátane bonusov)
+Sociálne poistenie                      2 119     2 007
+                                          855       758
+
+                                        2 974     2 765
+
+                                  29
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+20. Všeobecné administratívne náklady
+
+                                                               2024      2023
+                                                            tis. Eur   tis. eur
+
+Nájomné                                                     75         60
+Právne poradenstvo
+Cestovné náklady, tréningy, nábor zamestnancov              54         74
+Marketingové náklady a reklama
+Telefónne poplatky a iná komunikácie                        53         37
+Materiálové náklady
+Audítorské služby                                           41         48
+Školenia
+IT služby                                                   26         27
+DPH koeficient
+Leasing dopravných prostriedkov                             5          6
+Transakčné, finančné, daňové poradenstvo
+Ostatné služby                                              26         24
+
+                                                            8          12
+
+                                                            88         82
+
+                                                            66         95
+
+                                                            9          18
+
+                                                            10         107
+
+                                                            52         64
+
+                                                            513        654
+
+V roku 2024 je položka nájomné znížená o 93 tis. EUR z dôvodu aplikovania IFRS 16 na nájom pôvodne končiaci
+31.12.2022, predĺžený do 31.12.2025. Do roku 2022 bol nájom považovaný za krátkodobý a nájomné bolo
+vykazované v rámci všeobecných administratívnych nákladov, v roku 2024 sa do nákladov dostáva cez odpisy.
+
+V roku 2023 je položka nájomné znížená o 97 tis. EUR z dôvodu aplikovania IFRS 16 na nájom pôvodne končiaci
+31.12.2022, predĺžený do 31.12.2025. Do roku 2022 bol nájom považovaný za krátkodobý a nájomné bolo
+vykazované v rámci všeobecných administratívnych nákladov, v roku 2023 sa do nákladov dostáva cez odpisy.
+
+Spoločnosť využíva služby audítorskej spoločnosti Forvis Mazars Slovensko s.r.o. na overenie individuálnej
+účtovnej závierky za obdobie končiace sa 31. decembra 2024 (Mazars Slovensko, s.r.o. do júla 2024). Forvis
+Mazars Slovensko s.r.o. neposkytoval Spoločnosti iné služby. Položka „Audítorské služby“ zahŕňa sumu za audit
+Spoločnosti a National Development Fund II., a.s..
+
+K 31. decembru 2024 bol fyzický stav zamestnancov (na plný pracovný úväzok) 43 (2023: 43) z toho 3 vedúci.
+Priemerný počet zamestnancov bol 40,2 (2023: 41).
+
+21. Daň z príjmov                                             2024       2023
+                                                            tis. eur   tis. eur
+Štruktúra dane z príjmu:
+                                                              1 098      1 408
+Vykázaná vo výkaze ziskov a strát                                (19)      (28)
+Splatná daň z príjmov v bežnom období
+Odložená daň (bod 8 poznámok)                               (1 079)    (1 380)
+
+Daň z príjmov celkom
+Pre výpočet odloženej dane sa aplikovala 24 % sadzba dane.
+
+                                                30
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+Daň zo zisku pred zdanením sa odlišuje od teoretickej dane, ktorá by vyplynula pri použití platnej sadzby dane
+z príjmov:
+
+Zisk pred zdanením                                                       2024                2023
+Teoretická daň vyčíslená pri sadzbe dane 21 % (2023: 21 %)             tis. eur             tis. eur
+Neodpočítateľné náklady – daňový efekt
+Nezdaniteľné príjmy – daňový efekt                                       5 250                6 598
+Celkom                                                                 (1 103)              (1 386)
+
+                                                                               5               (22)
+                                                                       (1 098)
+                                                                                            (1 408)
+
+Výpočet základu dane z príjmov právnických osôb k 31. decembru 2024 a k 31. decembru 2023:
+
+Strata/Zisk pred zdanením                                                2024                2023
++ Položky, ktoré nie sú daňovými výdavkami                             tis. Eur             tis. eur
+- Položky nezahrňované do základu dane, znižujúce hosp. výsledok pred
+                                                                         5 250                6 598
+   zdanením                                                                 630                 599
+Základ dane alebo daňová strata                                                                 888
+Odpočet daňovej straty                                                   1 093
+Základ dane znížený o položky odpočítateľné od základu dane                                   6 309
+Sadzba dane podľa § 15 (v %) zákona o dani z príjmov                     4 787                     -
+Daň
+Zrážková daň z úrokov                                                        21                  21
+Daň z príjmov právnických osôb                                         (1 005)              (1 329)
+
+                                                                           (93)                (83)
+                                                                       (1 098)              (1 408)
+
+22. Transakcie so spriaznenými stranami
+
+Za spriaznené osoby sa považujú subjekty, ktoré majú kontrolu nad Spoločnosťou alebo Spoločnosť nad nimi,
+alebo ak má jedna strana rozhodujúci vplyv na druhú stranu pri rozhodovaní o finančnej a prevádzkovej činnosti.
+Spoločnosť má vzťahy so spriaznenými osobami, a to s akcionárom a členmi vrcholového manažmentu.
+
+Transakcie s nasledujúcimi spriaznenými stranami sa uskutočnili na základe obvyklých obchodných podmienok.
+
+a) Akcionár
+
+(Slovenská záručná a rozvojová banka, a.s.)
+
+Majetok                                                                  2024                 2023
+Bežný účet v banke                                                     tis. eur             tis. eur
+
+                                                                              5                    5
+
+Poskytnuté preddavky                                                             15         11
+
+Záväzky                                                                           2         2
+Ochrana budovy
+Rezerva na služby spojené s nájmom                                               15         11
+Rezerva (refakturácia nákladov za audit)
+                                                                                 26         24
+
+                                          31
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+Transakcie s akcionárom:                             134        117
+Nájomné nebytových priestorov a nábytku
+Služby spojené s nájmom+strážna služba               23         23
+Audit
+                                                     26         24
+b) National Development Fund III., s.r.o.
+                                                        2024      2023
+Majetok                                              tis. Eur   tis. eur
+Investície
+Príjmy budúcich období                                       5         5
+                                                          304          -
+Výnosy
+Výnosy za správu                                          304          -
+c) National Development Fund II., a.s.
+                                                        2024      2023
+Majetok                                              tis. Eur   tis. eur
+Investície
+Pohľadávky z obchodného styku                              27        27
+Záväzky                                                3 610           -
+Dodávatelia
+                                                             -         2
+Výnosy
+Výnosy za správu                                       7 297      9 018
+d) National Development Fund I., s. r. o.
+                                                        2024      2023
+Investície                                           tis. Eur   tis. eur
+Pohľadávky
+                                                             4         4
+Výnosy                                                    399       406
+Výnosy za správu
+                                                          623       637
+
+e) Slovak Asset Management, správ. spol., a. s.         2024      2023
+                                                     tis. Eur   tis. eur
+Investície
+Pohľadávky                                                338       338
+Výnosy                                                       -         -
+Výnosy za služby
+                                                           54        44
+
+                                                 32
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+    f) Centrálny depozitár cenných papierov SR         2024     2023
+Záväzky                                             tis. Eur  tis. eur
+Záväzky z obchodného styku
+                                                          19       19
+
+Náklady                                                2024     2023
+Poplatky za správu a vedenie účtu                   tis. Eur  tis. eur
+
+    g) Daňový úrad SR                                     17       17
+
+Pohľadávky                                            2024       2023
+Daňové pohľadávky                                   tis. eur  tis. eur
+Záväzky
+Daňové záväzky                                          264           -
+
+                                                      2024       2023
+                                                    tis. eur  tis. Eur
+
+                                                           -       156
+
+    h) Ministerstvá                                   2024       2023
+                                                    tis. eur  tis. Eur
+Záväzok zo Zmlúv o financovaní                                 11 852
+                                                      6 923    15 332
+Ministerstvo financií                                 5 430
+Úrad vlády (plán obnovy)
+
+i) Členovia vrcholového manažmentu Spoločnosti
+
+Hodnota vyplatených peňažných a nepeňažných príjmov riadiacich pracovníkov k 31. decembru bola nasledovná:
+
+                                                    2024      2023
+
+                                                    tis. eur  tis. Eur
+
+Peňažné príjmy                                      346       351
+Nepeňažné príjmy
+                                                    -         -
+
+                                                    351       351
+
+23. Reálne hodnoty
+
+Reálna hodnota je cena, ktorá by sa získala za predaj aktíva alebo by bola zaplatená za prevod záväzku pri riadnej
+transakcii medzi účastníkmi trhu k dátumu ocenenia. Ak sú k dispozícii trhové ceny (v tomto prípade najmä pri
+cenných papieroch, s ktorými sa obchoduje na burze cenných papierov a na fungujúcich trhoch), odhad reálnej
+hodnoty sa vypracuje na základe trhových cien. Všetky ostatné finančné nástroje sa oceňovali na základe
+vnútorných oceňovacích modelov vrátane modelov súčasnej hodnoty, alebo sa využil posudok externého znalca.
+
+                                                33
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+Reálne hodnoty spolu s ich účtovnými hodnotami finančných nástrojov sú zverejnené v nasledujúcej tabuľke:
+
+Finančný majetok                       Účtovná     Reálna    Účtovná     Reálna
+                                       hodnota    hodnota    hodnota    hodnota
+
+                                           2024       2024       2023       2023
+                                        tis. eur   tis. eur   tis. eur   tis. eur
+
+Peňažné prostriedky a ich ekvivalenty  29 988     29 988     46 954     46 954
+Investície                                374        374        374        374
+Ostatný majetok                                                 446        446
+                                        4 359      4 359
+
+Finančné záväzky                       Účtovná     Reálna    Účtovná     Reálna
+                                       hodnota    hodnota    hodnota    hodnota
+
+                                           2024       2024       2023       2023
+                                        tis. eur   tis. eur   tis. eur   tis. Eur
+
+Záväzky z obchodného styku                  36         36         61         61
+Ostatné záväzky                        13 354     13 354     28 144     28 144
+
+Pri odhade reálnych hodnôt finančného majetku Spoločnosti boli použité nasledovné metódy a predpoklady:
+
+Peňažné prostriedky a ich ekvivalenty
+
+Reálne hodnoty zostatkov bežných účtov sa približne rovnajú ich účtovnej hodnote. Pri účtoch, ktoré majú
+zostatkovú dobu splatnosti kratšiu ako tri mesiace, je vhodné považovať ich účtovnú hodnotu za približnú reálnu
+hodnotu.
+
+Investície
+Investície do dcérskych spoločností boli ocenené obstarávacími nákladmi po zohľadnení posúdenia rizík
+vplývajúcich na znehodnotenie majetku dcérskych spoločností.
+
+Ostatný majetok
+Pohľadávky sa uvádzajú v netto hodnote, t. j. po odpočítaní opravných položiek. Pri účtoch, ktoré majú zostatkovú
+dobu splatnosti kratšiu ako tri mesiace, je vhodné pokladať ich účtovnú hodnotu za približnú reálnu hodnotu.
+Reálne hodnoty ostatných pohľadávok voči klientom sa vypočítajú diskontovaním budúcich peňažných tokov
+použitím bežných trhových sadzieb a odhadovaných rizikových marží.
+
+Záväzky z obchodného styku a ostatné záväzky
+Odhadované reálna hodnota záväzkov sa približuje k ich účtovnej hodnote. Reálna hodnota pri záväzkoch so
+zostatkovou dobou splatnosti viac ako tri mesiace je sa odhaduje pomocou diskontovania ich budúcich
+očakávaných peňažných tokov pri použití bezrizikovej úrokovej krivky. Spoločnosť nevlastní záväzky so
+zostatkovou dobou splatnosti viac ako tri mesiace.
+
+Prijaté úvery
+Reálne hodnoty prijatých úverov sa vypočítajú diskontovaním budúcich peňažných tokov použitím platných
+medzibankových sadzieb. Pri prijatých úveroch, ktoré majú zostatkovú dobu splatnosti kratšiu ako tri mesiace, je
+vhodné pokladať ich účtovnú hodnotu za približnú reálnu hodnotu.
+
+                                       34
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+24. Podmienené aktíva a záväzky
+
+V priebehu účtovného obdobia 2024 Spoločnosť neevidovala podmienené aktíva a podmienené záväzky.
+
+Vzhľadom na to, že mnohé oblasti slovenského daňového práva doteraz neboli dostatočne overené praxou, existuje
+neistota v tom, ako ich budú daňové orgány aplikovať. Mieru tejto neistoty nie je možné kvantifikovať a zanikne
+až potom, keď budú k dispozícii právne precedensy, prípadne oficiálne interpretácie príslušných orgánov. Vedenie
+Spoločnosti si nie je vedomé žiadnych okolností, v dôsledku ktorých by jej vznikol významný náklad.
+
+25. Podsúvahové položky
+
+Spoločnosť nezahŕňa do konsolidovanej skupiny Slovak Investment Holding, a. s. dcérske spoločnosti National
+Development Fund I., s. r. o. (,,NDF I“) a National Development Fund II., a.s. (,,NDF II”) z dôvodu
+nevykonávania kontroly nad týmito spoločnosťami. National Development Fund II., a.s. (,,NDF II”) a National
+Development Fund I., s. r. o. (,,NDF I“) predstavujú dcérske spoločnosti ale investovanie do nich sa riadi
+osobitnými zmluvami na základe ktorých, Spoločnosť nepreberá výhody a nenesie riziká za investované
+prostriedky. Na základe tohto posúdenia nie sú uvedené spoločnosti považované za spoločnosti kontrolované
+Spoločnosťou, a Spoločnosť ich vykazuje v podsúvahovej evidencii.
+
+Spoločnosť Slovak Asset Management, správ. spol., a. s. nespĺňa kritéria pre konsolidáciu – viď nižšie
+Spoločnosť National Development Fund III., s. r. o. (,,NDF III“) nespĺňa kritéria pre konsolidáciu – viď nižšie
+
+Spoločnosť uplatňuje oslobodenie z konsolidácie podľa § 22 odsek (8) Zákona o účtovníctve podľa ktorého na
+materskú účtovnú jednotku, ktorá je zároveň dcérskou účtovnou jednotkou a jej materská účtovná jednotka
+podlieha právu niektorého členského štátu, sa nevzťahuje povinnosť zostaviť konsolidovanú účtovnú závierku a
+konsolidovanú výročnú správu.
+
+Spoločnosť má podiel na základnom imaní v spoločnosti National Development Fund II., a.s. („NDF II“) so
+sídlom Bratislava, Grösslingová 44, Slovensko, ktorá bola založená podpisom zakladateľskej listiny dňa 7. apríla
+2014 jediným zakladateľom – Slovenskou záručnou a rozvojovou bankou, a.s. a následne zapísaná dňa 26. apríla
+2014 do obchodného registra vedeného Okresným súdom Bratislava I, oddiel: Sa, vložka č. 5948/B, ktorý je
+zároveň dňom jej vzniku. V priebehu roka 2024 došlo k zníženiu základného imania spoločnosti. Celková výška
+základného imania NDF II k 31. decembru 2024 je 288 737 tis. EUR (2023: 299 376 tis. EUR). Dňa 15. januára
+2020 Spoločnosť odkúpila 0,007% obchodného podielu od SZRB, ktorý vlastní vo vlastnom mene a na vlastný
+účet. Hlavným predmetom činnosti NDF II je zhromažďovanie peňažných prostriedkov od investorov s cieľom
+investovať ich v súlade s určenou investičnou politikou.
+
+Spoločnosť má podiel v National Development Fund I., s. r. o., („NDF I“) so sídlom Bratislava, Grösslingová
+44, Slovensko, ktorý bol založený podpisom zakladateľskej listiny dňa 10. marca 2009 jediným spoločníkom –
+Slovenskou záručnou a rozvojovou bankou, a.s (“SZRB”). a následne zapísaný dňa 21. marca 2009 do obchodného
+registra vedeného Okresným súdom Bratislava I, oddiel: Sro, vložka č. 57505/B, ktorý je zároveň dňom jeho
+vzniku. Dňa 12. januára 2011 sa Európsky investičný fond („EIF“) stal spoločníkom v NDF I. Od 1. januára 2016
+sa Spoločnosť stala spoločníkom v spoločnosti a nahradila EIF. Dňa 15. januára 2020 Spoločnosť odkúpila
+0,004% obchodného podielu od SZRB, ktorý vlastní vo vlastnom mene a na vlastný účet. Celková výška
+základného imania NDF I k 31. decembru 2024 je 107 973 tis. EUR (2023: 107 973 tis. EUR).
+
+                                                                          35
+Slovak Investment Holding, a. s.
+Poznámky k individuálnej účtovnej závierke za rok, ktorý sa skončil 31. decembra 2024
+
+Prehľad podsúvahových položiek podľa hodnoty aktív v správe investovaných v spoločnosti National
+Development Fund III., s.r.o. podľa ministerstiev a operačných programov:
+
+Ministerstvo práce                                            2024       2023
+                                                          tis. EUR   tis. EUR
+Úrad vlády SR
+                                                           18 303             -
+-=                                                         28 000             -
+SPOLU
+                                                           46 303             -
+
+Prehľad podsúvahových položiek podľa hodnoty aktív v správe investovaných v spoločnosti National
+Development Fund II., a.s. podľa ministerstiev a operačných programov:
+
+Ministerstvo dopravy, výstavby a reg. rozvoja (OPII)          2024       2023
+                                                          tis. EUR   tis. EUR
+
+                                                           95 525      95 525
+
+Ministerstvo pôdohospodárstva a rozvoja vidieka (IROP)    143 468    143 468
+
+Ministerstvo hospodárstva (RO MD)                         825 471    825 471
+
+Ministerstvo životného prostredia (OP KŽP)                141 338    141 338
+
+Ministerstvo vnútra                                       48 865     48 865
+
+Ministerstvo práce                                        41 751     42 801
+
+Úrad vlády SR                                             5 000                                     -
+
+SPOLU                                                     1 301 405  1 297 467
+
+Prehľad podsúvahových položiek podľa hodnoty aktív v správe investovaných v spoločnosti v National
+Development Fund I., s. r. o. podľa ministerstiev a operačných programov:
+
+Ministerstvo financií                                         2024       2023
+                                                          tis. EUR   tis. EUR
+                                                          107 973     107 973
+
+SPOLU                                                     107 973    107 973
+
+26. Udalosti, ktoré nastali po dni, ku ktorému sa účtovná závierka zostavuje
+
+Po 31. decembri 2024 a do dňa zostavenia účtovnej závierky nenastali žiadne udalosti, ktoré by významným
+spôsobom ovplyvnili aktíva a pasíva spoločnosti, okrem tých, ktoré sú uvedené vyššie a ktoré sú výsledkom bežnej
+činnosti.
+
+                                                      36
+

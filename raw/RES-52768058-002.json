@@ -1,0 +1,20 @@
+{
+  "updated": "2026-10-08",
+  "institutions": [
+    {
+      "id": "52768058",
+      "name": "ZGC Fund I., s.r.o.",
+      "address": "Staromestská 7830/3, 811 03 Staromestská 7830/3 Bratislava - mestská časť Staré Mesto",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2020-02-13",
+          "parent_entity_id": "52651894",
+          "parent_entity_name": "Zero Gravity Capital s.r.o."
+        }
+      ]
+    }
+  ]
+}

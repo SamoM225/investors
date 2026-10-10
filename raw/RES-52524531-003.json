@@ -1,0 +1,33 @@
+{
+ "updated": "2026-10-08",
+ "institutions": [
+  {
+   "id": "52524531",
+   "name": "CB Investment Management s. r. o.",
+   "address": "Staromestská 3, 81103 Bratislava",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný správca alternatívnych investičných fondov",
+     "licenses": [],
+     "valid_from": "2019-08-20"
+    }
+   ]
+  },
+  {
+   "id": "52656136",
+   "name": "CB Growth ONE s. r. o.",
+   "address": "Staromestská 3, 81103 Bratislava - mestská časť Staré Mesto",
+   "country": "SK",
+   "licenses": [
+    {
+     "scope": "registrovaný alternatívny investičný fond",
+     "licenses": [],
+     "valid_from": "2019-08-20",
+     "parent_entity_id": "52524531",
+     "parent_entity_name": "CB Investment Management s. r. o."
+    }
+   ]
+  }
+ ]
+}

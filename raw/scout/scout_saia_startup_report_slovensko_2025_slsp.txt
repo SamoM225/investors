@@ -1,0 +1,940 @@
+ Startup Report
+Slovensko 2025
+
+                         prinásajú
+Ako prebiehal                                                                  Obsah
+
+zber dát                                                                       AKÉ SÚ SLOVENSKÉ STARTUPY?    5
+
+Emailom a na profiloch Startup Awards Slovensko, spolocnosti Civitta, Slo-     AKO FUNGUJE ICH BIZNIS?       9
+venskej sporitene, Seed Startera ci regionálnych inovacných centier sme
+oslovili priblizne 600 zástupcov startupovej komunity. Do sírenia sa zapojili  KTO SÚ FOUNDERI?              17
+aj ambasádori prieskumu ­ napríklad Michaela Sisková (Diagnose.me),
+Michal Nespor (Crowdberry), Michal Mesko (Martinus) alebo Martin Basila        STARTUPY A KAPITÁL            21
+(Sensoneo).
+                                                                               PRÁCA V STARTUPOCH            28
+Celkovo sme získali odpovede
+                                                                               PODPORA PRE STARTUPY          33
+od 183 startupov
+a 41 investorov                                                                AKÍ SÚ SLOVENSKÍ INVESTORI?   38
+
+Zber dát prebiehal                                                             CO ALEJ? 7 NASICH ODPORÚCANÍ  46
+
+od 28. apríla
+do 26. mája 2025
+EDITORIÁL
+
+V Civitte uz roky pracujeme so startupmi ­
+sprevádzame ich od prvých nápadov cez
+akceleracné programy az po expanziu
+na zahranicné trhy.
+
+Pocas týchto rokov nám chýbal jeden dôlezitý nástroj: pravidel-   z celkového poctu founderov tvoria len 15 %. To ukazuje,
+ný report, ktorý by ukázal, ako sa nás startupový ekosystém       ze diverzita je stále obrovskou výzvou. Pribudli anjelskí
+mení a vyvíja v case. Pred rokom sme od násho dlhorocného         investori, no 6 z 10 z nich hovorí, ze startupov na investo-
+partnera, Slovenskej sporitene, ktorá patrí k najsilnejsím pod-   vanie je málo. Az stvrtina firiem dokonca zvazuje odchod
+porovateom podnikavosti a inovácií na Slovensku, dostali návrh    zo Slovenska ­ to je jasný budícek pre celý ekosystém.
+pripravi takýto report spolocne. Bola to pre nás jasná voba:
+spoji nase know-how, da startupom hlas a vytvori kompas,          Dobrá správa je, ze startupom nechýba energia ani chu
+ktorý bude slúzi celej komunite.                                  expandova a inovacný ekosystém okolo nich startupom
+                                                                  výrazne pomáha. Potrebujeme, aby sa k nim pridali aj tí,
+Nie je to náhoda, ze prvý rocník prinásajú práve Civitta a Slo-   ktorí nastavujú pravidlá hry, a univerzity, ktoré musia
+venská sporitea ­ spoluprácu máme overenú uz od prvých            pripravova viac talentov so schopnosami pre inovatívne
+rocníkov celoslovenského startupového akceleracného progra-       firmy ­ od podnikavosti az po globálne myslenie. Pre trans-
+mu Challenger, cez studentský Challenger Ideator v Kosiciach,     formáciu násho hospodárstva na ekonomiku s vyssou
+najväcsí mestský hackathon zameraný na klímu pre Bratislavu       pridanou hodnotou sú tieto faktory kriticky dôlezité.
+Climathon, az po platformu Startup Awards Slovensko. Podpora
+podnikavosti a zacínajúcich podnikateov nie je pre Slovenskú      Tento report je krokom císlo jedna. Ak chceme, aby Sloven-
+sporitenu len slogan. My v Civitte zas prinásame komunitu,        sko napredovalo, musíme vedie mobilizova kapitál, skva-
+expertízu a dlhorocné skúsenosti so stovkami startupov.           litni vzdelávanie, podpori talenty, urobi z podnikavosti
+A co sme zistili? Slovensko je malý trh ­ takmer polovica start-  mainstream a hlavne ­ zvýsi nase ambície. Startup Report
+upov uz dnes robí viac nez 50 % trzieb v zahranicí.               Slovensko nech je kazdý rok kompasom, ktorý nám
+Najväcsou výzvou je vsak predaj: Slováci sa vedia skvelo          pomôze vidie, ako sa v tom posúvame.
+sústredi na produkt, no predaj ide azsie. Hoci zeny sú súcas-
+ou zakladateských tímov v stvrtine startupov,                     Eva Simeková
+                                                                  Associate Partner, Civitta, Co-Lead, Startup Awards Slovensko
+
+                                                                                                                                 3
+EDITORIÁL
+
+Slovensko za posledné tri desarocia
+zaznamenalo významný posun v kvalite zivota.
+
+Tempo násho pokroku vsak spomauje, keze konvergencia             Startup Awards Slovensko. Ozivenie prieskumu o start-
+stagnuje na ekonomickej, politickej aj spolocenskej úrovni.      upoch, ktorý na Slovensku chýbal takmer desa rokov, je
+V oblasti inovácií, investícií do výskumu a rozvoja znalostnej   tak prirodzeným pokracovaním nasej spolupráce.
+ekonomiky zaostávame za priemerom EÚ.
+                                                                 V Slovenskej sporiteni chceme alej prispieva k budo-
+Ak chceme pokracova v ceste rastu a prosperity, musíme           vaniu priaznivého prostredia pre startupy. Robíme to nielen
+posilni podporu inovácií. A jednou z mozností je podpora         prostredníctvom násho investicného fondu Seed Starter,
+ekosystému, ktorý je motorom potrebných inovácií ­               vaka ktorému sme do slovenských startupov investovali
+slovenských startupov. Preto v Slovenskej sporiteni dlhodobo     uz viac ako 3 milióny eur, ale aj cez inkubacné programy,
+podporujeme podnikavos, digitálnu transformáciu a vznik          odborné podujatia a partnerské spolupráce s aktérmi
+nových inovatívnych projektov. Sme presvedcení, ze startupy      napriec celým ekosystémom.
+nielenze vytvárajú pracovné miesta, ale aj zvysujú konkurencie-
+schopnos krajiny a prinásajú impulzy pre rozvoj regiónov.        Veríme, ze pre rast inovácií je rozhodujúce nielen
+                                                                 financné zázemie, ale aj aktívna podpora, vzájomná
+Tento report, ktorý vznikol v partnerstve so spolocnosou         spolupráca a transparentná diskusia o budúcnosti
+Civitta, reaguje na chýbajúce pravidelné mapovanie startupovej   podnikania na Slovensku.
+scény na Slovensku. Zhromazuje dáta od takmer dvoch
+stoviek slovenských startupov a investorov a môze by uzitocný    Marek Sásik
+pre kazdého, kto sa podiea na rozvoji podnikateského             poradca predstavenstva Slovenskej sporitene
+ekosystému. Spolu s Civittou sme vlani úspesne obnovili
+
+                                                                                                                              4
+Startup Report Slovensko 2025
+
+Aké sú slovenské
+startupy?
+
+                                                                                                                                                                                                                                                                                                                       5
+AKÉ SÚ SLOVENSKÉ STARTUPY?                         V akom odvetví pôsobia
+                                                   slovenské startupy?
+Slovensko
+ako hub pre                                         38 %
+startupy
+v medicíne                                         15 %                           16 %
+
+Väcsina slovenských startupov pôsobí v oblasti           8%
+IT/SW a v segmente B2B, sektorovo je medzi                       7% 7%
+firmami výrazne zastúpené zdravotníctvo.
+                                                                        5% 5% 5%
+69 % zapojených startupov pôsobí len v jednom
+odvetví. 22 % z nich uvádza 2 odvetvia pôsobenia,  IT, softvér
+väcsinou ide o kombináciu IT, softvéru s nejakým           Zdravotníctvo
+doplnkovým odvetvím (Vzdelávanie, Zdravotníctvo,
+Marketing...).                                                      Vzdelávanie
+Celkovo má najväcsie zastúpenie odvetvie ,,IT,                               Marketing
+softvér" (38 %) a ,,Zdravotníctvo" (15 %).                                           Fintech
+                                                                                              Robotika
+                                                                                                       Sport                       6
+
+                                                                                                                HR (udské zdroje)
+                                                                                                                        Iné
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Martin Herman
+CEO & Co-Founder, Powerful Medical
+
+,,Slovensko má v rukách jedinecnú výhodu ­ spickový technologický talent. Jeho systematická
+podpora je základným predpokladom, aby nase startupy uspeli aj za hranicami. Kombinácia
+silnej IT tradície a rastúceho zdravotníckeho know-how nám umozuje vytvára inovatívne rie-
+senia od telemedicíny az po dátovo riadené systémy starostlivosti o pacienta. Ak dokázeme
+tento trend podpori, Slovensko sa môze sta európskym hubom pre zdravotnícke inovácie."
+
+                                                                                                                                                                                                                                                                                                                       7
+AKÉ SÚ SLOVENSKÉ STARTUPY?                        Kde sídlia startupy?
+
+Startupový                                        49 %
+ekosystém
+
+je výrazne koncentrovaný v Bratislave,
+Kosice stúpajú.
+
+Takmer polovica zapojených startupov má sídlo
+v Bratislavskom kraji, 17 % v Kosickom kraji,
+7 % v Ceskej republike. 91 % sídli na Slovensku.
+
+                                                                           17 %
+
+                                                        7% 3% 2% 5% 3% 5%        7%
+                                                                                         2%
+
+                                                  Bratislavský kraj
+                                                          Trnavský kraj
+
+                                                                   Trenciansky kraj
+                                                                            Nitriansky kraj
+                                                                                     Zilinský kraj
+
+                                                                                              Banskobystrický kraj
+                                                                                                      Presovský kraj
+                                                                                                               Kosický kraj
+
+                                                                                                                        Ceská republika
+                                                                                                                                 Iný stát
+
+                                                                                                                                           8
+Startup Report Slovensko 2025
+
+Ako funguje
+ich biznis?
+
+                                                                                                                                                                                                                                                                                                                       9
+AKO FUNGUJE ICH BIZNIS?                        Trzby startupov v roku 2024
+
+Dve tretiny
+
+zarobia
+
+menej ako                                      Este negenerujeme trzby                                 28 %
+                                                    Menej ako 10-tis. eur                 16 %
+100-tisíc eur                                              10 ­ 100-tis. eur
+                                                         100 ­ 500-tis. eur                   19 %
+28 % firiem v roku 2024 negenerovalo trzby ­           500-tis. ­ 1 mil. eur               17 %
+14 % firiem vsak este len vzniklo v roku 2025                   1 ­ 5 mil. eur   5%
+a 11 % v roku 2024. Tieto firmy sú teda len             Viac ako 5 mil. eur            11 %
+v úvodnej fáze svojho podnikania.                                               4%
+
+                                                                                                             10
+AKO FUNGUJE ICH BIZNIS?                              Objem trzieb
+                                                     zo zahranicných trhov
+Slovensko
+je vemi                                                        Nemáme trzby                          14 %    23 %
+malý trh                                             zo zahranicných trhov        7%                       22 %
+
+Na to, aby startupy uspeli, musia predáva                             1 % ­ 10 %                12 %
+v zahranicí ­ takmer polovica slovenských                           11 % ­ 25 %             11 %
+firiem má viac ako 50 % trzieb zo zahranicia.                      26 % ­ 50 %              11 %
+                                                                   51 % ­ 75 %
+Viac ako tri stvrtiny startupov (ktoré uz generujú                 76 % ­ 90 %
+trzby) má trzby aj zo zahranicných trhov. V prípade               91 % ­ 100 %
+44 % startupov trzby zo zahranicných trhov tvoria
+viac ako polovicu ich celkových trzieb.
+
+                                                                                                                   11
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Yassaman Omidbakhsh
+Co-CEO & Co-Founder, Eyerim
+
+,,Eyerim sme pôvodne spustili v severských krajinách, pretoze sme si mysleli, ze
+vyssia penetrácia e-commerce z nich robí ideálne trhy. Ale prvé trakcie zo Sloven-
+ska nás presmerovali do CEE a objavili sme zlatú bau. Dnes nás rast vedú balkán-
+ske krajiny a dokonca aj Posko, aj ke ide o nárocný trh, je pre nás uz tretím
+najväcsím trhom.
+Slovensko môze by malé, ale práve preto by mali zakladatelia od prvého da
+myslie globálne. Áno, prispôsobi sa miestnym podmienkam je nárocnejsie nez
+na väcsích trhoch ­ ale dnes existuje nespocetné mnozstvo nástrojov a sluzieb,
+ktoré robia globálnu expanziu dostupnejsou ako kedykovek predtým. Vaka
+schopnosti rýchlo reagova v zaciatkoch sme expandovali rýchlo a tam, kde trh
+ukázal skutocný potenciál, sme si vybudovali vlastné riesenia na mieru, aby sme
+ho vedeli lepsie obslúzi."
+
+                                                                                                                                                                                                                                                                                                                      12
+AKO FUNGUJE ICH BIZNIS?                          Najväcsie výzvy,
+                                                 ktorým startupy celia
+Slováci
+majú                                               Predaj/získavanie zákaznikov                            53 %
+problém                                                       Získanie financovania                      50 %
+s predajom                                                             Vývoj produktu
+                                                                     Rast, skálovanie              28 %
+Prieskum potvrdil, ze najväcsími výzvami                                                           28 %
+slovenských firiem sú predaj a získavanie             Cashflow/financná likvidita          17 %
+nových zákazníkov.                                    Administratíva a byrokracia        16 %
+                                                     Nájdenie product/market fit         16 %
+Medzi top 3 výzvy, ktorým startupisti celia,                                            14 %
+oznacila az polovica z nich ,,Predaj/získavanie          Vstup na zahranicné trhy       14 %
+zákazníkov" a ,,Získavanie financovania",                           Právne regulácie   13 %
+pre 28 % startupov je to aj ,,Vývoj produktu"
+a ,,Rast, skálovanie".                                       Získavanie vhodných/
+                                                 kompetentných zamestnancov
+
+                                                                                                                 13
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Katarína Simková
+Co-Founder & CEO, CloseRocket
+
+,,B2B obchod je pre mnohých stále vystupovaním z komfortnej zóny, je vsak kúcový
+pre rast a skálovanie firiem doma aj v zahranicí. Na Slovensku sa ho systematicky
+neucíme ­ ani na univerzitách, ani v biznis komunitách ­ a preto vea podnikateov
+zacína bez základov. Nájs dobrého obchodníka je nesmierne nárocné, pretoze
+pre mnohých udí je táto pozícia skôr poslednou moznosou nez niecím, cím by
+sa chceli hrdo sta a co by chceli studova. Pritom práve v oblasti obchodu dochádza
+celosvetovo k najväcsiemu technologickému posunu za posledných 50 rokov ­
+a ak chceme, aby nase firmy uspeli, musíme do salesu prinies inovácie a kontinuálne
+vzdelávanie."
+
+                                                                                                                                                                                                                                                                                                                      14
+AKO FUNGUJE ICH BIZNIS?            Plánujete svoj startup v najbliz-
+                                   sích 12 mesiacoch presahova
+Az stvrtina                        do zahranicia?
+startupov
+zvazuje                                                                          Dôvody zvazovania
+odchod zo                                                                        odchodu zo Slovenska
+Slovenska
+                                                                      23 %               Prístup k investorom                               79 %
+Dôvodom pre odchod je najmä        77 %                                                          a financovaniu                         74 %
+chýbajúca podpora a financovanie.                                                                                                    66 %
+                                                                                  Kvalitnejsia infrastruktúra                  53 %
+                                                                                         a podpora startupov
+                                                                                                                         18 %
+                                                                                        Väcsí trh a obchodné          13 %
+                                                                                                       prílezitosti   11 %
+
+                                                                                              Lepsie regulacné
+                                                                                        a daové podmienky
+
+                                                                                 Dostupnos talentovaných
+                                                                                                 zamestnancov
+
+                                                                                       Osobné alebo rodinné
+                                                                                                           dôvody
+
+                                                                                                                 Iné
+
+                                   Nie                                      Áno
+
+                                                                                                                                                  15
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Martin Basila
+CEO & Co-Founder, Sensoneo
+
+,,Startovacia línia na Slovensku je nárocnejsia a vedia to aj v zahranicí. Ak sa firma
+dokáze napriek tomu presadi a expandova do sveta, ukazuje tým násobne väcsiu
+odolnos a zdravie ako podniky zo zahranicných inkubátorov napumpovaných kapi-
+tálom. Budova spolocnos, ktorú nechcete preda o tri roky a zmiznú na Belize,
+si vyzaduje nastavenie, ze vlády sa menia, no vasa firma ostáva a rastie ­ najmä
+vaka lojálnym kolegyniam a kolegom, ktorí vedia, ze ste pokojne mohli pôsobi
+aj v inej krajine.
+Na Slovensku máme stále chu ukáza sa, prejs extra míu a nepriaznivé podmienky
+v nás aktivujú nezlomnos a pracovitos, akú v rozvinutých krajinách budete len
+azko hada."
+
+                                                                                                                                                                                                                                                                                                                      16
+Startup Report Slovensko 2025
+
+Kto sú founderi?
+
+                                                                                                                                                                                                                                                                                                                     17
+KTO SÚ FOUNDERI?                                     Pocet founderov
+                                                     v case zalozenie startupu
+V tíme
+je sila                                                    34 %
+
+27 % startupov má jediného zakladatea.               27 %        27 %
+
+Je ojedinelé, aby mal startup 4 ci viacerých zakla-
+dateov, keze 87 % startupov má jedného
+az troch. Najcastejsie sa na Slovensku objavujú
+startupy s dvomi zakladatemi. Zaujímavosou
+prieskumu je, ze 6 ci viac zakladateov mal jediný
+startup a ide o cisto zenský tím.
+
+                                                                       8%
+                                                                               4%
+                                                                                        1%
+
+                                                     1
+                                                             2
+                                                                      3
+                                                                               4
+                                                                                        5
+                                                                                                 viac ako 5
+
+                                                                                                             18
+KTO SÚ FOUNDERI?                                      Koko zien je medzi
+                                                      co-foundermi?
+Zeny tvoria
+len stvrtinu                                                        74 %
+zaklada-
+teov firiem                                                                  20 %
+                                                                                       4%
+Existuje obrovský priestor pre zmenu.                                                           1% 1% 0% 1%
+
+Iba v prípade stvrtiny startupov je zakladateom/jed-  0
+ným zo zakladateov zena. Zo vsetkých zaklada-                 1
+teov startupov majú zeny zastúpenie len 15 %.                          2
+Pri ,,jednoosobových" startupoch tvoria zeny len                                3
+7 %. Pri startupoch s dvoma zakladatemi tvoria                                          4
+zeny 18 %. Pri startupoch s tromi zakladatemi tvoria                                             5
+zeny 14 %. Najväcsie zastúpenie majú zeny v star-                                                         Viac ako 5
+tupoch, kde sú styria zakladatelia (zeny tam tvoria
+v priemere 21 %).
+
+                                                                                                                      19
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Tatiana Ondrejková
+Co-Founder & CEO, Pelikan.sk
+Co-Founder, Gluon.syndicate
+
+,,Je výrazne mensí pocet zien medzi foundermi a top manazérmi na Slovensku
+dôkazom toho, ze nie je nieco v poriadku a treba to nasilu meni? Napríklad kvóta-
+mi? Drvivá väcsina zien netúzi po kariére founderky, ktorá so sebou prinása vysokú
+mieru rizika a neistoty. Ako budúca matka podvedome zena hadá istotu. Zeny,
+ktoré po podnikateskej kariére túzia, majú dnes prístup k obrovskému mnozstvu
+informácií a prílezitostí a ak sa uz rozhodnú podnika, sú spravidla vemi úspesné.
+
+Faktom tiez je, ze aktuálny systém vzdelávania a nastavenie vekej casti spoloc-
+nosti na Slovensku zatia nie sú k podnikateom pozitívne naladené. A tu vidím
+vekú prílezitos na zmenu. Malí a strední podnikatelia sú základom kazdej zdravej
+ekonomiky a kúcom k rastu zivotnej úrovne. Ak chceme ma viac podnikateov,
+musíme tomu prispôsobi vzdelávanie a zmeni naratív, ktorý je v nasej spolocnosti
+zakorenený, ze podnikate = vykorisovate na podnikate = tvorca hodnôt.
+
+Vzdelávanie by malo ovea viac pripravova deti a mladých udí na kariéru podnika-
+teov ­ ukazovaním dobrých vzorov, zenských aj muzských. Zenám treba vysveto-
+va, ze financná nezávislos, ktorú si vedia zabezpeci podnikaním alebo správnym
+investovaním, je ten najdôlezitejsí krok k istote."
+
+                                                                                                                                                                                                                                                                                                                     20
+Startup Report Slovensko 2025
+
+Startupy
+a kapitál
+
+                                                                                                                                                                                                                                                                                                                     21
+STARTUPY A KAPITÁL                                 V akej fáze sú zúcastnené
+                                                   startupy?
+Polovica
+
+startupov
+
+má reálnych                                                                                                  Idea                                                                3%
+                                                                              Výskum a vývoj a validácia                                                                              7%
+                                                                                                                                                                                           11 %
+klientov                                                                                            Prototyp ­ testovanie dizajnu ci základných vlastností                                             20 %
+                                                                                                                                                                                                                       32 %
+Viac ako polovica startupov je vo fáze trakcie     MVP (Minimum viable product) ­ funkcný produkt na testovanie zivotaschopnosti na trhu                                                                    24 %
+alebo scale-upu. Pätina má funkcný produkt
+ci sluzbu. Naopak, 10 % je este len vo fáze ideí,                                                Trakcia ­ overený produkt na trhu, prví zákazníci a trzby                       3%
+výskumu a validácie.                                                                 Scale-up ­ firma s overeným biznis modelom, ktorá rýchlo rastie
+
+                                                                                                              (trzby, zamestnanci) a expanduje na nové trhy
+                                                                                                                                                                            Iné
+
+                                                                                                                                                                                                                             22
+STARTUPY A KAPITÁL                                Koko vlastného kapitálu
+                                                  investovali founderi
+Stvrtina                                          od zalozenia?
+investovala
+viac ako                                                      26 %
+100-tisíc
+                                                  23 %
+Tretina zakladateov investovala do firmy od jej
+zalozenia do 10-tisíc eur vlastného kapitálu.                             19 %
+
+Stvrtina investovala od 10 do 50-tisíc.                             14 %
+alsia tretina zakladateov investovala v rozmedzí
+50 az 500-tisíc a 7 % viac ako 500-tisíc eur.           10 %
+
+Priemerná výska investovaného vlastného kapitálu                                4% 3%
+zakladateov do startupu predstavuje priblizne
+160-tisíc eur.                                    0 ­ 5-tis.
+                                                          5 tis. ­ 10-tis.
+                                                                   10 tis. ­ 50-tis.
+                                                                            50 tis. ­ 100-tis.
+                                                                                     100 tis. ­ 500-tis.
+                                                                                              500 tis. ­ 1 mil.
+
+                                                                                                      > 1 mil.
+
+                                                                                                                 23
+STARTUPY A KAPITÁL                                                        Koko percent vlastnia
+                                                                          dnes founderi?
+Slovenské
+startupy                                                                               1% 1%                    Aký objem externého
+bootstrap-                                                                                      6%              financovania získali startupy
+pujú* viac                                                                                                17 %  od zalozenia?
+
+Takmer 60 % founderov vlastní 100 %                                                                       17 %   42 %
+svojej spolocnosti.
+                                                                          58 %
+58 % startupov je stále v 100 % vlastníctve pôvod-
+ných zakladateov. 34 % startupov má zaklada-                                                                    16 %
+teov, ktorí vlastnia viac nez polovicu firmy.
+                                                                                                                                  12 %
+* Bootstrappova startup znamená budova firmu z vlastných zdrojov ­ teda
+financova a rozbieha ju bez externého kapitálu od investorov alebo bánk.                                              8%                8%
+                                                                                                                              5%                3% 1% 3%
+
+                                                                          100 %        25 % ­ 50 %              Zatia ziadne
+                                                                          75 % ­ 99 %  15 % ­ 24 %                      Menej ako 100-tis. eur
+                                                                          51 % ­ 74 %  Menej ako 15 %
+                                                                                                                                 100 ­ 250-tis. eur
+                                                                                                                                          250 ­ 500-tis. eur
+                                                                                                                                                   500 tis. ­ 1 mil. eur
+
+                                                                                                                                                            1 ­ 2 mil. eur
+                                                                                                                                                                    2 ­ 5 mil. eur
+                                                                                                                                                                             5 ­ 10 mil. eur
+                                                                                                                                                                                      10 ­ 30 mil. eur
+
+                                                                                                                                                                                                        24
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Pavol Turcina
+CEO, GOSPACE LABS
+
+,,Sme si istí, ze dokázeme rás aj sami. Financovanie nám zabezpecuje stabilný príjem
+z nasej digitálnej (IoT) infrastruktúry a úspesné získavanie grantov na alsí výskum
+a vývoj. Vaka tomu si udrziavame nezávislos a rodinnú kultúru, kde o smerovaní
+rozhodujeme sami, bez tlaku investorov a prísnych KPI. Napriek tomu nezatvárame
+dvere pred budúcimi partnermi, naopak. Do takého vzahu vstúpime pripravení, ke
+investícia prinesie prospech pre obe strany, najmä pri skálovaní nasich riesení ­ a to
+za podmienok, ktoré neohrozia nase hodnoty a umoznia napanie dlhodobej vízie."
+
+                                                                                                                                                                                                                                                                                                                     25
+STARTUPY A KAPITÁL                               Objem
+                                                 zahranicného kapitálu
+Pri fund-
+
+raisingu je                                                                  Súcasné externé
+                                                                             zdroje financovania
+
+zahranicný                                             15 %
+
+                                                              16 %                        Anjelskí investori                                             41 %
+                                                                                             Lokálne granty                                       35 %
+kapitál                                          40 %                    9%                                                                     34 %
+dôlezitý                                                      20 %                 VC investícia (equity)                                    31 %
+                                                                                           Rodina, priatelia                                30 %
+Az 60 % startupov, ktoré vyuzili externé zdroje                                                                                 20 %
+financovania, mali zahranicného investora.                                               CLA (Convertible                      19 %
+                                                                                         Loan Agreement)                   16 %
+                                                 0%           51 % ­ 70 %          Medzinárodné granty                     16 %
+                                                 1 % ­ 25 %   71 % ­ 100 %            Lokálny akcelerátor     5%
+                                                 26 % ­ 50 %
+                                                                                  Bankové financovanie
+                                                                             Medzinárodný akcelerátor
+
+                                                                                             Crowdfunding
+
+                                                                                                                                                               26
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Jaroslav upták
+Partner, Neulogy Ventures
+
+,,Slovensko potrebuje fondy s medzinárodným mandátom. Iba fondy, ktoré investu-
+jú cez hranice, prirodzene otvárajú dvere k syndikáciám so zahranicím. Takéto
+prepojenia prinásajú viac kapitálu, know-how aj reputácie pre domáce startupy.
+Bez cross-border prítomnosti zostávame mimo kúcových dealflow sietí.
+Ak chceme viac zahranicných investorov na Slovensku, musíme by ich rovnocen-
+ným partnerom ­ s fondmi, ktoré vedia pôsobi globálne."
+
+                                                                                                                                                                                                                                                                                                                     27
+Startup Report Slovensko 2025
+
+Práca
+v startupoch
+
+                                                                                                                                                                                                                                                                                                                     28
+PRÁCA V STARTUPOCH                                   Koko máte dnes clenov
+                                                     tímu (okrem zakladateov,
+Pre startupy                                         bez ohadu na úväzok)?
+pracuje
+v priemere                                                 42 %                                          Ako narástol vás tím
+13 udí                                                                                                   za posledný rok?
+                                                     12 %        22 %
+12 % startupov nemá okrem zakladatea ziad-                                                                                        52 %
+nych alsích zamestnancov (clenov tímu).                                   7% 7% 8%                                        32 %
+                                                                                                     2%
+42 % startupov má do 5 udí, 22 % zamestnáva 6 ­                                                                                             9%
+10 osôb a zvysná stvrtina viac ako 10.                                                                                                               2% 3% 1%
+
+Polovica firiem sa rozrástla o 1 ­ 5 udí a alsích    0
+15 % o viac ako 5.                                           1­5
+                                                                      6 ­ 10
+Pocet zamestnancov tak medzirocne narástol                                     11 ­ 15
+v priemere o 3,7 osoby, co predstavuje rast o 41 %.                                     16 ­ 30
+                                                                                                 31 ­ 50
+                                                                                                         viac ako 50
+
+                                                                                                                                                           0
+                                                                                                                                                                    1­5
+                                                                                                                                                                            6 ­ 10
+                                                                                                                                                                                     11 ­ 15
+                                                                                                                                                                                              16 ­ 30
+                                                                                                                                                                                                       viac ako 30
+
+                                                                                                                                                                                                                    29
+PRÁCA V STARTUPOCH                         Na aké pozície sa startupom
+                                           najazsie hadajú pracovníci?
+Chýbajú
+
+inzinieri
+
+a obchodníci                                                    Technické                              57 %
+                                           Obchodné / Sales / Biznis
+Z hadiska odboru je pre startupy najazsie                                                        38 %
+nájs zamestnancov na technické (uvádza                     Marketingové
+az 57 %) a obchodné pozície (38 %).                           Produktové                   19 %
+                                                                                      13 %
+                                                         Administratívne           9%
+                                                                  Financné      5%
+                                                                     Právne    4%
+                                                                          Iné          15 %
+
+                                                                                                             30
+PRÁCA V STARTUPOCH                          Najväcsie prekázky
+                                            pri nábore clenov tímu
+Top
+problémom                                                                                    Platové poziadavky                                                      50 %
+sú platové                                                                              Nedostatok skúseností                                           38 %
+poziadavky                                                                                                                                    29 %
+                                                                                                  Nedostatok udí                              29 %
+Startupy za najväcsie prekázky pri nábore                              Nedostatok relevantných zrucností                            19 %
+clenov tímu povazujú: platové poziadavky                   Nedostatok záujmu o startupové prostredie                               18 %
+(pre 50 % startupov); nedostatok skúse-                              Konkurencia zo strany vekých firiem            4%
+ností (pre 38 % startupov); nedostatok udí                                                                        2%
+a nedostatok relevantných zrucností (obe                                      Nízka znalos cudzieho jazyka        2%
+pre 29 % startupov).                                  Neochota sahova sa alebo pracova na diaku                                15 %
+
+                                                                   Dlhý a komplikovaný náborový proces
+                                            Iné (napr. nemajú skúsenos, nevnímajú problémy at.)
+
+                                                                                                                                                                           31
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Ivana Zizková
+CFO, Brightpick
+
+,,Konkurova vekým firmám v oblasti platov je pre startupy nárocné. Preto musíme
+stava na talente, motivácii a ochote udí rás s firmou ­ niekedy je lepsí menej
+skúsený kandidát, ktorý má drive a chu uci sa. Aj vaka tomuto prístupu sme
+tento rok dokázali prija 60 nových udí."
+
+                                                                                                                                                                                                                                                                                                                     32
+Startup Report Slovensko 2025
+
+Podpora
+pre startupy
+
+                                                                                                                                                                                                                                                                                                                     33
+PODPORA PRE STARTUPY                              Vyuzili ste podporné programy,
+                                                  napríklad akceleracné
+Akceleracné                                       ci inkubacné?
+programy
+sú pre rast                                                                                       Co boli najväcsie prínosy?
+startupov
+dôlezité                                                                             44 %            Mentoring a odborné                                     71 %
+                                                  56 %                                                           poradenstvo                          58 %
+V minulosti ich vyuzilo az 56 % firiem,                                                                                                    40 %
+ich verejná podpora vsak takmer úplne                                                           Rozsírenie profesionálnej          25 %
+absentuje.                                                                                                 siete a kontaktov     22 %
+                                                                                                                                 22 %
+Zo startupov, ktoré vyuzili podporné programy,                                                        Získanie praktických      19 %
+71 % vníma ako ich najväcsí prínos mentoring                                                     skúseností a know-how         18 %
+a odborné poradenstvo, následne 58 % rozsírenie
+profesionálnej siete a kontaktov a 40 % získanie  Nie                                      Áno        Spolupráca s alsími
+praktických skúseností a know-how.                                                                   startupmi a podnikmi
+
+                                                                                                        Podpora pri rozvoji
+                                                                                                    produktu alebo sluzby
+
+                                                                                                    Prístup k financovaniu
+                                                                                                                a investíciám
+
+                                                                                                   Marketingová podpora
+                                                                                                   a zvýsenie viditenosti
+
+                                                                                                   Prístup k novým trhom
+                                                                                                                a zákazníkom
+
+                                                                                                                                                                   34
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Lukás ezanina
+CEO, Nordics
+
+,,Verím, ze na Slovensku máme potenciál globálnych rozmerov. Startupy pred nami
+sa dokázali presadi a usilovne pracujeme na tom, aby bol Nordics príbehom, ktorý
+inspiruje alsích v nasej krajine. Od vízie k úspesnému biznisu nás niekedy delia len
+nevyuzité prílezitosti. Aj tí najlepsí môzu vyrás vaka kvalitným akcelerátorom,
+preto je dôlezité, aby tieto programy kultivovali ekosystém."
+
+                                                                                                                                                                                                                                                                                                                     35
+PODPORA PRE STARTUPY                                Vyuzili ste niekedy sluzbu
+                                                    alebo podporu nejakej
+Väcsina                                             verejnej institúcie?
+startupov
+nevyuzila                                                                       Ako hodnotíte spoluprácu
+verejnú                                                                         s verejnými institúciami?
+podporu
+                                                    59 %                                                   19 %
+Len 41 % startupov uvádza, ze vyuzili sluzbu alebo
+podporu nejakej verejnej institúcie. 66 % z nich               41 %             46 %                             7%
+pritom hodnotí spoluprácu ako vemi alebo ciastocne                                                              7%
+nápomocnú. Stvrtina uvádza, ze im pomohla len                                                     20 %
+vemi málo alebo vôbec.
+                                                          Nie  Áno              Vemi nám pomohla  Vôbec nám nepomohla
+                                                                                                  Iné
+                                                                                Ciastocne nám
+                                                                                pomohla                                                         36
+                                                                                Pomohla len
+                                                                                vemi málo
+PODPORA PRE STARTUPY                                  Ako dôlezité sú regulácie,
+                                                      ktoré zohadujú potreby
+Top                                                   startupov?
+priorita?
+Dane                                                                                            Kde by ste ocenili
+vhodné pre                                                                                      podporu zo strany státu?
+startupy
+                                                          21 %          20 %                               Daové zákony vhodné                                            59 %
+Az 70 % firiem vníma ako dôlezité regulácie zohad-    47 %                                                                 pre startupy                                55 %
+ujúce podporu startupov. 59 % si praje daové                                    4%                                                                                  50 %
+zákony, ktoré viac reflektujú potreby startupov.                              6%                          Získavanie financovania                        35 %
+Polovica by privítala menej byrokracie ci jednoduch-                                                      pre early-stage startupy            17 %
+sie procesy. Dôlezitý je aj prístup k financovaniu                                     2%                                                  14 %
+pre early-stage (uvádza 55 % startupov) a aj pre                                                Menej byrokracie/jednoduchsie            10 %
+rozvinutejsie startupy (35 %).                                                                            administratívne procesy
+                                                                                                          Získavanie financovania
+
+                                                                                                        pre rozvinutejsie startupy
+
+                                                                                                                    Vstup na iné trhy
+
+                                                                                                      Podnikateské vzdelávanie
+
+                                                                                                    Viac kvalitných inkubátorov/
+                                                                                                       akceleracných programov
+
+                                                      Vemi dôlezité     Menej dôlezité
+                                                      Dôlezité          Úplne nedôlezité
+                                                      Stredne dôlezité  Neviem/ nechcem poveda
+
+                                                                                                                                         37
+Startup Report Slovensko 2025
+
+Akí sú slovenskí
+investori?
+
+                                                                                                                                                                                                                                                                                                                     38
+AKÍ SÚ SLOVENSKÍ INVESTORI?                         Do akej fázy startupov
+                                                    najcastejsie investujete?
+Investori sa
+
+sústreujú
+
+na seed
+
+fázy                                                           Pre-seed                  32 %  61 %
+                                                                     Seed                                 66 %
+,,Anjelov" je viac, väcsina zacala po roku 2020.                                   17 %
+                                                                Series A                                                    39
+Anjelskí investori tvoria vemi rozmanitú skupinu ­  Series B a neskôr        10 %
+ich investície sa pohybujú od desiatok tisíc az po
+milióny eur, no viac ako polovica z nich podporila                      Iné
+najviac 3 startupy.
+
+Aktivita anjelských investorov za posledných 5
+rokov stúpla, mnohí z nich zacali investova az
+po roku 2020. VC fondy pôsobiace na Slovensku
+smerujú primárne kapitál do domácich firiem ­
+vo väcsine prípadov im to vyplýva z investicného
+mandátu.
+AKÍ SÚ SLOVENSKÍ INVESTORI?                       Do ktorých odvetví ste
+                                                  investovali najviac kapitálu?
+Investície
+prúdia                                                     IT, softvér                                          60 %
+do IT                                                 Zdravotníctvo                                      56 %
+a zdravot-
+níctva                                                         Fintech                             32 %
+                                                          Energetika                       28 %
+Investície VC fondov kopírujú sektorové rozloze-                                           28 %
+nie startupov ­ najviac kapitálu smeruje do IT               Robotika               24 %
+a zdravotníctva. Perspektívne vsak vnímajú               Bezpecnos
+aj fintech, bezpecnos, energetiku a robotiku.     Wellness (zdravý            12 %
+                                                        zivotný stýl)   8%
+
+                                                           Marketing
+
+                                                                                                                      40
+AKÍ SÚ SLOVENSKÍ INVESTORI?                     Ako sa najcastejsie dostávate
+                                                k startupom?
+Kontakty
+sú pri inves-                                                                         Startup ma osloví priamo                          68 %
+tovaní stále                                                                                                                         60 %
+najdôlezi-                                       Predstavenie cez iných investorov alebo partnerov                            44 %
+tejsie                                                                        Ja oslovím startup (na základe                  44 %
+                                                                                                                         32 %
+Kúcom k prístupu k investíciám sú osobné                                prieskumu trhu alebo odporúcania)        12 %
+kontakty a odporúcania.                                        Networking na eventoch a konferenciách           8%
+
+Polovica investorov zárove uvádza, ze je coraz                   Akceleracné ci iné startupové programy
+azsie nachádza investovatené startupy, co
+signalizuje problém s generovaním kvalitných    Startupové databázy ci iné platformy pre investorov
+firiem na Slovensku.
+                                                    Iné (Crowdberry a vlastný ekosystém a investori)
+
+                                                                                                                                              41
+AKÍ SÚ SLOVENSKÍ INVESTORI?                         Akou formou sa v startupe
+                                                    angazujete po tom,
+Okrem                                               ako do neho zainvestujete?
+peazí
+pomáhajú                                                             Mentoring a strategické poradenstvo                                                       72 %
+mentor-                                                  Poskytovanie kontaktov a pomoci pri expanzii                                                   60 %
+ingom                                               Clenstvo v predstavenstve alebo advisory boarde                                                 52 %
+                                                                                                                                               44 %
+Väcsina investorov aktívne pomáha svojim portfóli-                            Pomoc s alsím fundraisingom                              28 %
+ovým firmám prostredníctvom mentoringu, strate-              Pomoc s obchodným rozvojom a predajom                        4%
+gického poradenstva a salesu/pomoci pri expanzii.                                                                             12 %
+Vyse 40 % pomáha aj s alsím fundraisingom.                                        Aktívne riadenie spolocnosti
+                                                                                                                     Iné
+
+                                                                                                                                                                     42
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Michal Vanovcan
+Výkonný manazér, Seed Starter
+Slovenskej sporitene
+
+,,Sú peniaze to jediné, co startupom chýba k tomu, aby uspeli? Urcite nie, existuje
+predsa vea úspesných podnikateských príbehov, ktoré sa zaobisli aj bez investície.
+Ich founderi vsak mali jedno spolocné ­ nemysleli si, ze vedia (alebo musia) vsetko
+zvládnu sami. Úlohou dobrého investora nie je len vybra perspektívny projekt
+a zainvestova, ale aj pomôc startupu zisti, kde potrebuje posilu na to, aby mal
+sancu vyrás.
+Seed Starter Slovenskej sporitene je unikátny v tom, ze okrem poradenstva ponúka
+startupom aj pilotovanie riesení a spoluprácu s bankou, ktorá je digitálnym lídrom
+na Slovensku."
+
+                                                                                                                                                                                                                                                                                                                     43
+AKÍ SÚ SLOVENSKÍ INVESTORI?                          Co povazujete dnes
+                                                     za najväcsie výzvy ci riziká?
+Top faktor?
+
+Politická
+
+situácia                                                                      Politická situácia na Slovensku                                               86 %
+                                                                           Nedostatok kvalitných startupov                                       62 %
+9 z 10 oslovených investorov povazuje                                    Ekonomická situácia na Slovensku                                     57 %
+za najväcsie riziko v roku 2025 politickú                                                                                                48 %
+situáciu na Slovensku.                                                                           Globálne udalosti                       48 %
+                                                                             Kvalita investicných prílezitostí                  29 %
+Viac ako 60 % investorov povazuje za najväcsie       Nedostatok kapitálu (investície sa neuskutocnia)                         24 %
+riziko v roku 2025 nedostatok kvalitných startupov.                          Získanie kapitálu od investorov                  24 %
+Za najdôlezitejsie faktory budúceho úspechu start-                                                                     10 %
+upového ekosystému na Slovensku povazujú                                                            Exity a likvidita
+investori vzdelávanie k podnikavosti.                                               Vysoká valuácia startupov
+Z pohadu verejnej podpory startupového ekosysté-
+mu by investori najviac privítali daové stimuly pre
+investorov do startupov a podporu komercializácie
+vedeckého výstupu.
+
+                                                                                                                                                                  44
+CO VRAVÍ STARTUPOVÁ SCÉNA
+
+Daniel Gaspar
+Managing Partner, Crowdberry
+
+,,Priam az existencné riziko startupového ekosystému a investícií rizikového kapitá-
+lu predstavuje chýbajúci talent: kvalita a zrelos zakladateov a zásadný nedostatok
+manazérov so skúsenosami medzinárodného skálovania rastových firiem. Exodus
+talentu z krajiny sa totiz týka najsikovnejsích udí s ambíciami a s podnikateskou
+výdrzou. V prvom kroku treba zvráti tento stav a navyse láka zakladateov z tre-
+tích krajín."
+
+                                                                                                                                                                                                                                                                                                                     45
+Startup Report Slovensko 2025
+
+Co alej?
+7 nasich odporúcaní
+
+                                                                                                                                                                                                                                                                                                                     46
+CO ALEJ? 7 NASICH ODPORÚCANÍ                                                                 Slovensko má na milión
+                                                                                             obyvateov len
+Rozvoj
+podnikavosti                                                                                 97 startupov v porovnaní
+
+Ak chceme, aby na Slovensku vznikalo viac startupov, musíme podpori vzdelávanie
+kpodnikavosti na kazdom stupni skolstva. Vzdelávanie nemôze reflektova len potreby
+súcasného pracovného trhu, ale musí uci mladých udí identifikova problémy, globálne
+trendy a aktívne hada prílezitosti do budúcnosti. Takéto vzdelávanie môze výrazne rozsíri
+startupový lievik ­ od väcsieho poctu udí s nápadmi na zaciatku az po viac startupov s glo-
+bálnym dopadom na konci.
+
+                                                                                             1048 s  v Estónsku.
+
+                                                                                                                     47
+CO ALEJ? 7 NASICH ODPORÚCANÍ                                                                0 % Estónsko má        da
+
+Stabilné                                                                                    z nerozdeleného zisku,
+a predvídatené
+institucionálne                                                                             co dlhodobo motivuje
+prostredie
+                                                                                            reinvestície a tvorbu
+Stabilita a kontinuita podpory startupov musí by jednou z hlavných priorít ­ bez ohadu
+na politické cykly. Slovensko potrebuje jasný a dlhodobý rámec, ktorý vytvorí dôveru        kapitálu vo firme.
+medzi investormi a zakladatemi. Kúcovú úlohu pritom zohráva daový systém
+a vymozitenos práva. Príkladom môze by nulové zdanenie reinvestovaného zisku alebo
+daové stimuly pre angel investorov a VC fondy. Tieto opatrenia dokázu významne podpori
+rast domácich firiem, udrza ich v krajine a mobilizova súkromný kapitál. Estónsko ukazuje,
+ze kombinácia digitálneho státu, jednoduchého podnikateského prostredia
+a dôvery v právny systém vytvára pôdu pre vznik globálne úspesných startupov.
+
+                                                                                                                       48
+CO ALEJ? 7 NASICH ODPORÚCANÍ                                                                  Na Slovensku máme
+                                                                                              nízky pocet patentových
+Podpora transferu
+technológií                                                                                   12 prihlások ­  rocne
+a spolupráce
+s výskumom                                                                                    na milión obyvateov
+
+Slovenský výskum a jeho výstupy zatia nedosahujú dostatocnú kvalitu ani mieru komerciali-     v porovnaní
+zácie, ktorá by umoznila vznik silnej generácie technologických firiem. Ak chceme, aby sa to
+zmenilo, podpora transferu technológií musí by jednou z hlavných priorít a úzko previa-       236 s  v Rakúsku.
+zaná s alsími opatreniami v ekosystéme. Potrebná je vyssia motivácia vedcov a vedký
+pretavova výsledky do praxe, ako aj akcelerácia a verejné grantové programy pre výstupy
+centier pre transfer technológií pri univerzitách. Len tak môzu vzniknú nové startupy v ob-
+lastiach s vysokou pridanou hodnotou, ako sú medicínske technológie, biotechnológie ci
+zelené technológie.
+
+                                                                                                                       49
+CO ALEJ? 7 NASICH ODPORÚCANÍ                                                          16 27 Az
+                                                                                      krajín z EÚ
+Lákanie
+talentov                                                                              má nejakú formu speciálnych
+
+Slovensko ako malá krajina disponuje obmedzeným mnozstvom výnimocných talentov.       podnikateských víz.
+Krajina v tejto chvíli nemá institút startupových víz, ani specifický typ pobytu pre
+podnikateov z tretích krajín, ktorí by chceli zaca podnika na Slovensku. Zárove
+je súcasná úprava mozností zamestnávania cudzincov prílis komplikovaná.
+Na prilákanie talentovaných podnikateov a pracovníkov zo zahranicia potrebuje
+Slovensko zásadne zjednodusi podmienky zamestnávania a pobytu cudzincov.
+
+                                                                                      30 % Az  zakladateov
+
+                                                                                      startupov v Estónsku
+
+                                                                                      pochádza zo zahranicia.
+
+                                                                                                               50
+CO ALEJ? 7 NASICH ODPORÚCANÍ                                                          Slováci nevedia predáva ­
+
+Podpora                                                                               53 % az  startupistov
+expanzie
+startupov                                                                             zaradilo ,,predaj a získavanie
+
+Malý domáci trh núti firmy hada zákazníkov v zahranicí. Slovensko by malo vyuzi       3 zákazníkov" medzi svoje
+jednoduché a relatívne lacné nástroje financované z verejných zdrojov ­ od programov
+na podporu exportu az po soft-landing iniciatívy a vybudovanie stáleho zastúpenia     najväcsie výzvy.
+Slovenska v kúcových inovacných centrách. Ak sa to podarí zmeni, systematické
+prepojenie so zahranicnými hubmi môze výrazne zvýsi úspesnos slovenských startupov
+a scale-upov na globálnom trhu. 
+
+                                                                                                                 51
+CO ALEJ? 7 NASICH ODPORÚCANÍ                                                                Na Slovensku predstavujú
+                                                                                            výdavky verejných orgánov
+Silnejsie prepojenie                                                                        na obstarávanie
+s korporáciami
+a státom                                                                                    13,2 % priblizne     HDP,
+
+Startupy potrebujú prvých vekých zákazníkov a referencie. Verejný sektor a korporácie by    co predstavuje veký
+mali aktívne testova inovatívne riesenia v pilotných projektoch, co startupom poskytne
+reálny trh a dôveru investorov. Vo vyspelých inovacných ekosystémoch sú verejná správa
+(napr. cez inovatívne verejné obstarávania) akorporácie, ktoré sú ochotné pilotova nové
+riesenia so startupmi, dôlezitými ,,katalyzátormi" rýchlejsieho rastu inovatívnych firiem.
+
+                                                                                            priestor na dopytový impulz
+
+                                                                                            pre startupy.
+
+                                                                                                                 52
+CO ALEJ? 7 NASICH ODPORÚCANÍ                                                               Akceleracné programy
+                                                                                           sú pre rast startupov
+Viac inkubátorov
+a akcelerátorov                                                                            56 % dôlezité ­ az
+so zahranicnými
+väzbami                                                                                    slovenských startupov
+                                                                                           v minulosti vyuzilo
+Slovensko by malo z verejných zdrojov podpori existujúce aj nové programy akcelerácie      akceleracné programy.
+startupov, ktoré poskytujú mentoring, know-how a prístup k medzinárodným partnerom.
+Prepojenie s globálnymi hubmi, ako sú Berlín, Londýn ci Tel Aviv, urýchli rast a expanziu                                                                                                       53
+slovenských startupov. Zatia co na Slovensku takáto podpora dlhodobo chýba, v Estónsku
+sú inkubátory a akcelerátory výrazne podporené verejnými financiami.
+

@@ -1,0 +1,20 @@
+{
+  "updated": "2026-10-08",
+  "institutions": [
+    {
+      "id": "52380483",
+      "name": "Venture to Future Fund, a.s.",
+      "address": "Grösslingova 44, 81109 Bratislava",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2025-01-20",
+          "parent_entity_id": "51865513",
+          "parent_entity_name": "Slovak Capital Management, a. s."
+        }
+      ]
+    }
+  ]
+}

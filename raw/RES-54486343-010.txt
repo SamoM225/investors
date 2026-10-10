@@ -1,0 +1,48 @@
+AI proti nenávisti na internete: Startup TrollWall AI získal investíciu vo výške 800 000 eur | Slovak Investment Holding, a. s.
+SIH
+Oblasti
+Kontakt
+Novinky
+O nás
+Ľudia
+Dokumenty
+Finančné nástroje
+SK EN
+Ľudia
+Dokumenty
+Finančné nástroje
+09.04.2026
+AI proti nenávisti na internete: Startup TrollWall AI získal investíciu vo výške 800 000 eur
+Bratislava, 9. apríla 2026 - Slovenský startup TrollWall AI, ktorý pomocou umelej inteligencie chráni organizácie a značky pred nenávistným a toxickým obsahom na sociálnych sieťach, získava investíciu vo výške 800 000 eur. Na investícii sa podieľajú Seed Starter Slovenskej sporiteľne, Slovak Investment Holding (SIH) a angel investor Miroslav Fedor. Investícia má podporiť expanziu TrollWallu AI na nové trhy a ďalší rozvoj technológie, ktorú dnes využívajú klienti vo viac ako desiatich krajinách.
+„Investujeme do startupov, ktoré riešia reálne problémy a majú potenciál škálovať. TrollWall AI presne spĺňa obe tieto kritériá – pomáha zvládať toxický obsah na internete, ktorému dnes čelia prakticky všetky značky a inštitúcie komunikujúce online. A robí to spôsobom, ktorý je použiteľný naprieč krajinami aj kultúrami,“  hovorí  Michal Vanovčan , výkonný manažér Seed Startera Slovenskej sporiteľne.
+„V Slovak Investment Holding podporujeme inovatívne riešenia, ktoré majú nielen silný trhový potenciál, ale aj schopnosť riešiť reálne spoločenské výzvy. TrollWall AI je príkladom technológie, ktorá stojí na priesečníku oboch – reaguje na rastúci problém toxickej komunikácie v online priestore a zároveň ponúka škálovateľné riešenie s medzinárodným presahom. Z investičného pohľadu vidíme v tomto segmente dlhodobý rast a dopyt, ktorý bude s digitalizáciou spoločnosti ešte silnieť. Veríme, že aj vďaka tejto investícii môže TrollWall AI posilniť svoju pozíciu na globálnom trhu a prispieť k formovaniu zdravšieho digitálneho prostredia,“  hovorí  Juraj Jusko , riaditeľ priamych investícií Slovak Investment Holding.
+Investícia SIH je financovaná z Plánu obnovy a odolnosti SR, Komponent 9 – Podpora výskumu, vývoja a inovácií.
+Myšlienka TrollWallu AI vznikla počas prvých mesiacov vojny na Ukrajine. Tomáš Halász v tom čase pracoval ako social media manager a pomáhal organizácii Kto pomôže Ukrajine, ktorá čelila masívnej vlne nenávistných a dezinformačných komentárov.  „Ručné mazanie komentárov bolo extrémne vyčerpávajúce – časovo aj psychicky a prakticky nezvládnuteľné. Keď som hľadal nástroj, ktorý by dokázal moderovať nenávistný obsah v slovenčine, zistil som, že nič podobné neexistuje. Tak sme sa rozhodli ho vytvoriť,“  spomína  Tomáš Halász , co-founder a CEO TrollWallu AI.
+Spolu s tímom skúsených IT špecialistov – neskorších co-founderov startupu – začali vyvíjať vlastný AI model na moderovanie nenávistného obsahu. To, čo pôvodne vzniklo ako interný nástroj, sa však rýchlo ukázalo ako riešenie, ktoré chýba firmám, verejným inštitúciám i neziskovým organizáciám. Aj vďaka rýchlej prvej validácii produktu a veľkému potenciálu škálovania získala spoločnosť v roku 2023 pre-seed investíciu od impaktového fondu CB ESPRI.
+Lokálny kontext ako konkurenčná výhoda
+Jedným z hlavných rozdielov oproti globálnym riešeniam je dôraz TrollWallu AI na lokálny jazyk a kultúrny kontext. Startup dnes trénuje vlastné AI modely osobitne pre každý jazyk a krajinu, pričom spolupracuje s lokálnymi lingvistickými expertmi.  „Nenávistný obsah má vždy kultúrny a geografický kontext. To, čo je napríklad hanlivé v Česku, nemusí dávať zmysel na Slovensku alebo v Španielsku. Práve preto máme dnes viacero verzií rovnakého jazyka a modely, ktoré lepšie chápu realitu konkrétnej krajiny,“  vysvetľuje  Halász .
+Riešenie od TrollWall AI dnes podporuje viac ako 12 jazykov a využívajú ho klienti prevažne v Európe, prvé spolupráce však startup nadviazal už aj na americkom kontinente. Medzi jeho klientov dnes patria verejné inštitúcie, politické osobnosti, športové kluby aj veľké značky, ktoré denne čelia intenzívnej online komunikácii.
+TrollWall AI sa zároveň postupne posunul od samotnej moderácie k širšiemu nástroju na správu online diskusií. Okrem odstraňovania toxického obsahu tak dnes ponúka aj analytiku konverzácií, podporu engagementu a asistenciu pri odpovediach – vždy však s dôrazom na ľudský dohľad.  „Nechceme autonómnu AI, ktorá rozhoduje sama. Naším cieľom je pomôcť ľuďom lepšie zvládať komunikáciu, rýchlejšie reagovať a chrániť značku. Finálne rozhodnutie však musí zostávať na človeku,“  zdôrazňuje  Halász .
+Od Startup Bootcampu až po investíciu
+Jedným z prvých impulzov, ktoré TrollWallu AI pomohli výraznejšie sa posunúť, bola účasť na Startup Bootcampe Seed Startera. Práve tam tím získal intenzívnu spätnú väzbu od odborníkov z praxe, ktorá mu pomohla ujasniť si strategické priority, prácu s dátami aj ďalšie smerovanie firmy.  „Tento bootcamp nám pomohol pomenovať slepé uličky, do ktorých sme sa ako startup dostali, a vyhnúť sa ďalším chybám. Spätná väzba bola veľmi priama, ale presne taká, akú v tej fáze potrebujete,“  spomína  Tomáš Halász .
+Na tieto skúsenosti následne nadviazala účasť v  Startup Awards Slovensko , kde sa TrollWall AI dostal v roku 2024 až do finále a zvíťazil v kategórii Spoločnosť. Súčasťou programu bol tréningový bootcamp a výhrou cesta do Silicon Valley, ktorá tímu poskytla pohľad na fungovanie globálnych technologických firiem, prístup k expanzii a prácu so škálovaním biznisu.
+A práve kombinácia kvalitného a užitočného produktu, schopnosti učiť sa a aktívne využívať dostupné programy podpory je podľa investorov aj jedným z hlavných dôvodov, prečo sa TrollWallu AI podarilo vyrásť z lokálneho riešenia na medzinárodný startup.  „TrollWall AI má produkt a tím, ktorý rieši veľmi konkrétny a rastúci problém. Preto do firmy vstupujem ako aktívny investor – s cieľom pomáhať nielen kapitálom, ale aj pri strategických rozhodnutiach, škálovaní a nastavovaní procesov. Chcem byť sparring partnerom pre founderov pri ich ďalšom raste a dlhodobom budovaní firmy,“  potvrdzuje angel investor  Miroslav Fedor  z Hernwood.
+O startupe TrollWall AI
+TrollWall AI je slovenský technologický startup, ktorý pomocou umelej inteligencie pomáha organizáciám a značkám chrániť ich online komunikáciu pred nenávistným a toxickým obsahom. Jeho riešenie umožňuje automatizovanú moderáciu komentárov, analýzu diskusií a podporu engagementu s dôrazom na lokálny jazyk a kultúrny kontext. TrollWall AI dnes pôsobí vo viac ako desiatich krajinách, podporuje viac než 12 jazykov a medzi jeho klientov patria médiá, verejné inštitúcie, neziskové organizácie a firmy.
+www.trollwall.ai
+O programe Seed Starter  Slovenskej sporiteľne
+Korporátny venture kapitálový program Seed Starter hľadá podnikateľské plány so silnou víziou a hodnotou pre zákazníkov. Program ponúka nielen investície, ale aj profesionálnu inkubáciu, obsahovú podporu a širokú sieť partnerov a zákazníkov, s ktorými dokáže startupy prepojiť a pomôcť im vstúpiť na reálny trh. Seed Starter sa zameriava na startupy, ktoré by v ideálnom prípade mohli mať synergický efekt s finančnou inštitúciou. Niektoré nádejné startupy tak majú potenciál následne ponúkať svoje produkty aj prostredníctvom rozsiahlej distribučnej siete skupiny Erste. Seed Starter Slovenskej sporiteľne už investoval do ôsmich startupov  Blockmate, SmartHead, Vestberry, Eatster, Resitech, IntellCRE, Pointee  a  TrollWall AI  a pracuje na pilotných projektoch s ďalšími startupmi.
+www.seedstarter.sk
+O Slovak Investment Holding (SIH)
+SIH je akciová spoločnosť v 100 % vlastníctve štátu. Jej hlavným poslaním je podpora strategických verejných i súkromných investícií na Slovensku v oblasti konkurencieschopnosti a rastu malých a stredných podnikov, infraštruktúry, energetickej efektívnosti, odpadového hospodárstva, sociálnej ekonomiky, kultúrneho a kreatívneho priemyslu. Finančné prostriedky na realizáciu investícií čerpá prioritne z fondov EÚ. SIH financuje projekty výlučne návratnou formou, tzn. pomocou finančných nástrojov a nie grantovým spôsobom .
+www.sih.sk .
+KONTAKT
+Mapa
+Grösslingová 44
+811 09 Bratislava
+www.sih.sk
+Dokumenty
+Médiá
+Novinky
+Ochrana osobných údajov
+Povinne zverejňované údaje

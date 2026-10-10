@@ -1,0 +1,1444 @@
+URL: https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/12646278
+ACCESSED: 2026-10-09T19:20:15.617Z
+NOTE: text extrahovaný z PDF (pdftotext -layout -enc UTF-8)
+
+IČO                         DIČ                                                         ÚČ SKISPS 1-02
+52656136                        2121105371
+
+                                     ÚČTOVNÁ ZÁVIERKA
+
+                            subjektu kolektívneho investovania s právnou subjektivitou
+
+                                     k            31.12.2025
+
+LEI
+
+Daňové ídentifikačné číslo  Účtovná závierka                                      Zostavená za obdobie
+
+212 1 1 0 5 3 7 1                                                                 mesiac rok
+
+                            x riadna             schválená        od 0 1 2 0 2 5
+
+                                     mimoriadna                   do 1 2 2 0 2 5
+
+IČO                                  priebežná
+
+526 5 6 1 3 6
+
+                                                                                  Bezprostredne
+
+SK NACE                     (vyznačí sa x )                                       predchádzajúce
+
+6 4 . 92 . 0                                                                      obdobie
+
+                                                                                  mesiac rok
+
+                                                                  od 0 1 2 0 2 4
+
+                                                                  do 1 2 2 0 2 4
+
+Priložené súčasti účtovnej závierky
+
+Súvaha (ÚČ INVFOND 1 - 02), Výkaz ziskov a strát (ÚČ INVFOND 2-02), Poznámky (ÚČ INVFOND 3-02)
+
+Obchodné meno (názov) subjektu kolektívneho investovania s právnou subjektivitou
+CB G r o w t h ONE s . r . o .
+
+Názov správcovskej spoločnosti spravujúcej subjekt kolektívneho investovania s právnou subjektivitou
+CB I n v e s t me n t Ma n a g eme n t s . r . o .
+
+Sídlo subjektu kolektívneho investovania s právnou subjektivitou                  Číslo
+Ulica                                                                             3
+S t a r ome s t s k á
+
+PSČ                   Obec
+811 0 3               Bra t i s l ava
+
+Označenie obchodného registra a číslo zápisu obchodnej spoločnosti
+OR M e s t s k é h o s ú d u B r a t i s l a v a I I I
+odd i e l : S r o V l o ž k a č í s l o : 140835 / B
+
+Telefónne číslo                         Faxové číslo
+                  /                                       /
+
+E-mailová adresa
+
+Zostavená dňa:        Podpisový záznam štatutárneho orgánu alebo člena štatutárneho orgánu správcovskej spoločnosti:
+        01. 06. 2026
+
+Schválená dňa:
+
+                                        SÚVAHA
+                                               2
+IČO                                  DIČ                                                                    ÚČ SKISPS 1-02
+52656136                                 2121105371
+
+                                                           k 31. 12. 2025
+                                                              v eurách
+
+Označen                 Položka                                       Bežné účtovné obdobie                 Predchádzajúce účtovné
+                                                                                                                      obdobie
+     ie
+
+a        b                                                 Brutto           Korekcia     Netto
+
+x        Aktíva                                            x                x            x               x
+
+I.       Obežný majetok (súčet položiek 1 až                       80 272             0         80 272      423 498
+
+         9)
+
+         1, Peňažné prostriedky a ekvivalenty                         4271            0         4271                  497
+            peňažných prostriedkov                                                                              423 000
+
+         2, Vklady v bankách s výpovednou lehotou                  76 000             0         76 000                   1
+            kratšou ako 15 dní                                                                                           1
+            a termínované vklady v bankách so                             1
+            splatnosťou do 14 dní                                         1                                 13 081 590
+                                                                                                             4 514 521
+         3, Pohľadávky z obchodného styku voči                               -        0         1               659 546
+            dlžníkom,
+
+a)       s ktorými účtovná jednotka nie je
+
+         prepojená, ani s nimi nemá                                                   0         1
+
+         vzťah podielovej účasti
+
+b)       s ktorými je účtovná jednotka prepojená -                                       -               -
+
+c)       s ktorými má účtovná jednotka vzťah -                              -            -               -
+
+         podielovej účasti
+
+         4, Cenné papiere na obchodovanie                  -                -            -               -
+
+         5, Deriváty s aktívnym zostatkom z                -                -            -               -
+
+a)       finančných nástrojov                              -                -            -               -
+
+b)       komodít                                           -                -            -               -
+
+c)       drahých kovov                                     -                -            -               -
+
+         6, Drahé kovy a komodity                          -                -            -               -
+
+         7, Pohľadávky z obrátených                        -                -            -               -
+            repoobchodov
+
+a)       voči bankám                                       -                -            -               -
+
+b)       voči iným podnikom                                -                -            -               -
+
+         8, Majetok na predaj                              -                -            -               -
+
+a)       dlhodobý finančný majetok                         -                -            -               -
+
+b)       vlastné akcie a podiely                           -                -            -               -
+
+c)       dlhodobý hmotný majetok a dlhodobý -                               -            -               -
+
+         9, nNeáhkmlaodtynaý mpraíjjmetyokbudúcich období  -                -            -               -
+
+         10, Daňové pohľadávky                             -                -            -               -
+
+II.      Neobežný majetok (súčet položiek 10 20 225 467 -9 969 992 10 255 475
+
+         až 24)
+
+A.       Investície (súčet položiek 10 až 18)                 5 738 454 -3 182 500 2 555 954
+
+         11, Krátkodobé vklady v bankách                   -                -            -               -
+
+         12, Krátkodobé dlhopisy                           -                -            -               -
+
+         13, Krátkodobé úvery                                 2 151 910 -1 762 500              389 410
+
+         14, Dlhodobé vklady v bankách                     -                -            -               -
+
+         15, Dlhodobé dlhopisy                             -                -            -               -
+
+                                                                   3
+IČO                                       DIČ                                                 ÚČ SKISPS 1-02
+52656136                                      2121105371
+
+Označen                    Položka                    Bežné účtovné obdobie                   Predchádzajúce účtovné
+    ie                                                                                                  obdobie
+
+a        b                                    Brutto          Korekcia     Netto
+
+x        Aktíva                               x               x            x               x
+
+    16, Dlhodobé úvery                            3 586 543 -1 420 000 2 166 543              3 854 975
+
+a)       bežného typu                             3 586 543 -1 420 000 2 166 543              3 854 975
+
+b)       z finančného prenájmu nehnuteľností -                -            -               -
+
+c)       z finančného prenájmu iného majetku -                -            -               -
+
+    17, Prenajaté nehnuteľnosti               -               -            -               -
+
+    18, Akcie                                 -               -            -               -
+
+    19, Podielové listy                       -               -            -               -
+
+B.       Dlhodobý majetok (súčet položiek 19      14 487 013 -6 787 492       7 699 521       8 567 069
+                                                  14 487 013 -6 787 492       7 699 521       8 567 069
+         a 22)
+
+    20, Dlhodobý finančný majetok
+
+a)       podiely v prepojených podnikoch          2 250 160 -1 575 000            675 160     775 160
+
+b)       pohľadávky voči prepojeným podnikom -                -            -               -
+
+c)       podielové účasti                         11 660 404 -5 212 492 6 447 912             7 260 051
+
+c).1 s podstatným vplyvom                         7 740 844 -3 510 000 4 230 844              4 666 238
+
+c).2 ostatné                                      3 919 560 -1 702 492 2 217 068              2 593 813
+
+d)       pohľadávky voči podnikom, s              576 449               0         576 449     531 858
+                                                           0                                           0
+         ktorými má účtovná jednotka vzťah
+
+    21, pNoedhimeloovtneýj úmčaajsettiok                                0         0
+
+a)       koncesie, patenty, licencie a podobné -              -            -               -
+
+b)       pgoráovdawill                        -               -            -               -
+
+c)       obstaranie nehmotného majetku        -               -            -               -
+
+    22, Hmotný majetok                                0                 0         0                           0
+
+a)       neodpisovaný                                 0                 0         0                           0
+
+a).1 pozemky                                  -               -            -               -
+
+a).2 ostatný                                  -               -            -               -
+
+b)       odpisovaný                                   0                 0         0                           0
+
+b).1 budovy                                   -               -            -               -
+
+b).2 príslušenstvo, nástroje, prístroje a -                   -            -               -
+
+         vybavenie
+
+c)       obstaranie hmotného majetku          -               -            -               -
+
+    23, Odložené daňové pohľadávky            -               -            -               -
+
+         Aktíva spolu                             20 305 738 -9 969 992 10 335 746            13 505 088
+
+                                                  4
+IČO                               DIČ                                           ÚČ SKISPS 1-02
+52656136                              2121105371
+                                                                                   Predchádzajúce účtovné
+Označen                  Položka                         Bežné účtovné obdobie               obdobie
+    ie                                                                1                                           2
+                                                                       x
+a        b                                                                        x
+                                                                  230 778                               220 172
+x        Pasíva                                                   226 938                               218 252
+
+I.       Záväzky (súčet položiek 1 až 14)                              -          -
+
+A.       Krátkodobé záväzky (súčet položiek                       226 938                               218 252
+                                                                       -          -
+         1 až 8)
+                                                                  226 938                               218 252
+    1, Záväzky voči bankám splatné na                                  -          -
+       požiadanie
+                                                                      0                                           0
+    2, Záväzky z obchodného styku                                                 -
+                                                                       -          -
+a)       s ktorými účtovná jednotka nie                                -          -
+                                                                       -
+         je prepojená, ani s nimi nemá                                            -
+                                                                       -
+b)       vszkťtaohrými je účtovná jednotka prepojená                                                              0
+                                                                      0           -
+c)       s ktorými má účtovná jednotka vzťah                           -          -
+                                                                       -          -
+         podielovej účasti                                             -
+                                                                      0                                           0
+    3, Ostatné krátkodobé záväzky
+       voči bankám                                                     -          -
+                                                                       -          -
+a)       z repoobchodov                                                -          -
+                                                                   3 840
+b)       ostatné krátkodobé                                        3 840                                    1 920
+                                                                                                            1 920
+    4, Záväzky z finančných nástrojov
+       predaných na krátko                                                                                        0
+                                                                                  -
+    5, Záväzky z drahých kovov a komodít                                          -
+       predaných na krátko                                                        -
+
+    6, Deriváty s pasívnym zostatkom                                              -
+
+a)       finančných nástrojov
+
+b)       komodít
+
+c)       drahých kovov
+
+    7, Krátkodobé záväzky z úverov a
+       z repoobchodov
+
+a)       z repoobchodov
+
+b)       ostatné krátkodobé úvery
+
+    8, Výnosy a výdavky budúcich období
+
+    9, Splatná daň z príjmov
+
+B.       Dlhodobé záväzky (súčet položiek 9 až
+
+         14)
+
+    10, Dlhodobé záväzky voči                            0
+
+a)       bankám                                          -
+
+b)       nebankovým veriteľom                            -
+
+    11, Dlhodobé záväzky z emisie                        -
+
+         cenných
+
+         papierov
+
+    12, Dlhodobé záväzky voči                            -
+
+         podnikom,
+
+         s ktorými je účtovná jednotka prepojená
+
+                                                      5
+IČO                                  DIČ                                   ÚČ SKISPS 1-02
+52656136                                 2121105371
+                                                                           Predchádzajúce účtovné
+Označen                  Položka                   Bežné účtovné obdobie             obdobie
+    ie                                                          1                                         2
+                                                                 x
+a        b                                                       -        x
+                                                                          -
+x        Pasíva                                                  -
+                                                                 -        -
+     13, Dlhodobé záväzky voči podnikom,                  10 104 968      -
+          v ktorých má účtovná jednotka alebo                75 750
+                                                             75750                          13 284 916
+     14, kRteozréermvyajú na účtovnej jednotke                   -                                75 750
+                                                                 -                                75 750
+     15, Odložené daňové záväzky                          23 183 550
+                                                                0         -
+II.      Vlastné imanie (súčet položiek 16 až                    -        -
+                                                                 -
+     16, 2Z1á)kladné imanie, z toho                              -                          23 183 550
+                                                         (9 974 384)                                      0
+a)       upísané základné imanie
+                                                         (3 179 948)      -
+b)       pohľadávky voči spoločníkom (x)                                  -
+                                                          10 335 746      -
+     17, Emisné ážio
+                                                                                            (6 334 278)
+     18, Fondy z oceňovacích rozdielov x/(x)
+                                                                                            (3 640 106)
+     19, Rezervné fondy
+                                                                                            13 505 088
+a)       zákonný rezervný fond
+
+b)       rezervný fond na vlastné akcie
+
+c)       iné rezervné fondy
+
+     20, Nerozdelený zisk alebo
+          neuhradená
+          strata z minulých rokov x/(x)
+
+     21, Zisk alebo strata bežného
+          účtovného
+          obdobia x/(x)
+
+          Pasíva spolu
+
+                                                6
+IČO              DIČ                                                                 ÚČ SKISPS 1-02
+52656136             2121105371
+
+                 VÝKAZ ZISKOV A STRÁT
+
+                             v eurách
+
+                 za 12 mesiacov roku 2025
+
+                                                                               Bezprostredne
+
+Označen          POLOŽKA                                          Bežné účtovné predchádzajúce
+     ie
+                                                                  obdobie            účtovné
+
+                                                                                     obdobie
+
+a        b                                                                 1                  2
+
+1        Výnosy z úrokov a podobné výnosy                         (1 241 811)        (880 387)
+
+1.1.     Úroky a podobné výnosy                                       513 189            254 749
+1.2./a.                                                                           -  (1 135 136)
+1.3./b.  Výsledok zaistenia                                    -
+                                                                  (1 755 000)
+2        Zníženie hodnoty/zrušenie zníženia
+3        hodnoty majetku
+
+4./c.    Výnosy z podielových listov                           -               -
+5./d.                                                                          -
+6./e.    Výnosy z dividend a z iných podielov -
+7./f.    na zisku
+
+8./g.    Zisk/strata z realizácie cenných                      -               -
+                                                                               -
+h.       pZaispki/esrtoravtaa zpoodpieerloávcií s devízami     -               -
+                                                                               -
+i.       Zisk/strata z derivátov                               -
+I.
+j.       Zisk/strata z realizácie drahých kovov a -                        0         (913 315)
+j.1.     komodít
+j.1.a.
+j.1.b.   Zisk/strata z realizácie iného
+j.2.     investičného majetku
+j.3.
+j.3.a.   Transakčné náklady, bankové odplaty a -                                  -
+j.3.b.
+j.4.     iné odplaty a poplatky                                                   -
+j.4.a.                                                            (1 241 811)
+j.4.b.   Dane                                                  -  (1 932 990)
+j.5.
+j.6.     Hrubý zisk alebo strata                                                  -  (1 793 702)
+j.7.                                                                              -  (1 841 874)
+j.8.     Administratívne náklady                                                  -
+9                                                                                 -  (1 336 248)
+         personálne náklady                                    -                  -    (411 632)
+                                                                                  -      (93 994)
+         mzdové a sociálne náklady                             -                  -
+                                                                  (1 482 247)
+         ostatné personálne náklady                            -                  -
+                                                                                  -
+         náklady na záväzky a na rezervy                       -    (394 555)
+                                                                                  -
+         odpisy                                                -                  -
+                                                                      (56 188)
+         odpisy hmotného majetku                               -
+
+         odpisy nehmotného majetku                             -
+
+         zníženie hodnoty majetku
+
+         zníženie hodnoty hmotného majetku -
+
+         zníženie hodnoty nehmotného majetku -
+
+         odplaty za správu majetku
+
+         náklady na odplaty za služby                          -
+
+         dneápkloazdityánraa audit účtovnej závierky           -
+
+         ostatné prevádzkové náklady
+
+         Ostatné prevádzkové výnosy
+
+                                                            6
+IČO                  DIČ                                              ÚČ SKISPS 1-02
+52656136                 2121105371
+
+                                                                   Bezprostredne
+
+Označen                POLOŽKA                        Bežné účtovné predchádzajúce
+     ie
+                                                      obdobie         účtovné
+
+                                                                      obdobie
+
+a        b                                                     1               2
+
+10       Výnosy z podielových účastí               -               -
+
+10.1. v podnikoch do 20% ich základného -                          -
+
+         imania vrátane
+
+10.2. v prepojených podnikoch                      -               -
+
+11       Výnosy z úverov poskytnutých
+
+k.       pNráekplaodjeynfýimnapnocodvnaiknoiam
+
+k.1.a.   náklady na úroky neprepojeným
+k.1.b.   podnikom
+         náklady na úroky prepojeným
+         podnikom
+
+k.2.     zisky/straty zo zaistenia úrokov
+
+k.3.     náklady na dane a poplatky
+
+l.       Daň z prímov                                 (5 147)         (4 530)
+
+l.1.     splatná daň z príjmov                        (5 147)         (4 530)
+
+l.2.     odložená daň z príjmov
+
+II.      Zisk alebo strata za účtovné obdobie         (3 179 948)     (3 640 106)
+
+         po zdanení
+
+                                                7
+IČO       DIČ             ÚČ SKISPS 1-02
+52656136      2121105371
+
+                                                     POZNÁMKY
+                                           účtovnej závierky zostavenej
+
+                                                    k 31. 12. 2025
+                                                       v eurách
+
+A. Všeobecné informácie o subjekte kolektívneho investovania s právnou subjektivitou
+
+    1. Alternatívny investičný fond:
+
+CB Growth ONE s. r. o.
+Staromestská 3
+811 03 Bratislava
+(ďalej „investičný fond“)
+
+Alternatívny investičný fond CB Growth ONE s.r.o. bol založený v súlade s ustanoveniami zákona č.
+203/2011 Z. z. Zákon o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov. Spoločnosť vznikla dňom 9.10.2019, kedy bola právoplatne zapísaná do
+Obchodného registra Okresného súdu Bratislava I. pod číslom 140835/B (ku dňu zostavenia účtovnej
+závierky je spoločnosť evidovaná v Obchodnom registri Mestského súdu Bratislava III).
+
+Alternatívny investičný fond vznikol 9.10.2019 a je zapísaný v registri alternatívnych investičných
+fondov, ktorý vedie Národná banka Slovenska.
+
+Alternatívny investičný fond je subjektom kolektívneho investovania s právnou subjektivitou.
+
+Predmet činnosti investičného fondu:
+    a) poskytovanie úverov alebo pôžičiek z peňažných zdrojov získaných výlučne bez verejnej
+         výzvy a bez verejnej ponuky majetkových hodnôt,
+    b) sprostredkovanie poskytovania úverov a pôžičiek z peňažných zdrojov získaných výlučne bez
+         verejnej výzvy a bez verejnej ponuky majetkových hodnôt,
+    c) sprostredkovateľská činnosť v oblasti obchodu,
+    d) sprostredkovateľská činnosť v oblasti služieb,
+    e) administratívne služby,
+    f) činnosť podnikateľských, organizačných a ekonomických poradcov.
+
+Predpokladaná doba trvania investičného fondu je 10 rokov od jeho vzniku t .j do 30.10.2029, s opciou
+predĺženia o trikrát jeden rok.
+
+Cieľom investičného fondu sú nenávratné investície vo forme priameho kapitálového vstupu (equity)
+alebo kvázi-kapitálového vstupu (quasi-equity) do slovenských mladých a inovatívnych spoločností vo
+veku maximálne 3 rokov mimo Bratislavského samosprávneho kraja a maximálne 5 rokov v
+Bratislavskom samosprávnom kraji.
+
+    2. Správca alternatívneho investičného fondu:
+
+CB Investment Management s. r. o.
+Staromestská 3
+811 03 Bratislava
+(ďalej „správcovská spoločnosť“)
+
+Správca alternatívneho investičného fondu, spoločnosť CB Investment Management s.r.o., bola
+založená v súlade s ustanoveniami zákona č.203/2011 Z. z. zákon o kolektívnom investovaní a o
+zmene a doplnení niektorých zákonov v znení neskorších predpisov. Spoločnosť vznikla dňom
+14.8.2019, kedy bola právoplatne zapísaná do Obchodného registra Okresného súdu Bratislava I. pod
+
+                                                             8
+IČO       DIČ                                                                     ÚČ SKISPS 1-02
+52656136      2121105371
+
+číslom 139629/B (ku dňu zostavenia účtovnej závierky je spoločnosť evidovaná v Obchodnom registri
+Mestského súdu Bratislava III).
+
+Spoločnosť CB Investment Management s.r.o. bola zapísaná do registra správcov alternatívnych
+investičných fondov a bolo jej pridelené registračné číslo: 0018.
+
+Priamou materskou spoločnosťou, vlastniacou 100% podiel na základnom imaní CB Investment
+Management s.r.o. je spoločnosť Crowdberry a.s. so sídlom Staromestská 3, 811 03 Bratislava
+zapísaná do Obchodného registra Mestského súdu Bratislava III, pod číslom 6178/B.
+
+B. Použité účtovné zásady a účtovné metódy
+
+1. Informácia k zostaveniu účtovnej závierky subjektu kolektívneho investovania.
+
+Účtovná závierka bola zostavená ako riadna účtovná závierka v súlade so zákonom č. 431/2002 Z. z. o
+účtovníctve v znení neskorších predpisov a v súlade s opatrením MF SR č. MF/17945/2013-74 z 11.
+decembra 2013, ktorým sa mení a dopĺňa opatrenie MF SR č. MF/23778/2012-74 zo 14. decembra
+2012 a opatrenie MF SR z 13. decembra 2007 č. MF/25835/2007-74, ktorým sa ustanovujú
+podrobnosti o usporiadaní a označovaní položiek účtovnej závierky, obsahovom vymedzení týchto
+položiek a rozsahu údajov určených z účtovnej závierky na zverejnenie, o rámcovej účtovnej osnove a
+postupoch účtovania pre podielové fondy, dôchodkové fondy a doplnkové dôchodkové fondy v znení
+neskorších predpisov (ďalej „postupy účtovania pre podielové fondy“). Nové postupy účtovania pre
+podielové fondy nemajú žiaden vplyv na použité metódy a zásady. Nové postupy majú vplyv len na
+štruktúru prezentácie poznámok.
+
+Hodnoty položiek účtovnej závierky sú uvedené v celých EUR, pokiaľ nie je uvedené inak.
+
+Účtovná závierka bola zostavená za obdobie od 1.1.2025 do 31.12.2025 podľa princípov časového
+rozlíšenia nákladov a výnosov a historických cien, s výnimkou vybraných finančných nástrojov
+oceňovaných reálnou hodnotou, za predpokladu nepretržitého trvania činnosti podielového fondu
+(going concern).
+
+Usporiadanie a obsahové vymedzenie položiek účtovnej závierky subjektu kolektívneho investovania
+s právnou subjektivitou je uvedené v prílohe č. 7 opatrenia Ministerstva financií Slovenskej republiky
+z 13. decembra 2007 č. 25835/2007-74, ktorým sa ustanovujú podrobnosti o usporiadaní a označovaní
+položiek účtovnej závierky, obsahovom vymedzení týchto položiek a rozsahu údajov určených z
+účtovnej závierky na zverejnenie, o rámcovej účtovej osnove a postupoch účtovania pre podielové
+fondy, dôchodkové fondy a doplnkové dôchodkové fondy.
+
+2. Účtovné zásady a účtovné metódy použité pri zostavovaní účtovnej závierky.
+
+a) Pohľadávky
+    Pohľadávky sa pri vzniku oceňujú ich menovitou hodnotou. Toto ocenenie sa v prípade
+    pochybných a nevymožiteľných pohľadávok znižuje o opravné položky. Pohľadávky voči bankám
+    predstavujú zostatky vkladových/termínovaných účtoch v bankách a sú účtované v akumulovanej
+    hodnote, t. j. v cene použitej pri prvotnom ocenení, ktorá sa zvyšuje o dosahovaný, časovo
+    rozlíšený úrok.
+
+b) Peňažné prostriedky
+    Peňažné prostriedky a ceniny sa oceňujú ich menovitou hodnotou. Zníženie ich hodnoty sa
+    vyjadruje opravnou položkou.
+
+                                                             9
+IČO       DIČ             ÚČ SKISPS 1-02
+52656136      2121105371
+
+c) Cudzia mena
+    Majetok a záväzky vyjadrené v cudzej mene sa prepočítavajú na euro kurzom určeným Európskou
+    centrálnou bankou platným ku dňu uskutočnenia účtovného prípadu a v účtovnej závierke platným
+    ku dňu, ku ktorému sa zostavuje. Kurzové rozdiely sa účtujú s vplyvom na výsledok hospodárenia.
+
+    Pri precenení cenných papierov k dátumu účtovnej závierky sa odčlení tá časť precenenia, ktorá
+    vzniká v dôsledku precenenia cudzej meny na euro. Toto precenenie sa rovnako vykazuje vo
+    výkaze ziskov a strát v riadku „Zisk/strata z devízových operácií“.
+
+d) Úroky, poplatky a provízie
+    Úroky, poplatky a provízie sú zaúčtované vo výkaze ziskov a strát do obdobia, s ktorým časovo a
+    vecne súvisia.
+
+e) Záväzky
+    Záväzky sa pri ich vzniku oceňujú menovitou hodnotou. Záväzky sa pri ich prevzatí oceňujú
+    obstarávacou cenou. Ak sa pri inventarizácii zistí, že suma záväzkov je iná ako ich výška v
+    účtovníctve, uvedú sa záväzky v účtovníctve a v účtovnej závierke v tomto zistenom ocenení.
+
+f) Rezervy a opravné položky
+    Rezervy sú záväzky s neurčitým časovým vymedzením alebo výškou, tvoria sa na krytie známych
+    rizík alebo strát z podnikania. Oceňujú sa v očakávanej výške záväzku. Opravné položky sa tvoria
+    na krytie možných rizík aktív, ktoré sú po splatnosti. Tvoria sa vo výške, ktorá zodpovedá riziku
+    návratnosti aktív.
+
+g) Transakčné náklady
+    Transakčnými nákladmi sú výdavky, ktoré sú priamo spojené s obstaraním alebo s predajom
+    finančného majetku oceňovaného reálnou hodnotou a drahých kovov.
+
+h) Zdaňovanie
+    Náklad na daň z príjmov sa počíta pomocou platnej daňovej sadzby z účtovného zisku upraveného
+    o trvalé alebo dočasne daňovo neuznateľné náklady a nezdaňované výnosy.
+
+i) Účtovanie nákladov a výnosov
+    Náklady a výnosy sa účtujú spravidla prírastkovým spôsobom, na ťarchu účtu v prípade účtu
+    nákladov a v prospech účtu v prípade účtu výnosov. Na opačnej strane účtu sa účtuje len oprava
+    zápisu alebo jeho prevod na konečný účet súvahový. Pri účtovaní o operáciách s majetkom,
+    prípadne so záväzkami, ktorými sú nákupy, predaje a iné prevody a ocenenia, sa môže účtovať
+    vyrovnávacím spôsobom, výnos v prospech a náklad na ťarchu účtu. Zostatok predmetného účtu
+    sa vo výkaze ziskov a strát vykáže podľa zostatku ako zisk alebo ako strata.
+
+    Náklady a výnosy sa účtujú vždy do obdobia, s ktorým časovo a vecne súvisia. Opravy chýb
+    minulých účtovných období sa účtujú na účty účtovnej triedy 5 – Kapitálové účty a závierkové
+    účty.
+
+    Ak sa majetok, ktorý nebol nadobudnutý na účel jeho predaja, výnimočne predáva, alebo ak predaj
+    v ekonomickom zmysle je nevyhnutnou podmienkou na vznik iného druhu majetku, ktorý je
+    účelom transakcie, ako je to pri finančnom prenájme, účtuje sa o tom čistým spôsobom. Na účet
+    nákladov alebo na účet výnosov sa zaúčtuje len čistý zisk alebo čistá strata z predaja.
+
+    Prirastené výnosy z úrokov alebo prirastené náklady z úrokov sa účtujú na účtoch úrokových
+    výnosov alebo úrokových nákladov súvzťažne na účty majetku, ku ktorému tieto úrokové výnosy
+    alebo úrokové náklady prirástli.
+
+                                                            10
+IČO       DIČ                                                              ÚČ SKISPS 1-02
+52656136      2121105371
+
+j) Časové rozlišovanie nákladov a výnosov, výdavkov a príjmov
+    Ak pohľadávka, záväzok, iný príjem alebo výdavok, ktoré menia vlastné imanie fondu, sú za
+    poskytovanie výkonu za určité obdobie a toto obdobie sa týka dvoch alebo viacerých období
+    medzi bezprostredne po sebe nasledujúcimi účtovnými závierkami alebo inými udalosťami
+    ustanovenými všeobecne záväznými právnymi predpismi alebo účtovnou politikou fondu, takáto
+    pohľadávka, záväzok, iný príjem alebo výdavok sa pri svojom vzniku nevykážu súvzťažne ako
+    náklad alebo výnos v celej svojej hodnote, ale v primeranej časti ako súvahová položka časového
+    rozlíšenia.
+
+Príjmy a výdavky, ktoré sa stanú výnosmi alebo nákladmi v budúcnosti, sa časovo rozlišujú ako
+výnosy budúcich období alebo náklady budúcich období.
+
+Výnosy a náklady, ktoré budú prijaté alebo vydané v budúcnosti, sa časovo rozlišujú ako príjmy
+budúcich období alebo výdavky budúcich období.
+
+Pri účtovných prípadoch časového rozlíšenia je známy ich vecný obsah, výška a obdobie, ktorého
+sa týkajú.
+
+3. Informácia o používaní usporiadacích účtov.
+
+Subjekt kolektívneho investovania nepoužíva usporiadacie účty.
+
+4. Informácia o použití nových účtovných zásad a metód v porovnaní s predchádzajúcim obdobím.
+
+Subjekt v predchádzajúcom účtovnom období nepoužíval nové účtovné zásady.
+
+5. Popis spôsobov oceňovania majetku a záväzkov a použité metódy pri určení reálnych hodnôt.
+
+Oceňovanie majetku, ktorý sa neoceňuje reálnou hodnotou, sa v účtovnej závierke upravuje o
+predpokladané zníženie jeho hodnoty.
+
+Úver, pôžička alebo iná pohľadávka, ktorá je obstaraná na účel investovania majetku a finančný
+záväzok fondu obstaraný na účel financovania fondu sa oceňujú súčasnou hodnotou
+prostredníctvom metódy umorovania hodnoty. Teda ocenenie pri prvotnom zaúčtovaní v hodnote
+peňažných tokov z nich, diskontovaných efektívnou úrokovou mierou. O znížení hodnoty sa
+účtuje na účte opravnej položky.
+
+Dlhové cenné papiere sa oceňujú reálnou hodnotou. Ak nie je pre daný cenný papier trhová cena,
+použije sa kvalifikovaný odhad. Rozdiel medzi prvotným ocenením a jeho reálnou hodnotou je
+výnos alebo náklad.
+
+Deriváty sa oceňujú reálnou hodnotou.
+
+Oceňovanie nehnuteľnosti držaných ako investičný majetok sa účtuje v obstarávacej cene a v
+účtovnej závierke sa oceňuje reálnou hodnotou.
+
+Drahé kovy sa oceňujú trhovou hodnotou.
+
+Účasti v realitných spoločnostiach sa oceňujú obstarávacími cenami a v účtovnej závierke reálnou
+hodnotou.
+
+Podiel v obchodnej spoločnosti sa oceňuje reálnou hodnotou. Hodnota podielu sa zistí z hodnoty
+obchodnej spoločnosti.
+
+                                                11
+IČO       DIČ                                                         ÚČ SKISPS 1-02
+52656136      2121105371
+
+6. Určenie dňa uskutočnenia účtovného prípadu
+
+Dňom uskutočnenia účtovného prípadu je najmä:
+- deň výplaty alebo prevzatia, alebo výplaty hotovosti,
+- deň kúpy alebo predaja peňažných prostriedkov v cudzej mene,
+- deň vykonania platby, príp. inkasa z účtu klienta,
+- deň dohodnutia obchodu s cennými papiermi,
+- deň, v ktorom dôjde k nadobudnutiu vlastníctva alebo zániku vlastníctva,
+- deň, v ktorom dôjde k vzniku pohľadávky a záväzku, k ich zmene alebo zániku.
+
+7. Stratégia a zásady zaisťovania.
+
+Investičný fond nepoužíva a nemôže v zmysle svojej investičnej stratégie používať inštrumenty
+zaisťovania (hedging).
+
+8. Zásady a postupy identifikácie majetku so zníženou hodnotou.
+
+Spoločnosť na pravidelnej ročnej báze bude prehodnocovať a identifikovať majetok so zníženou
+hodnotou posúdením jeho schopnosti prinášať budúce ekonomické úžitky do spoločnosti v
+nasledujúcich obdobiach.
+
+9. Zásady a postupy výpočtu výšky zníženia hodnoty majetku a rezerv.
+
+Spoločnosť v rámci pravidelnej inventarizácie majetku v prípade potreby vytvára opravné
+položky. K 31.12.2025 spoločnosť vytvorila opravnú položku k finančnému majetku.
+
+Rezervy sú záväzky s neistým časovým vymedzením alebo výškou. Rezerva sa tvorí ak je
+pravdepodobné, že existuje záväzok alebo povinnosť, ktorá je výsledkom minulých udalostí, ktorá
+môže mať neistú výšku alebo splatnosť, pričom konkrétny veriteľ alebo oprávnená osoba nemusia
+byť známe.
+
+10. Informácia o predpokladoch a východiskách, z ktorých vychádzajú oceňovacie modely a techniky
+    pre určenie reálnej hodnoty.
+
+Investície do Cieľových spoločností boli ocenené obstarávacími nákladmi a sú vykázané v reálnej
+hodnote, ktorá zohľadňuje posúdenie rizík vplývajúcich na znehodnotenie Cieľových spoločností.
+
+                                               12
+IČO                      DIČ                                              ÚČ SKISPS 1-02
+52656136                     2121105371
+
+Označenie C. Prehľad o peňažných tokoch                                                    Bezprostredne
+                                                       Bežné účtovné obdobie predchádzajúce obdobie
+
+x     Peňažný tok z prevádzkovej činnosťi                 X               X
+
+      Zvýšenie/zníženie istín poskytnutých úverov a          347 000         (423 000)
+
+1.    vkladov (-/+)
+
+      Uhradené pohľadávky za úroky, odplaty a                6 878           13 736
+
+2.    provízie (+)
+
+3.    Uhradené záväzky z odplát a provízií (-)
+
+4.    Uhradené pohľadávky za dividendy (+)
+
+      Uhradené pohľadávky za predané cenné
+
+      papiere, drahé kovy, komodity a nehnuteľnosti
+
+5.    (+)
+
+      Uhradené záväzky na zaplatenie kúpnej ceny
+
+      cenných papierov, drahých kovov, komodít a
+
+6.    nehnuteľností (-)
+
+7.    Uhradené pohľadávky z derivátov (+)
+
+8.    Uhradené záväzky z derivátov (-)
+
+                                                             34 659                       240
+
+9.    Uhradené pohľadávky z obchodného styku (+)
+
+10.   Uhradené záväzky z obchodného styku (-)                (385 170)       (278 127)
+
+11.   Uhradené mzdy a iné sociálne náklady (-)
+
+12.   Uhradené dane (-)                                      (5 147)         (2 610)
+
+                                                             (1 780)         (689 761)
+
+I.    Čistý peňažný tok z prevádzkovej činnosti
+
+x     Peňažný tok z investičnej činnosti               x               x
+                                                             (1 255)
+      Uhradené záväzky z obstarania finančných
+
+      investícií, hmotného majetku a nehmotného
+
+13.   majetku (-)
+
+      Uhradené pohľadávky z predaja finančných               4 888
+
+      investícií, hmotného majetku a nehmotného
+
+14.   majetku (+)
+
+      Uhradené pohľadávky na podiely na zisku z
+
+15.   finančných investícií (+)
+
+16.   Zníženie/ zvýšenie poskytnutých úverov (+/-)
+
+II.   Čistý peňažný tok z investičnej činnosti               3 633
+                                                                     x
+x     Peňažný tok z finančnej činnost                  x
+
+17.   Splatené upísané základné imanie (+)
+
+      Uhradené záväzky na vrátenie splatenej časti
+
+18.   podielov, ktoré neboli včas úplne splatené (-)
+
+19.   Uhradené záväzky na vyplatenie zisku (-)
+
+20.   Zvýšenie/zníženie prijatých úverov (+/-)
+
+III.  Čistý peňažný tok z finančnej činnosti                      0                     0
+                                                             1 854                      0
+      Účinok zmien vo výmenných kurzoch na                                   (689 761)
+                                                               497
+IV.   peňažné prostriedky v cudzej mene                      2 351            690 258
+                                                                                    497
+      Čistý vzrast/pokles peňažných
+
+V.    prostriedkov a ich ekvivalentov I.+II.+III.+IV.
+
+      Peňažné prostriedky a ich ekvivalenty na
+
+VI.   začiatku účtovného obdobia
+
+      Peňažné prostriedky a ich ekvivalenty na
+
+VII.  konci účtovného obdobia VI.+V.
+
+                                                13
+IČO                       DIČ                                  ÚČ SKISPS 1-02
+52656136                      2121105371
+
+Ozna D. Prehľad o zmenách vo vlastnom imaní                    Bezprostredn
+                                                               e
+-   subjektu kolektívneho investovania s Bežné                 predchádzajú
+                                                               ce účtovné
+čeni právnou subjektivitou                         účtovné     obdobie
+                                                               2
+e                                                  obdobie
+
+a   b                                              1
+
+I.  Vlastné imanie na začiatku obdobia                      13 284 916 16 925 022
+
+a) Základné imanie (-/+)                                    -                     -
+
+a).1 Upísané podiely/prevody z iných zložiek                -                     -
+
+    vlastného imania (+)
+
+a).2 Pohľadávky voči spoločníkom/členom (-/+)               -                     -
+
+a).3 Vlastné akcie/podiely (-/+)                            -                     -
+
+a).4 Zníženie základného imania (-)                         -                     -
+
+b) Ážiový fond (-/+)                                        -                     -
+
+c) Fondy z precenenia (-/+)                                 -                     -
+
+d) Rezervné fondy (-/+)                                     -                     -
+
+e) Nerozdelené zisky/neuhradené straty minulých             -                     -
+
+    období (-/+)
+
+f) Účet ziskov a strát                                      (3 223 164) (3 640 106)
+
+II. Nárast/pokles vlastného imania                          (3 223 164) (3 640 106)
+
+A. Vlastné imanie na konci obdobia (I. + II.)               10 061 753 13 284 916
+
+a) počet podielov                                           -                     -
+
+b) hodnota jedného podielu                                  -                     -
+
+Vlastné imanie spoločnosti je tvorené:
+- Základné imanie spoločnosti CB Growth ONE s.r.o
+
+               Spoločník          Podiel na základnom Podiel na základnom imaní v
+
+National Development Fund II.,       imaní v EUR               %
+a.s.
+CB Investment management                           73 902      97,56
+s.r.o.
+                                                   1 848       2,44
+
+- Fondy z precenenia spoločnosti CB Growth ONE s.r.o. (Ostatné kapitálové fondy)
+
+               Spoločník             Vkaldy v EUR           Podiel na základnom imaní v
+
+National Development Fund II.,                                 %
+a.s.
+CB Investment management                 22 618 098            97,56
+s.r.o.
+                                                   565 452     2,44
+
+                                     14
+IČO                          DIČ                                           ÚČ SKISPS 1-02
+52656136                         2121105371
+
+E. Poznámky k položkám súvahy a k položkám výkazu ziskov a strát
+
+I Súvaha
+
+a) Aktíva
+
+Číslo   1. Peňažné prostriedky     Bežné účtovné obdobie                   Bezprostredne
+riadku                                                           4 271     predchádzajúce
+1.      a ekvivalenty peňažných                                        -   obdobie         účtovné
+2.                                                                                              497
+        prostriedkov                                                   -                            -
+3.                                                                     -
+        Bežné účty                                                                                  -
+4.                                                               4 271                              -
+        Poskytnuté          úvery                                      -
+x                                                                                               497
+5.      splatné na požiadanie                                    4 271                              -
+
+        a do 24 hodín a vklady                                                                  497
+
+        splatné do 24 hodín
+
+        Pohľadávky na peňažné
+
+        prostriedky   v rámci
+
+        spotových operácií
+
+        Cenné         papiere
+
+        peňažného            trhu
+
+        s dohodnutou dobou
+
+        splatnosti najviac tri
+
+        mesiace
+
+        Medzisúčet - súvaha
+
+        Úverové linky na
+
+        okamžité      čerpanie
+
+        peňažných prostriedkov
+
+        Spolu
+
+Číslo   2. Vklady v bankách        Bežné účtovné obdobie                   Bezprostredne   účtovné
+riadku  s výpovednou lehotou                                               predchádzajúce
+        do 14 dní a termínované                                 76 000     obdobie         423 000
+1.      vklady v bankách so                                             -                           -
+2.      splatnosťou do 14 dní                                           -                           -
+3.      podľa mien, v ktorých sú                                        -                           -
+4.      ocenené                                                         -                           -
+5.      EUR                                                             -                           -
+6.      USD                                                             -                           -
+7.      JPY                                                             -                           -
+8.      CHF                                                             -                           -
+9.      GBP                                                             -                           -
+10.     SEK                                                             -                           -
+11.     CZK                                                             -                           -
+12.     HUF
+        PLN                                                     76 000                     423 000
+        CAD
+        AUD
+        Ostatné meny
+        Spolu
+
+                                   15
+IČO       DIČ                                                           ÚČ SKISPS 1-02
+52656136      2121105371
+
+Číslo   13.I. Krátkodobé úvery   Bežné účtovné obdobie                  Bezprostredne   účtovné
+riadku  podľa dohodnutej doby                                           predchádzajúce
+        splatnosti                                                   -  obdobie                  -
+1.      Do jedného mesiaca                                           -                           -
+2.      Do troch mesiacov                                            -                   90 271
+3.      Do šiestich mesiacov                                         -                  569 275
+4.      Do jedného roku                                    389 410
+5.      Po splatnosti                                      389 410                      659 546
+        Spolu
+
+Na riadku 13. súvahy zostavenej k 31.12.2025 sú vykázané pohľadávky z poskytnutého
+konvertibilného úveru konvertujúceho do vlastného imania spoločnosti (základné imanie a
+kapitálové fondy) voči nasledujúcim veriteľom:
+- v sume 53 629 EUR voči NG EU s.r.o. - po zohľadnení opravnej položky v sume 400 000
+EUR
+- v sume 21,04 EUR voči 3IPK, a.s.
+- v sume 112 833 EUR voči FOOD EXPRES j. s. a. - po zohľadnení opravnej položky v sume
+500 000 EUR.
+- v sume 85 123 EUR voči DimensionLab s.r.o. - po zohľadnení opravnej položky v sume
+600 000 EUR.
+- v sume 137 804 EUR voči ErlaServers s. r. o. - po zohľadnení opravnej položky v sume 262
+500 EUR.
+
+Číslo   13.II. Krátkodobé úvery  Bežné účtovné obdobie                  Bezprostredne   účtovné
+riadku  podľa zostatkovej doby                                          predchádzajúce
+        splatnosti                                                   -  obdobie         659 546
+1.      Do jedného mesiaca                                           -                           -
+2.      Do troch mesiacov                                            -                           -
+3.      Do šiestich mesiacov                                         -                           -
+4.      Do jedného roku                                    389 410                               -
+5.      Po splatnosti                                      389 410
+        Spolu                                                                           659 546
+
+Číslo   16.I. Dlhodobé úvery     Bežné účtovné obdobie                  Bezprostredne
+riadku  podľa dohodnutej doby                                           predchádzajúce účtovné
+        splatnosti                                       1 354 530      obdobie
+1.      Do dvoch rokov                                               -
+2.      Do piatich rokov                                             -                        3 854 975
+3.      Nad päť rokov                                                                                     -
+4.      Po splatnosti                                      812 013                                        -
+        Spolu                                            2 166 543
+                                                                                              3 854 975
+
+Na riadku 16. súvahy zostavenej k 31.12.2025 sú vykázané pohľadávky z poskytnutého
+konvertibilného úveru konvertujúceho do vlastného imania spoločnosti (základné imanie a
+kapitálové fondy) voči nasledujúcim veriteľom:
+- v sume 243 506 EUR voči Vineway s.r.o., - po zohľadnení opravnej položky v sume 50 000
+EUR.
+
+                                 16
+IČO                     DIČ                                            ÚČ SKISPS 1-02
+52656136                    2121105371
+
+- v sume 101 247 EUR voči Small Business Community, s.r.o., - po zohľadnený opravnej
+položky v sume 25 000 EUR
+- v sume 154 530 EUR voči Wewell s.r.o., - po zohľadnený opravnej položky v sume 720 000
+EUR
+
+- v sume 1 200 000EUR voči WageNow, s.r.o. - po zohľadnený opravnej položky v sume
+400 000 EUR
+- v sume 136 726 EUR voči Gratitude Co j. s. a. - po zohľadnení opravnej položky v sume
+225 000 EUR. .
+- v sume 165 370 EUR voči shealed s. r. o.
+- v sume 165 164 EUR voči AI Algo, s. r. o..
+
+Číslo   16.II. Dlhodobé úvery   Bežné účtovné obdobie                  Bezprostredne
+riadku  podľa zostatkovej doby                                         predchádzajúce účtovné
+        splatnosti                                                  -  obdobie
+1.      Do jedného mesiaca                                          -
+2.      Do troch mesiacov                                           -                                    -
+3.      Do šiestich mesiacov                                        -                           220 725
+4.      Do jedného roku                                 1 354 530                               116 246
+5.      Do dvoch rokov                                              -                        3 518 004
+6.      Do piatich rokov                                            -
+7.      Nad päť rokov                                     812 013                                        -
+8.      Po splatnosti                                   2 166 543                                        -
+        Spolu                                                                                            -
+
+                                                                                             3 854 975
+
+Číslo 16.III. Zabezpečenia Bežné účtovné obdobie     Bezprostredne     účtovné
+riadku dlhodobých úverov                             predchádzajúce
+                                                     obdobie                    -
+1.      Bankové záruky                            -                             -
+                                                  -                             -
+2.      Ručenia                                   -
+
+3.      Záložné práva
+
+        k finančnému majetku
+
+3.1.    dlžníkov                                  -                                    -
+
+3.2.    tretích osôb                              -                                    -
+
+4.      Záložné práva                             -                                    -
+
+        k nefinančnému majetku
+
+4.1.    dlžníkov                                  -                                    -
+
+4.2.    tretích osôb                              -                                    -
+
+5.      Zabezpečovacie                            -                                    -
+
+        prevody práva
+
+6.      Kombinované                               -                                    -
+
+        zabezpečenia
+
+        Spolu                                     -                                    -
+
+                                17
+IČO                        DIČ                                             ÚČ SKISPS 1-02
+52656136                       2121105371
+
+Číslo   20.d). Pohľadávky voči      Bežné účtovné obdobie                  Bezprostredne   účtovné
+riadku                                                                     predchádzajúce
+        podnikom, v ktorých má                                          -  obdobie                  -
+1.                                                                      -                  531 858
+2.      účtovná           jednotka                                      -
+3.                                                                      -                           -
+4.      podielovú účasť podľa                                 576 449                               -
+5.                                                            576 449                               -
+        zostatkovej        doby                                         -                  531 858
+6.                                                                      -                           -
+7.      splatnosti                                                      -                           -
+8.                                                                      -                           -
+        Do jedného mesiaca                                    576 449                               -
+                                                                                           531 858
+        Do troch mesiacov
+
+        Do šiestich mesiacov
+
+        Do jedného roku
+
+        Po splatnosti
+
+        Krátkodobé spolu
+
+        Do dvoch rokov
+
+        Do piatich rokov
+
+        Nad päť rokov
+
+        Dlhodobé spolu
+
+        Spolu
+
+Na riadku 20.d). súvahy zostavenej k 31.12.2025 sú vykázané pohľadávky z poskytnutého
+konvertibilného úveru konvertujúceho do vlastného imania spoločnosti (základné imanie a
+kapitálové fondy) voči nasledujúcim veriteľom:
+- v sume 116 132 EUR voči Institute of Language Technology and Education s. r. o.
+- v sume 460 318 EUR voči E.bot Technology s.r.o.
+
+Vklady do základného imania
+
+           Cieľová spoločnosť         Vklad v EUR                          Nadobudnutý podiel
+                                                                                   na ZI v %
+Casa de Padel j.s.a.                                    80,00                        80,00
+Proer s.r.o.                                        5 342,00                         51,16
+Nitroterra Holding j.s.a.                                                            55,46
+E.bot Technology s.r.o.                               124,50                         33,00
+altFINS, j.s.a.                                     5 418,00                         36,84
+artzenal s.r.o.                                     1 235,30                          36,,6
+NetCore j.s.a.                                      3 889,00                         25,04
+Silke s.r.o.                                                                         25,38
+Resitech s.r.o.                                       334,00                         25,00
+Institute of Language Technology and                3 350,00                         25,00
+Education s. r. o.                                  5 000,00
+Forvio s. r. o.                                     1 667,00
+3IPK, a.s.
+CVIKER s.r.o.                                2 145,00                      30,02
+iERP j.s.a.                                16 026,00                       16,26
+Boataround.com, a.s.                                                       5,90
+SmartHead Co. s.r.o.                         1 179,00                      17,49
+Glycanostics, s.r.o.                           644,50                      6,16
+Digitoo s.r.o.                                                             8,37
+Vestberry Holding, j. s. a.                  5 494,00                      11,16
+ScientiCore s. r. o.                         1 297,00                      8,45
+Diagnose.me                                  3 100,00                      2,55
+Wereldo                                      1 441,14                      6,38
+eRobot j.s.a.
+                                               379,13                      40,00
+                                           88 730,00                       17,49
+                                          244 470,00
+
+                                             3 334,00
+                                               226,70
+
+                                      18
+IČO       DIČ                                                 ÚČ SKISPS 1-02
+52656136      2121105371
+
+Vklady do ostatných kapitálových fondov      Vklad v EUR
+                                                 500 000,00
+                 Cieľová spoločnosť              744 658,00
+Casa de Padel j.s.a.                                1 750,00
+Proer s.r.o.                                     994 582,00
+Nitroterra Holding j.s.a.
+E.bot Technology s.r.o.                        1 538 764,70
+altFINS, j.s.a.                                  700 617,15
+artzenal s.r.o.                                  599 666,00
+NetCore j.s.a.                                   271 650,00
+Silke s.r.o.                                     345 000,00
+Resitech s.r.o                                   523 333,00
+Institute of Language Technology and
+Education s.r.o.                               1 200 033,00
+Forvio s. r. o.                                  548 821,00
+CVIKER s.r.o.                                      59 832,00
+iERP j.s.a.                                      719 773,30
+eRobot, j.s.a                                       4 016,00
+Boataround.com, a.s.                             308 703,00
+SmartHead Co. s.r.o.                             306 900,00
+Glycanostics, s.r.o.                             498 558,86
+Digitoo s.r.o.                                   229 620,87
+Vestberry Holding, j. s. a.                      211 270,00
+ScientiCore s. r. o,                             727 522,00
+Wereldo
+                                             Vklad v EUR
+Emisné ážio
+                                                              998 125,50
+                 Cieľová spoločnosť                            74 515,07
+Nitroterra Holding j.s.a.
+iERP j.s.a.                                                   610 976,00
+Boataround.com, a.s                                                  80,00
+Casa de Padel j.s.a.
+3IPK, a.s.                                                    797 278,00
+
+                                         19
+IČO                        DIČ                                             ÚČ SKISPS 1-02
+52656136                       2121105371
+
+Výkaz ziskov a strát
+
+Číslo   1.1. Úroky                 Bežné účtovné obdobie                   Bezprostredne
+riadku                                                                     predchádzajúce
+        a podobné výnosy                                               -   obdobie         účtovné
+1.                                                                     -
+2.      z                                                                                           -
+                                                                 6 878                              -
+3.      bežných účtov                                                  -
+4.                                                                                          13 736
+        reverzných                                           454 516                                -
+5.                                                                     -
+6.      repoobchodov                                                   -                   241 013
+7.                                                                                                  -
+        vkladov v bankách                                    461 394                                -
+
+        dlhových         cenných                                                           254 749
+
+        papierov
+
+        úverov
+
+        finančného prenájmu
+
+        nájomné z operatívneho
+
+        prenájmu
+
+        Spolu
+
+Číslo   1.3./b. Zníženie hodnoty   Bežné účtovné obdobie                   Bezprostredne
+riadku                                                                     predchádzajúce účtovné
+        /zrušenie        zníženia                          1 755 000       obdobie
+1.                                                                     -
+2.      hodnoty majetku                                                                          1 135 136
+                                                           1 755 000                                         -
+        Istina
+                                                                                                 1 135 136
+        Úroky
+
+        Spolu
+
+G. Ostatné poznámky
+
+1. Údaje o vzťahoch so spriaznenými osobami.
+
+Číslo   a). Podiely spriaznených osôb    Bežné účtovné obdobie Bezprostredne
+riadku  na základom imaní účtovnej                                          predchádzajúce
+        jednotky a jej dcérskych úč. j.                                     účtovné obdobie
+1.      a pridružených úč. j.
+2.      Podiely na základnom imaní            13 910 564                   13 395 203
+        Podiely na základnom imaní             2 250 160                    2 250 160
+3.      dcérskych úč. j.
+        Podiely na základnom imaní            11 660 404                   11 145 043
+        pridružených úč. j.
+
+Číslo b). Finančné vzťahy so       Bežné účtovné obdobie                   Bezprostredne
+riadku spriaznenými osobami                                                predchádzajúce účtovné
+                                                                        -  obdobie
+1.      Krátkodobé pohľadávky                                           -
+                                                              226 938                                        -
+2.      Dlhodobé pohľadávky                                             -                                    -
+                                                                        -                          218 252
+3.      Krátkodobé záväzky                                                                                   -
+                                                                                                             -
+4.      Dlhodobé záväzky
+
+5.      Úverové prísľuby
+
+        a nečerpané časti
+
+        úverov
+
+                                         20
+IČO       DIČ             ÚČ SKISPS 1-02
+52656136      2121105371
+
+2. Údaje o udalostiach, ktoré nastali medzi dňom, ku ktorému sa zostavuje účtovná závierka
+    a dňom zostavenia účtovnej závierky.
+
+V súvislosti s vojnovým konfliktom na Ukrajine vedenie Spoločnosti urobilo analýzu možných
+účinkov a následkov na Spoločnosť a dospelo k názoru, že v súčasnosti nemajú významné
+nepriaznivé dopady na Spoločnosť (okrem rastúcich cien vstupov, najmä pohonných hmôt,
+energií, materiálov, tovarov a služieb).
+
+Vedenie Spoločnosti nepredpokladá významné ohrozenie predpokladu nepretržitého
+pokračovania v činnosti v blízkej budúcnosti (t. j. počas nasledujúcich 12 mesiacov od
+dátumu zostavenia účtovnej závierky). Akýkoľvek negatívny vplyv resp. straty zahrnie
+účtovná jednotka do účtovníctva a účtovnej závierky zostavenej za účtovné obdobie 2025.
+
+V kalendárnom roku 2025 a počas roku 2026 prebehlo niekoľko auditov a kontrol z
+príslušných štátnych orgánov. Investičný fond CB Growth One s.r.o. poskytol všetky
+požadované dokumenty a súčinnosť. Ku dňu zostavenia účtovnej závierky Spoločnosť zatiaľ
+neobdržala žiadne vyjadrenie respektíve nálezy z prebiehajúcich kontrol.
+
+3. Opravy chýb minulých účtovných období
+Subjekt kolektívneho investovania počas roka 2025 neúčtoval o oprave chýb minulého
+obdobia.
+
+4. Návrh na rozdelenie zisku
+Subjekt kolektívneho investovania v účtovnej závierke vykázal stratu. Návrhom na
+vysporiadanie výsledku hospodárenia je preúčtovanie na účet neuhradených strát minulých
+období.
+
+5. Údaje o zamestnancoch
+Subjekt kolektívneho investovania počas roka zamestnával 0 zamestnancov.
+
+6. Náklady alebo výnosy, ktoré majú vplyv na splatnú daň z príjmov za prechádzajúce
+    účtovné obdobie.
+
+Bez obsahovej náplne.
+
+7. Údaje o zamestnaneckých požitkoch, na základe ktorých majú zamestnanci nárok na
+    finančné nástroje vydané účtovnou jednotkou viazané na vlastné imanie alebo podľa
+    ktorých výška záväzkov účtovnej jednotky voči zamestnancom je závislá na budúcej
+    cene finančných nástrojov, napríklad účtovnou jednotkou vydané akcie alebo opcie na
+    akcie.
+
+Subjekt kolektívneho investovania počas roka zamestnával 0 zamestnancov.
+
+8. Výnos na akciu.
+Subjekt kolektívneho investovania nemá v portfóliu akcie.
+
+9. Údaje o úverovom riziku.
+Úverové riziko zohľadňuje riziko, že zmluvná strana nedodrží svoje zmluvné záväzky, v
+dôsledku čoho investičný fond utrpí stratu. Investičný fond realizuje iba dva druhy platieb,
+akvizičné náklady na investície do cieľových spoločností a platbu správcovského poplatku
+správcovskej spoločnosti, z čoho jej nevyplýva žiadne úverové riziko.
+
+                                                            21
+IČO              DIČ                                                           ÚČ SKISPS 1-02
+52656136             2121105371
+
+V súvislosti s akvizičnými nákladmi investičný fond realizuje buď priamy kapitálový vstup do
+vlastného imania cieľových spoločností, s čím nie je spojené úverové riziko, alebo
+poskytovaním konvertibilných úverov konvertujúcich do podielu na vlastnom imaní cieľových
+spoločností, s čím je spojené úverové riziko, iba ak neprebehne cielená konverzia, ktorej
+podmienky sú preddefinované v investičných zmluvách. Spoločnosť prijala zásadu, že bude
+obchodovať len s dôveryhodnými zmluvnými stranami, čím limituje riziko neplnenia
+zmluvných povinností.
+
+10. Údaje o trhovom riziku.
+Trhové riziko sa často spája s globálnymi ekonomickými, politickými i sociálnymi javmi, ktoré
+majú bezprostredný dopad na hodnoty jednotlivých druhov aktív v majetku investičného
+fondu.
+
+11. Údaje o ostatných druhoch rizík.
+
+Devízové riziko
+
+Devízové riziko spočíva v tom, že hodnota investície môže byť ovplyvnená zmenou
+výmenných kurzov cudzích mien. Nakoľko investičný fond aktuálne realizuje investície v
+EUR mene a nedrží žiadne aktíva v cudzej mene, nepodlieha devízovému riziku.
+
+Úrokové riziko
+
+Úrokové riziko spočíva v negatívnom vplyve zmien úrokových sadzieb na finančnom trhu. Ak
+dôjde k zmene úrokových sadzieb na trhu, automaticky to má dopad i na ceny cenných
+papierov. V prípade rastu úrokových sadzieb ceny cenných papierov klesajú, naopak, v
+prípade poklesu úrokových sadzieb ceny cenných papierov stúpajú. Tieto zmeny majú
+značný vplyv tak na emitenta cenných papierov, ako aj na investora. Investičný fond nemá v
+aktívach žiadne investičné inštrumenty podliehajúce takémuto úrokovému riziku.
+
+Operačné riziko
+
+Operačné riziko je riziko priamej alebo nepriamej straty vyplývajúcej zo širokého radu príčin
+spojených s procesmi v investičnom fonde, pracovníkmi, technológiou a infraštruktúrou a z
+externých faktorov okrem úverového, trhového rizika a rizika likvidity, ako sú napríklad riziká
+vyplývajúce z právnych a regulačných požiadaviek a všeobecne akceptovaných štandardov
+firemného správania. Operačné riziko vyplýva zo všetkých operácií investičného fondu a je
+riadené a monitorované v rámci kontrolných činností investičného fondu.
+
+Číslo   12.Náklady účtovnej           Bežné účtovné obdobie                    Bezprostredne
+riadku  jednotky voči audítorovi za                                            predchádzajúce účtovné
+        účtovné obdobie                                              6 300     obdobie
+1.      Overenie účtovnej závierky                                          -
+2.      Uisťovacie audítorské služby                                        -                                   6 300
+3.      Súvisiace audítorské služby                                         -                                          -
+4.      Daňové poradenstvo                                                  -                                          -
+5.      Ostatné audítorské služby                                                                                      -
+        Spolu                                                        6 300                                             -
+
+                                                                                                                6 300
+
+Náklady sú súčasťou výsledku hospodárenia správcu fondu kolektívneho investovania.
+
+                                      22
+

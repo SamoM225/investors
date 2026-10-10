@@ -1,0 +1,37 @@
+    {
+      "id": "53527798",
+      "name": "G-Force, s.r.o.",
+      "address": "Pekárska 14, 91701 Trnava",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný správca alternatívnych investičných fondov",
+          "licenses": [
+            {
+              "scope": "správca Európskych fondov rizikového kapitálu (EuVECA)",
+              "valid_from": "2021-08-16"
+            },
+            {
+              "scope": "správca Európskych fondov rizikového kapitálu (EuVECA)",
+              "valid_from": "2021-08-16"
+            }
+          ],
+          "valid_from": "2021-08-16"
+        }
+      ]
+    },
+    {
+      "id": "53588398",
+      "name": "G-Force Fund, j.s.a.",
+      "address": "Pekárenska 14, 917 01 Trnava",
+      "country": "SK",
+      "licenses": [
+        {
+          "scope": "registrovaný alternatívny investičný fond",
+          "licenses": [],
+          "valid_from": "2021-08-16",
+          "parent_entity_id": "53527798",
+          "parent_entity_name": "G-Force, s.r.o."
+        }
+      ]
+    },

@@ -1,0 +1,179 @@
+URL: https://www.vestbee.com/insights/articles/top-cee-funding-rounds-closed-in-june-2026
+FINAL_URL: https://www.vestbee.com/insights/articles/top-cee-funding-rounds-closed-in-june-2026
+HTTP: 200
+FETCHED_AT: 2026-10-09T19:03:28
+TITLE: Top CEE funding rounds closed in June 2026 | Vestbee
+DATES: ['2026-07-01T09:25:03.147Z', '2026-07-01T09:25:03.156Z'] []
+
+ 
+ Top CEE funding rounds closed in June 2026 | Vestbee 
+ Join here Join Vestbee
+ The leading platform for startups, VCs, accelerators and corporates in Europe
+ Join here Join here 
+ News 
+ Insights 
+ Sectors 
+ Newsletter Events Platform 
+ News 
+ Insights 
+ Sectors 
+ Newsletter Events Vestbee Platform 
+ July 1, 2026 · 7 min read 
+ Lisa Palchynska
+ Editor-in-Chief, Vestbee Insights
+ Top CEE funding rounds closed in June 2026
+ June was surprisingly intense for startup fundraising. Below is a roundup of the most notable deals across Central and Eastern Europe.
+ Ingenix, €13M in a seed round 
+ Location:  Warsaw, Poland
+ Founded in:  2023
+ Total funding received: €22M
+ Recent funding sources:  Sofinnova Partners, OTB Ventures,  Inovo.vc 
+ Ingenix develops an AI-powered biological reasoning platform designed to help pharmaceutical and biotech companies accelerate drug discovery and R&D. The company will use its €13 million seed extension funding to further develop its Biological Reasoning Engine and expand collaboration with pharma and biotech partners through its Qualified Access Program.
+ Cargofy, $11M across Series A and secondary transactions 
+ Location:  Kyiv, Ukraine
+ Founded in:  2017
+ Total funding received: $14.5M
+ Recent funding sources:  Movens Capital, Toloka.vc, u.ventures, and business angels
+ Cargofy develops “digital workers” designed to automate end-to-end freight operations for shippers, carriers, and third-party logistics providers. With  the fresh capital , comprising $6 in Series A and $5 million in secondary transactions, the firm plans to expand into new international markets, scale its local operational hubs, and further develop its AI agents.
+ Sybilla Technologies, €8M  
+ Location:  Bydgoszcz, Poland
+ Founded in:  2011
+ Total funding received: €8M
+ Recent funding sources:  Vinci, 3TS Capital Partners
+ Sybilla Technologies  develops space situational awareness systems that monitor objects in Earth’s orbit using robotic optical sensors.  The recent funding will expand the company’s sensor network, strengthen data analytics, and accelerate the deployment of orbital monitoring technologies.
+ Wultra, €6.8M in Series A 
+ Location:  Prague, the Czech Republic
+ Founded in:  2014
+ Total funding received: €10.8M
+ Recent funding sources:  Seventure Partners, J&T Ventures, Elevator Ventures, and private investors
+ Wultra provides post-quantum authentication and digital identity solutions for banks and fintech companies. The  new investment will support the company's continued international expansion, with plans to enter the Middle East and the US, while strengthening its focus on large strategic customers.
+ Kodesage, $6.6M in a seed round 
+ Location:  Budapest, Hungary and London, UK 
+ Founded in:  2024
+ Total funding received: $9M
+ Recent funding sources:  VentureFriends, Portfolion
+ Kodesage develops an on-premise AI platform that helps regulated enterprises modernize legacy software systems.  The recent seed funding will support the company’s expansion across the US and Europe, while strengthening its engineering and product teams to further develop its AI platform.
+ Microamp, €6.5M across grant funding and equity investments 
+ Location:  Warsaw, Poland
+ Founded in:  2020
+ Total funding received: €8.9M
+ Recent funding sources:  EIC Fund 
+ Microamp develops wireless infrastructure for high-capacity, low-latency connectivity in industrial, defence, and mission-critical environments.  The funding will support the development of its Any-G platform, software-defined wireless architecture, and AI-native 6G mmWave systems while expanding its presence across European industrial connectivity markets.
+ IAG, €6M  
+ Location:  Prague, Czech Republic
+ Founded in:  2021
+ Total funding received:  €11M
+ Recent funding sources:  Orbit Capital and Jet Ventures
+ IAG  connects automotive parts suppliers with independent repair shops and retailers through a single platform. The marketplace enables users to search, compare, and order parts with real-time pricing and availability.  The received investment  will allow IAG to scale its operations across CEE.
+ Sloneek, $6M in Series A 
+ Location:  Prague, the Czech Republic
+ Founded in:  2019
+ Total funding received: $11.5M
+ Recent funding sources:  Orbit Capital, Venture to Future Fund
+ Sloneek offers a cloud-based information system that centralizes core HR processes, including onboarding, attendance tracking, document management, performance management, and offboarding.  The new round will enable the company to further develop the platform’s agentic AI layer and accelerate expansion into new European markets, and introduce more. 
+ Paypercut, €5M in a seed round 
+ Location:  Sofia, Bulgaria
+ Founded in:  2025
+ Total funding received: €7M
+ Recent funding sources:  SMOK   Ventures, SABAH.fund, Portfolio Ventures, Passion Capital, MFG Invest, Main Set, Concentric, BrightCap Ventures, BlackWood Ventures, Arāya Ventures
+ Paypercut develops a payments platform that helps online merchants accept and manage payments across Central and Eastern Europe through a single integration. The company plans to use its €5 million seed funding to expand across the region, accelerate product development, and support its EMI licence application in Ireland.
+ Grid.online, €4M in a seed round 
+ Location:  Prague, the Czech Republic
+ Founded in:  2024
+ Total funding received: €5.5M
+ Recent funding sources:  Movens Capital, Reflex Capital, J&T Ventures, and angel investors
+ Grid.online develops a neutral infrastructure layer for last-mile delivery that connects logistics operators with a shared network of independent couriers through a single API. The  €4 million round will be used to scale the company’s operations by improving its technology stack, expanding its active courier base, and strengthening connections with logistics partners.
+ Definic, €2.5M in a seed round 
+ Location:  Kosice, Slovakia
+ Founded in:  2020
+ Total funding received: €3.6M
+ Recent funding sources:  J&T Ventures, Seed Starter, Slovak Investment Holding
+ Definic builds software for IT procurement teams to structure, evaluate, and manage vendor selection for external IT services. The startup plans to use  €2.5 million in seed funding to scale the platform internationally, accelerate product development, and expand into the DACH region, the UK, and the US. 
+ Volteum, €2.5M in a seed round 
+ Location:  Budapest, Hungary
+ Founded in:  2020
+ Total funding received: €3.8M
+ Recent funding sources:  WakeUp Capital, Techstars, Nesprit, Movens Capital, Day One Capital, Idiom
+ Volteum develops fleet management software that helps businesses manage electric and mixed vehicle fleets through a unified operational platform. The startup will use its  €2.5 million seed funding to expand across the UK, Benelux, and DACH regions, while further developing its platform to improve fleet operations, charging, maintenance, and vehicle performance management.
+ Paymove, €2.1M in a seed round 
+ Location:  Sopot, Poland
+ Founded in:  2023
+ Total funding received: €2.8M
+ Recent funding sources:  Kogito Ventures, 4growth VC, and business angels
+ Paymove is a fintech company that builds QR-code payment infrastructure for offline and unattended commerce. It plans to use  the fresh funding to develop a dedicated payment infrastructure for autonomous AI agents (Agentic AI Payments) and accelerate its expansion into Western European markets, including Spain, Portugal, and Italy.
+ PDKINEMATICS, €2M in a seed round 
+ Location:  Vilnius, Lithuania
+ Founded in:  2025
+ Total funding received: €2M
+ Recent funding sources:  Coinvest Capital and Iron Wolf Capital
+ PDKINEMATICS develops GPS-independent navigation and targeting systems for drones, enabling them to operate in environments where satellite signals are unavailable or jammed. With  the fresh capital , the firm plans to scale manufacturing and expand the deployment of its systems across Ukraine and other European countries.
+ Nanordica Medical, €1.6M  
+ Location:  Tallinn, Estonia
+ Founded in:  2019
+ Total funding received: €6.4M
+ Recent funding sources:  2C Ventures, Specialist VC, Superangel, Amalfi, the Health Founders syndicate, and the EstBAN syndicate
+ Nanordica Medical develops antibacterial wound care products.  The recent investment will allow the company to accelerate clinical and regulatory progress for its Premotiv wound dressing, including completing its ongoing large clinical trial, securing CE marking, and preparing for the commercial launch of its antibiotic-free chronic treatment in Europe.
+ Molfar, €1.5M in a seed round 
+ Location:  Warsaw, Poland
+ Founded in:  2026
+ Total funding received: €1.5M
+ Recent funding sources:  Front Ventures
+ Molfar Defence Technologies develops modular radar systems for early threat detection and continuous battlefield tracking.  The funding will help the company move from prototypes to field-tested systems, expand its team, and deploy and validate its technology in Ukraine and NATO countries.
+ Naratix, €1M in a seed round 
+ Location:  Bucharest, Romania
+ Founded in:  2023
+ Total funding received: €1M
+ Recent funding sources:  Early Game Ventures
+ Naratix is an enterprise software company that builds automation systems for e-commerce product data. Its AI-driven tools allow retailers and marketplaces to structure and enrich product catalogs by fixing inconsistent information and generating descriptions, among other features. The  proceeds will help Naratic to scale the platform and expand internationally.
+ sunbay.io, €550k in a pre-seed round 
+ Location: Warsaw, Poland
+ Founded in:  2026
+ Total funding received: €610k
+ Recent funding sources:  S20Fund, Kogito Ventures, and business angels
+ sunbay.io develops AI-powered software that integrates directly into a business’s accounting system and automates the end-to-end invoice collection process.  The new capital will enable the startup to expand its system by building more autonomous agents that handle overdue invoice workflows and scale across Europe.
+ Superpal, €500k in a pre-seed round 
+ Location:  Vilnius, Lithuania
+ Founded in:  2024
+ Total funding received: €500k
+ Recent funding sources:  FIRSTPICK, Outlast Fund
+ Superpal develops an AI coworker for Slack that automates tasks across more than 1,000 business tools, including Gmail, HubSpot, Google Drive, and Shopify.  The funding will help the company expand integrations, enhance automation, and scale adoption among small and mid-sized businesses.
+ Analysis #Funding #Startups July 1, 2026 
+ Latest news
+ Oct 09 UK neurotech chip developer MintNeuro raises $5M. Czech JSK Investments joined the round Oct 09 OllyGarden lands $4M to improve telemetry quality for AI agents and engineers Oct 08 Golbriak Space raises €4M to scale laser communications for satellite constellations Oct 08 Verso raises $6M to scale AI-powered consumer intelligence platform Oct 08 PSV Tech secures €56M Fund II to back early-stage Nordic startups Explore more 
+ Editor's pick
+ Top CEE funding rounds closed in September 2026 Europe’s defence and dual-use investors The US loves longevity. Can Europe turn it into venture category How many of Europe's unicorns are still worth $1B? How CEE venture funding is changing in 2026 
+ Newsletter 
+ Subscribe 
+ I agree my personal data will be stored and processed for online communication read more read more 
+ Related posts
+ Explore more 
+ How CEE mental health startups are closing the care gap
+ Chatbots grab the headlines, but CEE's mental health startups are betting on clinicians, employers and insurers.
+ Top European funding rounds closed in September 2026
+ Meet startups and scaleups from Europe that closed funding rounds in September 2026.
+ Europe’s defence and dual-use investors
+ From pre-seed checks to €30 million growth investments, these are the investors building Europe’s defence capital stack.
+ Latest news
+ Explore more 
+ UK neurotech chip developer MintNeuro raises $5M. Czech JSK Investments joined the round 
+ The $5 million round was led by Odyssey Ventures, with participation from JSK Investments, 33East, and Alumni Ventures.
+ OllyGarden lands $4M to improve telemetry quality for AI agents and engineers
+ The round was backed by Next Frontier Capital, Grand Ventures, and ACTAI Ventures.
+ Golbriak Space raises €4M to scale laser communications for satellite constellations
+ The round was co-led by Join Capital and PhotonVentures, with participation from Takeoff.
+ Subscribe to our newsletter
+ Subscribe 
+ I agree my personal data will be stored and processed for online communication read more 
+ Join Vestbee
+ Join the leading matchmaking platform for startups, VC funds, angels, accelerators and corporates
+ Join Now 
+ Platform Startups VC Funds Accelerators Service Providers Angels Community CEE VC Summit 
+ Resources Insights VC List LP List Events List CEE SaaS Index Perfect Pitch E-book 
+ Company Careers Terms Of Service Privacy Policy Cookies Policy 
+ Subscribe newsletter 
+ I agree my personal data will be stored and processed for online communication. Read more 
+ Follow us Linkedin 
+ office@vestbee.com media@vestbee.com 
+ © 2026 Vestbee. All rights reserved. 
+ The material presented via this website is for informational purposes only. Nothing in this website constitutes a solicitation for the purchase or sale of any financial product or service. Material presented on this website does not constitute a public offering of securities or investment management services in any jurisdiction. Investing in startup and early stage companies involves risks, including loss of capital, illiquidity, lack of dividends and dilution, and it should be done only as part of a diversified portfolio. The Investments presented in this website are suitable only for investors who are sufficiently sophisticated to understand these risks and make their own investment decisions. 
+ 

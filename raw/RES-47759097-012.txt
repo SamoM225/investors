@@ -1,0 +1,42 @@
+URL: https://www.sih.sk/aktuality/sih-investuje-1-4-miliona-eur-do-visionflow-slovensky-startup-vyvija-softverovu-datovu-infrastrukturu-pre-umelu-inteligenciu
+ACCESSED: 2026-10-09T18:56:18.456Z
+STATUS: 200
+
+SIH investuje 1,4 milióna eur do VisionFlow. Slovenský startup vyvíja softvérovú dátovú infraštruktúru pre umelú inteligenciu | Slovak Investment Holding, a. s. 
+SIH 
+Oblasti 
+Kontakt 
+Novinky 
+O nás 
+Ľudia 
+Dokumenty 
+Finančné nástroje 
+SK EN 
+Ľudia 
+Dokumenty 
+Finančné nástroje 
+22.09.2026 
+SIH investuje 1,4 milióna eur do VisionFlow. Slovenský startup vyvíja softvérovú dátovú infraštruktúru pre umelú inteligenciu
+Bratislava, 22. septembra 2026 – Slovak Investment Holding (SIH) investuje 1,4 milióna eur do slovenskej technologickej spoločnosti VisionFlow, ktorá vyvíja platformu na prípravu a správu dát pre umelú inteligenciu a počítačové videnie. Investícia je súčasťou kola v celkovej výške 2 milióny eur, na ktorom sa SIH podieľa spolu so súkromným slovenským spoluinvestorom z IT sektora. 
+Investícia SIH je realizovaná formou konvertibilného úveru so splatnosťou v decembri 2028 a pochádza zo zdrojov Plánu obnovy a odolnosti Slovenskej republiky v rámci Komponentu 9.
+VisionFlow prepája spracovanie videozáznamov, anotáciu dát, kontrolu kvality, verziovanie datasetov a auditovateľnosť dátových procesov do jednej platformy. Reaguje tak na rastúcu potrebu firiem efektívne pripravovať a spravovať kvalitné dáta, ktoré sú základom spoľahlivých AI riešení.  Platforma umožní spracúvať videozáznamy zo stacionárnych kamier, priemyselných systémov aj dronov. Spoločnosť sa zameriava predovšetkým na jej využitie vo videoanalytike, inteligentnej mobilite a priemyselnej automatizácii.
+„Budúcnosť AI stojí nielen na kvalitných modeloch, ale aj na kvalitných dátach. VisionFlow rieši práve túto kľúčovú časť AI ekosystému. Veríme, že investícia SIH mu pomôže urýchliť technologický aj obchodný rast,“ uviedol Juraj Jusko , riaditeľ priamych investícií Slovak Investment Holding.
+Financovanie vo výške 2 milióny eur VisionFlow využije najmä na ďalší vývoj produktu, rozšírenie vývojových kapacít a posilnenie obchodných aktivít. Viac ako polovica získaných prostriedkov poputuje do technologického rozvoja platformy. Prvé pilotné nasadenia spoločnosť plánuje spustiť v roku 2027, následne chce svoju predajnú aktivitu postupne rozšíriť na európsky trh.
+„Jednou z najväčších výziev umelej inteligencie je premeniť dostupné dáta na kvalitné podklady pre tréning modelov. Firmy majú čoraz viac videozáznamov z kamier, priemyselných systémov či dronov, no ich spracovanie a príprava na tréning sú stále zložité a časovo náročné. Preto vyvíjame platformu VisionFlow, ktorá celý proces prepojí a zjednoduší, automatizuje anonymizáciu citlivých údajov a umožní sledovať pôvod dát aj ich využitie pri tréningu konkrétnych modelov. Teší nás, že SIH do nás investuje práve v tejto fáze. Táto podpora nám umožní urýchliť vývoj platformy aj jej nasadenie u prvých zákazníkov,“ uviedol Marek Vančo , spoluzakladateľ spoločnosti VisionFlow.
+Podpora spoločnosti VisionFlow zo strany Slovak Investment Holding odráža snahu podporovať rozvoj slovenských inovatívnych technologických firiem, ktoré majú ambíciu prinášať nové riešenia, presadiť sa na trhu a vytvárať produkty s významným ekonomickým potenciálom.
+O VisionFlow 
+VisionFlow je slovenská technologická spoločnosť vyvíjajúca platformu pre správu dátového životného cyklu v oblasti počítačového videnia. Riešenie pokrýva výber a spracovanie dát, anotáciu, kontrolu kvality, verziovanie datasetov a auditovateľnosť dátových procesov. Platformu je možné nasadiť v privátnom cloude aj priamo v infraštruktúre zákazníka.
+Viac informácií nájdete na www.visionflow.sk .
+O Slovak Investment Holding (SIH) 
+SIH je akciová spoločnosť v 100% vlastníctve štátu. Jej hlavným poslaním je podpora strategických verejných i súkromných investícií na Slovensku v oblasti konkurencieschopnosti a rastu malých a stredných podnikov, infraštruktúry, energetickej efektívnosti, odpadového hospodárstva, sociálnej ekonomiky, kultúrneho a kreatívneho priemyslu. Finančné prostriedky na realizáciu investícií čerpá prioritne z fondov EÚ. SIH financuje projekty primárne návratnou formou, tzn. pomocou finančných nástrojov a nie grantovým spôsobom.
+Viac informácií a príklady konkrétnych podporených projektov nájdete na  www.sih.sk .
+KONTAKT
+Mapa 
+Grösslingová 44
+811 09 Bratislava
+www.sih.sk 
+Dokumenty 
+Médiá 
+Novinky 
+Ochrana osobných údajov 
+Povinne zverejňované údaje

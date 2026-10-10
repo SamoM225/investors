@@ -1,0 +1,83 @@
+{"prilohy":[{"id":10973952,"meno":"Príloha k účtovnej závierke MÚJ.DOCX","pocetStran":0,"jazyk":"SK","velkostPrilohy":21427,"digest":"dc5b1fd6f9273ca124b92541179ff93e0c37b6ba5b6c9a8dd0cafdb955f3e0c0","mimeType":"application/vnd.openxmlformats-officedocument.wordprocessingml.document"},{"id":10973953,"meno":"MUJ_2121178477_IR_2023_4045693_5335439.pdf","pocetStran":5,"jazyk":"SLK","velkostPrilohy":179202,"digest":"370140f8a83769425b596f75977988c6c053dfb9626464e0bb41c9211472003f","mimeType":"application/pdf"}],"id":9172880,"idUctovnejZavierky":6034274,"obsah":{"tabulky":[{"nazov":{"sk":"Strana aktív"},"data":["775973","38724","45644","12639","45644","12639","","","","","","","","","","","","","","","","","","","","","730329","26085","","","","","654090","2501","313","213","3454","2116","650323","172","76239","23584","76239","23584","",""]},{"nazov":{"sk":"Strana pasív"},"data":["775973","38724","46858","9294","6250","5000","6250","5000","","","22200","","500","500","","","3794","10861","14114","-7067","729115","29430","698882","76","","","16904","21104","10987","8250","4345","1608","","","","","6642","6642","2342","","","","",""]},{"nazov":{"sk":"Výkaz ziskov a strát"},"data":["130602","22490","","","92438","21300","","","38133","","","","31","1190","109911","28819","0","","2755","1537","84393","26777","15169","","31","6","5128","361","","","","","2435","138","20691","-6329","43423","-7014","","","","","","","","","","","","","","","3857","738","","","","","","","2768","316","63","","1026","422","-3857","-738","16834","-7067","2720","","","","14114","-7067"]}],"titulnaStrana":{"nazovUctovnejJednotky":"Small Business Innovations s. r. o.","ico":"52881253","dic":"2121178477","adresa":{"ulica":"Hviezdoslavovo námestie","cislo":"7","psc":"81102","mesto":"Bratislava - Staré Mesto"},"skNace":"70220","typZavierky":"Riadna","obdobieOd":"2023-01","obdobieDo":"2023-12","predchadzajuceObdobieOd":"2022-01","predchadzajuceObdobieDo":"2022-12","datumZostavenia":"2024-06-26","oznacenieObchodnehoRegistra":"OR OS Bratislava I, Oddiel: Sro Vložka č. 142973/B"}},"pristupnostDat":"Verejné","datumPoslednejUpravy":"2024-06-28","zdrojDat":"FRSR","idSablony":687,"kodDanovehoUradu":"100"}
+
+--- príloha 10973952 (Príloha k účtovnej závierke MÚJ.DOCX), text ---
+
+
+
+Čl. I - Všeobecné údaje
+
+Názov:
+Small Business Innovations, s. r. o.
+Sídlo:
+Hviezdoslavovo námestie 7, 811 02  Bratislava – Staré Mesto
+
+Údaje o konsolidovanom celku
+Nie sme súčasťou konsolidovaného celku
+Je účtovná jednotka materskou účtovnou jednotkou: Nie
+
+Údaje o konsolidovanom celku  - Nie sme súčasťou konsolidovaného celku
+a) obchodné meno a sídlo účtovnej jednotky, ktorá zostavuje konsolidovanú účtovnú závierku za najväčšiu skupinu, ktorej súčasťou je účtovná jednotka ako dcérska účtovná jednotka,
+Nie sme súčasťou konsolidovaného celku
+b) obchodné meno a sídlo účtovnej jednotky, ktorá je bezprostredne konsolidujúcou účtovnou jednotkou,
+Nie sme súčasťou konsolidovaného celku
+Je účtovná jednotka materskou účtovnou jednotkou:
+Nie
+
+
+Priemerný prepočítaný počet zamestnancov:
+3
+
+
+Čl. II – Informácie o prijatých postupoch
+
+Bude účtovná jednotka nepretržite pokračovať vo svojej činnosti:
+áno
+
+Spôsob oceňovania majetku a záväzkov:
+Pohľadávky
+Menovitou hodnotou
+Krátkodobý finančný majetok
+Menovitou hodnotou
+Záväzky vrátane rezerv, dlhopisov, pôžičiek  a úverov
+Menovitou hodnotou
+
+
+
+Boli zmenené účtovné zásady alebo účtovné metódy
+nie
+Boli účtovnej jednotke poskytnuté dotácie (ak áno popíš ich)
+nie
+Boli účtované opravy významných chýb minulých období v bežnom účtovnom období na účty nerozdelených ziskov alebo neuhradených strát minulých rokov?
+Ak áno udaj informácie o týchto účtovaniach.
+nie
+
+
+Čl. III – Informácie, ktoré vysvetľujú a dopĺňajú súvahu a výkaz ziskov a strát
+
+Účtovala účtovná jednotka o nákladoch alebo výnosoch výnimočného rozsahu?
+Napríklad výnosy z predaja podniku alebo časti podniku, náklady z dôvodu predaja podniku alebo časti podniku, škody z dôvodu živelných pohrôm. Ak áno uveď ich.
+nie
+Celková suma záväzkov so zostatkovou dobou splatnosti dlhšou ako päť rokov
+0 €
+
+
+
+
+
+
+Informácie o pôžičkách poskytnutých orgánom účtovnej jednotky:
+Orgán
+Stav pohľadávok z pôžičiek k poslednému dňu obdobia
+Sum-a splatených pôžičiek
+Suma odpustených pôžičiek
+Úroková sadzba
+konateľ
+0
+0
+0
+0
+
+Účtovná jednotka nemá vytvorený ostatný kapitálový fond.
+
+
+V poznámkach neboli uvedené údaje, pre ktoré nemáme obsahovú náplň.

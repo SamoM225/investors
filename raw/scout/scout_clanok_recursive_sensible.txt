@@ -1,0 +1,101 @@
+URL: https://therecursive.com/slovak-sensible-biotechnologies-secures-eur42m-for-cell-based-mrna-platform
+FINAL_URL: https://www.therecursive.com/slovak-sensible-biotechnologies-secures-eur42m-for-cell-based-mrna-platform/
+HTTP: 200
+FETCHED_AT: 2026-10-09T19:01:38
+TITLE: Slovak Sensible Biotechnologies Secures €42M for Cell-Based mRNA Platform
+DATES: ['2026-10-07T08:45:21.000Z', '2026-10-07T08:45:21.000Z'] ['2026-10-07T08:45:21.000Z']
+
+ 
+ Slovak Sensible Biotechnologies Secures €42M for Cell-Based mRNA Platform 
+ Media 
+ Events 
+ Reports 
+ Podcast 
+ Studio 
+ About us 
+ Sign in 
+ Become a subscriber Become a subscriber 
+ Slovak Sensible Biotechnologies Secures €42M for Cell-Based mRNA Platform
+ Slovak-founded Sensible Biotechnologies has secured $47 million to advance its cell-based mRNA platform, scale manufacturing in Europe, and develop new applications across cancer, genetic diseases, and biosecurity.
+ News Slovakia biotech 
+ The Recursive 
+ by
+ The Recursive 
+ October 7, 2026 ∙ 3 min read 
+ Share 
+ (from left to right) Marián Kupčulák and Miroslav Gašpárek 
+ Written by 
+ The Recursive
+ Editor’s Choice 
+ The Silent M&A Wave: When the Next Funding Round Becomes Less Attractive Than a Sale
+ How Bulgaria Built One of Europe’s Fastest-Growing Battery Markets
+ Start Up Bulgaria! Crossroads 2026
+ Slovak-founded biotech startup Sensible Biotechnologies has secured $47 million (€42 million) in financing to further develop its cell-based mRNA technology, expand manufacturing capacity, and automate its laboratory and production processes.
+ The financing includes a Series A round led by Oxford Science Enterprises and up to $20 million in public funding from the Slovak government and the European Union .
+ Prague-based VC fund Tech Horizons , which focuses on technologies linked to Western technological sovereignty and resilience, participated in the investment alongside OTB Ventures, In-Q-Tel, Recode Ventures, Isomer Capital, Y Combinator, Backed VC, Kaya VC, Civilization Ventures, and BlueYard Capital .
+ Other investors include the family office of BioNTech co-founder Christoph Huber and former Eli Lilly Chief Medical Officer Tim Garnett . Previous backers include ZAKA VC, Amino Collective, and Possible Ventures.
+ Rethinking how mRNA is made
+ Founded by Miroslav Gašpárek and Marián Kupčulák , Sensible Biotechnologies is developing a platform that uses living cells to design, optimize, and manufacture mRNA.
+ The company operates laboratories in Bratislava and Oxford and is working on applications ranging from cancer and genetic diseases to protein replacement and cell therapies.
+ Most mRNA today is produced outside living cells through a process known as in vitro transcription (IVT) . While widely used, the method can generate impurities such as double-stranded RNA, or dsRNA, which can provoke unwanted immune responses. Conventional manufacturing also depends on specialized raw materials and supply chains that can make production expensive and difficult to scale.
+ Sensible is taking a different route. Its VECTOR platform combines computational modeling, AI-based sequence optimization, high-throughput testing, and genetically engineered eukaryotic cells to manufacture mRNA directly inside living cells.
+ The company says this process produces naturally modified mRNA with lower immunogenicity while retaining its ability to instruct cells to produce the desired proteins. Its PromPT technology is then used to capture and protect the mRNA inside the cells until it can be isolated and processed for therapeutic applications.
+ Sensible is also using computing technologies and AI to speed up its development process. According to the company, one of its mRNA optimization cycles has been reduced from 15 days to one day .
+ Scaling manufacturing in Europe
+ Part of the new capital will go toward expanding Sensible's manufacturing capabilities. The startup has secured access to a cGMP manufacturing facility in eastern Slovakia and is working with Sartorius to build capacity for producing mRNA at the quality required for clinical applications.
+ Its research into cell-based manufacturing of circular RNA has also been published in scientific journals Nature Biotechnology and Cell Chemical Biology .
+ The company says its platform has already demonstrated the ability to manufacture mRNA inside cells without dsRNA contamination and has shown lower immunogenicity compared with conventional manufacturing approaches. It has also developed a system capable of testing hundreds of different mRNA sequences during a single cycle.
+ From therapeutics to biosecurity
+ The company has previously received support from NATO's Defence Innovation Accelerator for the North Atlantic (DIANA) , the Slovak government, the EU through an Important Project of Common European Interest (IPCEI) , and Germany's Federal Agency for Disruptive Innovation, SPRIND .
+ For Tech Horizons partner Matej Luhový , this combination of biotechnology and manufacturing resilience was central to the investment. "Sensible Biotechnologies reduces dependence on a narrow group of suppliers and strengthens biosecurity across the region. Resilient biotechnology supply chains are now just as critical to Europe’s security as the defence industry." 
+ CEO and co-founder Miroslav Gašpárek argues that the opportunity extends beyond the mRNA vaccines that brought the technology into mainstream attention during the COVID-19 pandemic.
+ "mRNA has already transformed the field of vaccines, but we believe its greatest potential is still ahead of us – both in the development of new therapeutics and in our ability to respond rapidly to emerging biological threats." The company's long-term goal is to use the platform to develop a new generation of mRNA therapeutics, with potential applications spanning cancer, genetic disorders, protein replacement, and cell therapies .
+ Share 
+ Newer post 
+ Romanian-founded Siena Raises Over €15M Series A to Build an "Agent of Record" for Consumer Brands
+ Older post 
+ NewsLabs Wants Newsrooms to Ask Why They’re Saving Time With AI
+ Member discussion
+ You might also like 
+ CEE Startup & Tech Weekly: Bulgarian-Founded Varda Space Hits $1.6B Valuation After $250M Raise 
+ by
+ The Recursive 
+ NASA Space Apps Challenge 2026: Where to Join It in CEE 
+ by
+ Yoana Stanislavova 
+ Poland's BGK Launches €114M Vinci Space Tech Fund, the Country's 1st Fund for Space Companies 
+ by
+ Yoana Stanislavova 
+ Romanian-founded Siena Raises Over €15M Series A to Build an "Agent of Record" for Consumer Brands 
+ by
+ Yoana Stanislavova 
+ CEE Startup & Tech Weekly: New €70M+ Fund Backing CEE 
+ by
+ The Recursive 
+ Newsletter 
+ Get all the latest posts delivered straight to your inbox.
+ Subscribe 
+ Processing your application 
+ Please check your inbox and click the link to confirm your subscription. 
+ There was an error sending the email 
+ Meet the world's next tech leaders before anyone else!
+ Become a subscriber → 
+ Get all the latest posts delivered straight to your inbox. 
+ Social 
+ Facebook 
+ LinkedIn 
+ YouTube 
+ Instagram 
+ Links 
+ Join the Community 
+ Privacy Policy 
+ Join our Viber channel! 
+ © 2026 The Recursive .
+ Cherni Vrah Boulevard 51, Building 4, Sofia, Bulgaria
+ You’ve successfully subscribed to The Recursive
+ Welcome back! You’ve successfully signed in.
+ Great! You’ve successfully signed up.
+ Success! Your email is updated.
+ Your link has expired
+ Success! Check your email for magic link to sign-in.
+ 

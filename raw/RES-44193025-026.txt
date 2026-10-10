@@ -1,0 +1,43 @@
+{"prilohy":[{"id":8042955,"meno":"Príloha k účtovnej závierke MÚJ.PDF","velkostPrilohy":63674,"pocetStran":0,"jazyk":"SK","mimeType":"application/pdf","digest":"ac3c5d717ef4d4ca8e2a50eb931ef819c94f0c4fe5cdd39c06a4b0509e8f5d06"},{"id":8042956,"meno":"MUJ_2121265575_IR_202006-202012_2649048_3740046.pdf","velkostPrilohy":172376,"pocetStran":5,"jazyk":"SLK","mimeType":"application/pdf","digest":"7895952a62553205649d82dd86c05b3e0475aa67e6a3e6aaf82390a7c3031263"}],"id":7379133,"idUctovnejZavierky":4562833,"obsah":{"tabulky":[{"nazov":{"sk":"Strana aktív"},"data":["5000","5000","","","","","","","","","","","","","","","","","","","","","","","","","5000","5000","","","","","","","","","","","","","5000","5000","5000","5000","",""]},{"nazov":{"sk":"Strana pasív"},"data":["5000","5000","5000","5000","5000","5000","5000","5000","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]},{"nazov":{"sk":"Výkaz ziskov a strát"},"data":["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]}],"titulnaStrana":{"nazovUctovnejJednotky":"ASC Retail Holding, s. r. o.","ico":"53101103","dic":"2121265575","adresa":{"ulica":"GORSKÉHO","cislo":"4","psc":"82102","mesto":"BRATISLAVA"},"skNace":"96090","typZavierky":"Riadna","obdobieOd":"2020-06","obdobieDo":"2020-12","datumSchvalenia":"2021-02-25","datumZostavenia":"2021-02-25","oznacenieObchodnehoRegistra":"Okr.súd BA I.,Vložka číslo:  145679/B"}},"pristupnostDat":"Verejné","idSablony":687,"kodDanovehoUradu":"100","datumPoslednejUpravy":"2021-02-26","zdrojDat":"FRSR"}
+
+=== https://www.registeruz.sk/cruz-public/domain/financialreport/attachment/8042955 (príloha účtovnej závierky, text cez pdftotext -layout, medzery zlúčené) ===
+Poznámky Úč MÚJ 3-01 IČO 5 3 1 0 1 1 0 3 DIČ 2 1 2 1 2 6 5 5 7 5
+Čl. I Všeobecné údaje o účtovnej jednotke
+Čl. I (1) , (3) Všeobecné údaje
+ASC Retail Holding, s. r. o.
+Čl. I (1) Obchodné meno účtovnej jednotky:
+Gorského 4 , 82 1 02, Bratislava
+Sídlo:
+Čl. I (3) Priemerný počet zamestnancov:
+Čl. II Informácie o prijatých postupoch
+Čl. II (1) Nepretržité pokračovanie účtovnej jednotky
+Čl. II (1) Účtovná závierka je zostavená za splnenia predpokladu, že účtovná jednotka bude nepretržite pokračovať vo svojej činnosti:
+Áno Nie
+Čl. II (2) Spôsob oceňovania jednotlivých položiek majetku a záväzkov
+Čl. II (2) Spôsob oceňovania jednotlivých položiek majetku a záväzkov
+Popis položky Ocenenie majetku a záväzkov Poznámka k oceneniu
+Dlhodobý nehmotný majetok Menovitou hodnotou
+Dlhodobý hmotný majetok
+Dlhodobý finančný majetok
+Zásoby
+Pohľadávky
+Krátkodobý finančný majetok
+Záväzky vrátane rezerv, dlhopisov, pôžičiek, úverov
+Derivátové operácie
+Čl. II (3) Spôsob zostavenia odpisového plánu pre jednotlivé druhy dlhodobého majetku
+Spoločnosť v roku 2020 neobstarala žiadny majetok
+Čl. II (3) Spôsob zostavenia odpisového plánu pre jednotlivé druhy dlhodobého majetku
+Dlhodobý nehmotný majetok: odpisový plán účtovných odpisov vychádzal z požiadavky zákona č. 431/2002 o účtovníctve. Majetok sa odpisoval počas
+predpokladanej doby používania zodpovedajúcej spotrebe budúcich ekonomických úžitkov z majetku. Odpisové sadzby pre
+účtovné a daňové odpisy dlhodobého nehmotného majetku sa rovnajú.
+Dlhodobý hmotný majetok: odpisový plán účtovných odpisov sa zostavil interným predpisom, v ktorom sa vychádzalo z predpokladaného opotrebenia
+zaraďovaného majetku zodpovedajúceho bežným podmienkam jeho používania. Účtovné a daňové odpisy sa nerovnajú.
+Dlhodobý hmotný majetok: odpisový plán účtovných odpisov sa zostavil interným predpisom, v ktorom sa vychádzalo z metód používaných pri vyčíslovaní
+daňových odpisov. Účtovné a daňové odpisy sa rovnajú.
+Odpisový plán bol ovplyvnený týmito skutočnosťami:
+Spôsob zostavenia odpisového plánu pre jednotlivé druhy dlhodobého nehmotného a hmotného majetku
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega Strana: 1
+Poznámky Úč MÚJ 3-01 IČO 5 3 1 0 1 1 0 3 DIČ 2 1 2 1 2 6 5 5 7 5
+Druh majetku
+Doba odpisovania Sadzba odpisov Odpisová metóda
+Vytvorené v programe OMEGA - podvojné účtovníctvo a legislatíva bez starostí. © KROS a.s., www.kros.sk/omega Strana: 2

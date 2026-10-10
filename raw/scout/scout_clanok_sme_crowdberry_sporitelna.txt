@@ -1,0 +1,39 @@
+URL: https://index.sme.sk/c/23397935/slovenska-sporitelna-crowdberry-investicia-miliony-daniel-gaspar-rozhovor.html
+FINAL_URL: https://www.sme.sk/index/c/slovenska-sporitelna-crowdberry-investicia-miliony-daniel-gaspar-rozhovor
+HTTP: urllib 403 Forbidden; retried in browser (Playwright Chromium) OK
+FETCHED_AT: 2026-10-09T19:06:42
+TITLE: Slovenská sporiteľňa investuje milióny do Crowdberry (rozhovor) - Index SME
+DATES: 15. okt 2024 o 10:04 (as shown on page)
+NOTE: article body behind paywall after the visible part; visible text copied below (article element innerText, navigation trimmed).
+
+15. okt 2024 o 10:04
+Slovenská sporiteľňa kupuje za milióny časť Crowdberry. Chcú sa od nás učiť, hovorí šéf platformy
+
+Slovenská sporiteľňa vstúpila akcionársky do investičnej platformy Crowdberry.
+
+Jozef Tvardzík, reportér magazínu Index
+
+Partner spoločnosti Crowdberry Daniel Gašpar (zdroj: SME / Marko Erd)
+
+Keď chce firma získať peniaze na rozvoj, je typické, že sa obráti na banku. Prípadne môže vydať dlhopisy alebo si nájsť investora výmenou za podiel vo firme.
+
+Spoločnosť Crowdberry pred takmer desiatimi rokmi priniesla novú formu financovania firiem, takzvaný crowdinvesting. Ide o investičnú platformu, ktorá umožňuje súkromným investorom priamo investovať do konkrétnych firiem alebo nehnuteľností. Často sú to investori s podnikateľskými skúsenosťami a chuťou aktívne sa zapojiť cez dozornú radu do biznisu, aby firme pôvodného zakladateľa pomohli rásť vloženými peniazmi.
+
+Crowdberry vstupuje do novej fázy svojej existencie, keďže menšinový podiel v nej kúpila Slovenská sporiteľňa. Ide o niekoľkomiliónový obchod, ktorým Crowdberry získa kapitál na ďalší rozvoj. „Pre banku je to výhodné, pretože nás berie aj ako zdroj budúcich klientov,“ vysvetľuje v rozhovore pre INDEX riadiaci partner Crowdberry Daniel GAŠPAR.
+
+Čo sa v článku dočítate:
+Aký zmysel má pre Slovenskú sporiteľňu akcionársky podiel v Crowdberry?
+Čo sa stalo so spoluprácou s Tatra bankou, ktorú Crowdberry pôvodne rozbiehala?
+Crowdberry požičala peniaze Pohode. Čo ak festival nebude splácať úver?
+Ako sa počíta výnos pre investora pri firmách, do ktorých investuje?
+Ako rozumieť strategickému partnerstvu medzi Crowdberry a Slovenskou sporiteľňou?
+
+Je to vzájomný impulz pre rozvoj privátneho kapitálového trhu. Malé a stredné podniky dokážu získať od bánk financovanie na projekty, ktoré už existujú a majú históriu. Ak ďalšie financovanie potrebujú na inovácie, digitalizáciu a rozvoj, ktoré majú priniesť zatiaľ neoverené výsledky v budúcnosti, banka naráža na limity.
+
+Slovenská sporiteľňa chce dať partnerstvom s nami možnosť firemným klientom dostať sa k súkromnému rozvojovému kapitálu, pretože z regulačného hľadiska to nevie urobiť sama.
+
+Bude mať Slovenská sporiteľňa v Crowdberry majoritu?
+Banka akcionársky vstupuje do Crowdberry, ale nebude mať majoritu. Aký podiel, nekomunikujeme.
+
+O akej sume hovoríme?
+[ČÍTAŤ ĎALEJ – paywall]

@@ -1,0 +1,2277 @@
+[
+  {
+    "ico": "52524531",
+    "name": "CB Investment Management s. r. o.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"CB Investment Management s. r. o.\",\"ico\":\"52524531\",\"sidlo\":\"Staromestská 3 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-52524531-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-52524531-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný správca alternatívnych investičných fondov (register NBS), platná od 2019-08-20",
+        "claim_id": "RES-52524531-005"
+      },
+      {
+        "value": "spravovanie AIF v rozsahu výnimky podľa § 31a ods. 1 zákona č. 203/2011 Z. z. (predmet podnikania v OR od 08.10.2019)",
+        "claim_id": "RES-52524531-006"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "7020 Poradenské služby v oblasti podnikania a riadenia",
+        "claim_id": "REG-52524531-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "bez sektorového vymedzenia: inovatívne firmy registrované v SR",
+        "claim_id": "RES-52524531-009"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "seed, pre-seed (firmy do 3 rokov, v Bratislave do 5 rokov)",
+        "claim_id": "RES-52524531-008"
+      }
+    ],
+    "ticket_size": [
+      {
+        "value": "EUR 200000 – 1600000",
+        "claim_id": "RES-52524531-010"
+      }
+    ],
+    "velkost_fondu": [
+      {
+        "value": "EUR 23200000 (CB Growth ONE)",
+        "claim_id": "RES-52524531-011"
+      }
+    ],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 2567523 (netto k 2025-12-31, CB Investment Management s. r. o.)",
+        "claim_id": "RES-52524531-013"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "52956741",
+        "target": "E.bot Technology s.r.o.",
+        "datum": "2026-09-09",
+        "forma": "podiel",
+        "claim_id": "RES-52524531-014",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2025,\"zamestnanci\":null,\"trzby\":1270,\"bilancna_suma\":766505}",
+            "claim_id": "RES-52524531-016"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "kontrolny",
+            "claim_id": "RES-52524531-015"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "54448506",
+        "target": "Wewell s.r.o.",
+        "datum": "2026-07-10",
+        "forma": "podiel",
+        "claim_id": "RES-52524531-017",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":11130,\"bilancna_suma\":992434}",
+            "claim_id": "RES-52524531-019"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52524531-018"
+          }
+        ],
+        "vyska_investicie": [
+          {
+            "value": "EUR 1250000",
+            "claim_id": "RES-52524531-021"
+          }
+        ]
+      },
+      {
+        "target_ico": "54448506",
+        "target": "Wewell",
+        "datum": "2023-12-06",
+        "forma": "neuvedena",
+        "claim_id": "RES-52524531-020",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":11130,\"bilancna_suma\":992434}",
+            "claim_id": "RES-52524531-019"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52524531-018"
+          }
+        ],
+        "vyska_investicie": [
+          {
+            "value": "EUR 1250000",
+            "claim_id": "RES-52524531-021"
+          }
+        ]
+      },
+      {
+        "target_ico": "54337739",
+        "target": "Forvio s. r. o.",
+        "datum": "2023-12-30",
+        "forma": "podiel",
+        "claim_id": "RES-52524531-022",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2022,\"zamestnanci\":null,\"trzby\":null,\"bilancna_suma\":237452}",
+            "claim_id": "RES-52524531-024"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52524531-023"
+          }
+        ],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "52568288",
+    "name": "Vision Ventures, s.r.o.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Vision Ventures, s.r.o.\",\"ico\":\"52568288\",\"sidlo\":\"Bottova 2A Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-52568288-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-52568288-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný správca alternatívnych investičných fondov (NBS, reg. č. 0020, od 11.11.2019); spravovaný fond: Vision Ventures Growth I, s. r. o.",
+        "claim_id": "RES-52568288-003"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "8299 Ostatné pomocné obchodné činnosti i. n.",
+        "claim_id": "REG-52568288-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "generalista (otvorený rôznym sektorom)",
+        "claim_id": "RES-52568288-028"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "pre-seed, seed",
+        "claim_id": "RES-52568288-029"
+      },
+      {
+        "value": "early-stage (firmy do 5 rokov od založenia, mikro a malé podniky)",
+        "claim_id": "RES-52568288-030"
+      }
+    ],
+    "ticket_size": [
+      {
+        "value": "EUR 100000–800000, max. EUR 1600000",
+        "claim_id": "RES-52568288-031"
+      }
+    ],
+    "velkost_fondu": [],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 395550 (správca, k 31.12.2025; aktíva fondu sú v rešerši 52656438)",
+        "claim_id": "RES-52568288-033"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "53319737",
+        "target": "Sloneek Europe s.r.o.",
+        "datum": "2026-05-27",
+        "forma": "podiel",
+        "claim_id": "RES-52568288-004",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-52568288-022"
+          },
+          {
+            "value": "seed",
+            "claim_id": "RES-52568288-023"
+          }
+        ],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":879958,\"bilancna_suma\":2955379}",
+            "claim_id": "RES-52568288-005"
+          },
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":347907,\"bilancna_suma\":1601741}",
+            "claim_id": "RES-52568288-020"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-006"
+          },
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-021"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53229649",
+        "target": "Airvolute s.r.o.",
+        "datum": "2026-01-09",
+        "forma": "podiel",
+        "claim_id": "RES-52568288-007",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1357559,\"bilancna_suma\":1806416}",
+            "claim_id": "RES-52568288-008"
+          },
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1357559,\"bilancna_suma\":1806416}",
+            "claim_id": "RES-52568288-011"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-009"
+          },
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-012"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53229649",
+        "target": "Airvolute s.r.o.",
+        "datum": "2025-11-11",
+        "forma": "podiel",
+        "claim_id": "RES-52568288-010",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1357559,\"bilancna_suma\":1806416}",
+            "claim_id": "RES-52568288-008"
+          },
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1357559,\"bilancna_suma\":1806416}",
+            "claim_id": "RES-52568288-011"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-009"
+          },
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-012"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "54906466",
+        "target": "Good Vibes Software s.r.o.",
+        "datum": "2025-07-10",
+        "forma": "podiel",
+        "claim_id": "RES-52568288-013",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":6645,\"bilancna_suma\":559504}",
+            "claim_id": "RES-52568288-014"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-015"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "52011003",
+        "target": "Eatster s.r.o.",
+        "datum": "2025-04-11",
+        "forma": "podiel",
+        "claim_id": "RES-52568288-016",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":127368,\"bilancna_suma\":367134}",
+            "claim_id": "RES-52568288-017"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-018"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53319737",
+        "target": "Sloneek Europe s.r.o.",
+        "datum": "2024-06-21",
+        "forma": "podiel",
+        "claim_id": "RES-52568288-019",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-52568288-022"
+          },
+          {
+            "value": "seed",
+            "claim_id": "RES-52568288-023"
+          }
+        ],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":879958,\"bilancna_suma\":2955379}",
+            "claim_id": "RES-52568288-005"
+          },
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":347907,\"bilancna_suma\":1601741}",
+            "claim_id": "RES-52568288-020"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-006"
+          },
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-021"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55353690",
+        "target": "BiteBerry s. r. o.",
+        "datum": "2023-08-09",
+        "forma": "podiel",
+        "claim_id": "RES-52568288-024",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-025"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55209971",
+        "target": "Deal machine s. r. o.",
+        "datum": "2023-07-29",
+        "forma": "podiel",
+        "claim_id": "RES-52568288-026",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52568288-027"
+          }
+        ],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "47367610",
+    "name": "Neulogy Ventures, a. s.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Neulogy Ventures, a. s.\",\"ico\":\"47367610\",\"sidlo\":\"Tallerova 4 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Akciová spoločnosť\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-47367610-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-47367610-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "fondy regulované CSSF (LU); SK subjekt v registri NBS nenájdený",
+        "claim_id": "RES-47367610-013"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "7020 Poradenské služby v oblasti podnikania a riadenia",
+        "claim_id": "REG-47367610-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "deeptech: technológie, klíma, zdravie",
+        "claim_id": "RES-47367610-008"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "early-stage (založenie a rast firmy)",
+        "claim_id": "RES-47367610-009"
+      }
+    ],
+    "ticket_size": [
+      {
+        "value": "EUR 200000 – 3000000",
+        "claim_id": "RES-47367610-010"
+      }
+    ],
+    "velkost_fondu": [
+      {
+        "value": "EUR 65000000 (AUM)",
+        "claim_id": "RES-47367610-011"
+      }
+    ],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 685952 (k 2025-12-31, Neulogy Ventures, a.s.)",
+        "claim_id": "RES-47367610-012"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "50111965",
+        "target": "MultiplexDX, s.r.o.",
+        "datum": "2026-01-17",
+        "forma": "podiel",
+        "claim_id": "RES-47367610-015",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1528399,\"bilancna_suma\":10084118}",
+            "claim_id": "RES-47367610-017"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "",
+        "target": "StratifAI GmbH",
+        "datum": "2024-09-02",
+        "forma": "neuvedena",
+        "claim_id": "RES-47367610-018",
+        "faza": [
+          {
+            "value": "pre-seed",
+            "claim_id": "RES-47367610-019"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "",
+        "target": "BeiT s.r.o.",
+        "datum": "2024",
+        "forma": "neuvedena",
+        "claim_id": "RES-47367610-022",
+        "faza": [
+          {
+            "value": "pre-seed",
+            "claim_id": "RES-47367610-019"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55353690",
+        "target": "BiteBerry s. r. o.",
+        "datum": "2024",
+        "forma": "neuvedena",
+        "claim_id": "RES-47367610-023",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":null,\"bilancna_suma\":847063}",
+            "claim_id": "RES-47367610-024"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53328001",
+        "target": "Trustmatic s. r. o.",
+        "datum": "2023-10-24",
+        "forma": "neuvedena",
+        "claim_id": "RES-47367610-025",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2022,\"zamestnanci\":null,\"trzby\":14158,\"bilancna_suma\":81260}",
+            "claim_id": "RES-47367610-026"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "54486343",
+    "name": "CB ESPRI s. r. o.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"CB ESPRI s. r. o.\",\"ico\":\"54486343\",\"sidlo\":\"Staromestská 3 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-54486343-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-54486343-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný správca alternatívnych investičných fondov (register NBS), od 2022-05-05",
+        "claim_id": "RES-54486343-018"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "6630 Činnosti investičných manažérov",
+        "claim_id": "REG-54486343-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "impakt: healthcare technology, environmental sustainability, civic technology, clean mobility, financial inclusion, circular economy, education; sociálna ekonomika (registrované sociálne podniky)",
+        "claim_id": "RES-54486343-012"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "pre-seed, seed (Track B impaktové startupy)",
+        "claim_id": "RES-54486343-013"
+      }
+    ],
+    "ticket_size": [
+      {
+        "value": "EUR 10 000 – 500 000",
+        "claim_id": "RES-54486343-014"
+      }
+    ],
+    "velkost_fondu": [
+      {
+        "value": "EUR 16 329 000 investovaného kapitálu v 42 spoločnostiach (CB ESPRI Impact One)",
+        "claim_id": "RES-54486343-015"
+      },
+      {
+        "value": "EUR 17 823 127 aktíva spolu (netto) fondu CB ESPRI Impact One k 31.12.2025",
+        "claim_id": "RES-54486343-016"
+      }
+    ],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 523 508 (správca, k 31.12.2025)",
+        "claim_id": "RES-54486343-017"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "55927033",
+        "target": "Impact Ventures, s. r. o.",
+        "datum": "2023-12-08",
+        "forma": "podiel",
+        "claim_id": "RES-54486343-003",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-54486343-005"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55927033",
+        "target": "Impact Ventures, s. r. o.",
+        "datum": "2024-06-26",
+        "forma": "podiel",
+        "claim_id": "RES-54486343-004",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-54486343-005"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55526136",
+        "target": "elv.ai, j. s. a.",
+        "datum": "2024-01-15",
+        "forma": "konvertibilny",
+        "claim_id": "RES-54486343-006",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-54486343-007"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": [
+          {
+            "value": "EUR 500000",
+            "claim_id": "RES-54486343-008"
+          }
+        ]
+      },
+      {
+        "target_ico": "55316590",
+        "target": "TrollWall AI Technologies j. s. a.",
+        "datum": "2023",
+        "forma": "podiel",
+        "claim_id": "RES-54486343-009",
+        "faza": [
+          {
+            "value": "pre-seed",
+            "claim_id": "RES-54486343-010"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "52204634",
+    "name": "IPM Avanea Eco Management a.s.",
+    "subtype": "VC",
+    "confidence": "stredna",
+    "confidence_activity": "vysoka",
+    "confidence_type": "stredna",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"IPM Avanea Eco Management a.s.\",\"ico\":\"52204634\",\"sidlo\":\"Mostová 2 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Akciová spoločnosť\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-52204634-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-52204634-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný správca alternatívnych investičných fondov (NBS), od 2019-03-05",
+        "claim_id": "RES-52204634-003"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "7020 Poradenské služby v oblasti podnikania a riadenia",
+        "claim_id": "REG-52204634-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "odpadové hospodárstvo (waste management)",
+        "claim_id": "RES-52204634-010"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "bez obmedzenia veku alebo veľkosti podniku",
+        "claim_id": "RES-52204634-011"
+      }
+    ],
+    "ticket_size": [],
+    "velkost_fondu": [],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 1253103 (k 2025-12-31, IPM Avanea Eco Management a.s.)",
+        "claim_id": "RES-52204634-009"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "53582187",
+        "target": "ECOTAP, s.r.o.",
+        "datum": "2024-01-11",
+        "forma": "podiel",
+        "claim_id": "RES-52204634-006",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":0,\"bilancna_suma\":9028}",
+            "claim_id": "RES-52204634-008"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "kontrolny",
+            "claim_id": "RES-52204634-007"
+          }
+        ],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "47759097",
+    "name": "Slovak Investment Holding, a. s.",
+    "subtype": "statny_fond",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Slovak Investment Holding, a. s.\",\"ico\":\"47759097\",\"sidlo\":\"Grösslingová 44 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Akciová spoločnosť\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-47759097-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-47759097-stav"
+      }
+    ],
+    "licencia": [],
+    "sektor_investora": [
+      {
+        "value": "6630 Činnosti investičných manažérov",
+        "claim_id": "REG-47759097-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "inovatívne MSP s výskumno-vývojovými a inovačnými aktivitami (sektorovo neobmedzené)",
+        "claim_id": "RES-47759097-009"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "seed / raná fáza (nástroj POO, Komponent 9, Investícia 6)",
+        "claim_id": "RES-47759097-007"
+      },
+      {
+        "value": "priame investície: inovatívne podniky v raných fázach aj etablované firmy so zámerom rastu",
+        "claim_id": "RES-47759097-008"
+      }
+    ],
+    "ticket_size": [],
+    "velkost_fondu": [
+      {
+        "value": "EUR 15000000 (plánovaná alokácia POO na seed kapitálový nástroj; nie samostatný fond)",
+        "claim_id": "RES-47759097-010"
+      }
+    ],
+    "celkove_aktiva": [],
+    "investicie": [
+      {
+        "target_ico": "57559856",
+        "target": "VisionFlow s. r. o.",
+        "datum": "2026-09-22",
+        "forma": "konvertibilny",
+        "claim_id": "RES-47759097-011",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": [
+          {
+            "value": "EUR 1400000",
+            "claim_id": "RES-47759097-012"
+          }
+        ]
+      },
+      {
+        "target_ico": "47074051",
+        "target": "AT Crystals, s. r. o.",
+        "datum": "2026-09-15",
+        "forma": "konvertibilny",
+        "claim_id": "RES-47759097-013",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2025,\"zamestnanci\":null,\"trzby\":22000,\"bilancna_suma\":446046}",
+            "claim_id": "RES-47759097-015"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": [
+          {
+            "value": "EUR 280000",
+            "claim_id": "RES-47759097-014"
+          }
+        ]
+      },
+      {
+        "target_ico": "57221537",
+        "target": "Veslo s. r. o.",
+        "datum": "2026-07-20",
+        "forma": "konvertibilny",
+        "claim_id": "RES-47759097-016",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2025,\"zamestnanci\":null,\"trzby\":2700,\"bilancna_suma\":8693}",
+            "claim_id": "RES-47759097-018"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": [
+          {
+            "value": "EUR 1400000",
+            "claim_id": "RES-47759097-017"
+          }
+        ]
+      },
+      {
+        "target_ico": "57474591",
+        "target": "Nordics s. r. o. (Definic)",
+        "datum": "2026-06-03",
+        "forma": "podiel",
+        "claim_id": "RES-47759097-019",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-47759097-020"
+          }
+        ],
+        "vyska_investicie": [
+          {
+            "value": "EUR 600000",
+            "claim_id": "RES-47759097-021"
+          }
+        ]
+      },
+      {
+        "target_ico": "55209971",
+        "target": "Deal machine s. r. o. (CloseRocket)",
+        "datum": "2026-04-22",
+        "forma": "konvertibilny",
+        "claim_id": "RES-47759097-024",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2025,\"zamestnanci\":null,\"trzby\":671966,\"bilancna_suma\":1634692}",
+            "claim_id": "RES-47759097-026"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": [
+          {
+            "value": "EUR 300000",
+            "claim_id": "RES-47759097-025"
+          }
+        ]
+      },
+      {
+        "target_ico": "55316590",
+        "target": "TrollWall AI Technologies j. s. a.",
+        "datum": "2026-04-09",
+        "forma": "konvertibilny",
+        "claim_id": "RES-47759097-027",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":163308,\"bilancna_suma\":196541}",
+            "claim_id": "RES-47759097-029"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": [
+          {
+            "value": "EUR 450000",
+            "claim_id": "RES-47759097-028"
+          }
+        ]
+      },
+      {
+        "target_ico": "51852683",
+        "target": "AID s.r.o. (AI:Dental)",
+        "datum": "2025-09-12",
+        "forma": "konvertibilny",
+        "claim_id": "RES-47759097-030",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":208,\"bilancna_suma\":1302262}",
+            "claim_id": "RES-47759097-032"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": [
+          {
+            "value": "EUR 400000",
+            "claim_id": "RES-47759097-031"
+          }
+        ]
+      },
+      {
+        "target_ico": "47053909",
+        "target": "TEIBL, s.r.o.",
+        "datum": "2025-07-31",
+        "forma": "konvertibilny",
+        "claim_id": "RES-47759097-033",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":213944,\"bilancna_suma\":194015}",
+            "claim_id": "RES-47759097-035"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": [
+          {
+            "value": "EUR 700000",
+            "claim_id": "RES-47759097-034"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ico": "53527798",
+    "name": "G-Force, s. r. o.",
+    "subtype": "VC",
+    "confidence": "stredna",
+    "confidence_activity": "stredna",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"G-Force, s. r. o.\",\"ico\":\"53527798\",\"sidlo\":\"Mlynské nivy 5 Bratislava - mestská časť Ružinov\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-53527798-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-53527798-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný správca alternatívnych investičných fondov – správca EuVECA (register NBS), od 2021-08-16; spravuje G-Force Fund, j.s.a. (53588398)",
+        "claim_id": "RES-53527798-010"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "8210 Administratívne a pomocné činnosti",
+        "claim_id": "REG-53527798-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [
+      {
+        "value": "EuVECA",
+        "claim_id": "RES-53527798-011"
+      }
+    ],
+    "deklarovany_sektor": [
+      {
+        "value": "deep tech / klíma: energetika, priemysel, mobilita, efektívnosť zdrojov",
+        "claim_id": "RES-53527798-004"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "pre-seed",
+        "claim_id": "RES-53527798-005"
+      }
+    ],
+    "ticket_size": [
+      {
+        "value": "EUR 250000",
+        "claim_id": "RES-53527798-006"
+      }
+    ],
+    "velkost_fondu": [
+      {
+        "value": "EUR 20000000 (cieľová veľkosť G-Force Fund II, oznámenie)",
+        "claim_id": "RES-53527798-007"
+      },
+      {
+        "value": "EUR 1459085 (aktíva spolu G-Force Fund, j. s. a. k 31.12.2025)",
+        "claim_id": "RES-53527798-008"
+      }
+    ],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 527118 (2025)",
+        "claim_id": "RES-53527798-009"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "",
+        "target": "Enzidia",
+        "datum": "2025-03-11",
+        "forma": "neuvedena",
+        "claim_id": "RES-53527798-012",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-53527798-014"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "",
+        "target": "Brightly",
+        "datum": "2024-12-17",
+        "forma": "neuvedena",
+        "claim_id": "RES-53527798-013",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-53527798-014"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "",
+        "target": "Tattva",
+        "datum": "2024-10-21",
+        "forma": "neuvedena",
+        "claim_id": "RES-53527798-015",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-53527798-014"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "",
+        "target": "Ki Hydrogen (dnes Ki 13)",
+        "datum": "2024-07-23",
+        "forma": "neuvedena",
+        "claim_id": "RES-53527798-016",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-53527798-014"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "55387845",
+    "name": "Occam Investments s. r. o.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Occam Investments s. r. o.\",\"ico\":\"55387845\",\"sidlo\":\"Digital Park I, Einsteinova 21 Bratislava - mestská časť Petržalka\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-55387845-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-55387845-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný správca alternatívnych investičných fondov – správca EuVECA (register NBS), platná od 2024-06-20",
+        "claim_id": "RES-55387845-002"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "6619 Ostatné pomocné činnosti finančných služieb okrem poistenia a dôchodkového zabezpečenia",
+        "claim_id": "REG-55387845-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [
+      {
+        "value": "EuVECA",
+        "claim_id": "RES-55387845-003"
+      }
+    ],
+    "deklarovany_sektor": [],
+    "deklarovana_faza": [],
+    "ticket_size": [],
+    "velkost_fondu": [
+      {
+        "value": "EUR 6000 (aktíva spolu Occam Fund III. j.s.a. k 2024-12-31)",
+        "claim_id": "RES-55387845-007"
+      }
+    ],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 54516 (k 2024-12-31)",
+        "claim_id": "RES-55387845-006"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "55621571",
+        "target": "Fund BCT s. r. o. (pôv. Occam Fund II. s. r. o.)",
+        "datum": "2024-11-29",
+        "forma": "podiel",
+        "claim_id": "RES-55387845-008",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":null,\"bilancna_suma\":666}",
+            "claim_id": "RES-55387845-010"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "kontrolny",
+            "claim_id": "RES-55387845-009"
+          },
+          {
+            "value": "kontrolny",
+            "claim_id": "RES-55387845-012"
+          }
+        ],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "52380483",
+    "name": "Venture to Future Fund, a.s.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Venture to Future Fund, a.s.\",\"ico\":\"52380483\",\"sidlo\":\"Grösslingová 44 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Akciová spoločnosť\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-52380483-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-52380483-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný alternatívny investičný fond (register NBS), platná od 2025-01-20; správca Slovak Capital Management, a. s. (IČO 51865513)",
+        "claim_id": "RES-52380483-002"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "6431 Činnosti investičných fondov peňažného a nepeňažného trhu",
+        "claim_id": "REG-52380483-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "inovatívne/technologické firmy bez sektorového obmedzenia; SK firmy a EÚ firmy s kapitálovým prepojením na SK",
+        "claim_id": "RES-52380483-004"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "late-seed až Series A/B (rastová fáza)",
+        "claim_id": "RES-52380483-005"
+      }
+    ],
+    "ticket_size": [
+      {
+        "value": "EUR 400000 až 7000000 (optimálne 1,5–2,0 mil. EUR, vrátane follow-on)",
+        "claim_id": "RES-52380483-006"
+      }
+    ],
+    "velkost_fondu": [
+      {
+        "value": "EUR 55000000 (na roky 2020–2026)",
+        "claim_id": "RES-52380483-007"
+      }
+    ],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 33704571 (k 2025-12-31)",
+        "claim_id": "RES-52380483-008"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "52886883",
+        "target": "BigBite s.r.o.",
+        "datum": "2026-07-02",
+        "forma": "podiel",
+        "claim_id": "RES-52380483-009",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2025,\"zamestnanci\":null,\"trzby\":133501,\"bilancna_suma\":557672}",
+            "claim_id": "RES-52380483-012"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52380483-010"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "06142630",
+        "target": "FaceUp",
+        "datum": "2026-05-19",
+        "forma": "neuvedena",
+        "claim_id": "RES-52380483-015",
+        "faza": [
+          {
+            "value": "series_a",
+            "claim_id": "RES-52380483-016"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "50111965",
+        "target": "MultiplexDX, s.r.o.",
+        "datum": "2026-01-17",
+        "forma": "podiel",
+        "claim_id": "RES-52380483-017",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1528399,\"bilancna_suma\":10084118}",
+            "claim_id": "RES-52380483-019"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52380483-018"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "09821074",
+        "target": "mind the gap s.r.o. (Talentiqa)",
+        "datum": "2025-06-26",
+        "forma": "podiel",
+        "claim_id": "RES-52380483-020",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52380483-021"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "09821074",
+        "target": "Talentiqa",
+        "datum": "2025-09-29",
+        "forma": "neuvedena",
+        "claim_id": "RES-52380483-023",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52380483-021"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "50903403",
+        "target": "NETGRIF, s.r.o.",
+        "datum": "2024-10-18",
+        "forma": "podiel",
+        "claim_id": "RES-52380483-033",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":1147981,\"bilancna_suma\":431619}",
+            "claim_id": "RES-52380483-036"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52380483-034"
+          }
+        ],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "52656136",
+    "name": "CB Growth ONE s. r. o.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"CB Growth ONE s. r. o.\",\"ico\":\"52656136\",\"sidlo\":\"Staromestská 3 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-52656136-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-52656136-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný alternatívny investičný fond (register NBS), od 2019-08-20; správca CB Investment Management s. r. o. (IČO 52524531)",
+        "claim_id": "RES-52656136-002"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "6492 Ostatné poskytovanie úverov",
+        "claim_id": "REG-52656136-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [],
+    "deklarovana_faza": [
+      {
+        "value": "seed, pre-seed",
+        "claim_id": "RES-52656136-005"
+      }
+    ],
+    "ticket_size": [],
+    "velkost_fondu": [
+      {
+        "value": "EUR 23200000",
+        "claim_id": "RES-52656136-008"
+      }
+    ],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 10335746 (netto k 2025-12-31)",
+        "claim_id": "RES-52656136-010"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "52956741",
+        "target": "E.bot Technology s.r.o.",
+        "datum": "2026-09-09",
+        "forma": "podiel",
+        "claim_id": "RES-52656136-011",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2025,\"zamestnanci\":null,\"trzby\":1270,\"bilancna_suma\":766505}",
+            "claim_id": "RES-52656136-013"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "kontrolny",
+            "claim_id": "RES-52656136-012"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "54448506",
+        "target": "Wewell s.r.o.",
+        "datum": "2026-07-10",
+        "forma": "podiel",
+        "claim_id": "RES-52656136-014",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":11130,\"bilancna_suma\":992434}",
+            "claim_id": "RES-52656136-016"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656136-015"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "51860830",
+        "target": "DNA ERA s. r. o.",
+        "datum": "2024-11-12",
+        "forma": "podiel",
+        "claim_id": "RES-52656136-018",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":837474,\"bilancna_suma\":549968}",
+            "claim_id": "RES-52656136-020"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656136-019"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "54337739",
+        "target": "Forvio s. r. o.",
+        "datum": "2023-12-30",
+        "forma": "podiel",
+        "claim_id": "RES-52656136-021",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2022,\"zamestnanci\":null,\"trzby\":null,\"bilancna_suma\":237452}",
+            "claim_id": "RES-52656136-023"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656136-022"
+          }
+        ],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "55356907",
+    "name": "Ethernum Capital s. r. o.",
+    "subtype": "VC",
+    "confidence": "stredna",
+    "confidence_activity": "vysoka",
+    "confidence_type": "stredna",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Ethernum Capital s. r. o.\",\"ico\":\"55356907\",\"sidlo\":\"Dúbravská cesta 14 Bratislava - mestská časť Karlova Ves\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-55356907-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-55356907-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný alternatívny investičný fond (register NBS), platný od 2023-09-11; správca Ethernum Consulting s. r. o. (IČO 55317049, registrovaný správca AIF)",
+        "claim_id": "RES-55356907-002"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "6431 Činnosti investičných fondov peňažného a nepeňažného trhu",
+        "claim_id": "REG-55356907-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [],
+    "deklarovana_faza": [
+      {
+        "value": "dlhodobé private equity investície, rastový kapitál (growth capital) s operatívnou podporou",
+        "claim_id": "RES-55356907-003"
+      }
+    ],
+    "ticket_size": [],
+    "velkost_fondu": [],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 2997295 (k 2025-12-31)",
+        "claim_id": "RES-55356907-004"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "53451911",
+        "target": "Dr. Martin holding s.r.o.",
+        "datum": "2024-07-12",
+        "forma": "podiel",
+        "claim_id": "RES-55356907-005",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":null,\"bilancna_suma\":1641125}",
+            "claim_id": "RES-55356907-011"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-55356907-006"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55399371",
+        "target": "EC Pharmacies s. r. o.",
+        "datum": "2023-04-25",
+        "forma": "podiel",
+        "claim_id": "RES-55356907-014",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "kontrolny",
+            "claim_id": "RES-55356907-015"
+          }
+        ],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "52656438",
+    "name": "Vision Ventures Growth I, s. r. o.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Vision Ventures Growth I, s. r. o.\",\"ico\":\"52656438\",\"sidlo\":\"Bottova 2A Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Spoločnosť s ručením obmedzeným\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-52656438-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-52656438-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "registrovaný alternatívny investičný fond (NBS, od 11.11.2019), správca Vision Ventures, s.r.o.",
+        "claim_id": "RES-52656438-032"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "6492 Ostatné poskytovanie úverov",
+        "claim_id": "REG-52656438-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "generalista (otvorený rôznym sektorom)",
+        "claim_id": "RES-52656438-027"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "pre-seed, seed",
+        "claim_id": "RES-52656438-028"
+      },
+      {
+        "value": "early-stage (firmy do 5 rokov od založenia, mikro a malé podniky)",
+        "claim_id": "RES-52656438-029"
+      }
+    ],
+    "ticket_size": [
+      {
+        "value": "EUR 100000–800000, max. EUR 1600000",
+        "claim_id": "RES-52656438-030"
+      }
+    ],
+    "velkost_fondu": [],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 19213375 (netto, k 31.12.2025)",
+        "claim_id": "RES-52656438-031"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "53319737",
+        "target": "Sloneek Europe s.r.o.",
+        "datum": "2026-05-27",
+        "forma": "podiel",
+        "claim_id": "RES-52656438-003",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-52656438-019"
+          }
+        ],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":879958,\"bilancna_suma\":2955379}",
+            "claim_id": "RES-52656438-004"
+          },
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":347907,\"bilancna_suma\":1601741}",
+            "claim_id": "RES-52656438-016"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-005"
+          },
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-017"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53229649",
+        "target": "Airvolute s.r.o.",
+        "datum": "2026-01-09",
+        "forma": "podiel",
+        "claim_id": "RES-52656438-006",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1357559,\"bilancna_suma\":1806416}",
+            "claim_id": "RES-52656438-007"
+          },
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1357559,\"bilancna_suma\":1806416}",
+            "claim_id": "RES-52656438-010"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-008"
+          },
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-011"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53229649",
+        "target": "Airvolute s.r.o.",
+        "datum": "2025-11-11",
+        "forma": "podiel",
+        "claim_id": "RES-52656438-009",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1357559,\"bilancna_suma\":1806416}",
+            "claim_id": "RES-52656438-007"
+          },
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":1357559,\"bilancna_suma\":1806416}",
+            "claim_id": "RES-52656438-010"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-008"
+          },
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-011"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "52011003",
+        "target": "Eatster s.r.o.",
+        "datum": "2025-04-11",
+        "forma": "podiel",
+        "claim_id": "RES-52656438-012",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":127368,\"bilancna_suma\":367134}",
+            "claim_id": "RES-52656438-013"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-014"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53319737",
+        "target": "Sloneek Europe s.r.o.",
+        "datum": "2024-06-21",
+        "forma": "podiel",
+        "claim_id": "RES-52656438-015",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-52656438-019"
+          }
+        ],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":879958,\"bilancna_suma\":2955379}",
+            "claim_id": "RES-52656438-004"
+          },
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":347907,\"bilancna_suma\":1601741}",
+            "claim_id": "RES-52656438-016"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-005"
+          },
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-017"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53319737",
+        "target": "Sloneek",
+        "datum": "2024-09-10",
+        "forma": "podiel",
+        "claim_id": "RES-52656438-018",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-52656438-019"
+          }
+        ],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":null,\"trzby\":879958,\"bilancna_suma\":2955379}",
+            "claim_id": "RES-52656438-004"
+          },
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":null,\"trzby\":347907,\"bilancna_suma\":1601741}",
+            "claim_id": "RES-52656438-016"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-005"
+          },
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-017"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55353690",
+        "target": "BiteBerry s. r. o.",
+        "datum": "2023-08-09",
+        "forma": "podiel",
+        "claim_id": "RES-52656438-020",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-021"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55209971",
+        "target": "Deal machine s. r. o.",
+        "datum": "2023-07-29",
+        "forma": "podiel",
+        "claim_id": "RES-52656438-022",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-023"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55102239",
+        "target": "Seerlinq s.r.o.",
+        "datum": "2023-07-14",
+        "forma": "podiel",
+        "claim_id": "RES-52656438-024",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2022,\"zamestnanci\":null,\"trzby\":null,\"bilancna_suma\":8400}",
+            "claim_id": "RES-52656438-025"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-52656438-026"
+          }
+        ],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "44193025",
+    "name": "Eterus Capital, a. s.",
+    "subtype": "VC",
+    "confidence": "vysoka",
+    "confidence_activity": "vysoka",
+    "confidence_type": "vysoka",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"Eterus Capital, a. s.\",\"ico\":\"44193025\",\"sidlo\":\"Gorkého 4 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Akciová spoločnosť\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-44193025-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-44193025-stav"
+      }
+    ],
+    "licencia": [],
+    "sektor_investora": [
+      {
+        "value": "7020 Poradenské služby v oblasti podnikania a riadenia",
+        "claim_id": "REG-44193025-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [],
+    "deklarovana_faza": [
+      {
+        "value": "rastový kapitál (spoločnosti vo fáze rastu s overeným konceptom), minoritné podiely",
+        "claim_id": "RES-44193025-003"
+      }
+    ],
+    "ticket_size": [
+      {
+        "value": "EUR 2000000-2500000",
+        "claim_id": "RES-44193025-004"
+      }
+    ],
+    "velkost_fondu": [],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 35101813 (netto, k 2025-12-31)",
+        "claim_id": "RES-44193025-006"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "55632629",
+        "target": "EC Dental s. r. o.",
+        "datum": "2024-05-29",
+        "forma": "podiel",
+        "claim_id": "RES-44193025-010",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":0,\"trzby\":null,\"bilancna_suma\":5000}",
+            "claim_id": "RES-44193025-012"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-44193025-011"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53451911",
+        "target": "Dr. Martin holding s.r.o.",
+        "datum": "2024-06-12",
+        "forma": "podiel",
+        "claim_id": "RES-44193025-013",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2023,\"zamestnanci\":0,\"trzby\":null,\"bilancna_suma\":1641125}",
+            "claim_id": "RES-44193025-014"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "55399371",
+        "target": "EC Pharmacies s. r. o.",
+        "datum": "2023-08-31",
+        "forma": "podiel",
+        "claim_id": "RES-44193025-015",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-44193025-016"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53101103",
+        "target": "ASC Retail Holding, s. r. o.",
+        "datum": "2021-02-04",
+        "forma": "podiel",
+        "claim_id": "RES-44193025-024",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2020,\"zamestnanci\":null,\"trzby\":null,\"bilancna_suma\":5000}",
+            "claim_id": "RES-44193025-026"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "kontrolny",
+            "claim_id": "RES-44193025-025"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "53068394",
+        "target": "GS One, s.r.o.",
+        "datum": "2020-06-26",
+        "forma": "podiel",
+        "claim_id": "RES-44193025-027",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "47970006",
+        "target": "eyerim s.r.o.",
+        "datum": "2020-06-11",
+        "forma": "podiel",
+        "claim_id": "RES-44193025-028",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mala\",\"rok_zavierky\":2019,\"zamestnanci\":17,\"trzby\":6654849,\"bilancna_suma\":3476593}",
+            "claim_id": "RES-44193025-029"
+          }
+        ],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "47759224",
+    "name": "National Development Fund II., a.s.",
+    "subtype": "statny_fond",
+    "confidence": "stredna",
+    "confidence_activity": "vysoka",
+    "confidence_type": "stredna",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"National Development Fund II., a.s.\",\"ico\":\"47759224\",\"sidlo\":\"Grösslingová 2495/44 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Akciová spoločnosť\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-47759224-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-47759224-stav"
+      }
+    ],
+    "licencia": [
+      {
+        "value": "AIF podľa zákona o kolektívnom investovaní so správcom SIH (vlastné tvrdenie v závierke); IČO 47759224 sa v exporte registra NBS (subjekty.nbs.sk/api/json, updated 2026-10-08) nenachádza",
+        "claim_id": "RES-47759224-003"
+      }
+    ],
+    "sektor_investora": [
+      {
+        "value": "6492 Ostatné poskytovanie úverov",
+        "claim_id": "REG-47759224-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "priame ekvitné investície: výskum a inovácie, e-commerce, sociálna ekonomika, energetická efektívnosť",
+        "claim_id": "RES-47759224-004"
+      }
+    ],
+    "deklarovana_faza": [],
+    "ticket_size": [],
+    "velkost_fondu": [],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 1141872001 (netto, 31.12.2025)",
+        "claim_id": "RES-47759224-006"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "55102239",
+        "target": "Seerlinq s.r.o.",
+        "datum": "2026-09-08",
+        "forma": "podiel",
+        "claim_id": "RES-47759224-007",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2025,\"zamestnanci\":null,\"trzby\":501167,\"bilancna_suma\":1865242}",
+            "claim_id": "RES-47759224-010"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-47759224-008"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "57474591",
+        "target": "Nordics s. r. o. (Definic)",
+        "datum": "2026-06-03",
+        "forma": "podiel",
+        "claim_id": "RES-47759224-022",
+        "faza": [],
+        "velkost_firmy": [],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-47759224-023"
+          }
+        ],
+        "vyska_investicie": []
+      }
+    ]
+  },
+  {
+    "ico": "51301547",
+    "name": "365.fintech, a.s.",
+    "subtype": "korporatne_VC",
+    "confidence": "stredna",
+    "confidence_activity": "vysoka",
+    "confidence_type": "stredna",
+    "existencia": [
+      {
+        "value": "{\"nazov\":\"365.fintech, a.s.\",\"ico\":\"51301547\",\"sidlo\":\"Dvořákovo nábrežie 4 Bratislava - mestská časť Staré Mesto\",\"pravna_forma\":\"Akciová spoločnosť\",\"krajina\":\"SR\",\"register\":\"Obchodný register\"}",
+        "claim_id": "REG-51301547-existencia"
+      }
+    ],
+    "stav": [
+      {
+        "value": "aktivny",
+        "claim_id": "REG-51301547-stav"
+      }
+    ],
+    "licencia": [],
+    "sektor_investora": [
+      {
+        "value": "7020 Poradenské služby v oblasti podnikania a riadenia",
+        "claim_id": "REG-51301547-sektor_investora"
+      }
+    ],
+    "regulacna_klasifikacia": [],
+    "deklarovany_sektor": [
+      {
+        "value": "fintech, insurtech, big data (b2b/b2b2c)",
+        "claim_id": "RES-51301547-008"
+      }
+    ],
+    "deklarovana_faza": [
+      {
+        "value": "pre-seed, seed",
+        "claim_id": "RES-51301547-009"
+      }
+    ],
+    "ticket_size": [],
+    "velkost_fondu": [
+      {
+        "value": "EUR 2000000 (investičný rozpočet v počiatočnej fáze, 2018)",
+        "claim_id": "RES-51301547-011"
+      }
+    ],
+    "celkove_aktiva": [
+      {
+        "value": "EUR 4709654 (k 2025-12-31)",
+        "claim_id": "RES-51301547-012"
+      }
+    ],
+    "investicie": [
+      {
+        "target_ico": "48234702",
+        "target": "Pygmalios, s. r. o.",
+        "datum": "2025-11-19",
+        "forma": "podiel",
+        "claim_id": "RES-51301547-002",
+        "faza": [],
+        "velkost_firmy": [
+          {
+            "value": "{\"kategoria\":\"mikro\",\"rok_zavierky\":2024,\"zamestnanci\":4,\"trzby\":602043,\"bilancna_suma\":546682}",
+            "claim_id": "RES-51301547-004"
+          }
+        ],
+        "typ_podielu": [
+          {
+            "value": "mensinovy",
+            "claim_id": "RES-51301547-003"
+          }
+        ],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "",
+        "target": "Ctrl Alt",
+        "datum": "2023-10-24",
+        "forma": "podiel",
+        "claim_id": "RES-51301547-005",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-51301547-007"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      },
+      {
+        "target_ico": "",
+        "target": "Ctrl Alt",
+        "datum": "2023-10-24",
+        "forma": "podiel",
+        "claim_id": "RES-51301547-006",
+        "faza": [
+          {
+            "value": "seed",
+            "claim_id": "RES-51301547-007"
+          }
+        ],
+        "velkost_firmy": [],
+        "typ_podielu": [],
+        "vyska_investicie": []
+      }
+    ]
+  }
+]

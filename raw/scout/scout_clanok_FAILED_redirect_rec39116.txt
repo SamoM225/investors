@@ -1,0 +1,205 @@
+URL: https://therecursive.com/?p=39116
+FINAL_URL: https://www.therecursive.com/?p=39116
+HTTP: 200
+FETCHED_AT: 2026-10-09T18:58:28
+TITLE: Emerging Markets Tech Ecosystem Intelligence & Access | The Recursive
+DATES: [] []
+
+ 
+ Emerging Markets Tech Ecosystem Intelligence & Access | The Recursive 
+ Media 
+ Events 
+ Reports 
+ Podcast 
+ Studio 
+ About us 
+ Sign in 
+ Become a subscriber Become a subscriber 
+ Meet the world's next tech leaders before anyone else
+ Subscribe 
+ Processing your application 
+ Please check your inbox and click the link to confirm your subscription. 
+ There was an error sending the email 
+ Popular tags 
+ AI
+ Founder's School
+ Analysis
+ CEE Weekly
+ Deep Tech
+ Investors
+ Defense Tech
+ Listicle
+ Fintech
+ Space Tech
+ What’s new? 
+ CEE Weekly News Deals 
+ CEE Startup & Tech Weekly: Bulgarian-Founded Varda Space Hits $1.6B Valuation After $250M Raise 
+ The Recursive’s weekly roundup aims to cover key tech developments across Central and Eastern Europe, as well as the growing impact of CEE-born founders on the global stage. Take a look at the latest news in funding, startup milestones, and emerging trends tied to the region’s innovation potential.
+ The Recursive 
+ by
+ The Recursive 
+ October 9, 2026 ∙ 3 min read 
+ Events How to Web report 
+ When We Can Build Anything: What Should We Build, and How? 
+ The cost of building software has collapsed. Three practitioners — a venture capitalist, a bootstrapped founder, and a product coach who shaped tools at Spotify and Google — argue that the real challenge has shifted: from execution to judgment, from speed to meaning.
+ by
+ Ana Marija Kostanic 
+ Members 
+ Fintech Interview 
+ DEPO Ventures' Michal Ciffra: "Fragmentation Was the Opportunity. Now We Need Consolidation" 
+ Michal Ciffra, Partner at DEPO Ventures and one of the key people behind The Fintechers initiative, discusses what makes fintech startups investable in 2026 and the next stage for investment landscape in Europe.
+ by
+ Teodora Atanasova 
+ News CEE Space Tech 
+ NASA Space Apps Challenge 2026: Where to Join It in CEE 
+ Twenty local events across Central and Eastern Europe will run alongside hundreds of others worldwide on 14–15 November.
+ by
+ Yoana Stanislavova 
+ News Space Tech Poland 
+ Poland's BGK Launches €114M Vinci Space Tech Fund, the Country's 1st Fund for Space Companies 
+ The fund will invest around €2.3–23 million in each of 15 to 20 companies working on satellites, Earth observation, propulsion and space data. ICEYE has joined as a strategic partner.
+ by
+ Yoana Stanislavova 
+ Featured posts 
+ Editor’s Choice 
+ Get started with our best stories
+ The Silent M&A Wave: When the Next Funding Round Becomes Less Attractive Than a Sale 
+ by
+ Paul Weinberger 
+ How Bulgaria Built One of Europe’s Fastest-Growing Battery Markets 
+ by
+ Yoana Stanislavova 
+ Are You Building for Real People, or Just Feeding an AI Echo Chamber? 
+ by
+ Teodora Atanasova 
+ Our Podcast 
+ Listen to the latest episodes 
+ The Recursive Podcast
+ How Are Gen Z's Taking Ownership? 
+ Three guests, three very different jobs, one thing in common: they're all in their twenties and already taking on a level of responsibility that usually comes later in a career.
+In this episode of The Recursive Roundtable, we talk with Viktoriya Markileva (Head of Space Services at EnduroSat), Georgi Nichev (Marketing Specialist at Helios Marine, Co-Founder of Scylla), and Maria Nikolova (Strategic Partnerships Development Manager at BESCO) about what it's actually like to be trusted with real responsibility this early — what makes someone trust you with it, how they handle it, and whether a career needs to follow a clear path at all.
+In this episode, we explore:
+🟣 How Gen Zs think about failure, 
+🟣 what hustle culture looks like from the inside, 
+🟣 what progress actually means to them, 
+🟣 and whether they'd be willing to wait years for the next step in their career.
+💡 This conversation is essential for entrepreneurs looking to hire young talent, and for any Gen Z professionals wondering if they are ready to take the leap into a leadership role.
+ Can AI Revive the Super App? 
+ In this episode of The Recursive Podcast, we sit down with Rakuten Viber CEO Ofir Eyal to discuss how the company is evolving beyond messaging through its partnership with OpenAI, the rise of AI-powered communication, and the long-term vision behind building a "super app."
+The conversation explores how the company approaches privacy and responsible AI adoption, and why Europe has yet to embrace the super app model seen across Asia.
+Ofir also reflects on his own journey from product manager to CEO, the leadership lessons he learned while navigating one of Viber's most challenging periods after the outbreak of the war in Ukraine.
+In this episode:
+☑️ Why Viber partnered with OpenAI
+☑️ The future of AI inside messaging apps
+☑️ Can Europe build a successful super app?
+☑️ Privacy, security, and responsible AI adoption
+☑️ How Viber makes money beyond messaging
+☑️ Leadership lessons from scaling a global platform
+☑️ Rebuilding after losing 40% of the business overnight
+🎙️ Subscribe to The Recursive Podcast for conversations with the founders, investors, and technology leaders shaping the future of innovation across Central and Eastern Europe and beyond.
+ What's Left of a Brand in a Chatbot Answer? 
+ AI can generate logos, colors, taglines, and entire visual identities in seconds. But can it build a brand people actually remember?
+In this episode of The Recursive Roundtable, we explore one of the biggest questions facing founders, marketers, and designers today: what does branding look like in the age of AI?
+Joining us are three branding experts with decades of experience building companies across technology, consumer products, and global markets:
+• Zlatina Petrova — Founder & Creative Director, Brandly
+• Plamen Motev — Creative & Operational Director, Fontfabric
+• Kiril Hadjidinev — Brand Strategist & Marketing Advisor
+The episode is hosted by Etien Yovchev, Co-founder and CGO, The Recursive.
+☑️ Why the strongest brands shape identity, not just recognition
+☑️ How design, typography, and marketing create emotional connection
+☑️ Why AI-generated brands often struggle to build authenticity
+☑️ What happens to local brands in a world shaped by global AI models
+☑️ How founders can preserve cultural identity while building for global markets
+☑️ Whether AI can truly understand local language, heritage, and aesthetics
+☑️ What remains of a brand when customers discover products through AI assistants
+Whether you're building a startup, launching a product, working in marketing, or simply curious about how AI is changing creative work, this conversation offers practical insights into what still requires human judgment, and why great brands are built through relationships, not prompts.
+ See all episodes → 
+ Previous posts 
+ CEE Deals Golbriak Space 
+ Estonia's Golbriak Space Raises €4M to Scale Laser Communications for Satellites 
+ The Tallinn-based spacetech, eight years in the making, raised a €4M seed co-led by Join Capital and PhotonVentures to scale manufacturing of its in-house laser communication terminals for satellites and airborne platforms, already shipping to paying customers.
+ by
+ The Recursive 
+ Guest Articles DEPO Ventures Engaged Investments 
+ EIF's Müller-Marbach: “Investing in European Venture Is a Return Decision, Not a Goodwill Gesture” 
+ A conversation between Petr Šíma, General Partner at DEPO Ventures, and Marcel Müller-Marbach, Senior Regional Representative for Austria, Czech Republic and Slovakia of the European Investment Fund (EIF).
+ by
+ Petr Šíma 
+ report North Macedonia Events 
+ “The Idea-Stage Check Is Gone”: Hard Truths and $1M Win at Skopje’s Startup Revolution AI Summit 
+ The Startup Revolution AI Summit drew 2,000 founders, investors, and policymakers to dissect VC trends, growth strategies, state super apps, and dozens of startup pitches. Here are the notes from the floor.
+ by
+ Ana Marija Kostanic 
+ CEE Deals News 
+ Romanian-founded Siena Raises Over €15M Series A to Build an "Agent of Record" for Consumer Brands 
+ The company builds AI agents that handle support, shopping and social media conversations for consumer brands such as FIGS, SPANX and HexClad.
+ by
+ Yoana Stanislavova 
+ News Slovakia biotech 
+ Slovak Sensible Biotechnologies Secures €42M for Cell-Based mRNA Platform 
+ Slovak-founded Sensible Biotechnologies has secured $47 million to advance its cell-based mRNA platform, scale manufacturing in Europe, and develop new applications across cancer, genetic diseases, and biosecurity.
+ by
+ The Recursive 
+ Feature AI adoption Zagreb 
+ NewsLabs Wants Newsrooms to Ask Why They’re Saving Time With AI 
+ The Zagreb-based newsroom technology company argues that publishers are giving AI the wrong brief when they judge it chiefly by faster output. Its case starts with the work journalists want time to do and the editors who remain responsible for what gets published.
+ by
+ Livia Rusu 
+ Guest Articles Founder's School 
+ Your Domain Isn’t a Priority, Until It Becomes Your Biggest Problem 
+ Founders often treat domain names as an afterthought. But waiting can turn a simple naming decision into a costly problem involving fundraising, rebranding, security, and even ownership. The companies that avoid it have one thing in common: they think about their domain before it becomes urgent.
+ by
+ Tatiana Bonneau 
+ Media partnership Czech Republic DEPO Ventures 
+ Can Europe Build Its Own Critical Tech? Engaged Investments Puts Fintech and Defense Center Stage 
+ The Engaged Investments conference is expanding its format this year, opening the event beyond investors to startup founders and the wider tech ecosystem, while adding dedicated tracks for fintech and defense.
+ by
+ The Recursive 
+ CEE Deals Buntar Aerospace 
+ Ukraine’s Buntar Aerospace Raises €14.3M for Drones Built to Operate Without GPS 
+ Ukrainian defence tech company Buntar Aerospace has raised €14.3M ($16M)in a round led by Freedom Fund and an undisclosed international private equity fund. Its total funding is now $30M, and the money will go toward scaling its Buntar-3 reconnaissance drone and Copilot mission software.
+ by
+ Yoana Stanislavova 
+ Media partnership GITEX event 
+ GITEX AI Expands to Southeast Europe With New Belgrade Event in 2027 
+ GITEX is expanding into Southeast Europe with GITEX AI Belgrade, bringing together 700+ tech companies and startups and 200+ investors as part of EXPO 2027 BELGRADE.
+ by
+ The Recursive 
+ Events Diaspora Bulgaria 
+ From Exporting Talent to Exporting Companies: Can Bulgaria Build the Next Global Unicorn? 
+ For decades, Bulgaria’s international narrative was defined by the talent that left. Today, a new wave of founders and investors is proving that the country can systematically produce businesses capable of scaling globally.
+ by
+ Dilyana Haralanova 
+ Guest Articles M&A Investors 
+ The Silent M&A Wave: When the Next Funding Round Becomes Less Attractive Than a Sale 
+ Falling valuations and investor payout rules are pushing tech founders toward early exits. Instead of raising risky funding rounds, some are choosing quiet sales...
+ by
+ Paul Weinberger 
+ Load more 
+ Newsletter 
+ Get all the latest posts delivered straight to your inbox.
+ Subscribe 
+ Processing your application 
+ Please check your inbox and click the link to confirm your subscription. 
+ There was an error sending the email 
+ Meet the world's next tech leaders before anyone else!
+ Become a subscriber → 
+ Get all the latest posts delivered straight to your inbox. 
+ Social 
+ Facebook 
+ LinkedIn 
+ YouTube 
+ Instagram 
+ Links 
+ Join the Community 
+ Privacy Policy 
+ Join our Viber channel! 
+ © 2026 The Recursive .
+ Cherni Vrah Boulevard 51, Building 4, Sofia, Bulgaria
+ You’ve successfully subscribed to The Recursive
+ Welcome back! You’ve successfully signed in.
+ Great! You’ve successfully signed up.
+ Success! Your email is updated.
+ Your link has expired
+ Success! Check your email for magic link to sign-in.
+ 
