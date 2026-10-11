@@ -22,7 +22,7 @@ Pravidlá zadania platili počas celej štúdie:
 | **4. Pilot: VC fondy v SR** | Skutočný beh na jednej krajine a jednom type s vopred stanovenými kritériami úspechu (KU0 až KU5). Podrobnosti sú pod tabuľkou. | `data/`, `logs/` |
 | **5. Model nákladov** | Prepočet nameranej spotreby z pilotu na celý svet: výpočet, registre, človek, fixné náklady. | plan.md, bod 5 |
 | **Zlepšenie po pripomienke (PC19 Capital)** | Kontrola registrov pred vyradením, návrat 88 vyradených, predtriedenie, plný výskum 31 subjektov, úprava pravidiel G4 a G5. | `scripts/footprint.js`, `g4_rules.js`, `pretriage.js` |
-| **Vyhodnotenie** | Toto README a stránka na ručnú kontrolu ([data/review.html](data/review.html)). | |
+| **Overenie a vyhodnotenie** | Zadávateľ overil všetkých 34 subjektov v databáze z dôkazov, ktoré zozbierali agenti. Výsledok je konečný stav databázy a presnosť algoritmu. | [logs/vysledok.md](logs/vysledok.md), [data/databaza_vysledok.csv](data/databaza_vysledok.csv) |
 
 **Ako bežal pilot (bod 4)**
 
@@ -105,6 +105,7 @@ Po každom bode štúdie som položil otázky Q1 až Q21. Číslo Q18 nebolo pou
 | po očistení | Pushnúť výsledky na GitHub (súkromný repozitár) a pokračovať bodom 5. |
 | ručná kontrola PC19 Capital | Firma existuje, ale verejne neinvestovala. Algoritmus to musí vedieť rozpoznať a doložiť, nielen sa spoliehať na to, že web nič nenašiel. |
 | návrh predtriedenia | Schválené: lacné predtriedenie vrátených subjektov a plný výskum iba pri tých, ktoré sa podobajú na VC. Potom push na GitHub. |
+| overenie (2026-10-11) | Zadávateľ overil všetkých 34 subjektov v databáze. Jeho rozhodnutie je konečné a zarátava sa do výsledku. |
 | kontrolná stránka | Do [data/review.html](data/review.html) pridať záložky „Reálne záznamy“ (iba zaradení) a „Porovnanie“ (zaradení vedľa neistých) so všetkými dôkazmi na ručné overenie. |
 
 **Ďalšie otvorené otázky (vznikli počas behu)**
@@ -114,20 +115,23 @@ Po každom bode štúdie som položil otázky Q1 až Q21. Číslo Q18 nebolo pou
 | – | Šesť nejasností v pravidlách overovania, pri ktorých Overovatelia rozhodovali rôzne: ktorá závierka je „pred investíciou“, verdikt pri investícii mimo okna, úroveň zdroja SIH, citát zložený z výkazu a šablóny RÚZ, prevody v rámci skupiny a úroveň zahraničných registrov. Podrobnosti sú v [logs/run_summary.md](logs/run_summary.md). |
 | – | Úroveň zdroja pri zmluvách v Centrálnom registri zmlúv (B alebo C). Zatiaľ platí C. |
 
-## Výsledok a odporúčanie (stav 2026-10-10)
+## Výsledok a odporúčanie (stav 2026-10-11)
 
 **Odpoveď v skratke**
 
-1. **Dá sa to postaviť a výpočet je lacný.** Pilot (VC fondy v SR) vytvoril 16 záznamov investorov, pri ktorých je každý údaj dohľadateľný k zdroju a doslovnému citátu. Spotreboval 19,2 mil. tokenov, teda asi 77 USD pri referenčnej cene. Pre celý svet vychádza výpočet rádovo na stovky až desaťtisíce USD na vrstvu.
-2. **Či je to spoľahlivé, zatiaľ nevieme.** Ručná kontrola pilotu neprebehla, takže presnosť záznamov (KU1), polí (KU2) ani chybné vyradenia (KU4) nie sú zmerané. Zo šiestich kritérií úspechu je jedno splnené (KU0), jedno nesplnené (KU5) a štyri zatiaľ nevieme rozhodnúť.
+1. **Dá sa to postaviť a výpočet je lacný.** Pilot (VC fondy v SR) z 1 334 kandidátov vytvoril databázu, v ktorej overenie potvrdilo **22 aktívnych investorov** (18 VC, 1 PE, 3 s otvoreným typom). Každý údaj je dohľadateľný k zdroju a doslovnému citátu. Spotreboval 19,2 mil. tokenov, teda asi 77 USD pri referenčnej cene. Pre celý svet vychádza výpočet rádovo na stovky až desaťtisíce USD na vrstvu.
+2. **Spoľahlivosť je dobrá, ale cieľ 95 % zatiaľ nie je potvrdený.** Overenie všetkých 34 subjektov v databáze (2026-10-11) ukázalo, že zo 16 investorov, ktorých algoritmus zaradil, je 14 skutočných aktívnych investorov: **presnosť záznamov 87,5 %** (P95: 64 – 96,5 %). Dva boli falošné: Neulogy Ventures, a. s. je poradenská firma a investuje luxemburský fond; Occam Investments je registrovaný ako EuVECA, ale do cudzej firmy neinvestoval. Na štatistické rozhodnutie o 95 % je vzorka 16 záznamov malá. Chybné vyradenia (KU4) a presnosť polí (KU2) zmerané nie sú.
 3. **Globálne to má zmysel iba čiastočne:**
    - **Áno** pre VC a PE v krajinách, kde regulátor zverejňuje zoznam správcov (USA, EÚ EuVECA, Čína, Japonsko, Singapur, Hongkong, Kórea).
    - **Najvyššia kvalita** je tam, kde register ukazuje spoločníkov firiem: SR, ČR (s.r.o.), čiastočne UK a DE.
    - **Nie, zatiaľ,** pre angelov, family offices a veľkých súkromných investorov. Neexistuje pre nich zoznam kandidátov, ťažko sa dokladá identita a ide o osobné údaje.
-4. **Celkovú cenu neurčuje výpočet, ale ľudská kontrola a dostupnosť registrov.** Ľudskú zložku nevieme vyčísliť, kým nezmeriame čas človeka na záznam.
+4. **Celkovú cenu neurčuje výpočet, ale ľudská kontrola a dostupnosť registrov.**
+   - V SR bol aktívnym investorom asi každý piaty subjekt z regulačného zoznamu (16 zo 71). Zoznam pritom zachytil iba 16 z 22 aktívnych investorov.
+   - Prepočet na 8 globálnych vrstiev: asi 6 300 aktívnych investorov (P95: 4 000 – 9 400) a 8 650 záznamov na ručné overenie, pri výpočte asi 30 000 USD.
+   - Hodiny človeka nevieme vyčísliť, kým nezmeriame čas na záznam (pozri [Škálovanie](#škálovanie-na-globálny-trh-prepočet-z-konečných-výsledkov)).
 5. **AI agentov sa úplne zbaviť nedá, ale väčšinu práce môže robiť kód.** 75 % potvrdených faktov pochádza z registrov a kód ich vie získať zadarmo. Rozhodnúť, čo podiel znamená (vlastná dcéra, prevod v skupine, holding podnikateľa alebo VC), však kód nevie: z 31 subjektov, ktoré pravidlá kódu označili ako podobné VC, výskum potvrdil 2. Odporúčané je hybridné riešenie (pozri [Dá sa AI nahradiť kódom?](#dá-sa-ai-nahradiť-kódom)).
 
-**Odporúčanie:** zatiaľ nestavať celý svet. Najprv prejsť rozhodovacím bodom podľa časti [Ďalšie kroky](#ďalšie-kroky-rozhodovací-bod). Kritérium pre rozšírenie: presnosť záznamov ≥ 95 % (KU1) a zmeraný čas človeka na záznam.
+**Odporúčanie:** zatiaľ nestavať celý svet. Najprv opraviť pravidlá, na ktorých algoritmus pri overení zlyhal, a prejsť rozhodovacím bodom podľa časti [Ďalšie kroky](#ďalšie-kroky-rozhodovací-bod). Kritérium pre rozšírenie: presnosť záznamov ≥ 95 % (KU1) na väčšej vzorke a zmeraný čas človeka na záznam.
 
 ### Výsledok pilotu: VC fondy registrované v SR
 
@@ -141,29 +145,70 @@ Po každom bode štúdie som položil otázky Q1 až Q21. Číslo Q18 nebolo pou
 | Rýchly skríning (web, 2–4 dopyty) | 608 | do plného výskumu postúpilo 14 (2,3 %) |
 | Kontrola registrov pred vyradením (ORSR, RÚZ) | 602 | 88 vyradených vrátila na výskum; po predtriedení išlo na plný výskum 31 |
 | Plný výskum a nezávislé overenie | 66 | 35 v prvom kole, 31 po kontrole registrov |
-| **V databáze** | **34** | 16 zaradených, 10 s nerozhodnutým typom, 8 neistých |
+| V databáze po algoritme | 34 | 16 zaradených, 10 s nerozhodnutým typom, 8 neistých |
+| Overenie všetkých 34 (2026-10-11) | 34 | rozhodnutie overenia je konečné ([data/databaza_vysledok.csv](data/databaza_vysledok.csv)) |
+| **Aktívni investori** | **22** | 18 VC, 1 PE, 3 s otvoreným typom |
+| Nie sú investori alebo neinvestujú | 7 | 2 iný typ, 5 bez investície v okne |
+| Nedá sa overiť z verejných zdrojov | 5 | registre ukazujú podiely, ale nie ich cieľ, alebo je dôkaz iba vlastné tvrdenie |
 | Vyradení so zdôvodnením | 1 296 | `data/vyradene.csv`, pri každom dôvod a kľúčový dôkaz |
 
-**Zaradení (16):**
+**Konečný výsledok po overení** (zdroj: [logs/vysledok.md](logs/vysledok.md), skript `scripts/vysledok.js`)
 
-| Podtyp | Počet |
+| Stav | Počet | Subjekty |
+|---|---|---|
+| **Aktívny investor, VC** | **18** | CB Investment Management, CB Growth ONE, CB ESPRI, CB ESPRI Impact One, Vision Ventures, Vision Ventures Growth I, Zero Gravity Capital, ZGC Fund I, Sociálni Inovátori Impact Capital, SIIC Fund, Impact Ventures, G-Force, Venture to Future Fund, Eterus Capital, IPM Avanea Eco, 365.fintech (korporátne VC), Slovak Investment Holding a National Development Fund II (štátne) |
+| **Aktívny investor, PE** | **1** | ZEPHYR AIF |
+| **Aktívny investor, typ otvorený** | **3** | Ethernum Capital (VC alebo PE), SEOF (VC alebo PE), Avialytica Fund (VC alebo angel) |
+| Iný typ | 2 | Neulogy Ventures, a. s. (poradenstvo), Hilberman Capital (dlhopisy a úvery) |
+| Neinvestuje | 5 | Occam Investments, CEE Capital Management, Limerock Investment Holding, Monopoly Ventures, APZ Ventures |
+| Nedá sa overiť | 5 | Fond inovácií a technológií, Icon Group, Atlas Capital III, V a VI |
+
+**Presnosť algoritmu voči overeniu**
+
+| Meranie | Výsledok |
 |---|---|
-| VC | 13 |
-| štátny fond | 2 |
-| korporátne VC | 1 |
+| Zaradení algoritmom, ktorí sú aktívni investori (KU1) | **14/16 = 87,5 %** (P90: 68,4 – 95,8 %, P95: 64,0 – 96,5 %, P98: 58,9 – 97,2 %) |
+| Správny typ medzi správne zaradenými (M3) | 12/14 = 85,7 % |
+| Algoritmus nechal typ otvorený | 10, z toho 8 aktívnych investorov (pri 7 sa typ pri overení určil) a 2 neinvestujú |
+| Algoritmus označil ako neistých | 8, z toho 5 sa nedá overiť a 3 nie sú investori |
+| Celková zhoda algoritmu s overením (investor áno alebo nie aj typ) | 21/34 |
 
-V `data/investors.json` je 67 investícií. Každý údaj je naviazaný na potvrdené tvrdenie: 741 tvrdení, 327 hodnôt.
+Algoritmus teda pri zaradení pomýlil iba 2 subjekty, ale pri type bol príliš opatrný: 7 z 10 nerozhodnutých typov sa pri overení dalo určiť.
+
+**Kde sa algoritmus s overením nezhodol** (13 z 34 subjektov, podrobne v [logs/vysledok.md](logs/vysledok.md))
+
+| Druh chyby | Počet | Subjekty | Dá sa opraviť pravidlom v kóde? |
+|---|---|---|---|
+| Typ nechal otvorený, hoci sa dal určiť | 7 | Zero Gravity Capital, ZGC Fund I, Sociálni Inovátori Impact Capital, SIIC Fund, CB ESPRI Impact One, IPM Avanea Eco (VC); ZEPHYR AIF (PE) | čiastočne: správca by mal prevziať typ fondu, ktorý spravuje (väzba je v registri NBS); zrelosť cieľových firiem z dátumu vzniku v RPO |
+| Označil za aktívneho, ale neinvestuje | 3 | Occam Investments (EuVECA, jediný podiel je vehikel vlastného fondu); CEE Capital Management (v okne iba dokúpenie podielu v existujúcej firme); Limerock (fond v likvidácii, investície 2015 – 2016, nový vstup v roku 2026 nie je investícia fondu) | áno: regulačné označenie neurčuje aktivitu; dokúpenie podielu nie je nový vstup |
+| Zamenil investora | 1 | Neulogy Ventures, a. s. (poradca; investuje luxemburský fond) | čiastočne: ak register cieľovej firmy ukazuje iného spoločníka, investícia nepatrí skúmanému subjektu |
+| Určil typ, ktorý overenie nechalo otvorený | 2 | Ethernum Capital (VC alebo PE), Avialytica Fund (VC alebo angel) | nie, rozhoduje ďalší dôkaz |
+
+**Čo dopadlo dobre:**
+- Ak sa „typ nerozhodnutý“ ráta ako aktívny investor, algoritmus označil za aktívnych 26 subjektov. Overenie potvrdilo 22, teda **84,6 %** (P95: 66,5 – 93,9 %).
+- Medzi 8 subjektmi, ktoré algoritmus nechal ako neisté, **nebol ani jeden aktívny investor**. Všetkých 22 skutočných investorov bolo medzi zaradenými alebo s nerozhodnutým typom.
+- Chyby sa teda týkali hlavne typu a toho, či je investor ešte aktívny. Neisté záznamy neskrývali skutočných investorov.
+
+**Opakovaný beh (2026-10-11).** Celý skriptový reťazec sme spustili znova nad uloženými dôkazmi: klasifikátor (G1 až G5), kontrolu dohľadateľnosti, metriky a výsledok overenia.
+- Pre všetkých 34 subjektov vyšlo presne to isté rozhodnutie, typ, príznaky aj dátum poslednej investície. Rovnaké ostali aj investície v `investors.json`.
+- Dohľadateľnosť je znova 100 %: 327/327 hodnôt a 741/741 tvrdení.
+- Agentov (Scout, Výskumník, Overovateľ) sme znova nespúšťali. Výsledok by sa tým nezlepšil, iba by sa minuli tokeny a dôkazy by sa zmenili.
+- Súhrn chýb agentov (`logs/agent_errors.md`) sa už znova vygenerovať nedá, lebo pri očistení sa zmazali overenia vyradených subjektov. Ostáva verzia z pôvodného behu.
+
+**Ako sa overovalo:** overenie urobil zadávateľ nad všetkými 34 subjektmi v databáze z dôkazov, ktoré zozbierali agenti (URL, citát, kópia zdroja). Nebola to slepá kontrola náhodnej vzorky podľa plan.md 4.5. Neoveruje teda, či agenti nejakú investíciu neprehliadli, ani 1 296 vyradených subjektov.
+
+V `data/investors.json` (výstup algoritmu) je 67 investícií a každý údaj je naviazaný na potvrdené tvrdenie: 741 tvrdení, 327 hodnôt.
 
 **Kritériá úspechu** (plan.md 4.10, zdroj: [logs/metrics.md](logs/metrics.md))
 
 | Kritérium | Hranica | Výsledok |
 |---|---|---|
 | KU0 dohľadateľnosť | 100 % | **splnené**: 327/327 hodnôt, 741/741 tvrdení |
-| KU1 presnosť záznamov | ≥ 95 % | **nezmerané**, čaká na ručnú kontrolu (169 záznamov) |
-| KU2 presnosť polí | ≥ 90 % | **nezmerané**, čaká na ručnú kontrolu (109 tvrdení) |
-| KU3 pokrytie holdoutu (EIF, SLOVCA) | ≥ 80 % | 4/4 subjekty v rozsahu nájdené a zaradené. Pri n = 4 sa to štatisticky nedá rozhodnúť (P95: 51–100 %). |
-| KU4 chybné vyradenia | ≤ 10 % | **nezmerané**, čaká na ručnú kontrolu |
-| KU5 podiel neistých (plne skúmaní) | ≤ 25 % | **nesplnené**: 18/41 = 43,9 % |
+| KU1 presnosť záznamov | ≥ 95 % | 14/16 = **87,5 %**. Bodový odhad je pod hranicou, štatisticky **nerozhodnuteľné** pri n = 16 (P95: 64 – 96,5 %). |
+| KU2 presnosť polí | ≥ 90 % | **nezmerané** (tvrdenia sa ručne neoverovali) |
+| KU3 pokrytie holdoutu (EIF, SLOVCA) | ≥ 80 % | 3/3 subjekty potvrdené overením sú v databáze (Neulogy podľa overenia nie je investor). Pri n = 3 sa to štatisticky nedá rozhodnúť. |
+| KU4 chybné vyradenia | ≤ 10 % | **nezmerané** (vyradení sa neoverovali) |
+| KU5 podiel neistých (plne skúmaní) | ≤ 25 % | **nesplnené**: 18/41 = 43,9 % pred overením. Po overení ostáva otvorených 8 z 34 (5 neoveriteľných a 3 s otvoreným typom). |
 
 **Čo pilot zistil o kvalite**
 
@@ -174,7 +219,11 @@ V `data/investors.json` je 67 investícií. Každý údaj je naviazaný na potvr
   - Ostatní boli väčšinou holdingy podnikateľov.
 - **Automatické overenie zachytí veľa chýb, ale nie všetky.**
   - Overovateľ zamietol 14 % tvrdení v prvom kole a 10 % v druhom. Najčastejšie išlo o nesprávnu úroveň zdroja.
-  - Chyby v type investora sa však našli až pri zmene pravidiel, bez človeka. Fund Rating a IPM Avanea Eco Management boli zaradení ako VC, hoci majú kontrolné podiely (PE). Avialytica Fund je pravdepodobne vehikel angela.
+  - Chyby v type investora sa však našli až pri zmene pravidiel, bez človeka. Fund Rating a IPM Avanea Eco Management boli zaradení ako VC, hoci majú kontrolné podiely (PE).
+- **Overenie odhalilo tri slabé miesta pravidiel:**
+  - **Regulačné označenie prebije chýbajúcu investíciu.** Occam je EuVECA, a preto ho algoritmus zaradil ako VC, hoci jediný podiel je vo vehikli vlastného fondu.
+  - **Slovenská firma sa zamieňa so zahraničným fondom, ktorý investuje.** Neulogy Ventures, a. s. je poradca luxemburského fondu. Investíciu (MultiplexDX) drží fond, nie slovenská firma.
+  - **Dokúpenie podielu a zmena adresy spoločníka vyzerajú v RPO ako nový vstup.** Pri CEE Capital je jediná „investícia“ v okne dokúpenie zvyšných 30 % existujúcej firmy. Overenie ju nerátalo ako novú investíciu.
 - **Pravidlá ešte nie sú stabilné.**
   - Za jeden deň sa pravidlá G4 a G5 upravili sedemkrát.
   - Overovatelia rozhodovali nejednotne v šiestich bodoch, zoznam je v [logs/run_summary.md](logs/run_summary.md).
@@ -202,6 +251,7 @@ Cena podľa [cenníka Anthropic](https://platform.claude.com/docs/en/about-claud
 | celý pilot | 19,2 M | 3,8 $ | **77 $** | 385 $ |
 | na zaradený záznam (16) | 1,20 M | 0,24 $ | **4,8 $** | 24 $ |
 | na záznam v databáze (34) | 0,57 M | 0,11 $ | **2,3 $** | 11 $ |
+| na overeného aktívneho investora (22) | 0,87 M | 0,17 $ | **3,5 $** | 17 $ |
 
 **Čas**
 - Hlavná fáza pilotu (asi 30 plných výskumov s overením) trvala asi 45 minút. Bežalo pri nej 20 agentov súčasne.
@@ -209,7 +259,58 @@ Cena podľa [cenníka Anthropic](https://platform.claude.com/docs/en/about-claud
 - Kontrola registrov skriptom trvala asi 35 minút.
 - Medián plného výskumu jedného subjektu bol 12,5 min v prvom kole a 7 min v druhom.
 
-**Človek:** zatiaľ 0 hodín, lebo ručná kontrola neprebehla. Je to najväčšia nezmeraná položka.
+**Človek:**
+- Overenie všetkých 34 subjektov v databáze prebehlo (2026-10-11).
+- Čas na záznam sa však nezapísal (stĺpec `human_minutes` je prázdny), preto M6 ostáva nezmerané.
+- Je to stále najväčšia nezmeraná položka nákladov.
+
+### Škálovanie na globálny trh (prepočet z konečných výsledkov)
+
+Globálny zber začína pri štátnych zoznamoch správcov fondov. Pilot ukázal, ako dopadne takýto zoznam v SR: v registri NBS je 71 slovenských subjektov s registráciou správcu AIF, AIF alebo EuVECA. Všetkých 71 bolo medzi kandidátmi a výsledok overenia je:
+
+| Výsledok | Zo 71 v zozname NBS | Podiel (P95) |
+|---|---|---|
+| Aktívny investor (VC alebo PE), potvrdený overením | 16 | **22,5 %** (14,4 – 33,5 %) |
+| V databáze, teda na ručné overenie | 22 | **31,0 %** (21,4 – 42,5 %) |
+| Vyradení so zdôvodnením (bez investícií, neaktívni, iný typ, zaniknutí) | 49 | 69,0 % |
+
+Pre globálny zber z toho plynú tri veci:
+- **Zoznam je dobrý začiatok, ale nie hotová databáza.** Iba asi každý štvrtý až piaty registrovaný subjekt je aktívny investor do firiem. Ostatné sú fondy nehnuteľností, uzavreté fondy, vehikly alebo správcovia bez investícií v okne.
+- **Zoznam nepokryje všetkých investorov.** Zo 22 aktívnych investorov bolo v zozname NBS iba 16, teda 72,7 % (P95: 51,8 – 86,8 %). Mimo neho ostali štátne fondy (SIH, NDF II), korporátne VC (365.fintech) a neregistrovaní investori (Eterus, Impact Ventures, Avialytica). Na nich treba Scouta, ktorý číta články a weby, a to robí AI.
+- **Ručné rozhodnutie potrebuje asi 1,5 záznamu na jedného aktívneho investora** (34 záznamov v databáze na 22 investorov).
+
+**Prepočet na 8 vrstiev so zoznamom správcov (27 923 kandidátov, plan.md 5.4)**
+
+Platí to iba vtedy, ak by výťažnosť zoznamov bola ako v SR:
+
+| Vrstva | Kandidáti | Očakávaní aktívni investori (P95) | Záznamy na ručné overenie | Hodiny pri 5 – 15 – 30 min na záznam | Výpočet, referencia USD |
+|---|---|---|---|---|---|
+| VC USA (SEC) | 3 273 | 738 (471 – 1 096) | 1 014 | 85 – 254 – 507 | 3 472 |
+| PE USA (SEC) | 4 603 | 1 037 (663 – 1 542) | 1 426 | 119 – 357 – 713 | 4 882 |
+| VC EÚ (EuVECA) | 447 | 101 (64 – 150) | 139 | 12 – 35 – 69 | 474 |
+| VC + PE Čína (AMAC) | 11 087 | 2 498 (1 597 – 3 714) | 3 435 | 286 – 859 – 1 718 | 11 759 |
+| VC + PE Japonsko (FSA) | 4 589 | 1 034 (661 – 1 537) | 1 422 | 118 – 355 – 711 | 4 867 |
+| správcovia Singapur (MAS) | 1 320 | 297 (190 – 442) | 409 | 34 – 102 – 205 | 1 400 |
+| správcovia Hongkong (SFC) | 2 358 | 531 (340 – 790) | 731 | 61 – 183 – 365 | 2 501 |
+| VC Kórea | 246 | 55 (35 – 82) | 76 | 6 – 19 – 38 | 261 |
+| **Spolu** | **27 923** | **6 293** (4 021 – 9 354) | **8 652** | **721 – 2 163 – 4 326** | **29 616** |
+
+Pri referenčnej cene to dáva **asi 4,7 USD výpočtu na jedného aktívneho investora** (v pilote 3,5 USD). K tomu treba pripočítať:
+- poplatky registrov (Singapur, Hongkong),
+- napojenie na registre,
+- kontrolnú vzorku vyradených (KU4, 97 záznamov na vrstvu),
+- Scouta pre investorov mimo zoznamov.
+
+**Prečo je to iba scenár, nie odhad:**
+- **Výťažnosť sa medzi zoznamami líši.** Zoznam SEC „venture capital fund adviser“ je užší ako slovenský register AIF, výťažnosť tam bude pravdepodobne vyššia. Čínsky AMAC (VC a PE spolu, 11 087) je širší, tam bude nižšia. Zmerajú to kalibračné vzorky K1 a K2.
+- **Presnosť bude mimo SR nižšia.** V SR 75 % faktov pochádza z registra spoločníkov. V USA, Japonsku a Číne bude dôkaz investície väčšinou iba z médií (úroveň B). Presnosť 87,5 % zo SR sa tam prenášať nedá.
+- **Čas človeka na záznam nie je zmeraný.** Preto sú v tabuľke tri scenáre.
+- **Pri slovenskom pilote je n malé**, pozri intervaly P95.
+
+**Záver pre globálny trh:** výpočet AI je pri globálnom rozsahu malá položka (asi 30 000 USD pri referenčnej cene). O realizovateľnosti rozhodnú tri veci:
+1. **Ľudské overenie:** tisíce hodín, kým algoritmus nedosiahne presnosť, pri ktorej stačí kontrolovať iba vzorku.
+2. **Dostupnosť registrov spoločníkov:** mimo SR, ČR a UK je dôkaz investície slabší.
+3. **Pokrytie investorov mimo regulačných zoznamov:** v SR to bola štvrtina.
 
 ### Aký okruh investorov sa dá získať z verejných zdrojov
 
@@ -250,7 +351,7 @@ Náklady majú štyri zložky. Merané alebo zo zdroja sú iba výpočet a popla
 | **Výpočet (AI agenti)** | meranie z pilotu: plný výskum a overenie stojí 0,23 – 0,27 mil. tokenov na subjekt, teda asi 1 USD pri referenčnej cene | 8 vrstiev so zoznamom správcov (27 923 kandidátov, plan.md 5.4): plný výskum všetkých **1 481 – 148 084 USD, referencia 29 616 USD**; skríning a výskum iba postupujúcich, referencia 1 034 USD |
 | **Registre** | cenníky registrov (plan.md 3.11) | SR, ČR, UK, USA zadarmo; pri plnom výskume Singapur asi **32 670 SGD**, Hongkong **169 776 – 244 053 HKD**; Izrael, India, Japonsko a Austrália za poplatok, súčet nevyčíslený |
 | **Kód: napojenie na registre** | pre SR vznikol skript počas pilotu (spustenie zadarmo, 35 min pre 602 subjektov) | jednorazová práca pre každý register, **nevyčíslená**; pri blokovaných registroch (IL, IN, CN) ide navyše o právne posúdenie alebo ručný zber |
-| **Človek** | štatistická kontrolná vzorka: 97 záznamov na vrstvu, až 200 vrstiev, teda až **19 400 záznamov**; k tomu ručné rozhodnutie neistých prípadov (v pilote 18 z 34 záznamov v databáze, teda 53 %) | pri 5, 15 alebo 30 min na záznam iba samotná vzorka **1 617, 4 850 alebo 9 700 hodín** (scenáre, nie odhad); hodinová sadzba nie je stanovená (otázka Q19) |
+| **Človek** | štatistická kontrolná vzorka: 97 záznamov na vrstvu, až 200 vrstiev, teda až **19 400 záznamov**; k tomu ručné rozhodnutie neistých prípadov (v pilote 18 z 34 záznamov v databáze, teda 53 %) | pri 5, 15 alebo 30 min na záznam iba samotná vzorka **1 617, 4 850 alebo 9 700 hodín** (scenáre, nie odhad). Overenie všetkých záznamov v databáze ako v pilote pre 8 vrstiev so zoznamom správcov: 8 652 záznamov, teda **721 – 2 163 – 4 326 hodín** (pozri [Škálovanie](#škálovanie-na-globálny-trh-prepočet-z-konečných-výsledkov)). Hodinová sadzba nie je stanovená (otázka Q19) |
 | **Fixné** | právne posúdenie (GDPR, podmienky registrov), prevádzka | **nevyčíslené** |
 
 **Záver k nákladom**
@@ -300,10 +401,11 @@ Porovnanie s komerčnými databázami (PitchBook, Crunchbase, Dealroom) sme nero
 
 ### Ďalšie kroky (rozhodovací bod)
 
-1. **Ručná kontrola pilotu.** Treba vyplniť [data/review.html](data/review.html): slepá kontrola vzorky (169 záznamov a 109 tvrdení) a potom overenie všetkých 34 subjektov v databáze v záložkách „Reálne záznamy“ a „Porovnanie“. Až tým sa zmerajú KU1, KU2, KU4 a čas človeka na záznam (M6). Bez toho sa nedá rozhodnúť.
-2. **Zjednotiť šesť nejasných pravidiel overovania** (logs/run_summary.md, „Otvorené otázky“). Patrí sem napríklad závierka „pred investíciou“, verdikt pri investícii mimo okna aktivity a úroveň zdroja SIH.
-3. **Kalibračné vzorky K1 (VC USA), K2 (PE USA) a K6 (VC ČR)** (plan.md 5.6). Zmerajú lievik pri regulačných zoznamoch a presnosť tam, kde chýba register spoločníkov.
-4. **Rozhodnutie:** rozšíriť na ďalšie krajiny iba vtedy, ak KU1 ≥ 95 % a známy čas človeka na záznam dá rozpočet, ktorý dáva zmysel.
+1. **Opraviť tri pravidlá, ktoré overenie odhalilo** (regulačné označenie bez investície, zahraničný fond spravovaný slovenským poradcom, dokúpenie podielu). Potom pilot prepočítať.
+2. **Doplniť meranie, ktoré chýba:** chybné vyradenia (KU4) a presnosť polí (KU2) zo slepej vzorky v [data/review.html](data/review.html) a čas človeka na záznam (M6). Pri overení 34 subjektov sa čas nezapísal. Stačí ho pri ďalšej kontrole vyplniť v stĺpci „minúty“.
+3. **Zjednotiť šesť nejasných pravidiel overovania** (logs/run_summary.md, „Otvorené otázky“). Patrí sem napríklad závierka „pred investíciou“, verdikt pri investícii mimo okna aktivity a úroveň zdroja SIH.
+4. **Kalibračné vzorky K1 (VC USA), K2 (PE USA) a K6 (VC ČR)** (plan.md 5.6). Zmerajú lievik pri regulačných zoznamoch a presnosť tam, kde chýba register spoločníkov.
+5. **Rozhodnutie:** rozšíriť na ďalšie krajiny iba vtedy, ak KU1 ≥ 95 % na väčšej vzorke a známy čas človeka na záznam dá rozpočet, ktorý dáva zmysel.
 
 ## Štruktúra
 
@@ -311,7 +413,7 @@ Porovnanie s komerčnými databázami (PitchBook, Crunchbase, Dealroom) sme nero
 |---|---|
 | `plan.md` | plán štúdie (body 1–5) |
 | `prompts/pilot-prompt.md` | zadanie pilotu: VC fondy registrované v SR |
-| `data/` | výstupy pilotu: `investors.json` (zaradení), `decisions.csv`, `claims.csv`, `vyradene.csv` (zoznam vyradených s dôvodom), `orsr_podiely.csv` a `footprint.csv` (podiely z ORSR a finančný majetok z RÚZ) |
+| `data/` | výstupy pilotu: `investors.json` (zaradení), `decisions.csv`, `claims.csv`, `vyradene.csv` (zoznam vyradených s dôvodom), `orsr_podiely.csv` a `footprint.csv` (podiely z ORSR a finančný majetok z RÚZ), `review_db_filled.csv` (overenie 34 subjektov) a `databaza_vysledok.csv` (konečný stav) |
 | `raw/` | kópie otvorených zdrojov (dôkazy) ponechaných subjektov |
 | `logs/` | súhrn behu, spotreba, log chýb, metriky |
 | `scripts/` | skripty pilotu, napríklad `footprint.js` (ORSR, RÚZ), `g4_rules.js`, `pretriage.js`, `classify.js`, `metrics.js` |

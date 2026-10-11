@@ -1,0 +1,35 @@
+ico,nazov,konecny_stav,konecny_typ,poznamka,algoritmus_status,algoritmus_typ,algoritmus_podtyp,zhoda
+52524531,CB Investment Management s. r. o.,aktivny_investor,VC,správca CB Growth ONE; hraničné pre prevzatie 100 % E.bot,zaradeny,VC,VC,áno
+52568288,"Vision Ventures, s.r.o.",aktivny_investor,VC,správca VV Growth I,zaradeny,VC,VC,áno
+52651894,Zero Gravity Capital s.r.o.,aktivny_investor,VC,správca ZGC Fund I,typ_nerozhodnuty,typ_nerozhodnuty,,nie
+47367610,"Neulogy Ventures, a. s.",iny_typ,,"poradenstvo; investuje luxemburský fond, nie SK firma",zaradeny,VC,VC,nie
+54486343,CB ESPRI s. r. o.,aktivny_investor,VC,správca CB ESPRI Impact One,zaradeny,VC,VC,áno
+54184339,"Sociálni Inovátori Impact Capital, s.r.o.",aktivny_investor,VC,správca SIIC Fund,typ_nerozhodnuty,typ_nerozhodnuty,,nie
+50491211,"CEE Capital Management, a. s.",neinvestuje,,"posledné investície 06/2023, fond v divestícii",typ_nerozhodnuty,typ_nerozhodnuty,,nie
+47759097,"Slovak Investment Holding, a. s.",aktivny_investor,VC,štátny; investície cez NDF II,zaradeny,VC,statny_fond,áno
+53527798,"G-Force, s. r. o.",aktivny_investor,VC,registrovaný EuVECA,zaradeny,VC,VC,áno
+55387845,Occam Investments s. r. o.,neinvestuje,,"EuVECA, ale žiadna investícia do cudzej firmy",zaradeny,VC,VC,nie
+52380483,"Venture to Future Fund, a.s.",aktivny_investor,VC,"verejný kapitál (EIB, MF SR)",zaradeny,VC,VC,áno
+54546702,CB ESPRI Impact One s. r. o.,aktivny_investor,VC,,typ_nerozhodnuty,typ_nerozhodnuty,,nie
+52656136,CB Growth ONE s. r. o.,aktivny_investor,VC,hraničné (E.bot),zaradeny,VC,VC,áno
+55356907,Ethernum Capital s. r. o.,aktivny_investor,typ_nerozhodnuty,VC alebo PE; 50 % v Dr. Martin holding,zaradeny,VC,VC,nie
+52261948,IPM Avanea Eco s.r.o.,aktivny_investor,VC,formálne; projektové SPV v odpadoch,typ_nerozhodnuty,typ_nerozhodnuty,,nie
+52656438,"Vision Ventures Growth I, s. r. o.",aktivny_investor,VC,,zaradeny,VC,VC,áno
+52768058,"ZGC Fund I., s.r.o.",aktivny_investor,VC,,typ_nerozhodnuty,typ_nerozhodnuty,,nie
+47051981,"Fond inovácií a technológií, a.s.",neoveritelne,,dôkazy iba z vlastných poznámok; ukazujú na VC,neiste,,,áno
+44193025,"Eterus Capital, a. s.",aktivny_investor,VC,formálne; sám sa označuje za PE,zaradeny,VC,VC,áno
+47759224,"National Development Fund II., a.s.",aktivny_investor,VC,štátny,zaradeny,VC,statny_fond,áno
+51301547,"365.fintech, a.s.",aktivny_investor,VC,korporátne (365.bank),zaradeny,VC,korporatne_VC,áno
+47777028,"Limerock Investment Holding, s.r.o.",neinvestuje,,"fond v likvidácii, investície 2015–2016",typ_nerozhodnuty,typ_nerozhodnuty,,nie
+53602650,"Hilberman Capital, s.r.o.",iny_typ,,dlhopisy a privátne úvery,neiste,,,áno
+44663706,"Icon Group, s. r. o.",neoveritelne,,vo vstupe žiadny fakt o investíciách fondu,neiste,,,áno
+54544378,"SIIC Fund, s.r.o.",aktivny_investor,VC,,typ_nerozhodnuty,typ_nerozhodnuty,,nie
+52163920,Slovenský Energetický a Odpadový Fond s.r.o. (skrátený názov SEOF s.r.o.),aktivny_investor,typ_nerozhodnuty,PE alebo VC; 70 % v novej SPV RENERGO,typ_nerozhodnuty,typ_nerozhodnuty,,áno
+51145979,ZEPHYR AIF a. s.,aktivny_investor,PE,100 % podiely v českých firmách,typ_nerozhodnuty,typ_nerozhodnuty,,nie
+47166479,Monopoly Ventures s. r. o.,neinvestuje,,posledná investícia 06/2023,neiste,,,áno
+53328094,"APZ Ventures, s. r. o.",neinvestuje,,iba holding vlastnej firmy,neiste,,,áno
+55927033,"Impact Ventures, s. r. o.",aktivny_investor,VC,,zaradeny,VC,VC,áno
+54497426,Atlas Capital III s. r. o.,neoveritelne,,"drží podiely, cieľ neznámy",neiste,,,áno
+55183310,Atlas Capital V s. r. o.,neoveritelne,,"drží podiely, cieľ neznámy",neiste,,,áno
+56400012,Atlas Capital VI s. r. o.,neoveritelne,,"drží podiely, cieľ neznámy",neiste,,,áno
+56494904,Avialytica Fund s. r. o.,aktivny_investor,typ_nerozhodnuty,VC alebo angel; vlastník neznámy,zaradeny,VC,VC,nie

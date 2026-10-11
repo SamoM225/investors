@@ -214,3 +214,18 @@ Pri obnove registrových tvrdení 31 subjektov zo zálohy zlyhal výber súborov
 - Znova som urobil úpravy, ktoré záloha prepísala: skripty, kľúč a vzorku ručnej kontroly a formulár.
 
 Výsledky z registrov, nové skripty, plan.md a `vyradene.csv` neboli dotknuté.
+
+## Overenie všetkých 34 subjektov v databáze (2026-10-11)
+
+Zadávateľ overil všetkých 34 subjektov z dôkazov, ktoré zozbierali agenti. Rozhodnutia sú v `data/review_db_filled.csv` a výpočet v `scripts/vysledok.js`. Konečný stav je v `data/databaza_vysledok.csv` a súhrn v `logs/vysledok.md`.
+
+- **Výsledok:** 22 aktívnych investorov (18 VC, 1 PE, 3 s otvoreným typom), 2 iný typ, 5 neinvestuje, 5 sa nedá overiť.
+- **KU1:** 14 zo 16 zaradených algoritmom sú aktívni investori, teda 87,5 % (P95: 64,0 – 96,5 %), štatisticky nerozhodnuteľné.
+  - Neulogy Ventures, a. s. je poradca luxemburského fondu.
+  - Occam Investments je EuVECA bez investície do cudzej firmy.
+- **M3 (presnosť typu):** 12/14. Z 10 nerozhodnutých typov sa pri overení 7 dalo určiť.
+- **Slabé miesta pravidiel:**
+  - regulačné označenie prebije chýbajúcu investíciu,
+  - zámena slovenskej firmy so zahraničným fondom,
+  - dokúpenie podielu alebo zmena adresy spoločníka v RPO vyzerá ako nový vstup (CEE Capital, CEMTOP Invest 2025-04-11).
+- **Obmedzenie:** nejde o slepú kontrolu vzorky. KU2 a KU4 ostávajú nezmerané.
